@@ -1,4 +1,4 @@
-# Communication Techniques (Jordan Peterson Lecture Analysis)
+# Communication Techniques (Jordan Peterson Lecture Analysis) 
 
 1. Gestures - Movements, generally with the use of hands and/or body, used to communicate
 	* Illustrative - Gestures that on their own do not mean anything, but have meaning when associated with words or phrases (e.g. waving hands, open/close palm movements, waving/trickling fingers).
