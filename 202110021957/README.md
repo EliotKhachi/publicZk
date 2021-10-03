@@ -1,4 +1,4 @@
-# A Model-Based Enterprise Assessment of Various Design Activities 
+# A Model-Based Enterprise Assessment of Various Design Activities  
 
 The Model-Based Enterprise (MBE) Self-Assessment tool is outlined by the National Institute of Standards and Technology, or NIST. The NIST assessment tool divides MBE readiness into 6 levels. {}
 
