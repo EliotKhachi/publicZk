@@ -1,4 +1,4 @@
-# Configuration Management and Document Management
+# Configuration Management and Document Management 
 
 ## Definitions
 **Configuration Management (CM)** - Controls different configurations of a product design.
