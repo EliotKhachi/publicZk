@@ -1,4 +1,4 @@
-# Four Benefits of Developing a Reference Architecture
+# Four Benefits of Developing a Reference Architecture 
 
 ## Definition
 A Reference Architecture is a high fidelity representation used to develop a technology. Regardless of the exact technology or purpose thereof, a reference architecture is abstracted from the common requirements, physical architectures, and functions of related technologies.
