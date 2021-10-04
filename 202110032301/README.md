@@ -1,4 +1,4 @@
-# The Relationship Between the 3D Model and the Systems Engineer
+# The Relationship Between the 3D Model and the Systems Engineer 
 
 The model is a tool that helps systems engineers...
 * Concisely characterize a system design
