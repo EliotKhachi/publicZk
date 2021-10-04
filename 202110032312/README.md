@@ -1,4 +1,4 @@
-# Interesting Personalities are Ordinary With Some Nuance
+# Interesting Personalities are Ordinary With Some Nuance 
 
 What makes personalities interesting aren't their particular type, but rather their degree of potency and nuance.
 
