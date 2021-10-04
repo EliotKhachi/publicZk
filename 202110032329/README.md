@@ -1,4 +1,4 @@
-# The Purpose & Benefits of a Technical Data Pack (TDP)
+# The Purpose & Benefits of a Technical Data Pack (TDP) 
 
 **Purpose:** To effectively communicate the annotated product model to all levels of the supply chain.
 
