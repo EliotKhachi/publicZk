@@ -1,4 +1,4 @@
-# Decomposing a System
+# Decomposing a System 
 
 Complex systems can seemingly be broken down infinitely, so when do we stop?
 
