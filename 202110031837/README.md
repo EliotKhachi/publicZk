@@ -1,4 +1,4 @@
-# Rule #3: Quit Social Media
+# Rule #3: Quit Social Media 
 
 Why should we abandon network tools such as Facebook or Instagram when they provide some benefit in our lives?
 
