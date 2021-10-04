@@ -1,4 +1,4 @@
-# Business Impacts of MBSE
+# Business Impacts of MBSE 
 
 * Moves authority from paper-based documents to digitally-based.
 * Shifts to a data singularity to help design team collaborate and communicate on a single platform
