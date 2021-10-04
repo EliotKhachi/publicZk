@@ -1,4 +1,4 @@
-# Rule #2: Embrace Boredom
+# Rule #2: Embrace Boredom 
 
 The key purpose of this rule is to heighten your limit for deep work by training to
 1. Improve your ability to concentrate
