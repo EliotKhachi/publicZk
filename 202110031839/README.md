@@ -1,4 +1,4 @@
-# The Pareto Distribution / 80-20 Rule
+# The Pareto Distribution / 80-20 Rule 
 
 This is a power law probability distribution that is found in all kinds of pools of data ranging from natural phenomena to human activities.
 
