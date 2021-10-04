@@ -1,4 +1,4 @@
-# System Boundaries
+# System Boundaries 
 
 A boundary defines the scope of a system, creating a distinction between it and the environment or context in which it exists.
 
