@@ -1,4 +1,4 @@
-# Steps to Implementing a Model-Based Enterprise
+# Steps to Implementing a Model-Based Enterprise 
 
 * Begin by defining your purpose for implementing a Model-Based approach
 * Use a CAD tool and implement it into a 3D Technical Data Package ().
