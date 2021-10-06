@@ -1,4 +1,4 @@
-# Characteristics of a High-Quality Elevator Pitch
+# Characteristics of a High-Quality Elevator Pitch 
 
 The following bullet-points are all addressed in a high-quality elevator pitch: 
 
