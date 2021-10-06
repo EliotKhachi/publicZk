@@ -1,4 +1,4 @@
-# Model Based Definition
+# Model Based Definition 
 
 A complete 3D Digital Product Definition created at the beginning of the product lifecycle to be used throughout the enterprise, reducing costs, improving system performance, and enabling future systems upgrades.
 
