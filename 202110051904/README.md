@@ -1,4 +1,4 @@
-# MBSE Abbreviations and Definitions 
+# MBSE Abbreviations and Definitions  
 
 **MBSE - Model-Based Systems Engineering** - [202110052023](../202110052023) - What is Model-Based Systems Engineering?
 
