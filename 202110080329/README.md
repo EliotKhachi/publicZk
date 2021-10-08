@@ -1,4 +1,4 @@
-# The Power of Small Simple Steps (S^3) 
+# The Power of Small Simple Steps (S^3)  
 
 ## Key Questions
 What is the smallest simple step I can take now?
