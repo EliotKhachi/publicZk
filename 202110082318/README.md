@@ -1,4 +1,4 @@
-# Focus
+# Focus 
 
 "I define concentration as my ability to keep my awareness on one thing for an extended period of time. Every time my concentration drifts, I use my wil power to bring my awareness back" (Dandapani).
 
