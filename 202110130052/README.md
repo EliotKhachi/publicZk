@@ -1,4 +1,4 @@
-# Hydrostatic Pressure 
+# Hydrostatic Pressure  
 
 The hydrostatic pressure is not actually a pressure but represents the change in pressure possible due to potential energy variations of the fluid as a result of elevation changes.
 
