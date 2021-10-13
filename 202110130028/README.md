@@ -1,4 +1,4 @@
-# Static Pressure
+# Static Pressure 
 
 Static pressure is the pressure one would experience by a fluid if one were to move along with the fluid, thus being "static" relative to the moving fluid.
 
