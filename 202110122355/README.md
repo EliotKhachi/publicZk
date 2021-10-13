@@ -1,4 +1,4 @@
-# Streamlines 
+# Streamlines  
 
 In any given flow field, such as flow through a pipe, each individual fluid particle travels a given path. These paths are called streamlines. 
 
