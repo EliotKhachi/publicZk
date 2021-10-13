@@ -1,4 +1,4 @@
-# Steady Flow
+# Steady Flow 
 
 Steady flow is a characterization of fluid wherein all conditions at any point in a stream remain constant with respect to time.
 
