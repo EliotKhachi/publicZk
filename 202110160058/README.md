@@ -1,4 +1,4 @@
-# Angle of Attack 
+# Angle of Attack  
 
 The angle between the velocity of the fluid and the chordline of the airfoil.
 
