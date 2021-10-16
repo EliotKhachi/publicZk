@@ -1,4 +1,4 @@
-# Airfoil 
+# Airfoil  
 
 An airfoil is the cross-section of an aircraft wing. The following parameters are used to characterize the geometry of airfoils:
 
