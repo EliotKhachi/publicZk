@@ -1,4 +1,4 @@
-# Aerodynamic Lift and Drag
+# Aerodynamic Lift and Drag 
 
 When fluid flows over an object, a force gets exerted onto the object which has two components: Lift and Drag. These component forces are called **aerodynamic** forces when the fluid is air and **hydrodynamic** forces when the fluid is water.
 
