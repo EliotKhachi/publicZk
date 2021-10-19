@@ -1,4 +1,4 @@
-# Makefiles
+# Makefiles 
 
 ## What are they and Why do we use them?
 **Makefiles** are text files named *Makefile* or *makefile* that utilize GNU *make*'s tools to compile and link a program. They are often used in combination with the GCC compiler [\[What is GCC\]](../202110191739) to form the GCC/Make opensource toolchain for developing software.  
