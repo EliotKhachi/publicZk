@@ -1,4 +1,4 @@
-# A Recipe in a Makefile
+# A Recipe in a Makefile 
 
 A *recipe* is a set of command-line instructions that GNU *make* recognizes as belonging to a particular *target*. When a target is called, its recipe is executed.  
 
