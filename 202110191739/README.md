@@ -1,4 +1,4 @@
-# What is GCC
+# What is GCC 
 
 GCC is a GNU project C and C++ compiler. GCC commands preprocess, compile, assemble, and link C and C++ files. By writing a *makefile* that invokes GCC commands, you have complete control over this process [\[Makefiles\]](../202110182235).
 
