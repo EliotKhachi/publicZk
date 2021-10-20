@@ -1,4 +1,4 @@
-# Features, Modes, and Controls When Outputting to a Pin
+# Features, Modes, and Controls When Outputting to a Pin 
 
 There are 2 main modes when outputting to a pin:
 **Open Drain** - MCU pin acts as an input signal to a transistor. Generally used when there are multiple signals on a single line to communicate with each other. Important to use a pull up or pull down resistor to cancel noise from the pin.
