@@ -1,4 +1,4 @@
-# How to Install ST-Link V2 to Flash STM32 Targets on Linux
+# How to Install ST-Link V2 to Flash STM32 Targets on Linux 
 
 See Reference [1] for instructions.
 
