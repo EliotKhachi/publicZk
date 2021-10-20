@@ -1,4 +1,4 @@
-# Bitwise Operators in C 
+# Bitwise Operators in C  
 
 Bitwise operators in C change the bits of a primitive type, thereby changing its value.  
 The rules used to change the bits depend on which operator is used. See [Logic Gates](../202305122120).  
