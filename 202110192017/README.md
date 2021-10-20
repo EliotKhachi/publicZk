@@ -1,4 +1,4 @@
-# Floating pins 
+# Floating pins  
 
 Floating pins are usually referring to the pins on an IC [Integrated Circuits](../202305121825), processor, or microcontroller. They are BAD and should be avoided.   
 
