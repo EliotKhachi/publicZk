@@ -1,4 +1,4 @@
-# Types of GPIO Registers And Their Bit Configurations
+# Types of GPIO Registers And Their Bit Configurations 
 
 ## Used to Configure a Pin
 1. **Mode R** - Mode Register - This register allows you to set any GPIO port and pin to a particular mode. There are 4 modes denoted by 2 bits XX (The first X is *called* bit 1 and the second X is *called* bit 0. This is to be distinguished from what *value* (0 or 1) the bits actually hold.
