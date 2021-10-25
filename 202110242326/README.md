@@ -1,4 +1,4 @@
-# Cause for an ECO 
+# Cause for an ECO  
 
 There are various reasons why an ECO (engineering change order) is issued:
 
