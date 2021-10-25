@@ -1,4 +1,4 @@
-# Purpose of Quality Control 
+# Purpose of Quality Control  
 
 Quality control is regarded as the pursuit to maintain regularity and compliance to pre-determined standards with respect to a product or service. 
 [Quality Audits and Their Types](../202110250021)
