@@ -1,4 +1,4 @@
-# Number Systems
+# Number Systems 
 
 The number system we're all familiar with is decimal: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. This counting system is in *Base 10*.  
 
