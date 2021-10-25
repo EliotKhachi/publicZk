@@ -1,4 +1,4 @@
-# Reason to issue ECOs 
+# Reason to issue ECOs  
 
 * ECOs are necessary to keep a record of previous iterations to make it easier to look back at a previous design or methodology for reference or to resort back to if the current design or process is unsatisfactory.
 
