@@ -1,4 +1,4 @@
-# Quality Control Inspections 
+# Quality Control Inspections  
 
 Quality control inspections are regulated services that verify product or process standards (the right part/assembly/process at the right place at the right time)
 
