@@ -1,4 +1,4 @@
-# Clause 7.5.1 of ISO 9001 and ISO/TS 16949 
+# Clause 7.5.1 of ISO 9001 and ISO/TS 16949  
 
 The following things constitute *controlled conditions* as required by the standard.
 
