@@ -1,4 +1,4 @@
-# From Idea to Schematic to PCB
+# From Idea to Schematic to PCB 
 
 ## Step 1
 Plan the function of the circuit. Define requirements. Create Block Diagram without specific components.
