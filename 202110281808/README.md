@@ -1,4 +1,4 @@
-# What is RF (radio frequency)? 
+# What is RF (radio frequency)?  
 
 RF is a type of signal whereby electromagnetic radiation is used for transferring information between two circuits that have no direct electrical connection [1].
 
