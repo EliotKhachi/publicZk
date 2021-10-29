@@ -1,4 +1,4 @@
-# Direct Current (DC)
+# Direct Current (DC) 
 
 "Direct current (DC) is one-directional flow of electric charge".
 
