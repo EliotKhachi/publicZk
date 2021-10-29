@@ -1,4 +1,4 @@
-# How VNAs Work
+# How VNAs Work 
 
 VNAs are tools used to verify component specifications that correspond to *networks*, such as cellphone 3G/4G/5G or Wi-Fi.
 
