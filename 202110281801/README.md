@@ -1,4 +1,4 @@
-# Electrical Hardware Verification 
+# Electrical Hardware Verification  
 
 The typical design sequence for a PCB is found here: 
 [From Idea to Schematic to PCB](../202110272302)
