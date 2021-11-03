@@ -1,4 +1,4 @@
-# Peripherals 
+# Peripherals  
 
 Devices such as computers and microcontrollers have *peripherals*, which are used to communicate with the outside world [2]. In general, the concept of what is a *peripheral* is somewhat fluid [1].
 
