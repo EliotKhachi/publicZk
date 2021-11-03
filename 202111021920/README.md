@@ -1,4 +1,4 @@
-# Serial Communication 
+# Serial Communication  
 
 Serial communication is a common approach for transferring information between data processing equipment and *peripherals*.
 
