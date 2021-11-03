@@ -1,4 +1,4 @@
-# Transistors 
+# Transistors  
 
 Transistors can act as a switch or to amplify a signal.
 
