@@ -1,4 +1,4 @@
-# Building Circuits - SAFETY
+# Building Circuits - SAFETY 
 
 ## Things to Look Out For
 * When connecting peripheral devices, be weary of the voltage and amperage ratings of each device's pins.
