@@ -1,4 +1,4 @@
-# TypeDef Declaration in C
+# TypeDef Declaration in C 
 
 **Typedef declaration** - provides a way to declare an identifier as a type alias, to be used to replace a possibley complex type name.
 
