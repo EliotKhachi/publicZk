@@ -1,4 +1,4 @@
-# STM32 Interfacing With an LCD 
+# STM32 Interfacing With an LCD  
 
 ## LCD Overview
 An LCD has 15 pins:
