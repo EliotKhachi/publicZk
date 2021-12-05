@@ -1,4 +1,4 @@
-# I2C Clock Line: SCL
+# I2C Clock Line: SCL 
 
 SCL one of the two open-drain, bidirectional lines of the I2C bus. It is responsible for establishing the speed of the communication, i.e. the frequency at which bits are "sent" through the SDA line.
 
