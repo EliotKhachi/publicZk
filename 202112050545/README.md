@@ -1,4 +1,4 @@
-# I2C Open-Drain 
+# I2C Open-Drain  
 
 *Open-Drain* is a type of output driver used by the I2C bus lines (SCL and SDA) where each line is pulled up to VCC with a resistor externally.
 
