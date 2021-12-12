@@ -1,4 +1,4 @@
-# Logic Analyzer Fundamentals 
+# Logic Analyzer Fundamentals  
 
 A logic analyzer is a tool used to debug a digital circuit by reading the logic levels of a signal(s) at a specified sample rate for a specified sample duration.
 
