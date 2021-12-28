@@ -1,4 +1,4 @@
-# GD&T Zero Position Tolerance 
+# GD&T Zero Position Tolerance  
 
 * Imagine you give the "go" or "no-go" for a part to assembly. One of the parts, a pin, has a maximum and minimum diameter for its feature of size, as well as a position tolerance. The pin fits inside the gage you are using, and so you give it a "go" for assembly. But the part inspector measures the pin diameter and tells you that it exceeds its maximum size. What do you do? Who is right?
 
