@@ -1,4 +1,4 @@
-# GD&T Gage Design 
+# GD&T Gage Design  
 
 * The purpose of a gage is to test the mating components of a part to ensure they fit in assembly.
 
