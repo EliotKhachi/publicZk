@@ -1,4 +1,4 @@
-# GD&T Tolerance Dimension
+# GD&T Tolerance Dimension 
  
 * Used to call out a feature's size or location without applying     GD&T principles to it.
 * Types of Tolerances:
