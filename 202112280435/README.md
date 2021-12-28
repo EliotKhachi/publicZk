@@ -1,4 +1,4 @@
-# GD&T True Position 
+# GD&T True Position  
 
 In manufacturing, you can never make two parts exactly the same. This is why each part needs a tolerance to be made to. If the part meets its ascribed tolerance, then the part is good!
 
