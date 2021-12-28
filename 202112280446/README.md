@@ -1,4 +1,4 @@
-# GD&T Critical Dimensions
+# GD&T Critical Dimensions 
 
 * Depend on the part's function & fit requirements
 * Non-critical dimensions are the areas of the part that don't come into close proximity with the mating assembly components, do not impact the design intent. nor impact the overall performance of the part.
