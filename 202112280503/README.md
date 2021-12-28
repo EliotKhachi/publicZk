@@ -1,4 +1,4 @@
-# GD&T Perform Form at MMC 
+# GD&T Perform Form at MMC  
 
 * Also considered the first rule of GD&T or rule 1 of GD&T, *perfect form at MMC* requires the forms of features to be perfect at the maximum material condition.
 * This rule applies to your drawing if GD&T is invoked anywhere in the print.
