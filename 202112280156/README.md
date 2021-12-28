@@ -1,4 +1,4 @@
-# GD&T Cheat Sheet
+# GD&T Cheat Sheet 
 
 **Critical Dimensions**
 	* Depend on the part's function & fit requirements
