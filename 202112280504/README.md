@@ -1,4 +1,4 @@
-# GD&T Material Conditions 
+# GD&T Material Conditions  
 
 1. Maximum material condition - When the feature is the heaviest.     Denoted by a captital "M" inside a circle within a feature control fram    e.
 	* I.e. The largest diameter of the pin within its size t    olerance
