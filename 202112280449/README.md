@@ -1,4 +1,4 @@
-# GD&T Datums
+# GD&T Datums 
 
 * A *datum* is a theoretically exact plane or axis. I.e. The plane of the top surface of the table upon which a part sits.
 
