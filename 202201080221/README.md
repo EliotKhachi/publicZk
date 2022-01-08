@@ -1,4 +1,4 @@
-# What is Systems Engineering? 
+# What is Systems Engineering?  
 
 * A rigorous focus on the *end product* and its enabling processes, as well as its internal and external operational environments.
 
