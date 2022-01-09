@@ -1,4 +1,4 @@
-# Highlighting Skills During an Interview
+# Highlighting Skills During an Interview 
 
 ## Highlighting Key Soft Skills
 * Showing up on time or early to the interview: **punctuality** or **dependability**
