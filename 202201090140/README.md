@@ -1,4 +1,4 @@
-# Hard Skills vs Soft Skills 
+# Hard Skills vs Soft Skills  
 
 ## Hard Skills
 Hard skills are required for performing the technical tasks of a job
