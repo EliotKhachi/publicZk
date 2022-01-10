@@ -1,4 +1,4 @@
-# Gas Generator 
+# Gas Generator  
 
 * This may go without saying but I'll state it here for clarity: A gas generator (GG) is a device used to generate gas.  
 
