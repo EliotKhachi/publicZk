@@ -1,4 +1,4 @@
-# Systems Thinking 
+# Systems Thinking  
 
 ## What it's all about
 * Systems thinking is a perspective for solving problems.
