@@ -1,4 +1,4 @@
-# Requirements vs Specifications
+# Requirements vs Specifications 
  
 **Difference between requirements and specifications** - Requirements are the input to the design process, while specifications are the output.
 
