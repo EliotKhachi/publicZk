@@ -1,4 +1,4 @@
-# Types of Requirements
+# Types of Requirements 
 
 1. **Functional** - What functions need to be performed to accomplish the objectives?  
 
