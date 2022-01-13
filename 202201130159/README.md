@@ -1,4 +1,4 @@
-# Product Verification Process 
+# Product Verification Process  
 
 The Product Verification Process can be described with a flow diagram that identifies the inputs, outputs, and activities. All these elements depend on the type of verification method: see [Types of Verification](./202201130240).
 
