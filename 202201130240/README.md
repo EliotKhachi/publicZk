@@ -1,4 +1,4 @@
-# Types of Verification
+# Types of Verification 
 
 1. **Analysis** - Use of analytical techniques such as mathematical modeling, simulation. Generally used when a model or prototype is unavailable.   
 
