@@ -1,4 +1,4 @@
-# LRE Weight Considerations 
+# LRE Weight Considerations  
 
 ## Terms
 **Dry Weight** - Net weight of the engine as it leaves the factory.
