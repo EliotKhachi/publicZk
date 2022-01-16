@@ -1,4 +1,4 @@
-# Entropy 
+# Entropy  
 
 * Associated with a state of disorder, randomness, or uncertainty  
 * A numerical value that shows that many physical processes can only go in one direction in time.  
