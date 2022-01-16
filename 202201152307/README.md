@@ -1,4 +1,4 @@
-# LRE Combustion Cycles 
+# LRE Combustion Cycles  
 
 What makes a liquid rocket engine an *engine*, is the fact that it is self-sufficient. Engines generate their own power to drive more fuel through itself. The *combustion cycle* of a liquid rocket engine is simply the method by which it is powering itself. Keep in mind, however, that in all cases what is being powered is the [turbopump(s)](/202201100451).
 
