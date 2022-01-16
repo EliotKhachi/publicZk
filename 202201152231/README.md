@@ -1,4 +1,4 @@
-# Isentropic Flow 
+# Isentropic Flow  
 
 * This type of flow occurs when the [flow variables](./202201152251) change by a small amount and slowly over time.
 
