@@ -1,4 +1,4 @@
-# Regular Expression Basics 
+# Regular Expression Basics  
 
 Regular expressions are used to *define* a pattern of text and use that pattern to match other portions of text within a file.
 
