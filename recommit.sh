@@ -1,11 +1,10 @@
 #!bin/bash
-
-for dir in */
+for dir in $(ls "$ZETDIR_PUBLIC" | grep -v '^.*.md$')
 do
-	title=$(cat $dir\README.md | egrep -E '^# .+')
-	echo ${title:2}
-	git commit -m "${title:2}"
-	git push
+	readme="$dir/README.md"
+	zet="$ZETDIR_PUBLIC/$readme"
+	folder="$ZETDIR_PUBLIC/$dir"
+	msg=$(cat $zet | head -n 1)
+	cp $folder ./
 
 done
-
