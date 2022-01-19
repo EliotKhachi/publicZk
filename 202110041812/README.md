@@ -4,4 +4,4 @@
 * Incorporate daily positive self-talk
 
 ## Tags
-#limitless #incomplete
+#limitless
