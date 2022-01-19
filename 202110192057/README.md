@@ -20,4 +20,3 @@ States are configured internally (through code) by **registers**.
 
 ## Tags
 #embeddedSystems #incomplete
-
