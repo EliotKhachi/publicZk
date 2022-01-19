@@ -8,5 +8,6 @@ The model is a tool that helps systems engineers...
 * Support integration & verification
 * Help train users of the system
 * Capture knowledge for design evolution, justification,& organizational knowledge
+
 ## Tags
 #systemsEngineering #MBSE
