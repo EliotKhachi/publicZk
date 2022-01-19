@@ -11,4 +11,3 @@ How do I become a better note-taker?
 
 ## Tags
 #limitless
-
