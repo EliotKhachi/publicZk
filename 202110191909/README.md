@@ -31,4 +31,4 @@ and restart udev:
 <insert link on how to connect ST-Link to flash stm32 devices>
 
 ## Tags
-#embeddedSystems #STM32 #incomplete
+#embeddedSystems #STM32
