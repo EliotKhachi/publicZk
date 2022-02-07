@@ -1,4 +1,4 @@
-# ADC on STM32F030 
+# Setting up ADC on STM32F030 
 
 ADC signals flow through *channels* on the microcontroller. These channels correspond to pins on the microcontroller and each analog device corresponds to its own *channel*.
 
