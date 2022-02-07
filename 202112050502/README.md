@@ -11,4 +11,4 @@ The master that writes a 0 first while the other is writing a 1 will win the arb
 [Introduction to I2C](https://deepbluembedded.com/i2c-communication-protocol-tutorial-pic/)
 
 ## Tags
-#embeddedSystems #STM32 #I2C
+#embeddedSystems
