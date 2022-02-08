@@ -25,7 +25,7 @@ The CMSIS files contain definitions for peripheral access to all device peripher
 
 
 ## References
-[Programming ARM Cortex (STM32) under GNU/Linux](https://blog.csdn.net/sharrring/article/details/80195804)  
+[CSDN Blog - Programming ARM Cortex (STM32) under GNU/Linux](https://blog.csdn.net/sharrring/article/details/80195804)  
  
 ## Tags
 #embeddedSystems #STM32
