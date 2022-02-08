@@ -20,7 +20,7 @@ gsudo usbipd wsl list
 ```sh
 usbipd wsl attach --busid <busid>  
 ```
-6. From within WSL, list the attached USB devices  
+6. From within WSL, list the attached USB devices to verify that WSL recognizes them   
 ```sh
 lsusb  
 ```
