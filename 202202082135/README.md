@@ -2,9 +2,9 @@
 
 ## Setup
 1. Make sure you have a WSL kernel version of 5.10.60.1 or later, and you are running a WSL 2 distro.  
-	```sh
+```sh
 	uname - a
-	```  
+```  
 2. Install the user space tools for USB/IP and a database of USB hardware indentifiers: From within WSL on Ubunto 20.04 LTS, run  
 	sudo apt install linux-tools-5.4.0-77-generic hwdata  
 	sudo update-alternatives --install /usr/local/bin/usbip usbip /usr/lib/linux-tools/5.4.0-77-generic/usbip 20  
