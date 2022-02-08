@@ -29,6 +29,8 @@ lsusb
 gsudo usbipd wsl detach --busid <busid>  
 ```
 
+For more information on how this works, see Reference [1].
+
 ## References
 1. [Connecting USB devices to WSL - Microsoft Docs](https://devblogs.microsoft.com/commandline/connecting-usb-devices-to-wsl/)
 
