@@ -1,15 +1,31 @@
-# Programming STM32 Processors - OVERVIEW
+# Programming ARM Cortex (STM32) under GNU/Linux 
 
-The developent tools used to develop the code, program the microcontroller, and test.debug the code are:
-1. Compiler
-2. Debugger
-3. In-Circuit Serial Programmer (ICSP): ST Link, J Link, or ULink2
+## What We Need
+* STM32 microcontroller
+* programmer and debugger - **gcc-arm-none-eabi**
+* GNU/Linux operating system
+* Driver for MCU: CMSIS-CORE - Cortex Microcontroller Software Interface Standard CORE  
 
-**PC** <-USB-> **ICSP** <-JTAG/SWD-> **STM32 MCU**
+## What does the CMSIS-CORE Contain? What's it for?
+The CMSIS-CORE allows the user to access the processor core and device peripherals by defining the Hardware Abstraction Layer (HAL).  
+The CMSIS files contain definitions for peripheral access to all device peripherals, provides helper functions that access the core registers, and startup and system configuration code. 
+
+
+## Minimal Project Configuration
+* project directory contains
+	* **main.c** - main program  
+	* **system.c** - implementation of CMSIS *system_stm32f0xx.h* (system initialization - clock source, flash memory configuration etc.)  
+	* **Makefile** - compiles, links, and writes code to MCU's flash memory  
+* copy startup code into project directory  
+* copy linker script into project directory  
+* compile, link and write code to MCU's flash memory (using Makefile)
+
+## Startup Procedure
+
 
 
 ## References
-[Intro to Programming STM32 ARM Cortex-M 32-bit Microcontrollers](https://predictabledesigns.com/introduction-to-programming-stm32-arm-cortex-m-32-bit-microcontrollers/)
-
+[Programming ARM Cortex (STM32) under GNU/Linux](https://blog.csdn.net/sharrring/article/details/80195804)  
+ 
 ## Tags
 #embeddedSystems #STM32
