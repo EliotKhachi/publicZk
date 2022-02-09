@@ -1,4 +1,4 @@
-# How to Connect USB Devices to WSL
+# How to Connect USB Devices to WSL 
 
 ## Setup
 1. Make sure you have a WSL kernel version of 5.10.60.1 or later, and you are running a WSL 2 distro.  
