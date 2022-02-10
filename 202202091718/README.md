@@ -1,4 +1,4 @@
-# Introduction to the Zettelkasten Method
+# Introduction to the Zettelkasten Method 
 
 * The Zettelkasten Method is a method of note-taking intended to keep your notes alives, connect ideas, and scale automatically to avoid creating a bloated mess over time through normal note-taking.
 
