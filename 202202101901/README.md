@@ -1,5 +1,4 @@
-# Linking A Program to a Binary
-
+# Linking a Program to a Binary
 
 
 ## Tags
