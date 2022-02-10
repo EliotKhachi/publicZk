@@ -17,4 +17,4 @@ GCC is a GNU project C and C++ compiler. GCC commands preprocess, compile, assem
 [g++ - Linux man page](https://linux.die.net/man/1/g++)
 
 ## Tags
-#embeddedSystems #gcc
+#gcc
