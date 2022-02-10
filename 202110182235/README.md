@@ -11,13 +11,15 @@ hellomake: hellomake.c hellofunc.c
 
 This makefile contains one *rule* whose *target* is `hellomake`, *prerequisite(s)* are `hellomake.c` and `hellofunc.c`, and *recipe* is `gcc -o hellomake hellomake.c hellofunc.c -I`.
 
+  
+Typing `make hellomake` in the command line will execute this rule. Note that typing `make` with no arguments on the command line will execute the first rule of a makefile in the current directory.  
+
+
+## Links
 [A Rule in a Makefile](../202110182258)  
 [A Target in a Makefile](../202110182306)  
 [A Prerequisite in a Makefile](../202110182309)  
 [A Recipe in a Makefile](../202110182310)  
-  
-Typing `make hellomake` in the command line will execute this rule. Note that typing `make` with no arguments on the command line will execute the first rule of a makefile in the current directory.  
-
  
 ## References
 [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
