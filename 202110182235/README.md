@@ -9,18 +9,20 @@ hellomake: hellomake.c hellofunc.c
 		gcc -o hellomake hellomake.c hellofunc.c -I.
 ```
 
-This makefile contains one *rule* named `hellomake` \[[A Rule in a Makefile](../202110182258)]. Typing `make hellomake` in the command line will execute this rule. Note that typing `make` with no arguments on the command line will execute the first rule of a makefile in the current directory. 
+This makefile contains one *rule* whose *target* is `hellomake`, *prerequisite(s)* are `hellomake.c` and `hellofunc.c`, and *recipe* is `gcc -o hellomake hellomake.c hellofunc.c -I`.
+
+[A Rule in a Makefile](../202110182258)  
+[A Target in a Makefile](../202110182306)  
+[A Prerequisite in a Makefile](../202110182309)  
+[A Recipe in a Makefile](../202110182310)  
+  
+Typing `make hellomake` in the command line will execute this rule. Note that typing `make` with no arguments on the command line will execute the first rule of a makefile in the current directory.  
+
+ 
 ## References
 [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 
 [GNU make Manual](https://www.gnu.org/software/make/manual/html_node/index.html#SEC_Contents)
 
-## Links
-
-[202110182306](../202110182306) - A Target in a Makefile
-
-[202110182309](../202110182309) - A Prerequisite in a Makefile
-
-[202110182310](../202110182310) - A Recipe in a Makefile
 ## Tags
 #embeddedSystems
