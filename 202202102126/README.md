@@ -30,6 +30,8 @@ SECTION		NAME=CONFIG	ROM=config
 STACK SIZE=0x100 RAM=gpr2
 ```
 
+## References
+1. [OS Dev Wiki - Linker Scripts](https://wiki.osdev.org/Linker_Scripts)
 
 
 ## Tags

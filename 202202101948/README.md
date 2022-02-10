@@ -1,6 +1,0 @@
-# SRAM
-
-
-
-## Tags
-#embeddedSystems
