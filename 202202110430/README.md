@@ -1,4 +1,4 @@
-# Running the Program from SRAM
+# Running the Program from SRAM 
 
 * Some microcontrollers have the ability to start the program from SRAM rather than flash memory, as is conventionally done, to save power. This is done by starting up the program code in flash, copying its contents over to SRAM, and then turning off the power to the internal flash memory.  
 
