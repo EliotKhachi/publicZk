@@ -28,7 +28,7 @@ SECTIONS
 		*(.text)
 		*(.text*)
 	}
-```c
+```
 
 ## References
 1. [OS Dev Wiki - Linker Scripts](https://wiki.osdev.org/Linker_Scripts)
