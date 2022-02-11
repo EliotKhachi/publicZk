@@ -4,15 +4,29 @@ A *linker script* is a text file made up of a series of linker *directives* whic
 
 ## Example Linker Script for STM32F030x8
 ```c
-/* Specify the memory areas */
 MEMORY
 {
- FLASH(rx)	: ORIGIN = 0x08000000, LENGTH=64K
- RAM(xrw)	: ORIGIN = 0x20000000, LENGTH=8K
-
-
-
+	FLASH(rx)	: ORIGIN = 0x08000000, LENGTH=64K
+	RAM(xrw)	: ORIGIN = 0x20000000, LENGTH=8K
 }
+
+_estack = ORIGIN(RAM) + LENGTH(RAM);
+
+SECTIONS
+{
+	.isr_vector:
+	{
+		. = ALIGN(4);
+		KEEP(*(.isr_vector))
+		. = ALIGN(4);
+	}
+	
+	.text :
+	{
+		. = ALIGN(4);
+		*(.text)
+		*(.text*)
+	}
 ```c
 
 ## References
