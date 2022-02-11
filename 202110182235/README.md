@@ -16,10 +16,10 @@ Typing `make hellomake` in the command line will execute the recipe of this rule
 
 
 ## Links
-[A Rule in a Makefile](../202110182258)  
-[A Target in a Makefile](../202110182306)  
-[A Prerequisite in a Makefile](../202110182309)  
-[A Recipe in a Makefile](../202110182310)  
+[\[A Rule in a Makefile\]](../202110182258)
+[\[A Target in a Makefile\]](../202110182306)
+[\[A Prerequisite in a Makefile\]](../202110182309)
+[\[A Recipe in a Makefile\]](../202110182310)
  
 ## References
 [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
