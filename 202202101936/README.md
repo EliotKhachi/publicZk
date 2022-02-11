@@ -1,4 +1,4 @@
-# Memory Map of a Microcontroller
+# Memory Map of a Microcontroller 
 
 The *memory map* of a microcontroller tells us the address ranges of each area of the MCU's memory. An MCU's memory has the following areas:  
 * SRAM  
