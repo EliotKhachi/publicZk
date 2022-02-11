@@ -1,4 +1,4 @@
-# Executable Binary File
+# Executable Binary File 
 
 An *executable binary file* is a file that contains a program in machine language that is ready to be executed/run. It has multiple segments each serving a separate function.
 
