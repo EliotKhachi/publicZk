@@ -1,4 +1,4 @@
-# Linker Directive: DATABANK
+# Linker Directive: SECTION
 
 ## Tags
 #embeddedSystems
