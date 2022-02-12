@@ -1,4 +1,4 @@
-# Linker Directive: FILES
+# Linker Directive: CODEPAGE
 
 ## Tags
 #embeddedSystems
