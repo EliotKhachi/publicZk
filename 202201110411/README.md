@@ -1,21 +1,14 @@
 # Basics of Requirements 
 
-* Requirments are statements that must have a *subject* and a *measureable value* or characteristic.
+Requirements are statements that must have a *subject* and a *measureable value* or characteristic. They can define a capability, attribute, or process that the system must perform, have, or follow, respectively. They can also define constraints on design, cost, or schedule. They must be written in a way that is conducive to uniform interpretation.
 
-* Requirements define a capability or attribute or relationship that the system must perform or have.
-
-* Requirements can define a process that must be followed.
-
-* Requirements can also be constraints on design, cost, or schedule.
-
-* Requirements are written so that different people all interpret it the same way
 
 ## Key Words
 **Shall** Requirements help set constraints and define boundaries of the design space and objective space
 
 **Should** Requirements set goals once **shall** requirements are satisfied.
 
-**System Level** Requirements are the highest level of requirements, or customer requirements, generally extracted from the RFP *(request for proposal)*.
+**System Level** Requirements are the highest level of requirements, or customer requirements, generally extracted from the *request for proposal* (RFP).
 
 ** Derived** Requirements are the requirements derived from the system level requirements through trade studies, analysis & simulation, testing, and iteration.
 ---
