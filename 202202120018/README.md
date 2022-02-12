@@ -1,4 +1,4 @@
-# Linker
+# The Linker
 
 ## Tags
 #embeddedSystems
