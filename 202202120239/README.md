@@ -1,4 +1,4 @@
-# Linker Directive: DATABANK
+# Linker Directive: DATABANK 
 
 The *DATABANK* directive is used to specify banked RAM.  
 
