@@ -1,0 +1,6 @@
+# Linker Directives
+
+
+
+## Tags
+#embeddedSystems
