@@ -1,4 +1,4 @@
-# Linker Directive: CODEPAGE
+# Linker Directive: ACCESS BANK
 
 ## Tags
 #embeddedSystems
