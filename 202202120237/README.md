@@ -1,4 +1,4 @@
-# Linker Directive: SECTION
+# Linker Directive: STACK SIZE
 
 ## Tags
 #embeddedSystems
