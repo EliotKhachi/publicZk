@@ -1,4 +1,4 @@
-# Linker Command Language: ld
+# Linker Command Language: ld 
 
 The command language provides the programmer explicit control over the link process. It controls:   
 * input files  
