@@ -10,7 +10,7 @@
 
 5. **Reliability** - What is the desirable or maximum-allowable rate of system failure. How much redundancy does the system need to mitigate *mission* failure?    
 
-6. **Safety** - How much redundancy does the system need to mitigate *catast    rophic* failure.  
+6. **Safety** - How much redundancy does the system need to mitigate *catastrophic* failure.  
 
 7. **Other** - Producibility, maintainability, disposability, availability,     upgradeability, human factors, etc.  
 
