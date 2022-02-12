@@ -1,4 +1,4 @@
-# Linker Directives
+# Linker Directives 
 
 Linker *directives* tell the Linker [\[Linker\]](../202202120018) where the available memory is and how they should be used. They reflect exactly the memory resources and memory map of the target microcontroller [\[Memory Map of a Microcontroller\]](../202202101936).  
 
