@@ -1,6 +1,6 @@
 # Linker Scripts
 
-A *linker script* is a text file made up of a series of linker *directives* which tell the *linker* where the available memory on the microcontroller is and how it should be used. It should reflect exactly the memory resources and memory map [\[Memory Map of a Microcontroller\]](../202202101936) of the target microcontroller.  
+A *linker script* is a text file written in the *ld* command language. The script contains *directives* which tell the *linker* where the available memory on the microcontroller is and how it should be used. It should reflect exactly the memory resources and memory map [\[Memory Map of a Microcontroller\]](../202202101936) of the target microcontroller.  
 
 ## Example Linker Script for STM32F030x8  
 
