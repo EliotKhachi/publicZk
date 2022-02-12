@@ -1,4 +1,4 @@
-# Linker Directive: STACK SIZE
+# Linker Directive: STACK SIZE 
 
 The *STACK SIZE* directive specifies the software stack location and size.   
 
