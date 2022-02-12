@@ -22,15 +22,17 @@
 	* Risk Management *(What if something bad happens)*  
 	* Technical Reviews *(Verify solution satisfies stakeholder's needs and system requirements)*
 
-## Questions
+## Guiding Questions
 1. How does Systems Engineering relate to design and development in engineering? 
 2. Is the discipline of Systems Engineering concerned with designing the product?
 3. Is the discipline of Systems Engineering concerned with testing and verifying the product?
 4. What is the primary objective of Systems Engineering?
 
-## MY Answers
+## My Answers
 1. Systems Engineering guides the processes required to design and develop a product with activities such as setting requirements.
-2. 
+2. No  
+3. Yes  
+4. To satisfy the customers and stakeholders  
 
 ## Tags
 #systemsEngineering
