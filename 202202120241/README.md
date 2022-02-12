@@ -1,4 +1,4 @@
-# Linker Directive: CODEPAGE
+# Linker Directive: CODEPAGE 
 
 The *CODEPAGE* directive is used to allocate program memory on the microcontroller and conveys the microcontroller memory maps [\[Memory Map of a Microcontroller\]](../202202101936).  
 
