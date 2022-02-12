@@ -1,4 +1,4 @@
-# Linker Directive: ACCESS BANK
+# Linker Directive: ACCESS BANK 
 
 An *ACCESS BANK* linker directive allocates data memory in a linker script.   
 
