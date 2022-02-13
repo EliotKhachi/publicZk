@@ -1,4 +1,4 @@
-# The Role of a Systems Engineer
+# The Role of a Systems Engineer 
 
 The role of a systems engineer is to facilitate the lifecycle of a product, usually as laid out in the Vee Model [\[The Vee Model\]](../202110032218)
 .
