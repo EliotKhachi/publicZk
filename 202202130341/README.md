@@ -1,4 +1,4 @@
-# Vee Model: Lifecycle Processes
+# Vee Model: Lifecycle Processes 
 	
 	1. Regional Architecture(s)  
 	
