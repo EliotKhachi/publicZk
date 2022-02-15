@@ -1,6 +1,6 @@
 # Linker Directive: LIBPATH
 
-A *LIBPATH* linker directive provides a search path for *including* files.  
+A *LIBPATH* linker directive provides a search path for *including* files [\[The #include Directive\]](../202202151835).  
 
 ## Example of LIBPATH Used in a Linker Script
 ```c

@@ -14,7 +14,7 @@ Linker *directives* tell the Linker [\[Linker\]](../202202120018) where the avai
 ## References 
 1. [\[Linker Script (Science Direct)\]](https://www.sciencedirect.com/topics/engineering/linker-script)  
 
-## Links
+## Other Links
 1. [\[Linker Script\]](../202202102126)  
 
 ## Tags
