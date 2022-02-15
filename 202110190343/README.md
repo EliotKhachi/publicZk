@@ -21,4 +21,4 @@ This is a list of basic Linux commands separated in categories. Keep in mind tha
 [Verbose Mode - Linux Command](https://www.webune.com/forums/linux-verbose-option-explained.html)
 [How to Add or Remove Files and Directories Using Linux Command Line](https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/)
 ## Tags
-#linux #incomplete
+#linux 

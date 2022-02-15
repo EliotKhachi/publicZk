@@ -6,7 +6,6 @@
 1. #I2C
 1. #MBSE
 1. #STM32
-1. #Tags
 1. #WSL
 1. #aerodynamics
 1. #career
@@ -19,7 +18,6 @@
 1. #gcc
 1. #git
 1. #healthcare
-1. #incomplete
 1. #limitless
 1. #linux
 1. #pareto
@@ -29,6 +27,4 @@
 1. #propulsion
 1. #qualityControl
 1. #systemsEngineering
-1. #test
-1. #zet
 1. #zettelkasten
