@@ -1,4 +1,4 @@
-# Pane Commands in WSL
+# Pane Commands in WSL 
 1. Creating Panes  
 * <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd> creates a new vertical pane.  
 * <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>+</kbd> creates a new horizontal pane.  
