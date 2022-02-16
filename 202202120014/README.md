@@ -9,7 +9,7 @@ Linker *directives* tell the Linker [\[Linker\]](../202202120018) where the avai
 * [\[ACCESS BANK\]](../202202120236)  
 * [\[DATABANK\]](../202202120239)  
 * [\[SECTION\]](../202202151820)  
-* [\[STACK SIZE\]](../202202120237)  
+* [\[STACK SIZE\]](../202202120237)    
 
 ## References 
 1. [\[Linker Script (Science Direct)\]](https://www.sciencedirect.com/topics/engineering/linker-script)  
