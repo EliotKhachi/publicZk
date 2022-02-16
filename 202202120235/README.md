@@ -3,7 +3,7 @@
 A *LIBPATH* linker directive provides a search path for *including* files [\[#include Directive\]](../202202151835).  
 
 ## Syntax
-```c
+```c  
 LIBPATH .
 ```
 
