@@ -2,7 +2,7 @@
 
 An *ACCESS BANK* linker directive allocates data memory in a linker script.   
 
-## SYNTAX
+## Syntax
 ```c
 ACCESSBANK	NAME=accessram	START=0x0	END=0x7F
 .
