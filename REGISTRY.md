@@ -28,5 +28,6 @@
 1. #programming
 1. #propulsion
 1. #qualityControl
+1. #rockets
 1. #systemsEngineering
 1. #zettelkasten
