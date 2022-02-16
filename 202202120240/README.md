@@ -1,6 +1,6 @@
 # Linker Directive: FILES
 
-The *FILES* directive specifies the *object files* for linking.
+The *FILES* directive specifies the *object files* for linking.  
 
 ## Implementation
 ```c
