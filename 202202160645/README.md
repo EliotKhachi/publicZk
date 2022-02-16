@@ -1,9 +1,8 @@
 # Four Beliefs About Taxes to Improve Your Life
 
-1. Tax Shelters Cost More Than They Save
-2. Tax Shelters Decrease Your Net Worth
-3. Tax Shelters Diminish Your Life
-4. Tahow finance Shelters Don't Make You a Better Person
+1. [\[Tax Shelters Cost More Than They Save\]](../202202160646)  
+2. [\[Tax Shelters Decrease Your Net Worth\]](../202202160647)  
+3. [\[Tax Shelters Diminish Your Life\]](../202202160651)  
 
 ## References
 1. [\[I paid 0% tax on 56% of my income...here's how..\]](https://www.youtube.com/watch?v=w5g0JiO7OdE)
