@@ -10,7 +10,7 @@ STACK SIZE=0x100 RAM=gpr2
 Here a stack size of 100 is specified, located in RAM Bank 2.  
 
 ## References
-[\[Linker Script - Science Direct\]](https://www.sciencedirect.com/topics/engineering/linker-script)  
+1. [\[Linker Script - Science Direct\]](https://www.sciencedirect.com/topics/engineering/linker-script)  
 
 ## Other Links
 1. [\[Linker Directives\]](../202202120014)  
