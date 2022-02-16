@@ -1,4 +1,4 @@
-# Examples of Tax Loopholes
+# Examples of Tax Loopholes 
 
 1. Captives
 2. Offshore
