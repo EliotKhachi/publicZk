@@ -19,9 +19,8 @@ The following is a table associating the contents of memory being allocated with
 |config|configuration data|
 |devid|device identification|
 
-
 ## References
-[\[Linker Script - Science Direct\]](https://www.sciencedirect.com/topics/engineering/linker-script)  
+1. [\[Linker Script - Science Direct\]](https://www.sciencedirect.com/topics/engineering/linker-script)  
 
 ## Other Links
 1. [\[Linker Directives\]](../202202120014)  
