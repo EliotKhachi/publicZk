@@ -1,4 +1,4 @@
-# Cost of Discovery & Conversion
+# Cost of Discovery & Conversion 
 
 * "95% of solutions are swampland and 5% are legit" - Charlie Munger
 
