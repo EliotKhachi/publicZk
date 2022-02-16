@@ -7,7 +7,7 @@ The *FILES* directive specifies the *object files* for linking.
 FILES c018.o  
 FILES clib.lib  
 FILES pl8f2320.lib  
-```
+``` 
 
 ## References
 1. [\[Linker Script - Science Direct\]](https://www.sciencedirect.com/topics/engineering/linker-script)  
