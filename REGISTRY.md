@@ -14,6 +14,7 @@
 1. #deepWork
 1. #electronics
 1. #embeddedSystems
+1. #finance
 1. #fluidMechanics
 1. #gcc
 1. #git
