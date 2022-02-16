@@ -1,4 +1,4 @@
-# Linker Directive: SECTION
+# Linker Directive: SECTION 
 
 The *SECTION* linker directive allows a name in the source code (identified by **#pragma**) to be linked across to a block of memory in the [\[Linker Script\]](../202202102126).  
 
