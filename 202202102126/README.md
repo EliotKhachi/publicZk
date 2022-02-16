@@ -1,5 +1,6 @@
 # Linker Script
 
+
 A *linker script* is a text file written in the *ld* command language [\[Linker Command Language: ld\]](../202202120015) made up of a series of *directives* [\[Linker Directives\]](../202202120014).   
 
 ## Example Linker Script for STM32F030x8  
