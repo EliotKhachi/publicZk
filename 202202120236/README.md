@@ -1,6 +1,6 @@
 # Linker Directive: ACCESS BANK
 
-An *ACCESS BANK* linker directive allocates data memory in a linker script.  
+An *ACCESS BANK* linker directive allocates data memory in a linker script.   
 
 ## SYNTAX
 ```c
