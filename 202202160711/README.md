@@ -1,4 +1,4 @@
-# Cost of Upkeep
+# Cost of Upkeep 
 ## Trading Valuable Attention for less Valuable Money
 
 * Think about the time you're spending that you could be spending making money  
