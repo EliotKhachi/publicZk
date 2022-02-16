@@ -1,3 +1,3 @@
-# Tax Shelters Decrease Your Net Worth: The People
+# Tax Shelters Decrease Your Net Worth: The People 
 
 ## Tags
