@@ -6,6 +6,7 @@
 1. #STM32
 1. #WSL
 1. #aerodynamics
+1. #aerospace
 1. #career
 1. #communication
 1. #deepWork

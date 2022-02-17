@@ -12,4 +12,4 @@ An airfoil is the cross-section of an aircraft wing. The following parameters ar
 [202110160058](../202110160058) - Angle of Attack
 
 ## Tags
-#aerodynamics
+#aerospace
