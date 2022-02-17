@@ -22,4 +22,4 @@ UART stands for Universal Asynchronous Receiver/Transmitter and refers to an int
 [Baud Rate]()
 
 ## Tags
-#electronics
+#electronics #embeddedSystems
