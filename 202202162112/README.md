@@ -1,4 +1,4 @@
-# WSL2: Getting Started on Windows 10
+# WSL2: Getting Started on Windows 10 
 
 1. Make sure to have Windows 10 updated to atleast Version 2004 (OS build 19041.264).  
 
