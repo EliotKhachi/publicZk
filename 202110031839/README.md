@@ -10,4 +10,4 @@ It states that 80% of outcomes are due to 20% of the causes...
 
 
 ## Tags
-#pareto
+#universalLaw
