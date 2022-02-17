@@ -1,4 +1,4 @@
-# Rule \#4: Drain Out the Shallows
+# Rule #4: Drain Out the Shallows
 
 ## Shallow vs. Deep Work
 To distinguish between shallow and deep work, ask yourself: How much time (in months) would it take for a smart recent college graduate with no specialized training in my field to complete this task? For example, if a task requires your expertise, (4 years of education) it is always deep work.
