@@ -11,4 +11,4 @@ This sequence of 1s and 0s establishes the 3 components of communication:
 	* Slave's Register Address
 
 ## Tags
-#embeddedSystems #I2C
+#embeddedSystems 
