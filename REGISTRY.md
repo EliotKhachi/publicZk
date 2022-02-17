@@ -1,7 +1,6 @@
 1. #
 1. #C
 1. #GDT
-1. #GRE
 1. #MBSE
 1. #STM32
 1. #WSL
