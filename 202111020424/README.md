@@ -42,4 +42,4 @@ R = 		     time constant		          1000 ns
 [I2C Clock Line: SCL](../202112050607)
 
 ## Tags
-#embeddedSystems #I2C 
+#embeddedSystems

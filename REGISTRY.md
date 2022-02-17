@@ -15,6 +15,7 @@
 1. #deepWork
 1. #electronics
 1. #embeddedSystems
+1. #engineering
 1. #finance
 1. #fluidMechanics
 1. #gcc
@@ -31,4 +32,3 @@
 1. #rockets
 1. #systemsEngineering
 1. #zettelkasten
-1. #engineering
