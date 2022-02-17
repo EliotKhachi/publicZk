@@ -25,17 +25,16 @@ The keyboard or mouse are *external* peripherals; they are also peripheral devic
 *Peripherals* that function as *outputs* are not always *internal*, nor are *peripherals* that function as *inputs* always *external*.
 
 ## References
-1. [What Are Peripheral Devices of a Computer? - Definition, Examples & Types](https://study.com/academy/lesson/what-are-peripheral-devices-of-a-computer-definition-examples-types.html)
+1. [What Are Peripheral Devices of a Computer? - Definition, Examples & Types](https://study.com/academy/lesson/what-are-peripheral-devices-of-a-computer-definition-examples-types.html)  
 
-2. [Embedded Systems - Tools & Peripherals](https://www.tutorialspoint.com/embedded_systems/es_tools.htm)
+2. [Embedded Systems - Tools & Peripherals](https://www.tutorialspoint.com/embedded_systems/es_tools.htm)  
 
 ## Links
-[Serial Communication ](../202111021920)
+[Serial Communication ](../202111021920)  
 
-[I2C Communication ](../202111020424)
+[I2C Communication ](../202111020424)  
 
-
-[Analog to Digital Converter (ADC)](../202111012251)
+[Analog to Digital Converter (ADC)](../202111012251)  
 
 ## Tags
-#electronics
+#electronics #embeddedSystems
