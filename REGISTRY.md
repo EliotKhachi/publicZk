@@ -8,7 +8,6 @@
 1. #aerodynamics
 1. #career
 1. #communication
-1. #craftsmenApproach
 1. #deepWork
 1. #electronics
 1. #embeddedSystems
@@ -20,7 +19,6 @@
 1. #healthcare
 1. #limitless
 1. #linux
-1. #pareto
 1. #personality
 1. #politics
 1. #programming
@@ -28,4 +26,5 @@
 1. #qualityControl
 1. #rockets
 1. #systemsEngineering
+1. #universalLaw
 1. #zettelkasten
