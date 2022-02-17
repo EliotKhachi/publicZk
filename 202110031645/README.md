@@ -1,4 +1,4 @@
-# Rule \#1: Work Deeply - A General Guide
+# Rule #1: Work Deeply - A General Guide
 
 ## Definitions
 * Deep Work - Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limi. These efforts create new value, improve your skill, and are hard to replicate.
