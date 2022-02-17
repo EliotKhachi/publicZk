@@ -22,7 +22,6 @@
 1. #personality
 1. #politics
 1. #programming
-1. #propulsion
 1. #qualityControl
 1. #rockets
 1. #systemsEngineering
