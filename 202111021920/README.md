@@ -14,4 +14,4 @@ Serial communication is a common approach for transferring information between d
 [What is Serial Communication and How it works?](https://www.codrey.com/embedded-systems/serial-communication-basics/)
 
 ## Tags
-#electronics
+#electronics #embeddedSystems
