@@ -9,4 +9,4 @@
 1. [\[YouTube - I paid 0% tax on 56% of my income...here's how..\]](https://www.youtube.com/watch?v=w5g0JiO7OdE)
 
 ## Tags
-#finance
+#finance #hub

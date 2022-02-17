@@ -23,7 +23,6 @@
 1. #politics
 1. #programming
 1. #qualityControl
-1. #rockets
 1. #systemsEngineering
 1. #universalLaw
 1. #zettelkasten
