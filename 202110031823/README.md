@@ -1,4 +1,4 @@
-# Rule \#2: Embrace Boredom
+# Rule #2: Embrace Boredom
 
 The key purpose of this rule is to heighten your limit for deep work by training to
 1. Improve your ability to concentrate
@@ -12,7 +12,7 @@ The key purpose of this rule is to heighten your limit for deep work by training
 Roosevelt was a man of many interests, yet he managed to do well in Harvard & publish a book after his freshman year ended. He used his time extremely efficiently by working with great intensity. To train to work intensely, set a hard deadline for yourself by drastically reducing the time you'd normally set aside for a task. You should consistently be able to beat the buzzer.
 
 ## References
-Newport, Cal. *Deep Work*. New York, Hachette Book Group Inc, 2016.
+1. Newport, Cal. *Deep Work*. New York, Hachette Book Group Inc, 2016.
 
 ## Tags
 #deepWork
