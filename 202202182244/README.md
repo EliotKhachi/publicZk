@@ -11,12 +11,16 @@
 
 ## Additional Control Systems
 * [\[Engine thrust-level control\]](../202202182310)  
-* [\[Propellant mixture-ratio and utilization control\]](../202202182311)
-zet link 
+* [\[Thrust-vector control\]](../202202182312)  
+* [\[Propellant mixture-ratio and utilization control\]](../202202182311)  
 
 
 ## References
 1. Huzel, Dieter, and David Huang. *Modern Engineering For Design of Liquid-Propellant Rocket Engines*. AIAA, 1992.
+
+## Other Links
+1. [\[Control Methods\]](../202202182317)  
+2. [\[Control-Law Development\]](../202202182316)  
 
 ## Tags
 #aerospace #hub
