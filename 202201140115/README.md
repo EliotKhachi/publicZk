@@ -1,4 +1,4 @@
-# Propellant Fraction 
+# LRE Propellant Fraction 
 
 The *propellant fraction* is a parameter used to guide the design of a rocket, particularly while neglecting the influence of vehicle structural weight.  
 
