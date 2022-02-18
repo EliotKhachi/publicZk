@@ -1,4 +1,4 @@
-# LRE System Dynamic Analysis
+# System Dynamic Analysis
 
 ## Tags
 #aerospace #systemsEngineering
