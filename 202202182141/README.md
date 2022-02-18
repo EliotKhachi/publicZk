@@ -1,4 +1,4 @@
-# LRE Mechanical Integration
+# Mechanical Integration
 
 ## Tags
 #aerospace #systemsEngineering
