@@ -1,4 +1,4 @@
-# Liquid Rocket Engine Components and Purpose (High-Level)
+# LRE Components and Purpose (High-Level)
 
 |Component|Purpose|  
 |-|-|  
