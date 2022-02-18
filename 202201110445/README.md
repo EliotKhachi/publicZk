@@ -4,7 +4,7 @@
 
 2. **Performance** - How well do these functions need to be performed? Identify minimum acceptable values for the system to carry out the mission orthe baseline level of performance desired.  
 
-3. **Interface** - How will the design elements interact with each other?  
+3. **Interface** - How will the design elements interact with each other? i.e. nuts and bolts, flow of fluid, heat, or electricity, exchange of forces, loads, or torques, or all of the above.      
 
 4. **Environmental** - What environment will operations take place in?  
 
