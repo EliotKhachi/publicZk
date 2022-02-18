@@ -1,4 +1,4 @@
-# Start and Shutdown Characteristics 
+# LRE Start and Shutdown Characteristics 
 
 * Start and shutdown characteristics of a liquid rocket engine are best depicted with a Thrust vs Time curve beginning from the time of the cut-off signal to the cessation of thrust.  
 
