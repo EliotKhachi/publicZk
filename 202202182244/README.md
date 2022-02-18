@@ -1,11 +1,18 @@
 # Control and Condition-Monitoring Systems
 
 ## Basic liquid rocket engine (LRE) control systems:  
-1. [\[Engine-system start control\]](../202202182250)  
-2. [\[Engine-system cutoff control\]](../202202182251)  
-3. [\[Duration control of engine main stage\]](../202202182257)  
-4. [\[Engine-system safety controls\]](../202202182258)  
-5. [\[Propellant-tank pressurization control\]](../202202182300)  
+* [\[Engine-system start control\]](../202202182250)  
+* [\[Engine-system cutoff control\]](../202202182251)  
+* [\[Duration control of engine main stage\]](../202202182257)  
+* [\[Engine-system safety controls\]](../202202182258)  
+* [\[Propellant-tank pressurization control\]](../202202182300)  
+* [\[Engine-systems control calibrations\]](../202202182303)  
+* [\[Engine-systems checkout and test controls\]](../202202182301)  
+
+## Additional Control Systems
+* [\[Engine thrust-level control\]](../202202182310)  
+* [\[Propellant mixture-ratio and utilization control\]](../202202182311)
+zet link 
 
 
 ## References
