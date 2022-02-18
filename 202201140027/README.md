@@ -1,4 +1,4 @@
-# Liquid Rocket Engine Product Verification 
+# LRE Product Verification 
 
 |Design Parameter|Dependencies|Design Goals|Constraints|Verification Methods|Verification Types|  
 |---|---|---|---|---|---|  
