@@ -1,4 +1,4 @@
-# Control Methods
+# Control Methods 
 
 ## Tags
 #aerospace
