@@ -1,4 +1,4 @@
-# System Dynamic Analysis
+# System Dynamic Analysis 
 
 * System dynamic analysis studies the behavior of the system as it changes with time as opposed to the *steady-state* of constant operation with time.  
 
