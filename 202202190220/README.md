@@ -2,10 +2,9 @@
 
 The Rocket Engine Test Cell building is composed of:  
 1. [\[RETF Test Cell\]](../202202190235)  
-2. Propellant Supply System  
-3. Water Treatment System  
-
-4. [\[RETF Scrubber System\]](../202202190300)
+2. [\[RETF Propellant Supply System\]](../202202190306)  
+3. [\[RETF Water Treatment System\]](../202202190305)  
+4. [\[RETF Scrubber System\]](../202202190300)  
 5. Additional Support Functions  
 	* observation room
 	* office  
