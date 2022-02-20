@@ -9,5 +9,8 @@ In addition to the basic principles of systems engineering [\[What is Systems En
 5. [\[Clustering of Engines\]](../202202182147)  
 6. [\[Vehicle Interface\]](../202202182148)  
 
+## References
+1. 
+
 ## Tags
 #aerospace #systemsEngineering #hub 
