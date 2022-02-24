@@ -4,9 +4,11 @@
 
 * The basic analytical approach for this type of analysis involves linear or non-linear mathematical modeling consisting of algebraic and integral-differential equations.  
 
-## Applications
-1. 
+## References
+1. Huzel, Dieter, and David Huang. *Modern Engineering For Design of Liquid-Propellant Rocket Engines*. AIAA, 1992.  
 
+## Other Links
+1. [\[Liquid Rocket Engine (LRE) Systems Design Integration\]](../202201110309)  
 
 ## Tags
 #aerospace #systemsEngineering
