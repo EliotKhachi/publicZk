@@ -28,4 +28,4 @@ The best way to showaase your skills is to share stories from your past experien
 [Hard Skills vs. Soft Skills](https://www.indeed.com/career-advice/resumes-cover-letters/hard-skills-vs-soft-skills)
 
 ## Tags
-#career
+#business

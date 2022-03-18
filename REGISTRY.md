@@ -3,7 +3,6 @@
 1. #GDT
 1. #MBSE
 1. #STM32
-1. #Tags
 1. #WSL
 1. #aerospace
 1. #career
@@ -25,6 +24,5 @@
 1. #qualityControl
 1. #software
 1. #systemsEngineering
-1. #test
 1. #universalLaw
 1. #zettelkasten
