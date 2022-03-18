@@ -22,7 +22,6 @@
 1. #linux
 1. #personality
 1. #politics
-1. #programming
 1. #qualityControl
 1. #software
 1. #systemsEngineering
