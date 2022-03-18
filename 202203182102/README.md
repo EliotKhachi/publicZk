@@ -4,5 +4,8 @@ How much, in terms of time and money, would it cost to create and deliver the va
 
 e.g. Delivering files via the Internet is almost free; inventing a product and bulding a factory costs millions.  
 
+## Other Links
+1. [\[Cost of Value Delivery\]](../202203182102)
+
 ## Tags
 #business
