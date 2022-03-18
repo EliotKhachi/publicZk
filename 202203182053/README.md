@@ -1,6 +1,6 @@
 # Ten Ways to Evaluate a Business
 
-1. Urgency  
+1. [\[Urgency\]](../202203182057)  
 2. Market Size
 3. Pricing Potential  
 4. Cost of Customer Acquisition  
@@ -12,5 +12,6 @@
 10. Evergreen Potential  
 
 
+
 ## Tags
-#business
+#business #hub
