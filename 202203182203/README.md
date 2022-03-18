@@ -1,7 +1,6 @@
 # Business Ideas
 
-1. 
-zet link 
+1. [\[CAD and PLM Software Suite\]](../202203182204)
 
 
 ## Tags
