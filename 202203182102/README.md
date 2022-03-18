@@ -1,4 +1,4 @@
-# Evaluate a Business: Cost of Value Delivery
+# Cost of Value Delivery
 
 How much, in terms of time and money, would it cost to create and deliver the value offered?  
 
