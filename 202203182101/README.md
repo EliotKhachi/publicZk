@@ -1,4 +1,4 @@
-# Evaluate a Business: Cost of Customer Acquisition
+# Cost of Customer Acquisition
 
 How easy is it to acquire a new customer? On average, in terms of time and cost, how much will it take to generate a sale?  
 
