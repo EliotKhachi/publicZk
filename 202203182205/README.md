@@ -4,5 +4,10 @@ Computer aided design, or CAD, is a relatively modern tool for engineers to use 
 
 CAD allows engineers to create parts, assemblies, simulations, and engineering drawings for manufacturing. 
 
+## References
+[Science Direct - Computer Aided Design](https://www.sciencedirect.com/topics/engineering/computer-aided-design)  
+
+## Other Links
+
 ## Tags
 #engineering
