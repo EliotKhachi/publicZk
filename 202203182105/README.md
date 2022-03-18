@@ -1,4 +1,4 @@
-# Evaluate a Business: Up-Front Investment
+# Up-Front Investment
 
 How much will you have to invest before you're ready to sell?
 
