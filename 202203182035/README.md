@@ -2,7 +2,7 @@
 
 | Design | Architecture |  
 
-|-|-|-|
+|-|-|
 
 
 ## Tags
