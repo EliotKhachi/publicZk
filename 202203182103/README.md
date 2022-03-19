@@ -1,4 +1,4 @@
-# Uniqeness of Offer
+# Uniqeness of Offer 
 
 How unique is your offer versus competing offerings in the market, and how easy is it for potential competitors to copy you?  
 
