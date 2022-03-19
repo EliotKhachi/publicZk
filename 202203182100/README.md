@@ -1,4 +1,4 @@
-# Pricing Potential
+# Pricing Potential 
 
 What is the highest price a typical purchaser would be willing to spend for a solution?  
 
