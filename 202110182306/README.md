@@ -11,7 +11,7 @@ hellomake: hellomake.c hellofunc.c
 
 ---
 
-Makefiles don't know the difference between a conventional target and a target used as an action to carry out. For example, a commonly used target is shown below:
+Makefiles don't know the difference between a conventional target and a *pseudo target* that are useful for maintaining the project. For example, a commonly used target is shown below:
 ```mk
 clean:
 	rm -rf *.o *.bin
