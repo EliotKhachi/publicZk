@@ -1,5 +1,4 @@
 # CAD and PLM Software Suite
-s
 A software package that serves as the *one* place for design, MBSE [\[What is Model-Based Systems Engineering?\]](../202110052023), and PLM.
 
 
