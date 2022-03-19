@@ -11,5 +11,8 @@
 9. [\[Upsell Potential\]](../202203182106)  
 10. [\[Evergreen Potential\]](../202203182136)  
 
+## References
+1. *The Personal MBA* by Josh Kaufman
+
 ## Tags
 #business #hub
