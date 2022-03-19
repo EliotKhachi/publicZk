@@ -19,11 +19,9 @@ To store the variable's memory address, declare a pointer variable:
 	char* pGrade = &grade;
 
 A few things to note are...
-1. In this case, I named the pointer variable the name of the data variable preceded by a 'p' for simplicity. 
-2. The '\*' (asterisk) symbol is used to declare a pointer variable.
-3. When declaring a pointer, the actual datatype keyword (e.g. `double`)does NOT declare the datatype. The datatype keyword simply tells the compiler how much memory to allocate for the pointer. Remeber that the *pointer* is the data type, not the `double`, or `int`, or `char`, etc.  
-
-	* In fact, a pointer of void type can be declared, but must be converted to the correct type before use.
+1. The '\*' (asterisk) symbol is used to declare a pointer variable.
+2. When declaring a pointer, the actual datatype keyword (e.g. `double`)does NOT declare the datatype. The datatype keyword simply tells the compiler how much memory to allocate for the pointer. Remeber that the *pointer* is the data type, not the `double`, or `int`, or `char`, etc.  
+3. A pointer of void type can be declared, but must be converted to the correct type before use.
 	
 	int* p = &num; // intialize a pointer to an int
 	void* p1 = p; // initialize a void pointer from an int pointer
