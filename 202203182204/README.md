@@ -1,7 +1,6 @@
 # CAD and PLM Software Suite
 A software package that serves as the *one* place for design, MBSE [\[What is Model-Based Systems Engineering?\]](../202110052023), and PLM.
 
-
 ## Features
 * Intuitive GUI  
 * Requirement tracking  
@@ -12,10 +11,15 @@ A software package that serves as the *one* place for design, MBSE [\[What is Mo
 * 3D model to 2d drawing automation and vice versa  
 * Engineering software tools integration (CAD Simulation, MatLab, Simulink, Excel) and engineering resources integration (search bar for more information about concepts in structural analysis,thermal analysis, control theory, electrical circuits, etc...)  
 
+## Problems
+1. How would we sell to customers over the competitors? Why should customers make the switch? How can we make the transition as smooth as possible?  
+2. How much would it cost to create a product like this? How many man hours of software engineers would it take?  
+
+
 ## Evaluation
 This business idea was evaluated based on the [\[Ten Ways to Evaluate a Business\]](../202203182053):
 Current guesses:
-1. Urgency - 1  
+1. Urgency - 3  
 2. Market Size - 10  
 3. Pricing Potential - 8  
 4. Cost of Customer Acquisition - 4  
@@ -26,7 +30,7 @@ Current guesses:
 9. Upsell Potential - 6  
 10. Evergreen Potential - 8  
 
-**Total: 54 --> Has potential but won't be a success without a huge investment of energy and resources... plan accordingly.**  
+**Total: 56 --> Has potential but won't be a success without a huge investment of energy and resources... plan accordingly.**  
 
 ## References
 
