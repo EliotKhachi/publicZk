@@ -32,4 +32,4 @@ A few things to note are...
 [C/C++ DevDocs](https://devdocs.io/c/language/pointer)
 
 # Tags
-#C
+#C #software
