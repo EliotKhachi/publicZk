@@ -1,4 +1,4 @@
-# Ten Ways to Evaluate a Business
+# Ten Ways to Evaluate a Business 
 
 1. [\[Urgency\]](../202203182057)  
 2. [\[Market Size\]](../202203182058)  
