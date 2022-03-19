@@ -1,11 +1,11 @@
 # Pointers 
 
 A pointer is a data type in C/C++ that contains a memory address. That is it. It is that simple. 
-```C++
+
 	int age = 10;
 	double gpa = 3.4;
 	char grade = 'A';
-```
+
 The above examples are variables of other data types in C. Each variable's value is stored somewhere in memory. In other words, each variable has a memory address. To access their memory address, use the '&' (ampersand) symbol:
 
 	&age
