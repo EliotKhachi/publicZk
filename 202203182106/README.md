@@ -1,4 +1,4 @@
-# Upsell Potential
+# Upsell Potential 
 
 Are there related secondary offers that you could also present to purchasing customers?  
 
