@@ -9,6 +9,8 @@ hellomake: hellomake.c hellofunc.c
 		gcc -o hellomake hellomake.c hellofunc.c -I.
 ```
 
+---
+
 Makefiles don't know the difference between a conventional target and a target used as an action to carry out. For example, a commonly used target is shown below:
 ```mk
 clean:
