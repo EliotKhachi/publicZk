@@ -9,7 +9,7 @@ hellomake: hellomake.c hellofunc.c
 		gcc -o hellomake hellomake.c hellofunc.c -I.
 ```
 
-This makefile contains one *rule* whose *target* is `hellomake`, *prerequisite(s)* are `hellomake.c` and `hellofunc.c`, and *recipe* is `gcc -o hellomake hellomake.c hellofunc.c -I`.
+This makefile contains one *rule* with the *target* `hellomake`, *prerequisite(s)* `hellomake.c` and `hellofunc.c`, and *recipe* `gcc -o hellomake hellomake.c hellofunc.c -I`.
 
   
 Typing `make hellomake` in the command line will execute the recipe of this rule. Note that typing `make` with no arguments on the command line will execute the first rule of a makefile in the current directory.  
