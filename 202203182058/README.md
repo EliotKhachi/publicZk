@@ -1,4 +1,4 @@
-# Market Size
+# Market Size 
 
 How many people are actively purchasing things like this?  
 
