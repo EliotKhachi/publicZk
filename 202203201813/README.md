@@ -1,6 +1,7 @@
 # Desktop vs Web Application
 
 |Web|Desktop|  
+|-|-|  
 |**Pro:** Requires only one installation; automatic updates|**Con:** Requires updates|  
 |**Pro:** Works on all your computers|**Con:** Dependent on the speed and technical specifications of your PC|  
 |**Pro:** Makes it easier for users with multiple accounts|**Con:** Makes it difficult for users to use multiple accounts|  
