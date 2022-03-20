@@ -19,4 +19,4 @@
 | 14      | E   | 1110   |
 | 15      | F   | 1111   |
 ## Tags
-#electronics #C #software
+#electronics #software
