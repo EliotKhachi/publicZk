@@ -1,5 +1,5 @@
-# CAD and PLM Software Suite
-A software package that serves as the *one* place for design, MBSE [\[What is Model-Based Systems Engineering?\]](../202110052023), and PLM.
+# Free CAD and PLM Software Suite
+A web application that serves as the *one* place for design, MBSE [\[What is Model-Based Systems Engineering?\]](../202110052023), and PLM. It is free to use by all and is funded through ad revenue by manufacturers. 
 
 ## Features
 * Intuitive GUI  
