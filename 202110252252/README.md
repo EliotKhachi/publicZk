@@ -1,4 +1,4 @@
-# Pointers 
+# Pointers in C/C++ 
 
 A pointer is a data type in C/C++ that contains a memory address. That is it. It is that simple. 
 ```
@@ -32,4 +32,4 @@ A few things to note are...
 [C/C++ DevDocs](https://devdocs.io/c/language/pointer)
 
 # Tags
-#C #software
+#software
