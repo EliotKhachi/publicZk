@@ -1,4 +1,4 @@
-# Desktop vs Web Applications
+# Desktop vs Web Applications 
 
 | Web | Desktop |  
 |-----|---------|  
