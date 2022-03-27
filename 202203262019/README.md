@@ -1,4 +1,4 @@
-# Methods - Java
+# Methods - Java 
 
 ## What Problem do Methods Solve?
 The alternative to using methods is copying and pasting code, which is unmanageable because of 2 problems:  
