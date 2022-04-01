@@ -1,4 +1,4 @@
-# Packages - Java
+# Packages - Java 
 ## What
 Packages are just folders. They are used to organize your program files in an intuitive and logical structure.  
 
