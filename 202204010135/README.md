@@ -1,4 +1,4 @@
-# Interfaces - Java
+# Interfaces - Java 
 ## What is an Interface?
 Interfaces define a contract without implementation.  
 ```java
