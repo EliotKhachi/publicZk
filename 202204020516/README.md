@@ -1,4 +1,4 @@
-# Selecting a Data Structure
+# Selecting a Data Structure 
 
 Data structures are used to organize, handle, and/or manipulate *multiple* elements of *primitive* or *complex* data types. To select a data structure, let's identify our needs by asking some questions.
 
