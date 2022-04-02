@@ -1,4 +1,4 @@
-# ArrayLists - Java
+# ArrayLists - Java 
 
 ## Introduction
 Arraylists are part of the **Java Collections Framework**. Like arrays, arraylists can hold large amounts of data of any single type. Arraylists can also change in size.
