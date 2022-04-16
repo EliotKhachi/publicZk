@@ -14,7 +14,7 @@ To make a weld, first you place the parent metals in near proximity and, dependi
 ## Links
 1. [\[Welding Joints\]](../202204162211)
 
-
+2. [\[Introduction to Welding\]](../202204162147)
 
 ## References
 \[[Introduction to Welding]\](https://www.techtransfer.com/blog/introduction-to-welding/)
