@@ -23,5 +23,8 @@ Tube or pipe bending is a common manufacturing process used to construct anythin
 * Tube - The bending die is fixed in place by a pin (free to rotate) and the bending tool is cranked to *pull* or *draw* the tube *around* the die.  
 * Pipe - The pipe is held in place and a hydraulic press forces the bending die into the center of the pipe, forcing the pipe to bend around the die.  
 
+## References
+\[[Tube Bending Basics]\](https://www.youtube.com/watch?v=3n_lf2RHIPs&t=170s)
+
 ## Tags
 #manufacturing
