@@ -2,7 +2,7 @@
 
 ## Hard Skills
 Hard skills are required for performing the technical tasks of a job
-* Bilingual or multiplingual
+* Bilingual or multilingual
 * Database management
 * Adobe software suite
 * Network security
@@ -20,12 +20,13 @@ Hard skills are required for performing the technical tasks of a job
 ## Soft Skills
 Many soft skills are associated with personality traits and personal habits, but you can always cultivate them.  
 
+* Critical Thinking
 * Integrity
 * Dependability
 * Effective communication
 * Open-mindedness
 * Teamwork
-* Creativity*
+* Creativity
 * Adaptability
 * Organization
 * Willingness to learn
