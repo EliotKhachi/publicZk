@@ -1,4 +1,4 @@
-# Introduction to Welding
+# Welding
 
 Welding is a process used to join metals at the molecular level, forming a homogenous bond between two or more pieces of metal.
 
