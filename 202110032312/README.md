@@ -7,5 +7,6 @@ No one likes an extremely ordinary person but similarly someone who is implausib
 Writeres strike a balance between the two and create characters with a degree of ordinariness to be relatable and believable while exaggerating a portion of their characters to add nuance, depth, emotion, conflict, and even relatability.
 ## References
 *The Idiot* by Dostoevsky: Part 4, pgs 1 & 2 of Ch. 1
+
 ## Tags
 #personality
