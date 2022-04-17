@@ -1,4 +1,4 @@
-# MIG Welding
+# MIG - Gas Metal Arc Welding (GMAW)
 
 MIG welding is one of the most simple and popular methods of welding.  
 
