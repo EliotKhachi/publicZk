@@ -9,12 +9,7 @@ Welding is a process used to join metals at the molecular level, forming a homog
 3. Filler Metal  
 4. "Air Shield"  
 
-To make a weld, first you place the parent metals in near proximity and, depending on the circumstance, hold them securely in place. Next, you heat the space in between them to their melting points while shielding the heated area from the air. Finally, you add the filler metal to join the parent metals and create a single piece of metal.  
-
-## Links
-1. [\[Welding Joints\]](../202204162211)  
-
-2. [\[Welding Processes\]](../202204162214) 
+To make a weld, first you place the parent metals in near proximity [\[Welding Joints\]](../202204162211) and, depending on the circumstance, hold them securely in place. Next, you heat the space in between them to their melting points while shielding the heated area from the air. Finally, you add the filler metal to join the parent metals and create a single piece of metal. There are different techniques to achieve this, see [\[Welding Processes\]](../202204162214).  
 
 ## References
 \[[Introduction to Welding]\](https://www.techtransfer.com/blog/introduction-to-welding/)
