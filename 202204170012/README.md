@@ -1,5 +1,4 @@
-# Stick - Shielded Metal Arc Welding (SMAW)
-
+# TIG - Gas Tungsten Arc Welding (GTAW)
 
 ## Tags
 #manufacturing
