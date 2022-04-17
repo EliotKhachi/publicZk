@@ -3,7 +3,7 @@
 Machining is the process used to remove material to give material a specific shape. It is typically done on metals although it can be used for many other materials such as wood, ceramic, and plastic.   
 
 ## Processes
-* Turning  
+* [\[Turning\]](../202204170048)
 * Milling  
 
 
