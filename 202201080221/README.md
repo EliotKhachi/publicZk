@@ -8,7 +8,7 @@
 
 * Top-down approach
 
-* Life-cycle orientation
+* Life-cycle orientation [\[PLM - Product Lifecycle Management\]](../202203182210)  
 
 * Interdisciplinary approach
 
