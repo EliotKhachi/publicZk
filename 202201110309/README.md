@@ -6,8 +6,8 @@ In addition to the basic principles of systems engineering [\[What is Systems En
 2. [\[System Calibration\]](../202202182136)  
 3. [\[System Integration Performance Characteristics\]](../202202182138)  
 4. [\[Mechanical Integration\]](../202202182141)  
-5. [\[Clustering of Engines\]](../202202182147)  
-6. [\[Vehicle Interface\]](../202202182148)  
+5. [\[Clustering of Engines\]](../202204180448) 
+6. [\[Vehicle Interface\]](../202204180446)  
 
 ## References
 1. Huzel, Dieter, and David Huang. *Modern Engineering For Design of Liq    uid-Propellant Rocket Engines*. AIAA, 1992. 
