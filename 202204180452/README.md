@@ -1,4 +1,4 @@
-# Fluid Mechanics Hub
+# Fluid Mechanics Hub 
 
 Fluid mechanics is the study of how [\[Fluid\]](../202204180453) behaves.
 
