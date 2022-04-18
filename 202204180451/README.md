@@ -10,6 +10,6 @@ Essentially, the Reynold's Number is the ratio of a fluid's inertia forces to it
 
 ## Other Links
 1. [\[Fluid Mechanics\]](../202204180452)  
-
+2. [\[Characteristic Length\]](../202204180512)  
 ## Tags
 #fluidMechanics
