@@ -6,4 +6,4 @@
 4. [\[Forming\]](https://learnmechanical.com/forming-process/)  
 
 ## Tags
-#manufacturing #hub
+#engineering #manufacturing #hub
