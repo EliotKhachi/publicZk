@@ -5,7 +5,7 @@ In addition to the basic principles of systems engineering [\[What is Systems En
 1. [\[System Dynamic Analysis\]](../202202182135)  
 2. [\[System Calibration\]](../202202182136)  
 3. [\[System Integration Performance Characteristics\]](../202202182138)  
-4. [\[Mechanical Integration\]](../202202182141)  
+4. [\[Mechanical Integration\]](../202204180448) 
 5. [\[Clustering of Engines\]](../202204180448) 
 6. [\[Vehicle Interface\]](../202204180446)  
 
