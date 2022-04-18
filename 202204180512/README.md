@@ -1,4 +1,4 @@
-# Characteristic Length
+# Characteristic Length 
 
 The characteristic length *L* is the length in a fluid flow that most accurately depicts the length-scale of the flow. 
 
