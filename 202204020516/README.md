@@ -14,7 +14,7 @@ It may not be obvious how to organize large pools of data; so, try to break up y
 ## Types of Data Structures, Categorized
 **Driven by Order**
 * List - ordered sequence of elements.
-* Queue - a *list* where but elements are processed in a FIFO fashion.
+* Queue - a *list* where elements are processed in a FIFO fashion.
 * Stack - a *list* where elements are processed in a LIFO fashion.
 **Driven by Uniqueness**
 * Set - unordered collection of unique elements
