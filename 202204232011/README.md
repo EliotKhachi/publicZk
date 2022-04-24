@@ -1,4 +1,4 @@
-# Breadth First Search
+# Breadth First Search 
 
 ## Key Points
 *Breadth First Search (BFS)* is an algorithm for traversing an unweighted Graph or a Tree.
