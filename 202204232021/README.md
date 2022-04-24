@@ -1,4 +1,4 @@
-# Guide to Git
+# Guide to Git 
 
 0. To start a git project, you first need to install git  
 	```bash
