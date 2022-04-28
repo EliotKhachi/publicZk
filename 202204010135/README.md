@@ -46,6 +46,5 @@ An interface can be thought of as a rigid outline, or, a *contract*, for a type 
 	3. age;
 	4. interact();
 
-
 ## Tags
-#software #java
+#programming #java
