@@ -16,4 +16,4 @@ Here's a more complicated usage to showcase the possibilites of *typdef*
 [DevDocs - TypeDef declaration](https://devdocs.io/c/language/typedef)
 
 ## Tags
-#software
+#programming
