@@ -29,4 +29,4 @@ A Core Dump or Segmentation fault is a specific error caused by accessing memory
 [Core Dump (Segmentation fault in C/C++ - GeeksforGeeks](https://www.geeksforgeeks.org/core-dump-segmentation-fault-c-cpp/)
 
 ## Tags
-#software
+#programming
