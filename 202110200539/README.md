@@ -30,4 +30,4 @@ For the sake of examples, let A = 60 and B = 13.
 **right operand** - The variable to the right of the operator.
 
 ## Tags
-#software
+#programming
