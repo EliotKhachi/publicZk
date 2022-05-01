@@ -1,4 +1,4 @@
-# Introduction to Docker
+# Introduction to Docker 
 
 The purpose of *docker* is to streamline the development lifecycle by standardizing an application's environments.
 
