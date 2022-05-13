@@ -5,6 +5,6 @@ To sync to another machine, you must first generate an ssh key pair
 
 Now navigate to ~/.ssh and `ls` to see `id_rsa` and `id_rsa.pub`
 
-Copy
+Copy  
 ## Tags
 #linux
