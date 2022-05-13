@@ -1,4 +1,4 @@
-# Syncing to Another Machine
+# SSH into Another Machine
 
 1. To sync to a remote machine from your local machine, you must first generate an ssh key pair  
 
@@ -30,6 +30,8 @@ Navigate to ~/.ssh and `ls` to see `id_rsa` and `id_rsa.pub`
 **On local machine**
 ```
 	ssh remote-user@remote-ip
+
+
 
 ## Tags
 #linux
