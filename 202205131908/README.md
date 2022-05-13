@@ -13,17 +13,23 @@ Navigate to ~/.ssh and `ls` to see `id_rsa` and `id_rsa.pub`
 ```
 	cd ~/.ssh
 	vim authorized_keys
-	# Copy contents of id_rsa.pub
+	# Copy contents of id_rsa.pub from local machine into this file
 ```
-3. While still on your remote machine, go into your sshd\_config file  
+3. Go into your sshd\_config file  
+**On remote machine**
 ```
 	cd /etc/ssh
 	cat sshd_config >> sshd_config.bak ## Create a backup of your sshd_config file first
 	sudo vim sshd_config
-	# Uncomment and change the follow:
+	# Uncomment and change the following:
 	# PermitRootLogin prohibit-password to PermitRootLogin yes 
 	# PasswordAuthentication no to PasswordAuthentication yes
 ```
+
+4. Congratulations, now you can ssh into your remote machine
+**On local machine**
+```
+	ssh remote-user@remote-ip
 
 ## Tags
 #linux
