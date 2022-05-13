@@ -1,19 +1,22 @@
 # SSH into Another Machine
 
-1. To sync to a remote machine from your local machine, you must first generate an ssh key pair  
+1. To SSH to a remote machine from your local machine, you must first generate an ssh key pair  
 
 **On local machine**  
 `ssh-keygen -t rsa -b 4096`  
 
 2. Next you need to copy over your public rsa key over to your remote machine's authorized\_keys file
-
-Navigate to ~/.ssh and `ls` to see `id_rsa` and `id_rsa.pub`
-
+**On local machine**
+```
+	cd ~/.ssh 
+	vim id_rsa.pub
+	# Copy contents
+```
 **On remote machine**
 ```
 	cd ~/.ssh
 	vim authorized_keys
-	# Copy contents of id_rsa.pub from local machine into this file
+	# Paste contents of id_rsa.pub from local machine into this file
 ```
 3. Go into your sshd\_config file  
 **On remote machine**
