@@ -34,6 +34,8 @@
 ```
 	ssh remote-user@remote-ip
 ```
+5. If it doesn't work, you need to do `sudo systemctl restart ssh` or `sudo service ssh restart` on the remote machine. It is a good idea to set this up upon booting up the machine. Further configuration is needed to ssh while the remote machine is suspended or to prevent ssh from exiting when the remote machine enters sleep mode.  
+
 
 ## Other Links
 
