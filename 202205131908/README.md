@@ -1,4 +1,4 @@
-# SSH into Another Machine
+# SSH into Another Machine 
 
 To SSH to a remote machine from your local machine, you must first generate an ssh key pair  
 
