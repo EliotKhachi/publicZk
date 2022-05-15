@@ -1,4 +1,4 @@
-# Enabling Wake-On-LAN
+# Enabling Wake-On-LAN 
 
 ## What is it
 Wake-On-LAN (WoL) enables you to turn on your computer remotely whether it's hibernating, sleeping, or completely turned off by sending *magic packets* from another computer to the target machine's network device (Network Interface Controller [NIC]). 
