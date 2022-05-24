@@ -14,5 +14,10 @@
 	sudo chown -R root:docker /var/run/docker # change permissions of docker
 ```
 
+3. Install docker-compose (recommended for more possibilities)
+```
+	sudo apt install docker-compose
+``` 
+
 ## Tags
 #linux
