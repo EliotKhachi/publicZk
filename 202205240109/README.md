@@ -16,7 +16,7 @@
 
 3. Install docker-compose (recommended for more possibilities)
 ```
-	sudo apt install docker-compose
+	sudo apt-get install docker-compose
 ``` 
 
 ## Tags
