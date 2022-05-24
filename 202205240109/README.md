@@ -10,7 +10,7 @@
 ```
 	sudo groupadd docker # add docker group
 	sudo usermod -aG docker $USER # add user to docker group
-	sudo chown root:docker /var/run.docker.sock # change permissions of docker.sock
+	sudo chown root:docker /var/run/docker.sock # change permissions of docker.sock
 	sudo chown -R root:docker /var/run/docker # change permissions of docker
 ```
 
