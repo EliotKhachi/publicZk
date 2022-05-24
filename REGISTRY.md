@@ -26,6 +26,7 @@
 1. #STM32
 1. #systemsEngineering
 1. #Tags
+1. #test
 1. #universalLaw
 1. #WSL
 1. #zettelkasten
