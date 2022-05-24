@@ -2,7 +2,8 @@
 
 [202205240152](../202205240152) - What is Docker?
 
-Virtual Machines vs Containers
+
+[202205240156](../202205240156) - Containers vs Virtual Machines
 
 Architecture of Docker
 
