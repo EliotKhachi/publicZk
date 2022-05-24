@@ -1,4 +1,4 @@
-# Containers vs Virtual Machines
+# Containers vs Virtual Machines 
 
 ## Virtual Machines
 Virtual machines is an abstraction of a machine or physical hardware. I.e. a mac running windows and linux using hypervisor (a software used to create and manage virtual machines).
