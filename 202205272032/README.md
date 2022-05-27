@@ -1,3 +1,0 @@
-# -p VIS Inventory
-
-## Tags
