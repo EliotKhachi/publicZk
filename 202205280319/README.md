@@ -1,4 +1,4 @@
-# Leetcode - Bubble Sort
+# Leetcode - Bubble Sort 
 
 ## Algorithm
 ```java
