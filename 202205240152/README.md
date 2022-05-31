@@ -10,4 +10,4 @@ Why wouldn't they run on different machines?
 Docker packages dependencies and runs apps in an isolated environment.
 
 ## Tags
-#programming #docker
+#docker
