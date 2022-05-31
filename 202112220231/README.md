@@ -25,7 +25,11 @@
 * git branch -M main | Rename the *HEAD* branch to main  
 * git branch -D branch | Force delete the local branch (do after GH PR and merge) 
 * git branch -a | Show all the local and remote branches
-* git pull --prune origin |  
+
+**Merging**  
+* git switch main | Switch to the branch that you want receiving the changes  
+* git merge \<branch-name\> | Merge the branch specified into the current or HEAD branch  
+
 
 ## Tags
 #git
