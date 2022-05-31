@@ -4,4 +4,4 @@ An Image is a package, or template, used to create one or more containers. [\[Do
 
 
 ## Tags
-#programming
+#programming #docker
