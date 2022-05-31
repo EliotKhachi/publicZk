@@ -15,4 +15,4 @@
 [Squash Apps - An Overview of Desktop vs Web Applications](https://squashapps.com/blog/an-overview-of-desktop-vs-web-application-pros-and-cons/)
 
 ## Tags
-#software
+#programming
