@@ -1,4 +1,4 @@
-# Dynamic Programming
+# Dynamic Programming 
 
 When solving a complicated algorithm-based problem or leetcode problem, these are the steps you need to follow:
 
