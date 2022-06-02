@@ -27,7 +27,7 @@
 * git branch -a | Show all the local and remote branches
 
 **Merging**  
-* git switch main | Switch to the branch that you want receiving the changes  
+* git switch \<branch-name\> | Switch to the branch that you want receiving the changes  
 * git merge \<branch-name\> | Merge the branch specified into the current or HEAD branch  
 
 
