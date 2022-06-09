@@ -1,4 +1,4 @@
-# CSS Basics
+# CSS Basics 
 
 CSS stands for **Cascading Style Sheets**. You use it to create a beautiful, smooth-flowing website. More specifically, you use it to augment your traditional elements on the webpage produced by HTML; for example, you can use CSS for basic text styling like *color* and *size*, or for more complex effects like *animation*.  
 
