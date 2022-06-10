@@ -4,7 +4,7 @@ The Amazon EC2 is the *Amazon Elastic Compute Cloud*. An *instance* is a virtual
 
 ## Get Started
 Pre-requisites
-Step 1: Launch an instance  
+Step 1: Launch an instance --> [202206100431](../202206100431) - Amazon EC2 - Pre-requisites to Launching an Instance  
 Step 2: Connect to your instance --> [202206100242](../202206100242) - Connect to your Linux Instance  
 Step 3: Clean up your instance
 
