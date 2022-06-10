@@ -1,4 +1,4 @@
-# Create a Security Group
+# Create a Security Group 
 
 Security groups act as a a firewall for instances, monitoring inbound and outbound traffic at the instance level. You must add rules to a security group that enable you to connect to your instance from an IP address using SSH.  
 
