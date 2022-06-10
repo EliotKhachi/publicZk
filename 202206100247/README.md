@@ -11,7 +11,6 @@ Step 3: Clean up your instance
 ## Other Links
 [202206100231](../202206100231) - What is AWS?
 
-
 ## References
 [Tutorial: Get started with Amazon EC2 Linux instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)  
 
