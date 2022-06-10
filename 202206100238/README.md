@@ -1,4 +1,4 @@
-# Amazon EC2 key pairs and Linux instances
+# Amazon EC2 key pairs and Linux instances 
 
 A *key pair*, consisting of a public key and a private key, is a set of security credentials used to prove your identity when connecting to an Amazon EC2 instance. This allows you to securely SSH into your instance.  
 
