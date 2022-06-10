@@ -12,6 +12,25 @@ Before explaining the *.gitignore* file, it's imperative that you understand git
 * hidden system files, such as .DS\_Store or Thumbs.db  
 * personal IDE config files, such as .idea/workspace.xml
 
+## Git ignore patterns
+* \*\*/logs  
+	* logs/debug.log  
+	* logs/monday/foo.bar  
+	* build/logs/debug.log  
+* \*\*/logs/debug.log  
+	* logs/debug.log  
+	* build/logs/debug.log
+	* *but not* logs/build/debug.log
+* \*.log
+	* debug.log  
+	* foo.log  
+	* .log  
+	* logs/debug.log  
+* \*.log !important.log  
+	* debug.log  
+	* important/trace.log  
+	* *but not* important/debug.log  
+ 
 ## References
 [Atlassian .gitignore Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)  
 
