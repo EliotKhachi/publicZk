@@ -2,8 +2,8 @@
 
 The Amazon EC2 is the *Amazon Elastic Compute Cloud*. An *instance* is a virtual server in the AWS Cloud. With Amazon EC2 you can configure the OS and applications that run on your instance.  
 
-Pre-requisites
-Step 1: Launch an instance --> [202206100431](../202206100431) - Setting up Amazon EC2 Instance  
+Pre-requisites --> [202206100431](../202206100431) - Setting up Amazon EC2 Instance  
+Step 1: Launch an instance
 Step 2: Connect to your instance --> [202206100242](../202206100242) - Connect to your Linux Instance  
 Step 3: Clean up your instance
 
