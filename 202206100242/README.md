@@ -1,4 +1,4 @@
-# Connecting to a Remote Server
+# Connecting to a Remote Server 
 
 If your local computer OS is Linux or macOS X, you can use the following ways to connect to your Linux instance:  
 * SSH client  
