@@ -7,8 +7,7 @@ If your local computer OS is Linux or macOS X, you can use the following ways to
 
 ## Connect Using SSH
 **Prerequisites**
-* Check your instance status, make sure you've launched it  
-
+* Check your instance status, make sure you've launched it --> [202206100431](../202206100431) - Amazon EC2 - Pre-requisites to Launching an Instance  
 
 ## References
 [Connect to your Linux instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)
