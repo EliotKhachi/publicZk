@@ -1,4 +1,4 @@
-# Git Ignore File
+# Git Ignore File 
 
 Before explaining the *.gitignore* file, it's imperative that you understand git sees every file in your working copy as one of three things.  
 1. tracked - a file which as been previously staged or committed.  
