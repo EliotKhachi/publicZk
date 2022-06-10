@@ -1,8 +1,8 @@
-1. #
 1. #aerospace
 1. #business
 1. #communication
 1. #deepWork
+1. #dev
 1. #electronics
 1. #embeddedSystems
 1. #engineering
@@ -22,11 +22,8 @@
 1. #politics
 1. #programming
 1. #qualityControl
-1. #software
 1. #STM32
 1. #systemsEngineering
-1. #Tags
-1. #test
 1. #universalLaw
 1. #VIS
 1. #WSL
