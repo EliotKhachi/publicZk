@@ -1,4 +1,4 @@
-# Amazon EC2 Pre-requisites
+# Amazon EC2 - Pre-requisites to Launching an Instance 
 
 Before launching an Amazon EC2 instance, you must
 1. Sign up for AWS  
