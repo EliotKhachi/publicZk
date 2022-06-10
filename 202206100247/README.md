@@ -1,6 +1,6 @@
 # Amazon EC2 Linux Instances Tutorial
 
-The Amazon EC2 is the *Amazon Elastic Compute Cloud*. An *instance* is a virtual server in the AWS Cloud. With Amazon EC2 you can configure the OS and applications that run on your instance.  
+The Amazon EC2 is the *Amazon Elastic Compute Cloud*. An *instance* is a virtual server in the AWS Cloud. With Amazon EC2 you can configure the OS and applications that run on your instance. See [202206101828](../202206101828) - What is an Instance?
 
 ## Set one up!
 Pre-requisites --> [202206100431](../202206100431) - Setting up Amazon EC2 Instance  
