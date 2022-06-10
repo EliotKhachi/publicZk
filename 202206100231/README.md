@@ -6,4 +6,4 @@ AWS provides on-demand delivery of technology services via the internet, with pa
 [AWS Getting Started](https://aws.amazon.com/getting-started/?nc1=f_cc)
 
 ## Tags
-#dev #AWS
+#dev #aws
