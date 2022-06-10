@@ -1,4 +1,4 @@
-# Host a Website on AWS (EC2 Instance)
+# Host a Website on AWS (EC2 Instance) 
 
 To deploy a website to the internet, you need a web hosting service to, at a bare minimum, operate and maintain the servers that keep it up and running. AWS does this and more, such as backing up your data and security.  
 
