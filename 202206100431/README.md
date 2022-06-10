@@ -1,4 +1,4 @@
-# Setting up Amazon EC2 Instance
+# Setting up Amazon EC2 Instance 
 
 ## Pre-requisites
 Before launching an Amazon EC2 instance, you must
