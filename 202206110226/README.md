@@ -1,4 +1,4 @@
-# What is a Web Server?
+# What is a Web Server? 
 When using the term *web server*, we are either referring to hardware or software, depending on the context.  
 
 If we're talking about hardware, we mean...  
