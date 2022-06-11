@@ -3,7 +3,7 @@
 To enable HTTPS on Nginx, follow the straight-forward guide in the reference below.  
 
 ## Overview
-Enabling HTTPS on Nginx involves installing openssl and using its command for generating a private key and website certificate. Run this command in */etc/nginx/certificate*: `openssl req -new -newkey rsa:4096 -x509 -sha256 -days 365 -nodes -out nginx-certificate.crt -keyout nginx.key`  
+Enabling HTTPS on Nginx involves --> [202206112020](../202206112020) - Generating an Self-Signed SSL Certificate
 
 Also, you must edit your Nginx configuration to listen on the HTTPS port, 443, and to point to your nginx.key and nginx-certificate.crt files.  
 
