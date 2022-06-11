@@ -1,4 +1,4 @@
-# What is Nginx?
+# What is Nginx? 
 
 *Nginx*, pronounced as Engine-X, is a free and open-source web server software that is optimized for very high performance and stability using a non-threaded and event-driven architecture. Review what web servers are here --> [202206110226](../202206110226) - What is a Web Server?
 
