@@ -22,6 +22,8 @@ Consider the Website [Wikipedia.org](https://www.wikipedia.org/). It may seem ju
 [202206110246](../202206110246) - What is HTTP?  
 [202206090105](../202206090105) - HTML Basics  
 [202206090122](../202206090122) - CSS Basics  
+[202206110243](../202206110243) - What is a Browser?  
+
 
 ## References
 [What is a Web Server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)  

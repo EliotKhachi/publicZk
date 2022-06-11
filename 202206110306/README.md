@@ -9,6 +9,9 @@ Technically, you could host all those files on your own computer, but it's far m
 * Have a dedicated IP address  
 * Are maintained by a third party  
 
+## Proxys
+In reality, the client probably isn't speaking directly to the server. Instead, a client speaks to a *proxy*, and the server speaks to a *reverse proxy*. There are good reasons for this --> [202206110220](../202206110220) - Proxy vs Reverse Proxy 
+
 ## References
 [What is a Web Server - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)  
 
