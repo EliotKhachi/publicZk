@@ -1,3 +1,3 @@
-# What is a Client in Web Dev?
+# What is a Client in Web Dev? 
 
 ## Tags
