@@ -1,4 +1,4 @@
-# Launching an Amazon EC2 Instance
+# Launching an Amazon EC2 Instance 
 
 Before launch an instance, make sure you've set it up --> [202206100431](../202206100431) - Setting up Amazon EC2 Instance
 
