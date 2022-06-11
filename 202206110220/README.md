@@ -20,6 +20,9 @@ A *reverse proxy* is a software that directs the client's request to the actual 
 * Canary Deployment  
 * Microservices  
 
+## Other Links
+[202206110217](../202206110217) - Introduction to NGINX --> Open source Web server software that handles proxying and reverse proxying
+
 ## References
 [Proxy vs Reverse Proxy](https://www.youtube.com/watch?v=SqqrOspasag)  
 
