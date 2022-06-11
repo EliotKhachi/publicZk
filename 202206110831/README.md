@@ -23,4 +23,4 @@
 [NGINX Linux Server | Common Configurations](https://www.youtube.com/watch?v=MP3Wm9dtHSQ)
 
 ## Tags
-#dev
+#dev #nginx
