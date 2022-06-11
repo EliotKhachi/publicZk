@@ -1,6 +1,6 @@
-# Deploy a Web Application Using Nginx 
+# Nginx 
 
-*NGINX*, pronounced as Engine-X, is a free and open-source web server software that is optimized for very high performance and stability using a non-threaded and event-driven architecture. Review what web servers are here --> [202206110226](../202206110226) - What is a Web Server?
+*Nginx*, pronounced as Engine-X, is a free and open-source web server software that is optimized for very high performance and stability using a non-threaded and event-driven architecture. Review what web servers are here --> [202206110226](../202206110226) - What is a Web Server?
 
 Nginx has capabilities for...
 * Reverse proxying [202206110220](../202206110220) - Proxy vs Reverse Proxy.  
@@ -10,7 +10,7 @@ Nginx has capabilities for...
 * Proxy servers for email (IMAP, POP3, and SMTP)
 
 
-## Commands
+## Installation Commands
 ```bash
 	sudo apt install nginx -y
 	sudo systemctl start nginx # start service
@@ -19,7 +19,12 @@ Nginx has capabilities for...
 	sudo systemctl enable nginx # auto start when Linux server is rebooted	
 	sudo systemctl disable nginx # disable auto start  
 	sudo systemctl restart nginx # restart service 
-	sudo systemctl reload nginx # reload config settings without restarting 
+	sudo systemctl reload nginx # reload config settings without restarting  
+	
+	# Enable firewall access
+	sudo ufw app list # list applications
+	sudo ufw allow 'Nginx ...' # allow an Nginx application (Full, HTTP(S))  
+	sudo ufw status # verify Nginx is active  
 
 ```
 
