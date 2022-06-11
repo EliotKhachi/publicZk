@@ -1,4 +1,4 @@
-# Setting up Certificate Authorities
+# Configuring Certificate Authorities
 
 ## Firefox
 Go to your browser > settings > Privacy and Security
