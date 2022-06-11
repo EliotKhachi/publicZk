@@ -1,6 +1,6 @@
-# OpenSSL CSR
+# OpenSSL Adding a Certificate Authority 
 
-A *CSR* is a certificate signing request used to verify your
+A 
 
 ## References
 [Socket Tools - Creating Certificate Using OpenSSL](https://sockettools.com/kb/creating-certificate-using-openssl/)  
