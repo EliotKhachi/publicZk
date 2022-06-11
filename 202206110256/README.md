@@ -1,4 +1,4 @@
-# How Web Servers Work
+# How Web Servers Work 
 
 At a fundamental level, your web browser displays content on your computer screen. The purpose of a web server is to store that content and transfer it upon request (to the *client*).  
 
