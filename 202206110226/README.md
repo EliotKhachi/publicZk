@@ -6,6 +6,8 @@
 ---
 **Software Side**
 * A software is required that understands *URLs* and *HTTP*.  
+---
+See how, on a basic level, web servers work
 
 ## Types of Web Servers
 * **Static** - Web servers are *static* when the server sends its hosted files *as-is* to your browser.  
@@ -13,6 +15,11 @@
 
 ## Example Server - Wikipedia
 Consider the Website [Wikipedia.org](https://www.wikipedia.org/). It may seem just like a hyperlinked site with static documents, but it is likely a *dynamic* website. Due to its scale, it would be inefficient to store all its documents as static HTML files; this would make editing content difficult. Instead, a database is formed and maintained, and this data populates an HTML template.  
+
+
+## Other Links
+[202206110240](../202206110240) - What is a URL?  
+[202206110246](../202206110246) - What is HTTP?  
 
 ## References
 [What is a Web Server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)  
