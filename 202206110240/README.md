@@ -1,4 +1,4 @@
-# What is a URL?
+# What is a URL? 
 
 A *URL* stands for *Uniform Resource Locator*. It essentially a text string where a "resource", such as a web page, image or video, can be found on the internet.  
 
