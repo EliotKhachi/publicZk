@@ -8,29 +8,16 @@ Nginx has capabilities for...
 * Load balancing 
 * HTTP  
 * Proxy servers for email (IMAP, POP3, and SMTP)
+---
 
-
-## Installation Commands
-```bash
-	sudo apt install nginx -y
-	sudo systemctl start nginx # start service
-	sudo systemctl stop nginx # stop service  
-	sudo systemctl status nginx # see service status  
-	sudo systemctl enable nginx # auto start when Linux server is rebooted	
-	sudo systemctl disable nginx # disable auto start  
-	sudo systemctl restart nginx # restart service 
-	sudo systemctl reload nginx # reload config settings without restarting  
-	
-	# Enable firewall access
-	sudo ufw app list # list applications
-	sudo ufw allow 'Nginx ...' # allow an Nginx application (Full, HTTP(S))  
-	sudo ufw status # verify Nginx is active  
-
-```
+## Other Links
+[202206110831](../202206110831) - Nginx Configuration Options  
+[202206111800](../202206111800) - Nginx Directory Structure  
+[202206111801](../202206111801) - Nginx Installation  
 
 ## References
 [Linux Shell Tips - How to Host a Website on NGINX Server](https://www.linuxshelltips.com/install-nginx-in-linux/)
 [YouTube - Nginx Tutorial | Learn Nginx Fundamentals | Deploy a Web Application Using Nginx | Edureka](https://www.youtube.com/watch?v=1ndlRiaYiWQ)
 
 ## Tags
-#dev
+#dev #nginx
