@@ -1,4 +1,4 @@
-# What is a Browser?
+# What is a Browser? 
 
 A *browser* or *web browser* is a program that receives and displays pages from the Web and lets users access further pages through hyperlinks.
 
