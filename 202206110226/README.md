@@ -1,12 +1,13 @@
 # What is a Web Server?
+When using the term *web server*, we are either referring to hardware or software, depending on the context.  
+
+If we're talking about hardware, we mean...  
+* A computer that stores web server software and website component files (HTML, CSS, Javascript, images) and that is connected to the internet and supports physical data interchange with other devices on the web  
 ---
-**Hardware Side**
-* A computer that stores web server software and website component files (HTML, CSS, Javascript, images)  
-* Connected to the internet and supports physical data interchange with other devices on the web  
+If we're talking about software, we mean  
+* The software that is required for the server and client [202206110302](../202206110302) to communicate, for example, Nginx --> [202206110217](../202206110217) - Deploy a Web Application Using Nginx  
 ---
-**Software Side**
-* A software is required that understands *URLs* and *HTTP*.  
----
+
 See how, on a basic level, web servers work: [202206110256](../202206110256) - How Web Servers Work
 
 ## Types of Web Servers
@@ -23,7 +24,6 @@ Consider the Website [Wikipedia.org](https://www.wikipedia.org/). It may seem ju
 [202206090105](../202206090105) - HTML Basics  
 [202206090122](../202206090122) - CSS Basics  
 [202206110243](../202206110243) - What is a Browser?  
-[202206110302](../202206110302) - What is a Client?  
 
 
 ## References
