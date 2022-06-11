@@ -23,6 +23,7 @@ Consider the Website [Wikipedia.org](https://www.wikipedia.org/). It may seem ju
 [202206090105](../202206090105) - HTML Basics  
 [202206090122](../202206090122) - CSS Basics  
 [202206110243](../202206110243) - What is a Browser?  
+[202206110302](../202206110302) - What is a Client?  
 
 
 ## References
