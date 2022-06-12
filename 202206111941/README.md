@@ -1,4 +1,4 @@
-# Nginx Enable HTTPS
+# Nginx Enable HTTPS 
 
 To enable HTTPS on Nginx, follow the straight-forward guide in the reference below.  
 
