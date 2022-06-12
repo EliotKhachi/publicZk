@@ -1,4 +1,4 @@
-# Localhost
+# Localhost 
 
 In the context of network communication, the *localhost* is referring to the IP address 127.0.0.1 and is used to communicate with your own computer. In other words, when you go to "https://localhost" in the browser, the request will not be forwarded to the internet through the router, but will instead remain in your own system. This example also shows how localhost is also the domain name.  
 
