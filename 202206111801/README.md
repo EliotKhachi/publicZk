@@ -1,4 +1,4 @@
-# Nginx - Getting Started 
+# Nginx - Getting Started  
 
 ## Installation
  
