@@ -1,4 +1,4 @@
-# Nginx Directory Structure
+# Nginx Directory Structure 
 
 Nginx keeps it's configuration in the */etc/nginx* directory
 **Template:** *Path* - purpose:
