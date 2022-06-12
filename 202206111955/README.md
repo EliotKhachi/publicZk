@@ -1,4 +1,4 @@
-# OpenSSL Adding a Certificate Authority 
+# OpenSSL Adding a Certificate Authority  
 
 ## Steps
 1. First create a *root certificate* --> [Generate a Self-Signed SSL Certificate](../202206112020), and then add the certificate to your browser's list of Certificate Authorities (CAs) --> [202206112007](../202206112007) - Configuring Certificate Authorities  
