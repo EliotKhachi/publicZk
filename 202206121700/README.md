@@ -1,4 +1,4 @@
-# Hosting a Server - DNS Using Cloudflare API
+# Hosting a Server - DNS Using Cloudflare API 
 
 See --> [202206170404](../202206170404) - Configure Raspberry Pi to Host a Server <-- to get started on hosting a server  
 ---
