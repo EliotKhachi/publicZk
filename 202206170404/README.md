@@ -1,4 +1,4 @@
-# Configure Raspberry Pi to Host a Server
+# Configure Raspberry Pi to Host a Server 
 
 See Reference [1] to create your node application, host it on localhost:5000, and use nginx to serve the website to the web by proxing your machine's public ipv4 address to localhost:5000.  
 
