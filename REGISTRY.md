@@ -1,6 +1,5 @@
 1. #aerospace
 1. #aws
-1. #AWS
 1. #business
 1. #communication
 1. #deepWork
