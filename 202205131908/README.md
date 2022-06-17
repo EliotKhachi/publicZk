@@ -44,4 +44,4 @@
 [Linux Terminal Tutorial SSH Key-Based Authentication](https://www.youtube.com/watch?v=vpk_1gldOAE)
 
 ## Tags
-#linux
+#linux #dev #ssh
