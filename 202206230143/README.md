@@ -1,4 +1,4 @@
-# What is a Dynamic DNS
+# What is a Dynamic DNS 
 
 ## Tags
 #networks
