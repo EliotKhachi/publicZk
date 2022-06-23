@@ -1,4 +1,4 @@
-# How to Protect Your Linux Server From Hackers
+# How to Protect Your Linux Server From Hackers 
 
 1. Update your linux OS --> `sudo apt install unattended-upgrades` and configure it so you automatically download security updates --> `sudo dpkg-reconfigure --priority=low unattended-upgrades` (added text to /etc/apt/apt.conf.d/20auto-upgrades)
 
