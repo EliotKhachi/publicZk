@@ -18,9 +18,11 @@ The problem with this method is that most home networks use *DHCP* (dynamic host
 		- Select Wireless LAN Network and enter password
 	* Write image
 
-3. Eject microSD card and enter it into the raspberry pi. Connect the raspberry pi to power and to your router via ethernet.
+3. Eject microSD card and enter it into the raspberry pi. Connect the raspberry pi to power.  
 
 4. Run `nmap -sP 192.168.1.*` and find your raspberry pi's IP address  
+
+5. If you can't find a raspberry pi in this list you may need to connect the pi to your router via ethernet or configure its Wi-Fi manually. The latter is a pain.  
 
 5. Run `ssh pi@ipaddress`, replacing "pi" with the pi's username you selected in rpi-imager, and "ipaddress" with the IP address you found using `nmap`  
 
