@@ -1,4 +1,4 @@
-# Common Linux Errors
+# Common Linux Errors 
 
 1. Disk Parition is Full - Find & Delete Huge Files  
 
