@@ -1,11 +1,16 @@
 # SSH into Another Machine
 
+## With Passphrase Authentication
 1. To SSH to a remote machine from your local machine, you must first generate an ssh key pair  
 
 **On local machine**  
 `ssh-keygen -t rsa -b 4096`  
 
-2. Next you need to copy over your public rsa key over to your remote machine's authorized\_keys file  
+
+## No Passphrase Authentication Required
+When you try to establish an SSH connection to another entity, i.e. your github or your remote machine, the protocol will prompt you to enter the passphrase for the private id\_rsa file of the remote machine.
+
+2. Copy over your public rsa key over to your remote machine's *authorized\_keys* file  
 **On local machine**
 ```
 	user@local$ cd ~/.ssh 
@@ -29,16 +34,16 @@
 	# PasswordAuthentication no to PasswordAuthentication yes
 ```
 
-4. Congratulations, now you can ssh into your remote machine  
-**On local machine**
-```
-	ssh remote-user@remote-ip
-```
-5. If it doesn't work, you need to do `sudo systemctl restart ssh` or `sudo service ssh restart` on the remote machine. It is a good idea to set this up upon booting up the machine. Further configuration is needed to ssh while the remote machine is suspended or to prevent ssh from exiting when the remote machine enters sleep mode.  
+4. If you still can't `ssh remote-user@remote-ip` without passphrase authentication, try the following:
+```bash 
+	sudo service ssh restart
+	# OR
+	sudo systemctl restart ssh
+	# AND
+	ssh-add ~/.ssh/<private-key-file-name> # This will add and save your key on your OS.
+``` 
 
-
-## Other Links
-
+You can set this up upon booting up the machine. Further configuration is needed to ssh while the remote machine is suspended or to prevent ssh from exiting when the remote machine enters sleep mode.  
 
 ## References
 [Linux Terminal Tutorial SSH Key-Based Authentication](https://www.youtube.com/watch?v=vpk_1gldOAE)
