@@ -1,4 +1,4 @@
-# UFW Essential Commands
+# UFW Essential Commands 
 
 UFW (Uncomplicated Firewall) is a firewall configuration tool that runs on most Ubuntu OS distributions. It allows you to easily allow or deny access to your computer from IP addresses and/or ports.
 
