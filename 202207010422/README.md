@@ -1,4 +1,4 @@
-# Forward X Socket Over SSH
+# Forward X Socket Over SSH 
 
 1. Enable X forwarding on the both the server and the client systems:  
 Go into `/etc/ssh/sshd_config` and change `X11Forwarding no` to `X11Forwarding yes`.  
