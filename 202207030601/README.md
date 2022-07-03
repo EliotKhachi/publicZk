@@ -1,4 +1,4 @@
-# Port Forwarding to the Internet
+# Port Forwarding to the Internet 
 
 All the internet's servers communicate through what is known as Port 80. In order to enable your router to host a server on the internet, it must have enabled Port 80 as one of its forwarded ports.  
 
