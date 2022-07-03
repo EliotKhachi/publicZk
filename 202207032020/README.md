@@ -10,7 +10,7 @@ or terminal tools such as *poppler-utils*, a package that has a *pdftotext* comm
 run `pdftotext -layout source.pdf target.txt`, where `source` is the pdf in question and `target` is the converted text file. This runs the command on the entire pdf.
 
 To convery just a single range of pages do  
-`pdttotext - layout -f M -l N source.pdf target.txt`, where  is the first page and N is the last one.  
+`pdftotext - layout -f M -l N source.pdf target.txt`, where  is the first page and N is the last one.  
 
 
 ## Windows
