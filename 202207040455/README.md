@@ -16,6 +16,8 @@
 9. Select VDI hard disk file type and dynamically allocate it. Select desired storage amount.  
 10. Start
 11. The VM (VirtualBox Manager) is now asking you to select a start-up disk. Download the OS's .iso file from its official website.  
+12. Start --> you should now be able to start the VM. If you get this error: "VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED)", go here 
+
 
 ## Tags
 #linux
