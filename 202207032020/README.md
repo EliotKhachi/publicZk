@@ -1,4 +1,4 @@
-# Convert PDF to Text
+# Convert PDF to Text 
 
 There are many options to convert PDFs into text and they vary mainly by operating system.  
 ## Linux
