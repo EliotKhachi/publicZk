@@ -1,4 +1,4 @@
-# VM Error VT x is disabled in BIOS
+# VM Error VT x is disabled in BIOS 
 
 To fix this VirtualBox Manager error, go to your UEFI firmware settings > Configuration > <Your CPU Manufacturer> Virtual Technology > Enable  
 
