@@ -1,4 +1,4 @@
-# List Running Processes in Linux
+# List Running Processes in Linux 
 
 To list currently running processes, use the `ps`, `top`, `htop`, and `atop`, Linux commands.  
 ---
