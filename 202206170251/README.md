@@ -22,7 +22,7 @@ The problem with this method is that most home networks use *DHCP* (dynamic host
 
 4. Run `nmap -sP 192.168.1.*` and find your raspberry pi's IP address  
 
-5. If you can't find a raspberry pi in this list you may need to connect the pi to your router via ethernet or configure its Wi-Fi manually. The latter is a pain.  
+5. If you can't find a raspberry pi in this list you may need to connect the pi to your router via ethernet or configure its Wi-Fi manually. The latter is a pain. To later be able to connect via Wi-Fi, try running `sudo apt-get update && sudo apt-get dist-upgrade` to enable the onboard wireless LAN chip (this is the case with the RPi 3B+).  
 
 5. Run `ssh pi@ipaddress`, replacing "pi" with the pi's username you selected in rpi-imager, and "ipaddress" with the IP address you found using `nmap`  
 
