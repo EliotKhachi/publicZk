@@ -17,6 +17,7 @@
 4. Check CUP & RAM Usages "High Memory"
 
 5. Debugging Network related issues
+* `sudo lshw -class network`   
 
 6. ssh login related issues
 
