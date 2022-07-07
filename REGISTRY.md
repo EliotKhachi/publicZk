@@ -5,6 +5,7 @@
 1. #communication
 1. #deepWork
 1. #dev
+1. #docker
 1. #electronics
 1. #embeddedSystems
 1. #engineering
@@ -24,6 +25,7 @@
 1. #networks
 1. #nginx
 1. #personality
+1. #pi
 1. #politics
 1. #programming
 1. #qualityControl
