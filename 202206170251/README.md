@@ -30,4 +30,4 @@ The problem with this method is that most home networks use *DHCP* (dynamic host
 [How to find a Raspberry Pi on your network](https://kimondo.co.uk/find-raspberry-pi-network/)  
 
 ## Tags
-#dev #ssh
+#dev #ssh #pi
