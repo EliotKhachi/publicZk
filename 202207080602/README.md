@@ -17,8 +17,8 @@ Crontab is a command used to schedule commands for recurring jobs you'd like to 
 	* every nth time - \*/n
 
 ## Examples
-
 \* \* \* \* \* - Every minute  
+\* \* \* \* \* \* - Every second (extra \* in the beginning)  
 45 \* \* \* \* - 45 minutes after each hour (1:45, 2:45, ...)  
 45 9 8 dec * - Every December 8th at 9:45 am  
 
