@@ -7,6 +7,7 @@ See --> [202207030601](../202207030601) - Port Forwarding <-- to forward port 80
 See Reference [2] to set up a VPN. Just kidding. See Reference [2] for why a VPN is unneccessary for security.
 
 See Reference [3] to set up a cronjob to run your server when the raspberry boots.  
+See Reference [4] to set up Cloudflare for DNS hosting  
 ## References
 1. [YouTube - Raspberry Pi vs AWS](https://www.youtube.com/watch?v=QdHvS0D1zAI&t=337s)  
 
