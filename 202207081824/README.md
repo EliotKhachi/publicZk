@@ -1,4 +1,4 @@
-# Linux Kill a Process 
+# Linux Kill a Process  
 
 To kill a process in Linux by PID (process identification number) simply  
 `kill -<signal_number> <PID>`  
