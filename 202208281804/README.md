@@ -15,6 +15,5 @@ If the answer is on the web, almost always use JavaScript.
 ## References 
 [Youtube - How to OVER Engineer a Website // What is a Tech Stack?](https://www.youtube.com/watch?v=Sxxw3qtb3_g&t=448s)
 
-
 ## Tags
 #dev
