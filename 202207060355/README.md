@@ -12,4 +12,4 @@
 * AA:BB:CC:DD:EE:FF is the MAC address of the device you want to wake up.  
 
 # Tags
-#linux #networks #pi
+#linux #networks #rpi
