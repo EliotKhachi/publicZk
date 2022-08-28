@@ -3,8 +3,7 @@
 React is a JavaScript library for building user interfaces.
 
 ## Concepts
-[202208282031](../202208282031) - React - Introducing JSX
-
+zet link 202208282031
 ## Exercises - Learn by Doing
 
 ## References
