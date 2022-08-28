@@ -2,7 +2,7 @@
 When using the term *web server*, we are either referring to hardware or software, depending on the context.  
 
 If we're talking about hardware, we mean...  
-* A computer that stores web server software and website component files (HTML, CSS, Javascript, images) and that is connected to the internet and supports physical data interchange with other devices on the web  
+* A computer that stores web server software and website component files (images, .html, .css, .js, etc.) and that is connected to the internet and supports physical data interchange with other devices on the web  
 ---
 If we're talking about software, we mean  
 * The software that is required for the server and client [202206110302](../202206110302) to communicate, for example, Nginx --> [202206110217](../202206110217) - Deploy a Web Application Using Nginx  
