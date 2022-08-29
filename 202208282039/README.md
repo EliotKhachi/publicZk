@@ -1,4 +1,4 @@
-# React - Introducing JSX - Examples
+# React - Introducing JSX - Examples 
 
 ## Embedding Expressions
 ```js
