@@ -1,4 +1,4 @@
-# What is a Tech Stack?
+# What is a Tech Stack? 
 
 ## Overview
 A *Tech Stack* is a collection of technologies used to create, deploy, and maintain an application.
