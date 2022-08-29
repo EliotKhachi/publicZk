@@ -1,4 +1,4 @@
-# React - JSX
+# React - JSX 
 
 Consider the following React *component*:
 
