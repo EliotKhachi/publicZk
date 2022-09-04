@@ -1,4 +1,4 @@
-# Connected Components in an Undirected Graph
+# Connected Components in an Undirected Graph 
 
 Connected components in an undirected graph are a collection of nodes wherein any node can be reached from any other node in the collection.
 
