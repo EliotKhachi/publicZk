@@ -1,4 +1,4 @@
-# Introduction to Tree Data Structure
+# Introduction to Tree Data Structure 
 
 A *Tree*, a *non-linear* data structure, consists of a collection of nodes where each node stores a value, has a parent node (except the root node), and has children node(s). It's used to effectively store and retrieve data.  
 
