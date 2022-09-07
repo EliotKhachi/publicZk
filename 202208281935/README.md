@@ -2,8 +2,6 @@
 
 React is a JavaScript library for building user interfaces.
 
-## Core Concepts
-
 ## References
 [React.org - Learn By Doing](https://reactjs.org/tutorial/tutorial.html)
 [React.org - Concepts](https://reactjs.org/docs/hello-world.html)
