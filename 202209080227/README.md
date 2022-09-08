@@ -1,6 +1,14 @@
 # React - Components
 
-A *component* in React is essentially a JavaScript class that extends `React.Component`. Components take in parameters, called `props` (short for properties) and returns a hierarchy of views to display via the `render` method. Its constructor should begin with a `super(props)` call.
+*Components* are the building blocks of any React application; they are small, isolated pieces of code that ...
+
+There are various types of *components* in React:
+
+* Component subclass - Essentially a JavaScript class that extends `React.Component`. Components 
+
+* Components take in parameters through an object attribute called `props` (short for properties). Its constructor should begin with a `super(props)` call. [202209080229](../202209080229) - React- Props  
+
+* Components can also have an object attribute called `state` to "remember" things[202209080251](../202209080251) - React - State.
 
 ```jsx
 class ShoppingList extends React.Component {
@@ -18,8 +26,6 @@ class ShoppingList extends React.Component {
   }
 }
 ```
-## Links
-[202209080229](../202209080229) - React- Props  
 
 ## References
 [Reactjs.org - Tutorial](https://reactjs.org/tutorial/tutorial.html#overview)
