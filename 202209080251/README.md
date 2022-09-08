@@ -1,4 +1,4 @@
-# React - State
+# React - State 
 
 A *state* in a React component is an object attribute used to store data to be referenced later. It differs from a *prop* in that a state is a permanent attribute of a React component while a prop must get passed as a parameter. [202209080229](../202209080229) - React- Props  
 
