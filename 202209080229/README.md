@@ -1,6 +1,6 @@
-# React- Props
+# React - Props
 
-Short for *property*. React *components* have the attribute `this.props`, which contains all the props of that component.
+Short for *property*. React *components* have the attribute `this.props`, which contains all the props of that component. [202209080227](../202209080227) - React - Components
 
 In Board's `renderSquare` method, a Square component with the prop called `value` is returned (and eventually rendered on the webpage)
 ```jsx
