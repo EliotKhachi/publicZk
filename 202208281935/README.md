@@ -1,6 +1,6 @@
 # What is React? 
 
-React is a JavaScript library for building user interfaces.
+React is a JavaScript library for building user interfaces. A React application is structured into pieces of code called *components*.
 
 ## Links
 [202208282227](../202208282227) - React Core Concepts
