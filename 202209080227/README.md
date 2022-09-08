@@ -1,4 +1,4 @@
-# React - Components
+# React - Components 
 
 *Components* are the building blocks of any React application; they are small, isolated pieces of code that ...
 
