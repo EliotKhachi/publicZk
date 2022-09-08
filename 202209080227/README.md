@@ -10,6 +10,8 @@ There are various types of *components* in React:
 
 * Pure component - Used to optimize performance. Involves using immutable data.  [202209080220](../202209080220) - React - Pure Components
 
+**Note:** The `render` method returns a **React element**, which tells the compiler (browser) what to render and how to render it.
+
 ## References
 [Reactjs.org - Tutorial](https://reactjs.org/tutorial/tutorial.html#overview)
 
