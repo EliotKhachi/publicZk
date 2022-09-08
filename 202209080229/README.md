@@ -1,4 +1,4 @@
-# React - Props
+# React - Props 
 
 Short for *property*. React *components* have the attribute `this.props`, which contains all the props of that component. [202209080227](../202209080227) - React - Components
 
