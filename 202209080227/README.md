@@ -18,6 +18,11 @@ class ShoppingList extends React.Component {
   }
 }
 ```
+## Links
+[202209080229](../202209080229) - React- Props  
+
+## References
+[Reactjs.org - Tutorial](https://reactjs.org/tutorial/tutorial.html#overview)
 
 ## Tags
 #react
