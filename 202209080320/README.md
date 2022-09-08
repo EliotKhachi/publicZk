@@ -1,4 +1,4 @@
-# React - Component Class 
+# React - Component Class  
 
 A React component *class* is essentially a JavaScript class that extends `React.Component`.  
 
