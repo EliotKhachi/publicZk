@@ -6,11 +6,14 @@ Intead of separating *technologies* by putting markup (HTML and CSS) and logic (
 
 ## Links
 [202208282031](../202208282031) - React - Introducing JSX  
+
 [202209080227](../202209080227) - React - Components  
 
 ## References
 [React.org - Learn By Doing](https://reactjs.org/tutorial/tutorial.html)  
+
 [React.org - Concepts](https://reactjs.org/docs/hello-world.html)  
+
 [React.org - Getting Started](https://reactjs.org/docs/getting-started.html)  
 
 ## Tags
