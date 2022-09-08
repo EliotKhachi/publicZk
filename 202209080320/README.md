@@ -23,7 +23,6 @@ class ShoppingList extends React.Component {
 
 * Component classes can also have an object attribute called `state` to "remember" things [202209080251](../202209080251) - React - State.  
 
-**Note:** The `render` method returns a **React element**, which tells the compiler (browser) what to render and how to render it.  
 
 ## References
 [Reactjs.org - Tutorial](https://reactjs.org/tutorial/tutorial.html#making-an-interactive-component)
