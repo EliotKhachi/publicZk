@@ -1,4 +1,4 @@
-# React - Pure Components
+# React - Pure Components 
 
 *Pure components* in React are used to optimize performance.  
 
