@@ -8,6 +8,8 @@ There are various types of *components* in React:
 
 * Function component - A function written in `jsx` that only contains a `render` method. [202209080247](../202209080247) - React - Function Components
 
+* Pure component - Used to optimize performance. Involves using immutable data.  [202209080220](../202209080220) - React - Pure Components
+
 ## References
 [Reactjs.org - Tutorial](https://reactjs.org/tutorial/tutorial.html#overview)
 
