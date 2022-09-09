@@ -1,4 +1,4 @@
-# Create a New React App
+# Create a New React App 
 
 Make sure you have installed `Node >= 14.0.0` and `npm >= 5.6`
 
