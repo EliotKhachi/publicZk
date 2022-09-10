@@ -27,4 +27,4 @@ A headless configuration is one that doesn't require a separate keyboard or moni
 [How to find a Raspberry Pi on your network](https://kimondo.co.uk/find-raspberry-pi-network/)  
 
 ## Tags
-#dev #ssh #rpi
+#ssh #rpi
