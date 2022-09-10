@@ -12,7 +12,7 @@ All the internet's servers communicate through what is known as Port 80. In orde
 	* Select the Internal IP address as the LAN IP address of the machine that you are hosting your server on (192.168.1...)  
 	* Select the Protocol to be TCP *and* UDP, (BOTH)  
 
-4. You're done! Save the settings. You can now host your server to the internet from your specified machine.   
+4. You're done! Save the settings. You can now host your server on the internet from your specified machine.   
 
 ## Tags
 #dev #networks
