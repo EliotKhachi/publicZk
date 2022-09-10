@@ -1,7 +1,9 @@
 # SSH into a Raspberry Pi
 
-## Monitor and Keyboard
+## Monitor and Keyboard  
+
 You can SSH into a Raspberry Pi with a monitor and keyboard by following instructions here [202205131908](../202205131908) - SSH into Another Machine  
+
 ---
 **The Problem**  
 The problem with this method is that most home networks use *DHCP* (dynamic host configuration protocol), where local IP addresses are temporarily assigned to the computers by your router. Once the Pi's IP address changes, you've lost the ability to SSH into it and would have to use a monitor and keyboard again.
