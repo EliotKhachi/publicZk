@@ -1,22 +1,17 @@
 # SSH into a Raspberry Pi
 
-## Monitor and Keyboard  
+## Set-up Pi For Headless Configuration
 
-You can SSH into a Raspberry Pi with a monitor and keyboard by following instructions here [202205131908](../202205131908) - SSH into Another Machine  
+A headless configuration is one that doesn't require a separate keyboard or monitor connected to the raspberry pi. You can simply SSH into its shell from yours.  
 
----
-**The Problem**  
-The problem with this method is that most home networks use *DHCP* (dynamic host configuration protocol), where local IP addresses are temporarily assigned to the computers by your router. Once the Pi's IP address changes, you've lost the ability to SSH into it and would have to use a monitor and keyboard again.
-
-## Headless Configuration
-1. First, insert your microSD card into your computer or laptop, using an adapter such as USB if necessary.  
+1. First, insert your microSD card into your computer.   
 
 2. Next, `sudo apt install rpi-imager` and launch the application using by typing `rpi-imager`.  
 	* Select your OS of choice (Raspberry OS Lite is a good choice to stay lightweght since no desktop environment is needed for a headless setup)  
 	* Select your microSD card to write the OS image onto.  
 	* Click on cog for advanced settings  
 		- Select a username and password
-		- Enable SSH through public key authentication (automatically pastes in id_rsa.pub from the computer you're currently using)  
+		- Enable SSH through public key authentication. This automatically pastes the id_rsa.pub of your computer to the pi's `authorized_keys` file) 
 		- Select Wireless LAN Network and enter password
 	* Write image
 
