@@ -1,14 +1,11 @@
 # SSH into Another Machine
 
-## With Passphrase Authentication
-1. To SSH to a remote machine from your local machine, you must first generate an ssh key pair  
+To SSH to a remote machine from your local machine, you must first generate an ssh key pair  
 
 **On local machine**  
 `ssh-keygen -t rsa -b 4096`  
 
-
-## No Passphrase Authentication Required
-When you try to establish an SSH connection to another entity, i.e. your github or your remote machine, the protocol will prompt you to enter the passphrase for the private id\_rsa file of the remote machine.
+## Disable Passphrase Authentication
 
 2. Copy over your public rsa key over to your remote machine's *authorized\_keys* file  
 **On local machine**
