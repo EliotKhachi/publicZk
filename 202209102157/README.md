@@ -1,4 +1,4 @@
-# Git - Rebase vs Merge
+# Git - Rebase vs Merge 
 
 ## Overview
 `git rebase` and `git merge` solve the same problem. They are each meant to integrate changes from one branch to another. They just do it *very* differently.
