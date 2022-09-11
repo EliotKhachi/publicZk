@@ -1,4 +1,4 @@
-# Secure Copy SCP
+# Secure Copy SCP 
 
 The `scp` command is used to copy files from your local machine to your remote linux servers.  
 
