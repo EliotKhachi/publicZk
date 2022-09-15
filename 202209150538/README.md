@@ -1,4 +1,4 @@
-# Spring Beans Configuration
+# Spring Beans Configuration 
 
 Spring *beans* are found in the the `resources` directory of Maven projects in order for our program to find it. It can be named anything but `dependency-configuration.xlm` is standard.  
 
