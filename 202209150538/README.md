@@ -1,6 +1,6 @@
 # Spring Beans Configuration
 
-Spring *beans* are found in the `dependency-configuration.xlm` file. This file must live in the `resources` directory of Maven projects in order for our program to find it.
+Spring *beans* are found in the the `resources` directory of Maven projects in order for our program to find it. It can be named anything but `dependency-configuration.xlm` is standard.  
 
 ## Bean
 A \<bean\> element can be added inside \<beans\> in this .xml file to register an instance of a datatype, i.e. your objects, with the DI container.
