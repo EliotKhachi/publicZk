@@ -1,4 +1,4 @@
-# Spring DI
+# Spring DI 
 
 Spring *DI*, or *Dependency Injection*, is a foundational technology for spring web development and database management. Once you understand how to implement DIs, learning web, database, and security development will be easy!
 
