@@ -1,4 +1,4 @@
-# Java Spring Hub
+# Java Spring Hub 
 
 ## What is Spring?
 Spring is a collection of open-source projects that extend the Java standard library and are used to solve common application problems. To use a Spring *project* in your application, you use *dependency injections*.
