@@ -1,4 +1,4 @@
-# The Spring Container
+# The Spring Container 
 
 A Spring IoC container is a conceptual construct used to understand how Spring works. This container takes in configuration metadata/information that represents how you, as an app developer, want the Spring container to instantiate, configure, and assemble the objects in your application.  
 
