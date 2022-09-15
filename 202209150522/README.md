@@ -1,4 +1,4 @@
-# XML Dependency Configuration
+# XML Dependency Configuration 
 
 XML configuration allows dependencies to be configured after a project has been compiled and packaged.
 
