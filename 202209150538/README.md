@@ -16,8 +16,8 @@ A \<bean\> element can be added inside \<beans\> in this .xml file to register a
 
 ## Questions and Answers
 **1. Whats the difference between a `value` and `ref` \<constructory-arg\>?**   
+The `value` attribute represents an explicit value, while the `ref` attribute passes a reference to the `id` of a registered bean.   
 
-The `value` attribute represents an explicit value, while the `ref` attribute passes a reference to the `id` of a registered bean.  
 **2. Where is the Spring dependency added in pom.xml?** 
 In  the `dependency` tag inside the `dependencies` tag. Tags used to define the dependency are `groupId`, `artifactId`, and `version`. 
 
