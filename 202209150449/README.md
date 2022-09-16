@@ -6,7 +6,8 @@ Spring is a collection of open-source projects that extend the Java standard lib
 ## Spring Projects
 There are various Spring *projects* that provide different toolsets to accomodate a developer's needs.
 
-Spring Booto
+Why Spring?
+
 
 ## References
 [Spring Official Site](spring.io)
