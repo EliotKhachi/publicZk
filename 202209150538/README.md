@@ -14,7 +14,6 @@ A \<bean\> element can be added inside \<beans\> in this .xml file to register a
 </bean>
 ```
 
-## Prototype Scope
 ## Questions and Answers
 **1. Whats the difference between a `value` and `ref` \<constructory-arg\>?**   
 The `value` attribute represents an explicit value, while the `ref` attribute passes a reference to the `id` of a registered bean.  
