@@ -20,6 +20,17 @@ The `value` attribute represents an explicit value, while the `ref` attribute pa
 **2. Where is the Spring dependency added in pom.xml?** 
 In  the `dependency` tag inside the `dependencies` tag. Tags used to define the dependency are `groupId`, `artifactId`, and `version`. 
 
+```xml
+<dependencies>
+        <!-- dependency injection support -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>5.2.7.RELEASE</version>
+	</dependency
+</dependencies>
+```
+
 **3. How does Spring locate the XML configuration file?**  
 The XML configuration file, no matter its name, should be located in `src/main/resources` directory in a Maven project.  
 
