@@ -34,7 +34,7 @@ In  the `dependency` tag inside the `dependencies` tag. Tags used to define the 
 **3. How does Spring locate the XML configuration file?**  
 The XML configuration file, no matter its name, should be located in `src/main/resources` directory in a Maven project.  
 
-**4. What XML is used for constructor injection? What is used for setter injection?** 
+**4. What XML is used for constructor injection? What is used for setter injection?**   
 Constructor injection is done with the `constructor-arg` tag and the `property` tag is used for setter injection.  
 
 **5. What is the "prototype" `scope` in a `bean` definition?**  
