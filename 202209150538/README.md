@@ -13,6 +13,13 @@ A \<bean\> element can be added inside \<beans\> in this .xml file to register a
         <constructor-arg value="14
 </bean>
 ```
+
+## Prototype Scope
+A bean with a prototype scop creates a new instance each time `getBean` is called. There's no shared state.
+```xml
+<bean class="learn.spaceflight.spacecraft.Probe" scope="prototype"/>
+```
+
 ## References
 
 
