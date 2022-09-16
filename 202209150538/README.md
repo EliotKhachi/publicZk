@@ -15,10 +15,24 @@ A \<bean\> element can be added inside \<beans\> in this .xml file to register a
 ```
 
 ## Prototype Scope
-A bean with a prototype scop creates a new instance each time `getBean` is called. There's no shared state.
+## Questions and Answers
+1. Whats the difference between a `value` and `ref` \<constructory-arg\>?  
+The `value` attribute represents an explicit value, while the `ref` attribute passes a reference to the `id` of a registered bean.  
+2. Where is the Spring dependency added in pom.xml?  
+In  the `dependency` tag inside the `dependencies` tag. Tags used to define the dependency are `groupId`, `artifactId`, and `version`. 
+
+3. How does Spring locate the XML configuration file?
+The XML configuration file, no matter its name, should be located in `src/main/resources` directory in a Maven project.  
+
+4. What XML is used for constructor injection? What is used for setter injection?  
+`<constructor-arg>` is used for constructor injection and `<property>` is used for setter injection.  
+
+5. What is the "prototype" `scope` in a `bean` definition?
+A bean with a prototype scope creates a new instance each time `getBean` is called. There's no shared state.
 ```xml
 <bean class="learn.spaceflight.spacecraft.Probe" scope="prototype"/>
 ```
+
 
 ## References
 
