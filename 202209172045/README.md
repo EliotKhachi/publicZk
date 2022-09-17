@@ -1,6 +1,6 @@
 # Software Architecture Layers
 
-Software architecture layers are used to organize code by using a common and extremely powerful learning technique called *chunking*. 
+Software architecture layers are used to organize code by using a common and extremely powerful technique called *chunking*. 
 
 **The Problem:** Medium to large-sized software applications contain hundreds to more than thousands of source files, with tens of thousands of lines of code.
 
