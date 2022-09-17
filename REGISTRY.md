@@ -1,6 +1,7 @@
 1. #
 1. #aerospace
 1. #algorithms
+1. #architecture
 1. #aws
 1. #business
 1. #communication
@@ -31,6 +32,7 @@
 1. #react
 1. #reMarkable
 1. #rpi
+1. #software
 1. #spring
 1. #ssh
 1. #STM32
