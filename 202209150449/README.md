@@ -6,8 +6,10 @@ Spring is a collection of open-source projects that extend the Java standard lib
 ## Spring Projects
 There are various Spring *projects* that provide different toolsets to accomodate a developer's needs.
 
-Why Spring?
-
+## Links
+[202209171850](../202209171850) - @SpringBootApplication
+[202209171851](../202209171851) - @RestController
+[202209171855](../202209171855) - @GetMapping
 
 ## References
 [Spring Official Site](spring.io)
