@@ -8,7 +8,8 @@
         return String.format("Hello %s!", name);
     }
 ```
-Here `@RequestParam` tells Spring to expect a parameter named `name` into the `hello()` method, and perscribes a default value of "World" to it. To pass a variable into this method, type into address bar the URL up to the domain/subdomain/port (as applicable), and then `/?name=Eliot`. This passes the value "Eliot" into `name`, and the webpage displays "Hello Eliot!".  
+Here `@RequestParam` tells Spring to expect a parameter named `name` into the `hello()` method, and perscribes a default value of "World" to it. To pass a variable into this method, type into address bar the URL up to the domain/subdomain/port (as applicable), and then `/?name=Eliot`. This passes the value "Eliot" into `name`, and the webpage displays "Hello Eliot!". This is called a *query string*.
+ 
 
 ## Links
 [202209171855](../202209171855) - @GetMapping
