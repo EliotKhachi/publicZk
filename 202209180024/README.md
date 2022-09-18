@@ -1,4 +1,4 @@
-# Data Access Object
+# Data Access Object 
 
 A *Data Access Object*, or *DAO*, is ...
 
