@@ -21,12 +21,14 @@ public class Main {
   }
 }
 
-`output`:
+```
+## Output
+```java
 Exception in thread "main" java.lang.ArithmeticException: Access denied - You must be at least 18 years old.
         at Main.checkAge(Main.java:4)
         at Main.main(Main.java:12) 
-
 ```
+
 
 ## Tags
 #java #software
