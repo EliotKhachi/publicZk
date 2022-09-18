@@ -1,4 +1,4 @@
-# Repository Pattern
+# Repository Pattern 
 
 The *repository pattern* provides a consistent strategy for accessing data in files, databases, and APIs.  
 
