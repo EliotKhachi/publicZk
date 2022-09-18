@@ -1,6 +1,6 @@
 # Try...Catch
 
-The life of a progammer is full of bugs and errors. Debugging is a beast of its own (see link here), but errors due to wrong input or other unforeseable things can be handled by throwing an **exception**.  
+The life of a progammer is full of bugs and errors. Debugging is a beast of its own ([]../[]), but errors due to wrong input or other unforeseable things can be handled by throwing an **exception**.  
 
 ## Java Try and Catch 
 The `try` statement allows you to define a block of code to be tested for errors while it is being executed.
@@ -25,8 +25,8 @@ In the above example, `myNumbers` is an array with a length of 3; therefore, try
 
 ```java
 finally {
-      System.out.println("The 'try catch' is finished.");
-    }
+	System.out.println("The 'try catch' is finished.");
+}
 ```
 
 ## References
