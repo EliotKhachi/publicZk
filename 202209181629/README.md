@@ -3,7 +3,7 @@
 The `throw` statement allows you to create a custom error, by coupling it with an **exception type**: `ArithmeticException`, `FileNotFoundException`, `ArrayIndexOutOfBoundsException`, `SecurityException`, etc.. 
 
 ## Example
-An exception is thrown if `age` is below 18 and stops executing code. In this sense, the `else` statement is not really necessary. The code block can simply be written after the `if` statement is completed.  
+An exception is thrown if `age` is below 18. After an exception is thrown, code stops executing.  
 
 ```java
 public class Main {
