@@ -1,4 +1,4 @@
-# CRUD
+# CRUD 
 The acronym CRUD stands for the four data operations:
 
 * create  
