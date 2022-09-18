@@ -8,7 +8,7 @@
 * Test 2 *asserts* that a record can be added to the file.
 
 **Potential Issue:**
-* If Test 2 is ran before Test 1, Test 1 will fail even if it is functionally correct because it is operating under a false assumption of the current state of the database: There are *NOT* 5 records in the file.  
+* If Test 2 is ran before Test 1, Test 1 will fail even if it is functionally correct because it is operating under a false assumption of the current state of the database: There are *no longer* 5 records in the file.  
 
 ## Tags
 #software #java #database
