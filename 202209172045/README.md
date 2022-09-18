@@ -1,4 +1,4 @@
-# Software Architecture Layers
+# Software Architecture Layers 
 
 Software architecture layers are used to organize code by using a common and extremely powerful technique called *chunking*. 
 
