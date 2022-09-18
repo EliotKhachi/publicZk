@@ -1,4 +1,4 @@
-# Try...Catch
+# Try...Catch 
 
 The life of a progammer is full of bugs and errors. Debugging is a beast of its own ([]../[]), but errors due to wrong input or other unforeseable things can be handled by throwing an **exception**.  
 
