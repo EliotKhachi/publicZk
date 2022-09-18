@@ -5,6 +5,7 @@
 1. #aws
 1. #business
 1. #communication
+1. #database
 1. #deepWork
 1. #dev
 1. #docker

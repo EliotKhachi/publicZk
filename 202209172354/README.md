@@ -17,5 +17,7 @@ interface NationalForestRepository{
 ```
 The repository above can add, delete, and update of `NationalForest` objects, and fetch `NationalForest` objects by name or state. We don't know what data type(s) the `NationalForestRepository` object is using to store data, nor do we care.   
 
+Because of its straight-forward functionality, a respository may be called a DOA, or Data Access Object. In a nutshell, all repositories are DAOs, but not all DAOs are repositories.   
+
 ## Tags
 #software
