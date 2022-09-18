@@ -1,4 +1,4 @@
-# @ComponentScan
+# @ComponentScan 
 
 Tells Spring to look for other components, configuration, and services in one-level up from the imported package (in this java file), letting it find the controllers.  
 
