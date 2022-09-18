@@ -1,4 +1,4 @@
-# @RestController
+# @RestController 
 
 The `@RestController` annotation tells Spring this code describes an endpoint that should be made available over the web.
 ```java
