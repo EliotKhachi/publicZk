@@ -10,5 +10,8 @@
 **Potential Issue:**
 * If Test 2 is ran before Test 1, Test 1 will fail even if it is functionally correct because it is operating under a false assumption of the current state of the database: There are *no longer* 5 records in the file.  
 
+## Good Practices
+* Pre-populate a file with a known good state and copy the contents of that file into a test file before a test runs.  
+
 ## Tags
 #software #java #database
