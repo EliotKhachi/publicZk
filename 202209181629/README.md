@@ -1,4 +1,4 @@
-# Throw Keyword
+# Throw Keyword 
 
 The `throw` statement allows you to create a custom error, by coupling it with an **exception type**: `ArithmeticException`, `FileNotFoundException`, `ArrayIndexOutOfBoundsException`, `SecurityException`, etc.. 
 
