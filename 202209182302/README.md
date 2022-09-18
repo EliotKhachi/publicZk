@@ -2,10 +2,10 @@
 
 The three testing A's are:
 
-1. **Arrange:** First *arrange* the tests to be ran properly.a known good state [202209182233](../202209182233) - Known Good State.  
+1. **Arrange:** First *arrange* the tests to be ran properly, including but not limited to using a known good state [202209182233](../202209182233) - Known Good State.  
 
 2. **Act:** Next, *act* by calling the method you are testing.   
-3. **Assert:** In each of your test methods, *assert* certain results to expect to see, given the known good state you are operating on.  
+3. **Assert:** In each of your test methods, *assert* certain results you expect to see, while carefully considering the known good state you are operating with.  
 
 ## Example
 The `MemoryFileRepositoryTest` class holds all the test methods for the `MemoryFileRepository` class. Here is the `add()` test method, a "C" operation in CRUD. [202209180027](../202209180027) - CRUD. 
@@ -31,8 +31,8 @@ void add() throws DataAccessException {
 }
 ```
 **Arrange:** First, a new memory is initialized.  
-**Act:** Then the memory is added to the repository, saving the return to the Memory instance `actual`, representing the Memory object that was actually added.  
-**Assert:** Check if the added memory has the correct `Id`, the size of the repository has incremented, and the fields of the newly added memory matches that of the created memory. 
+**Act:** Then the memory is added to the repository.   
+**Assert:** The newly added memory instance is verified to have the correct fields, including `Id`, `From`, and `Content`. The `size()` of the memories repository is also verified to have been incremented.
 
 ## Tags
 #java #software 
