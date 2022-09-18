@@ -1,4 +1,4 @@
-# @Configuration
+# @Configuration 
 
 Tags the class as a source of bean definitions for the application context.
 
