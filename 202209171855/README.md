@@ -1,4 +1,4 @@
-# @GetMapping
+# @GetMapping 
 
 The `@GetMapping` annotation allows us to define a URL `path` for Spring to redirect requests to.  
 
