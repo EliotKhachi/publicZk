@@ -1,4 +1,4 @@
-# Serialization
+# Serialization 
 *Serialization* is the process of converting an object's data to a string or byte sequence that can be saved or transmitted
 
 ## Example
