@@ -1,4 +1,4 @@
-# Known Good State
+# Known Good State 
 
 In software development, *Known good state* is a predefined set of data that guarantees our tests will pass if our methods are correct. Without known good state, code that is functionally correct may fail in a test because it's working on bad data.  
 
