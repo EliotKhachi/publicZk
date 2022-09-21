@@ -1,4 +1,4 @@
-# Writing Disk ISO Images to USB on Linux
+# Writing Disk ISO Images to USB on Linux 
 
 1. Plug in USB
 
