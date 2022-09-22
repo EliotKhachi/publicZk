@@ -1,4 +1,4 @@
-# Downloading a Linux Driver for Intel Wi-Fi Chip
+# Downloading a Linux Driver for Intel Wi-Fi Chip 
 
 1. Download firmware (.tgz files)  
 
