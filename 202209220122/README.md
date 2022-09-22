@@ -1,4 +1,4 @@
-# Installing CentOS
+# Installing CentOS 
 
 ## Issue
 CentOS 7 comes with linux kernel 3.10, which doesn't support my laptop's WiFi 6E chip out of the box. I need to upgrade to kernel 5.0+ for support, however, I can't upgrade the kernel without internet. So, step 1 is to get install my WiFi chip's driver.  
