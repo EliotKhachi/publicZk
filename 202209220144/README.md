@@ -1,4 +1,4 @@
-# Find Your Wireless Chip Manufacturer and Model
+# Find Your Wireless Chip Manufacturer and Model 
 
 1. Run `lspci`  
 
