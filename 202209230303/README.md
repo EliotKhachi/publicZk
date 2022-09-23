@@ -1,3 +1,3 @@
-# Arch - Configure Your Hard Disk
+# Arch - Configure Your Hard Disk 
 
 ## Tags
