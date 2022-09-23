@@ -23,4 +23,4 @@ Run the following commands in order:
 10. `ping -c 5 8.8.8.8 # verify connectivity`  
 
 ## Tags
-#linux # arch
+#linux #arch
