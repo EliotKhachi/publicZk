@@ -1,4 +1,4 @@
-# Getting Speakers to Work on LG Gram Laptop
+# Getting Speakers to Work on LG Gram Laptop 
 
 First of all, this zettel only applies to my speakers  
 
