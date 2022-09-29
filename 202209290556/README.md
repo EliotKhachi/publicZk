@@ -1,4 +1,4 @@
-# Bash Language References 
+# Bash Language References  
 
 [1] `man bash`  
 [2] [Bash Scripting Full Course 3 Hours](https://www.youtube.com/watch?v=e7BufAVwDiM&t=2538s)  
