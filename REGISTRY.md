@@ -7,6 +7,7 @@
 1. #communication
 1. #database
 1. #deepWork
+1. #design
 1. #dev
 1. #docker
 1. #electronics
