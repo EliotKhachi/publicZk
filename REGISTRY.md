@@ -3,6 +3,7 @@
 1. #algorithms
 1. #architecture
 1. #aws
+1. #bash
 1. #business
 1. #communication
 1. #database
