@@ -1,4 +1,4 @@
-# PostgreSQL Authentication
+# PostgreSQL Authentication 
 
 The **PostgreSQL Client Authentication Configuration File** controls: which hosts are allowed to connect, how clients are authenticated, which PostgreSQL user names they can use, and which databases they can access.  
 
