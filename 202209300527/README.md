@@ -1,4 +1,4 @@
-# SCRAM Authentication
+# SCRAM Authentication 
 
 In cryptography, *SCRAM* stands for the **Salted Challenge Response Authentication Mechanism**.   
 
