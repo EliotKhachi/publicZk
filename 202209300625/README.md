@@ -1,4 +1,4 @@
-# Channel Binding
+# Channel Binding 
 
 **Channel Binding** is the process of *binding* the lower encryption channel to the higher application channel for cross-directional authentication.  
 
