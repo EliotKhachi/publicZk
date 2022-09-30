@@ -1,12 +1,15 @@
-1. #
 1. #aerospace
 1. #algorithms
 1. #arch
+1. #architecture
 1. #aws
+1. #bash
 1. #business
 1. #communication
 1. #cryptography
+1. #database
 1. #deepWork
+1. #design
 1. #dev
 1. #docker
 1. #electronics
@@ -35,6 +38,7 @@
 1. #reMarkable
 1. #rpi
 1. #security
+1. #software
 1. #spring
 1. #ssh
 1. #STM32
