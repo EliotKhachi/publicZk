@@ -5,6 +5,7 @@
 1. #aws
 1. #business
 1. #communication
+1. #cryptography
 1. #deepWork
 1. #dev
 1. #docker
@@ -32,6 +33,7 @@
 1. #react
 1. #reMarkable
 1. #rpi
+1. #security
 1. #spring
 1. #ssh
 1. #STM32

@@ -1,0 +1,3 @@
+# PostgreSQL SCRAM Authentication
+
+## Tags

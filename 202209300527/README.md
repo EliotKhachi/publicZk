@@ -1,0 +1,3 @@
+# SCRAM Authentication
+
+## Tags
