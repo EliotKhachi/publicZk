@@ -27,4 +27,4 @@ The opposite process is known as *deserialization*.
 [202209181847](../202209181847) - Deserialization
 
 ## Tags
-#software #database
+#db
