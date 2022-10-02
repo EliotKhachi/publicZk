@@ -1,6 +1,6 @@
 # Known Good State
 
-*Known good state* is a predefined set of data that guarantees our tests will pass if our methods are correct. Without known good state, code that is functionally correct may fail in a test because it's working on bad data.  
+In software development, *Known good state* is a predefined set of data that guarantees our tests will pass if our methods are correct. Without known good state, code that is functionally correct may fail in a test because it's working on bad data.  
 
 ## Example
 **Given:**
@@ -14,4 +14,4 @@
 * Pre-populate a file with a known good state and copy the contents of that file into a test file before a test runs.  
 
 ## Tags
-#software #java #database
+#software
