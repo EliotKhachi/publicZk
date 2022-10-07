@@ -1,4 +1,4 @@
-# Readers and Writers
+# Readers and Writers 
 
 ## Concept
 A **reader** is a set of structured operations for reading bytes from an input stream. A **writer** is a set of structured operations for writing bytes to an output stream.  [202210070515](../202210070515) - Streams  
