@@ -1,6 +1,7 @@
 # Bash Color Codes
 
 Format: \<Text Type\>;\<Foreground Color\>;\<Background Color\>
+Example: `1;31;40` --> bold red text on a black background 
 
 | Foreground Color | Text Type | Background Color |
 |------------------|-----------|------------------|
