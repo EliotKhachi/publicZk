@@ -17,6 +17,15 @@ Example: `1;31;40` --> bold red text on a black background
 |92  = light green ||101 = light red |
 |93  = yellow ||102 = light green |
 |94  = light blue ||103 = yellow |
+|95  = light purple ||104 = light blue |
+|96  = turquoise ||105 = light purple |
+|97  = white ||106 = turquoise |
+|||	107 = white |
+	
+	
+	
+
+
 
 ## Tags
 #linux
