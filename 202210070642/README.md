@@ -1,6 +1,10 @@
 # Bash Color Codes
 
-31  = red 	40  = black background 	0   = default colour
+| Foreground Color | Text Type | Background Color |
+|------------------|-----------|------------------|
+|31  = red |0   = normal|40  = black background|
+
+
 32  = green 	41  = red background 	1   = bold
 33  = orange 	42  = green background 	4   = underlined
 34  = blue 	43  = orange background 	5   = flashing text
