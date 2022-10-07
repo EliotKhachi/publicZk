@@ -1,5 +1,7 @@
 # Bash Color Codes
 
+Format: \<Text Type\>;\<Foreground Color\>;\<Background Color\>
+
 | Foreground Color | Text Type | Background Color |
 |------------------|-----------|------------------|
 |31  = red |0 = normal|40 = black |
