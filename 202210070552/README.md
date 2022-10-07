@@ -1,4 +1,4 @@
-# Exceptions
+# Exceptions 
 
 As software developers, we will run into occasions where our code breaks in one of two ways:  
 1. Code that may break in ways we didn't anticipate.  
