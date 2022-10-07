@@ -1,4 +1,4 @@
-# Directory - Computing
+# Directory - Computing 
 
 In computing, a **directory** is a file-system cataloging-structure which contains references to other computer files, and possibly other directories.  
 [202210070444](../202210070444) - What is A File
