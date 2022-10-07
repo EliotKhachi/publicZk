@@ -10,7 +10,6 @@
 1. #communication
 1. #computers
 1. #cryptography
-1. #database
 1. #db
 1. #deepWork
 1. #design
