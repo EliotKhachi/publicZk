@@ -1,4 +1,4 @@
-# What is A File
+# What is A File 
 
 A **computer file** is a computer *resource* for recording data in a computer *storage device*, primarily identified by its *file name*.  
 
