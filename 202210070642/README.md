@@ -1,4 +1,4 @@
-# Bash Color Codes
+# Bash Color Codes 
 
 Format: \<Text Type\>;\<Foreground Color\>;\<Background Color\>  
 
