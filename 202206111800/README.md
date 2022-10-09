@@ -16,4 +16,4 @@ Nginx keeps it's configuration in the */etc/nginx* directory
 [wiki.debian.org - Nginx Directory Structure](https://wiki.debian.org/Nginx/DirectoryStructure)  
 
 ## Tags
-#dev #nginx
+#nginx
