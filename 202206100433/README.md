@@ -12,4 +12,4 @@ Security groups act as a a firewall for instances, monitoring inbound and outbou
 [Set up to use Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-a-base-security-group)
 
 ## Tags
-#aws #dev
+#aws
