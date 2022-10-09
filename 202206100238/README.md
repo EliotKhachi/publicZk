@@ -13,4 +13,4 @@ When you boot your instance for the first time, the public key will be added to 
 [Amazon EC2 key pairs and Linux instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)  
 
 ## Tags
-#dev #aws
+#aws
