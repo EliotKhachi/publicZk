@@ -38,4 +38,4 @@ An application's domain is its real-world problem space. It includes the nounds 
 Any class that reads from or writes to files, databases, or APIs, belongs to a separate layer.
 
 ## Tags
-#architecture #software #dev
+#software #dev
