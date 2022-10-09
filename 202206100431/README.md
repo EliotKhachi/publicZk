@@ -10,4 +10,4 @@ Before launching an Amazon EC2 instance, you must
 [Set up to use Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html)
 
 ## Tags
-#dev #aws
+#aws
