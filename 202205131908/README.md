@@ -46,4 +46,4 @@ You can set this up upon booting up the machine. Further configuration is needed
 [Linux Terminal Tutorial SSH Key-Based Authentication](https://www.youtube.com/watch?v=vpk_1gldOAE)
 
 ## Tags
-#linux #dev #ssh
+#ssh
