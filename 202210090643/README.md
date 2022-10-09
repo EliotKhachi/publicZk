@@ -1,4 +1,4 @@
-# Domain Layer
+# Domain Layer 
 
 An application's **domain** is its real-world problem space.  
 
