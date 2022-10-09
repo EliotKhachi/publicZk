@@ -17,4 +17,4 @@ See Reference [3] to set up Cloudflare for DNS hosting
 3. [202206121700](../202206121700) - DNS Using Cloudflare API  
 
 ## Tags
-#ssh
+#networks #ssh
