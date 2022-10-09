@@ -8,4 +8,4 @@ To configure your own cloud server, check out this zettel --> [202206100247](../
 [AWS Getting Started](https://aws.amazon.com/getting-started/?nc1=f_cc)
 
 ## Tags
-#dev #aws
+#aws
