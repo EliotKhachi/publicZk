@@ -8,4 +8,4 @@ In the context of network communication, the *localhost* is referring to the IP 
 [Ionis - Localhost (127.0.0.1)](https://www.ionos.com/digitalguide/server/know-how/localhost/)
 
 ## Tags
-#dev
+#networks #computers
