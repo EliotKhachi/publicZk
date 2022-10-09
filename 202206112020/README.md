@@ -8,4 +8,4 @@ Note that you can name your .key and .crt files anything you'd like.
 [Tech Expert Tips - Enable HTTPS on Nginx](https://techexpert.tips/nginx/enable-https-nginx/)
 
 ## Tags
-#dev
+#ssl #ssh #cryptography
