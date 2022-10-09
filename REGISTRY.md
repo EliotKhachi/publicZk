@@ -2,7 +2,6 @@
 1. #aerospace
 1. #algorithms
 1. #arch
-1. #architecture
 1. #aws
 1. #bash
 1. #business
@@ -45,7 +44,9 @@
 1. #software
 1. #spring
 1. #ssh
+1. #ssl
 1. #STM32
 1. #systemsEngineering
+1. #Tags
 1. #wsl
 1. #zettelkasten
