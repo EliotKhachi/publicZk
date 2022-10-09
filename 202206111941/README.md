@@ -14,4 +14,4 @@ You must have port 443 already opened for inbound traffic to your server. This i
 [Tech Expert Tips - Enable HTTPS on Nginx](https://techexpert.tips/nginx/enable-https-nginx/)
 
 ## Tags
-#dev #nginx
+#nginx
