@@ -15,4 +15,4 @@ All the internet's servers communicate through what is known as Port 80. In orde
 4. You're done! Save the settings. You can now host your server on the internet from your specified machine.   
 
 ## Tags
-#dev #networks
+#ssh #networks
