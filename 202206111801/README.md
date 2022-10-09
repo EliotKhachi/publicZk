@@ -37,4 +37,4 @@ Save the file and run `sudo /etc/init.d/nginx restart`
 [Fireship@YouTube - Host your Website on the Raspberry Pi](https://www.youtube.com/watch?v=QdHvS0D1zAI&t=394s)
 
 ## Tags
-#dev #nginx
+#nginx
