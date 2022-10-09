@@ -47,7 +47,5 @@
 1. #ssh
 1. #STM32
 1. #systemsEngineering
-1. #Tags
-1. #VIS
-1. #WSL
+1. #wsl
 1. #zettelkasten
