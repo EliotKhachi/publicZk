@@ -14,4 +14,4 @@ Now the DNS Content (IP address) of the specified `record_name` in the `cloudfla
 1. [Raspberry Pi versus AWS](https://www.youtube.com/watch?v=QdHvS0D1zAI&t=69s)  
 
 ## Tags
-#dev 
+#networks 
