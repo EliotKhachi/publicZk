@@ -15,27 +15,13 @@ Software architecture layers are used to organize code by using a common and ext
 6. Physical Layers
 
 ## Minimal Architecture: Three Layers
-*Information flows to the Model from the User Interface, Domain, and Data Access in parallel.*
-* Model
+
+Information flows from the user interface to the domain, and from the domain to the data access layer. Layers communicate with each other through *Models*. [202210090645](../202210090645) - Models in a Software Application  
+
 *Information flows downward from the User Interface to the Domain to the Data Access in series (usually).*
-    * User Interface
-    * Domain 
-    * Data Access
-
-The foundation of each of these layers can be built with Spring dependencies in Java by configuring `beans`.
-[202209150538](../202209150538) - Spring Beans Configuration
-
-## Models
-Not exactly a layer. All layers point to Models. Models represent domain *data*, but not *behavior*, and they don't enforce any rules for any of the layers. Rather, models represent a sort of shared vocabulary between layers to promote information flow. The user interface layer can't do its job without knowing a bit about the domain. The same goes for the data access layer.  
-
-## User Interface
-Classes that present data to the user to add, edit, or delete data.
-
-## Domain
-An application's domain is its real-world problem space. It includes the nounds and verbs used to describe core concepts and defines relationships between concepts. This is the most important application layer, assuming we can confidently handle the UX (user experience) and data management issues. The domain doesn't care where the data used to represent these nouns and verbs comes from. That's a problem for the  data access layer to handle.  
-
-## Data Access
-Any class that reads from or writes to files, databases, or APIs, belongs to a separate layer.
+    * User Interface - [202210090650](../202210090650) - User Interface Layer   
+    * Domain - [202210090643](../202210090643) - Domain Layer  
+    * Data Access - [202210090652](../202210090652) - Data Access Layer  
 
 ## Tags
 #software #dev
