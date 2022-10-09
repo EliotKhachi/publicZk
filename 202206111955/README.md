@@ -9,4 +9,4 @@
 [Socket Tools - Creating Certificate Using OpenSSL](https://sockettools.com/kb/creating-certificate-using-openssl/)  
 
 ## Tags
-#cryptography #ssh #networks
+#security
