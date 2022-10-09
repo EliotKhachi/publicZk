@@ -8,4 +8,4 @@
 * <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Arrow-Key</kbd> resizes the panes depending on the direction of the arrow-key pressed.  
 
 ## Tags
-#WSL
+#wsl
