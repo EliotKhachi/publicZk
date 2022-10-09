@@ -11,4 +11,4 @@ Check out *what* an instance is --> [202206101828](../202206101828) - What is an
 [Tutorial: Get started with Amazon EC2 Linux instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
 
 ## Tags
-#aws #dev
+#aws
