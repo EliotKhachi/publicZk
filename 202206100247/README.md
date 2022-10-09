@@ -21,4 +21,4 @@ Step 3: Clean up your instance
 [How to Host a Website on AWS](https://webhostingsvc.com/host-website-on-aws-ec2/#all-about-hosting-a-website)  
 
 ## Tags
-#dev #aws #hub
+#aws #hub
