@@ -1,4 +1,4 @@
-# The Inversion of Control Principle
+# The Inversion of Control Principle 
 
 In software engineering, **inversion of control (IoC)** is a subprinciple stemming from the principle that programs should be modular and extensible.  
 
