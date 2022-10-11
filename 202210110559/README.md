@@ -1,4 +1,4 @@
-# Single-Responsibility Principle
+# Single-Responsibility Principle 
 
 ## Tags
 #oop #java
