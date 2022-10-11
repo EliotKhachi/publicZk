@@ -1,7 +1,13 @@
 # Model View Controller
 
-The **Model-view-controller (MVC)** is a software architectural pattern commonly used for developing web, desktop, mobile, and console-based applications. The MVC divide the program logic into three interconnected elmements to enforce maintainability and scalability. In other words, the MVC is all about who can talk to whom.  
 
+The **Model-view-controller (MVC)** is a software architectural pattern commonly used for developing web, desktop, mobile, and console-based applications.  
+
+* The MVC separates application concerns predictably to enforce maintainability and scalability.  
+
+* The MVC is all about who can talk to whom.  
+
+* The MVC divides program logic into three interconncted components:  
 
 1. Model [Domain Layer] - A class that represents domain data.  
 
