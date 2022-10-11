@@ -1,4 +1,4 @@
-# Dependency Injection
+# Dependency Injection 
 
 In software engineering, **Dependency Injection (DI)** is a design pattern in which an object or function receives other objects or functions that it depends on. It is a form of inversion of control [202210100408](../202210100408).   
 
