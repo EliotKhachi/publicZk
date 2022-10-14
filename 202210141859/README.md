@@ -24,6 +24,7 @@ add_one(x) {
 ```
 Where `x` and `var` are declared by the compiler to be of type integer (determined at compile time).  
 
+## References
 [Wikipedia - Type Inference](https://en.wikipedia.org/wiki/Type_inference)  
 
 ## Tags
