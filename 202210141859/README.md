@@ -25,11 +25,19 @@ add_one(x) {
 Where `x` and `result` are declared by the compiler to be of type integer (determined at compile time) because `1` is an integer.
 
 ## Problems
-`result2` adds complications since the `+` operator must be used on the same types, and `x` cannot be an integer and a floating-point decimal simultaneously.  
+`result2` adds complications because of the aggregate effects of the following causes (for the programming language C):  
+* the `+` operator must be used on the same types.    
+* `1.0` is a floating-point decimal.  
+* To accomodate `result` and `result2, `x` would have to be an integer and a floating-point decimal simultaneously, which is impossible.   
 
 ## Type-Inference Algorithms
-One solution to the ambiguous type-inference example above is simply to generate an error message to catch unintended consequences.  
-Another solution is a back-tracing type-inference algorthim that finds the most generic type to assign to the variable `x`, in this case, floating-point. The issue with this is you can introduce precision issues that wouldn't have been there with an integer type.  
+One solution to the ambiguous type-inference example above is simply to generate an error message to catch unintended consequences (such as in C).  
+
+Another solution is a back-tracing type-inference algorthim that finds the most generic type to assign to the variable `x`, in this case, floating-point. The issue with this:
+1. Type-inference becomes unintuitive to humans and bugs become harder to catch  
+2. In this case, you can introduce precision issues that wouldn't have been there with an integer type
+
+For these reasons, an error message may be preferred to type-inference algorithms.  
 
 ## References
 [Wikipedia - Type Inference](https://en.wikipedia.org/wiki/Type_inference)  
