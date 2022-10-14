@@ -28,7 +28,7 @@ Where `x` and `result` are declared by the compiler to be of type integer (deter
 `result2` adds complications because of the aggregate effects of the following causes (for the programming language C):  
 * the `+` operator must be used on the same types.    
 * `1.0` is a floating-point decimal.  
-* To accomodate `result` and `result2, `x` would have to be an integer and a floating-point decimal simultaneously, which is impossible.   
+* To accomodate `result` and `result2`, `x` would have to be an integer and a floating-point decimal simultaneously, which is impossible.   
 
 ## Type-Inference Algorithms
 One solution to the ambiguous type-inference example above is simply to generate an error message to catch unintended consequences (such as in C).  
