@@ -1,4 +1,4 @@
-# What is Kotlin?
+# What is Kotlin? 
 
 Kotlin is a *programming language* that is similar to Java and very easy to learn if you come from a Java background. It was designed to interoperate fully with Java; the JVM version of its standard library depends on the *Java Class* library, but *type inference* allows its syntax to be more concise. [202210141859](../202210141859) - Type Inference  
 
