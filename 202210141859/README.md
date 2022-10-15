@@ -1,4 +1,4 @@
-# Type Inference
+# Type Inference 
 
 Type inference refers to the automatic detection of the *type* of an expression in a formal language.  
 
