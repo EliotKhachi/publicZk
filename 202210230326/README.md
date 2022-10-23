@@ -1,4 +1,4 @@
-# Mapping XML Elements With Spring Annotations
+# Mapping XML Elements With Spring Annotations 
 
 |External XML File|Spring Annotation|
 |-|-|
