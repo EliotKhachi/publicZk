@@ -17,7 +17,6 @@ Roth IRAs and 401ks are each personal investment accounts that are used to build
 |Investment choices 	|Many 	|Few|
 |Maintained By 	|Self 	|Employer|
 
-**Roth 401k** - 
 ## References
 [Investopedia - Roth IRA vs. 401(k): What’s the Difference?](https://www.investopedia.com/ask/answers/100314/whats-difference-between-401k-and-roth-ira.asp)
 
