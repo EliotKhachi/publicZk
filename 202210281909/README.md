@@ -1,4 +1,4 @@
-# Tax Deductions
+# Tax Deductions 
 
 A *tax deduction* is an item that you can subtract from your taxable income.
 
