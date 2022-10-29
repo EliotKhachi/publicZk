@@ -1,4 +1,4 @@
-# Roth IRA vs 401k
+# Roth IRA vs 401k 
 
 Roth IRAs and 401ks are each personal investment accounts that are used to build a *nest egg* for retirement. Their advantage to a regular investment account, such as one a *Robinhood* or *TD Ameritrade* account, is that your investments grow *tax-deferred*.
 
