@@ -1,4 +1,4 @@
-# Information Categories
+# Information Categories 
 
 1. Safety Net - *Logical Backbone*  
 * What are we talking about?
