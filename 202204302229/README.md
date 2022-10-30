@@ -1,6 +1,6 @@
 # Introduction to Docker
 
-Docker is a software that helps manage application compatibility with libraries, dependencies, and operating systems.
+Docker is software that is used to isolate and configure an application's "environment". An application's environment can be thought of as the libraries, dependencies, and operating system that it runs with/on.
 
 ## Containers  
 [\[Docker Containers\]](../202204302232) are used to house and "package" an application. Developers can then run those containers on any operating system by configuring your Docker based on your operating system or virtual machine.
