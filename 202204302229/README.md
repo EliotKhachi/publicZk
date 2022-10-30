@@ -6,7 +6,6 @@ Docker is software for creating and running containers.
 
 ## Other Links
 1. [\[Docker - Getting Started\]](../202204302249)
-2. [\[Docker Images\]](../202204302243) are used to configure the dependencies of a container.   
 
 ## References
 [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo)
