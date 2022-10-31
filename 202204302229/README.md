@@ -12,4 +12,4 @@ Docker is software for creating and running containers.
 [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 
 ## Tags
-#docker
+#docker #cloud
