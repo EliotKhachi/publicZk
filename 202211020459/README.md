@@ -1,4 +1,4 @@
-# Set Up Lynx Text Web Browser
+# Set Up Lynx Text Web Browser 
 
 1. Install Linux.
 
