@@ -6,7 +6,7 @@
 
 3. Unmount the usb - `umount /dev/sdb*` 
 
-4. Format the drive - `mkfs.vfat /dev/sdb -I`  
+4. Format the drive - `sudo mkfs.vfat /dev/sdb -I`  
 
 5. Use DD command to write the ISO image to the specified drive:  
 `dd if=~/Downloads/NameOfIsoImage.iso of=/dev/sdb`  
