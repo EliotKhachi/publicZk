@@ -1,4 +1,4 @@
-# Relational Databases
+# Relational Databases 
 
 **Relational databases** are *databases* that use the concept of a 
 **relation**, or **table**, to organize/link data together. A table is a 
