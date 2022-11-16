@@ -23,4 +23,7 @@ hundreds of attributes, which would be bad code otherwise.
 
 e.g. Product:Taxation Category, Customer:Login
 
+## References
+[Relational Databases](../202211160507)
+
 ## Tags
