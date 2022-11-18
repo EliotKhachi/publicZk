@@ -1,4 +1,4 @@
-# MySQL Inner Join
+# MySQL Inner Join 
 
 ## Example
 Given a CAD software / PLM database with the following tables:
