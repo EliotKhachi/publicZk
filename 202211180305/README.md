@@ -13,6 +13,7 @@ order IDs, and the items that they ordered on July 28th, 2020.
 ```mysql
 /*
 **Table Joining Concept**
+Use common ids between the following tables in the following order:
 customer --> order --> order_item --> item --> filter 
 */
 select
