@@ -1,4 +1,4 @@
-# Jim Kwik on Flow State
+# Flow State
 
 ## What is Flow?
 1. Absolute concentration
