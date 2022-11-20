@@ -37,5 +37,8 @@ There are 3 main elements of every habit having to do with *formation and purpos
 2. *Facilitator* - A prompt that leads to adopting a tool when you have high motivation low ability. e.g. you need to use a software tool that requires some technnical setup but you are tech averse, you are likely to use a tool that makes software easier to use.
 3. *Signal* - A prompt that serves as a reminder -> immediatey leads to a behavior or response. Occurs when motivation and ability are high. e.g. If you love making brain smoothies, all you need is to see your blender in the kitchen to prompt you to make one. 
 
+## References
+*Limitless* by Jim Kwik  
+
 ## Tags
-#limitless #deepWork
+#limitless #deepwork
