@@ -1,4 +1,4 @@
-# Safety Net + Core Basics
+# Safety Net + Core Basics 
 
 After establishing your safety net and core basics you should have established the following "slots" in your brain, priming it for learning deeper topics:  
 * Core Basic Skills  
