@@ -1,11 +1,8 @@
 # Safety Netting
 
-Before learning something new, create a *safety net* for yourself.  
+The first step to learning something new is to take a step back and create a *safety net* for yourself.  
 
-A safety net is a collection of knowledge you are already familiar with
- that is related to the new topic you're trying to learn. It also 
-defines resources you can use, what capabilities are unlocked after 
-having learned this, and it ties in your emotions and motivations.  
+A safety net is the logical backbone you can fall back on whenever you get lost.  
 
 To create a safety net, ask yourself:
 
