@@ -12,4 +12,7 @@ that *peaks your interest*.
 --- 
 Since everyone is different and some things are best learned before others, you must take charge of sifting through information best suited for you at various stages of the learning process.    
 
+## References
+[Double Your Learning Speed](../202211200641)
+
 ## Tags
