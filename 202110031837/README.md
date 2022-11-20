@@ -17,4 +17,4 @@ There is no question whether these network tools provide some value in our lives
 *Don't use social media as entertainment* - Social media and entertainment both fall into this category of time and effort that produce 20% of your generated value. So, won't it be better to devote your free time not to social media but to more rich entertainment, friends and family, relaxation, etc?
 
 ## Tags
-#deepWork 
+#productivity
