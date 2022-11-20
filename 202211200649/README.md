@@ -1,4 +1,4 @@
-# Core Basics First
+# Core Basics First 
 
 The first thing you should cover when learning something new are the *core basics*.  
 
