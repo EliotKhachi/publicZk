@@ -14,4 +14,7 @@ To create a safety net, ask yourself:
 * Where can I find further knowledge?  
 * Who are the experts?
 
+## References
+[Double Your Learning Speed](../202211200641)
+
 ## Tags
