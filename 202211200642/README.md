@@ -1,4 +1,4 @@
-# Safety Netting
+# Safety Netting 
 
 The first step to learning something new is to take a step back and create a *safety net* for yourself.  
 
