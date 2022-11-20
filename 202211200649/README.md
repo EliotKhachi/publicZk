@@ -2,7 +2,7 @@
 
 The first thing you should cover when learning something new are the *core basics*.  
 
-The core basics are significant and immediate understandings. They are the things you need to grasp before moving onto more complex 
+The core basics are significant and immediate gains in understanding. They are the things you need to grasp before moving onto more complex 
 or nuanced topics.  
 
 1. First learn the things that "move the needle" the furthest. See [The Pareto Distribution / 80-20 Rule](../202110031839).  
