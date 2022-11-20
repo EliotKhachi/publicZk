@@ -11,7 +11,6 @@
 1. #computers
 1. #cryptography
 1. #db
-1. #deepWork
 1. #design
 1. #dev
 1. #docker
@@ -23,11 +22,11 @@
 1. #gcc
 1. #GDT
 1. #git
+1. #habits
 1. #healthcare
 1. #hub
 1. #java
 1. #laws
-1. #limitless
 1. #linux
 1. #manufacturing
 1. #MBSE
@@ -37,6 +36,7 @@
 1. #personality
 1. #politics
 1. #postgres
+1. #productivity
 1. #programming
 1. #qualityControl
 1. #react
