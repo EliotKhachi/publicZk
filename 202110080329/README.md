@@ -24,4 +24,4 @@ Small simple steps repeated lead to habits. [202110080346](../202110080346) - Ji
 * Bluma Zeigarnik - https://en.wikipedia.org/wiki/Bluma_Zeigarnik#Zeigarnik_effect
 
 ## Tags
-#limitless #deepwork
+#productivity
