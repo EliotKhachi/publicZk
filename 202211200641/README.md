@@ -1,4 +1,4 @@
-# Double Your Learning Speed
+# Double Your Learning Speed 
 
 Step 1: [Safety Netting](../202211200642)  
 
