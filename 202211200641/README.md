@@ -8,10 +8,9 @@ Step 2.5: [Safety Net + Core Basics](../202211200730)
 
 Step 3: [Admin and Good For You](../202211200655)  
 
-When learning something new, categorize information into the categories: *Safety Net*, *Core Basics*, *Admin*, and *Good For You*.
+Step 4: [Jumpy Learning & Strategic Drowning](../202211200725)  
 
-If you are learning independently, do not hesitate to learn things in the order you like:   
-Step 4: [Jumpy Learning & Strategic Drowning](../202211200725)
+Before diving deep into the resources, scan through the chapter or section and categorize information into: *Safety Net*, *Core Basics*, *Admin*, and *Good For You* knowledge.  
 
 ## References
 * *Limitless* by Jim Kwik
