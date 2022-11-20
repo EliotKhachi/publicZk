@@ -7,11 +7,11 @@ at a later time. Admin knowledge can be *less important* or just *hard for you* 
 
 You will also come across **good-for-you** knowledge.
 
-Good for you knowledge is *unimportant*. It's up to you whether you'd like to learn it. It can be *irrelevant*. You may *not even care*. On the other hand, it can be unimportant knowledge 
-that *peaks your interest*.  
+Good for you knowledge is *unimportant*. It's up to you whether you'd like to learn it. It can even be completely *irrelevant*. On the other hand, it can be unimportant knowledge 
+that *peaks your interest*, and that you would like to learn anyway.  
 
 --- 
-Since everyone is different and some things are best learned before others, you must take charge of sifting through information best suited for you at various stages of the learning process.    
+Since everyone is different and some things are best learned before others, you must take charge of sifting through information best suited for you at various stages of the learning process.  
 
 ## References
 [Double Your Learning Speed](../202211200641)
