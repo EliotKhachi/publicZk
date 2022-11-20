@@ -2,7 +2,7 @@
 
 The first step to learning something new is to take a step back and create a *safety net* for yourself.  
 
-A safety net is the logical backbone you can fall back on whenever you get lost.  
+A safety net is the logical backbone you can fall back on whenever you get lost. 
 
 To create a safety net, ask yourself:
 
