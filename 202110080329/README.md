@@ -1,4 +1,4 @@
-# Jim Kwik on the Power of Small Simple Steps (S^3) 
+# The Power of Small Simple Steps (S^3) 
 
 ## Key Questions
 What is the smallest simple step I can take now?
@@ -22,6 +22,7 @@ Small simple steps repeated lead to habits. [202110080346](../202110080346) - Ji
 ## References
 * Dr. Art Markman, professor of psycholoy and marketing at University of Texas, Austin
 * Bluma Zeigarnik - https://en.wikipedia.org/wiki/Bluma_Zeigarnik#Zeigarnik_effect
+* *Limitless* by Jim Kwik
 
 ## Tags
-#productivity
+#habits
