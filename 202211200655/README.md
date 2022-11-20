@@ -1,4 +1,4 @@
-# Admin and Good For You
+# Admin and Good For You 
 
 When learning something, you will undoubtedly come **admin** knowledge, i.e. knowledge that an administrator or secretary needs. [Admin Definition](https://www.dictionary.com/browse/admin)
 
