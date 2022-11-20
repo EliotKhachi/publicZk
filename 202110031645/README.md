@@ -43,4 +43,4 @@ A shutdown ritual fulfills the responsibility of keeping track of work not yet c
 Newport, Cal. *Deep Work*. New York, Hachette Book Group Inc, 2016.
 
 ## Tags
-#deepWork
+#productivity
