@@ -9,7 +9,7 @@
 3. Ensure each concept is pure. Look for signs that a table is confusing 
 or contains data that doesn't belong there.
 
-[Natural Key](../../fgdfg/202211210512)
+[Natural Key](../tree/main/202211210512)
 
 ## Example
 
