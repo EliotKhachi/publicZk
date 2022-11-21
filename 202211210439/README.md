@@ -20,7 +20,7 @@ or contains data that doesn't belong there.
 | 2019 	| Battle Jam 		| 	La Paz 				| Chester 		 	 | Kermie Solan 				| Nek-Nek 				|	Meggi Pien 	Yule 				|	Fayre 							| 	Fidelus|
 | 2020 	| Robot Olympics|  	Minsk 				| Cyclotron 	 	 | Ettore Sirett 				| 45-A-93 				|	Callie Linham 					|	Long Island Ice Tea | 	Koo Harland|
 | 2020 	| Robot Cup 		| 	Seoul 				| DREAM_LORD 	 	 | Imogen Coyte 				| Gladys 					|	Massimo Surgenor 				|	WingNutt 						| 	Avivah Rickard|
-| 2020 	| Battle Jam 		| 	Chennai 			| Rip 	Meggi  	 | Pien 	D3tr0yer 			| Isis Lafoy 			|	Nek-Nek 	Meggi Pien
+| 2020 	| Battle Jam 		| 	Chennai 			| Rip 					 | Meggi Pien 					| D3tr0yer 				| Isis Lafoy 							|	Nek-Nek 						|   Meggi Pien|
 
 
 ## Tags
