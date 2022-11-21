@@ -10,6 +10,7 @@
 or contains data that doesn't belong there.
 
 ## Example
+
 | year 	| competition   |	host_city 	    |first_place_bot |first_place_competitor|second_place_bot | second_place_competitor | third_place_bot 	  |third_place_competitor|
 |-------|---------------|-----------------|----------------|----------------------|-----------------|-------------------------|---------------------|----------------------|
 | 2018 	| Robot Olympics|  	Berlin 				| Nek-Nek 		 	 | Meggi Pien 					| Cyclotron 			|	Ettore Sirett 					|	Harley 						  | 	Chiquia Tetla|
@@ -22,6 +23,13 @@ or contains data that doesn't belong there.
 | 2020 	| Robot Cup 		| 	Seoul 				| DREAM_LORD 	 	 | Imogen Coyte 				| Gladys 					|	Massimo Surgenor 				|	WingNutt 						| 	Avivah Rickard|
 | 2020 	| Battle Jam 		| 	Chennai 			| Rip 					 | Meggi Pien 					| D3tr0yer 				| Isis Lafoy 							|	Nek-Nek 						|   Meggi Pien|
 
+* Primary key of (year, competition), since two columns are required 
+to uniquely identify a row.  
+
+* The current design tries to include too much information. This table should be 
+reduced to (year, competition, host_city). One other table should include the top 3 
+placed bots . Another table should include the top 3 placed competitors . These two 
+additional tables would include the (year, competition) as their foreign key.
 
 ## Tags
 #db
