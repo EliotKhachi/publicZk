@@ -25,7 +25,7 @@ or contains data that doesn't belong there.
 
 Can you point out the issues with the above table?  
 
-[Java Web Course L5.4](../../../privatezk/202210030506)
+[Java Web Course L5.4](../../../../privatezk/tree/main/202210030506)
 
 ## Tags
 #db
