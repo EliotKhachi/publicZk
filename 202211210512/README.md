@@ -17,6 +17,9 @@ The problem with a natural key is that the world is a complicated place.
 There can be an exception introduced to the table that no longer makes your 
 natural key unique.
 
+If our table were tracking holiday parties and their host, then we can have 
+records of the same holiday events in the same year by different people.  
+
 |holiday|year|joy_factor|host|
 |-----|----|----|---|
 |Christmas|2022|0.85|Eliot|
@@ -24,10 +27,7 @@ natural key unique.
 |Thanksgiving|2022|0.8|Mary|
 |Thanksgiving|2022|0.6|Eliot|
 
-If our table were tracking holiday parties and their host, then we can have 
-records of the same holiday events in the same year by different people.    
-
-For this reason, it's often best to add another column to act as the primary key.
+For this reason, it's often best to add another column to act as the primary key:  
 
 |id|holiday|year|joy_factor|host|
 |-|-----|----|----|---|
