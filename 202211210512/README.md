@@ -27,5 +27,14 @@ natural key unique.
 If our table were tracking holiday parties and their host, then we can have 
 records of the same holiday events in the same year by different people.    
 
+For this reason, it's often best to add another column to act as the primary key.
+
+|id|holiday|year|joy_factor|host|
+|-|-----|----|----|---|
+|1|Christmas|2022|0.85|Eliot|
+|2|Halloween|2022|0.7|Jim|
+|3|Thanksgiving|2022|0.8|Mary|
+|4|Thanksgiving|2022|0.6|Eliot|
+
 ## Tags
 #db
