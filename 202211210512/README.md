@@ -5,7 +5,7 @@ is unique.
 
 ## Example
 |holiday|year|joy_factor|
-|-----|----|
+|-----|----|----|
 |Christmas|2022|0.85|
 |Halloween|2022|0.7|
 |Thanksgiving|2022|0.8|
@@ -19,7 +19,7 @@ changes. There can be an exception introduced to the table that no longer makes 
 natural key unique.
 
 |holiday|year|joy_factor|host|
-|-----|----|----|
+|-----|----|----|---|
 |Christmas|2022|0.85|Eliot|
 |Halloween|2022|0.7|Jim|
 |Thanksgiving|2022|0.8|Mary|
