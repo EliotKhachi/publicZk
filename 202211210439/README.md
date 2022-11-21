@@ -9,7 +9,7 @@
 3. Ensure each concept is pure. Look for signs that a table is confusing 
 or contains data that doesn't belong there.
 
-[Natural Key](../tree/main/202211210512)
+[GRE Key Terms Group 1: Day 1](https://github.com/EliotKhachi/privateZk/tree/main/202201190203)
 
 ## Example
 
