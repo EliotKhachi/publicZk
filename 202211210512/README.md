@@ -12,7 +12,8 @@ A **natural key** is a key that uses meaningful attributes from a table.
 In the above table, the `holiday` and `year` can be used as a natural key since 
 a holiday only occurs once a year; so, uniqueness is maintained. 
 
-## Problems
+---
+
 The problem with a natural key is that the world is a complicated place.  
 There can be an exception introduced to the table that no longer makes your 
 natural key unique.
@@ -26,6 +27,8 @@ records of the same holiday events in the same year by different people.
 |Halloween|2022|0.7|Jim|
 |Thanksgiving|2022|0.8|Mary|
 |Thanksgiving|2022|0.6|Eliot|
+
+---
 
 For this reason, it's often best to add another column to act as the primary key:  
 
