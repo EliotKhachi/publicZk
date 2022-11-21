@@ -1,4 +1,4 @@
-# Natural Key
+# Natural Key 
 
 A **natural key** is a key that uses meaningful attributes from a table.  
 
