@@ -1,4 +1,4 @@
-# Normalization
+# Normalization 
 
 **Normalization** is the process of applying well-understood design rules to *schema*.  
 
