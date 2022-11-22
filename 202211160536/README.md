@@ -22,7 +22,7 @@ depends on not just the concept of the table, but the context of the database.*
 **One-To-One**
 ---
 In a *one-to-one* relationship, a separate table is created to extend the concept or 
-refine the details of the original table. This separate table stores an attribute that  
+refine the details of the original table. This separate table stores an attribute that 
 otherwise would have left the original table *impure* conceptually [[Normalization](../202211210439)]. 
 
 e.g. Product:Taxation Category, Customer:Contact Information
