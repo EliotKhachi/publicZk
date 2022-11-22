@@ -9,8 +9,6 @@
 3. Ensure each concept is pure. Look for signs that a table is confusing 
 or contains data that doesn't belong there.
 
-[GRE Key Terms Group 1: Day 1](https://github.com/EliotKhachi/privateZk/tree/main/202201190203)
-
 ## Example
 
 | year 	| competition   |	host_city 	    |first_place_dance_move|first_place_dancer|second_place_dance_move| second_place_dancer| third_place_dance_move|third_place_dancer|
