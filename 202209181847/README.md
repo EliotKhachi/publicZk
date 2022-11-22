@@ -7,7 +7,7 @@ into an object type.
 private Object lineToObject(String line) {
     String[] fields = line.split(delimiter);
 		
-	// It's proper convention to make sure you serialized the data properly. In this case, we expect 4 attributes.  
+// It's proper convention to make sure you serialized the data properly. In this case, we expect 4 attributes.  
     if (fields.length != 4) { 
         return null;
     }
