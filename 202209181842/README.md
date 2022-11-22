@@ -3,28 +3,27 @@
 
 ## Example
 ```java
-private void writeToFile(List<Memory> memories) throws DataAccessException {
+private void writeToFile(List<Object> objects) throws DataAccessException {
   try (PrintWriter writer = new PrintWriter(filePath)) {
-    for (Memory memory : memories) {
-      writer.println(memoryToLine(memory));
+    for (Object object : objects) {
+      writer.println(objectToLine(object));
     }
   } catch (IOException ex) {
     throw new DataAccessException("Could not write to file path: " + filePath, ex);
   }
 }
 
-private String memoryToLine(Memory memory) {
+private String objectToLine(Object object) {
   StringBuilder buffer = new StringBuilder(100);
-  buffer.append(memory.getId()).append(delimiter);
-  buffer.append(cleanField(memory.getFrom())).append(delimiter);
-  buffer.append(cleanField(memory.getContent())).append(delimiter);
-  buffer.append(memory.isShareable());
+  buffer.append(object.getId()).append(delimiter);
+  buffer.append(cleanField(object.getFrom())).append(delimiter);
+  buffer.append(cleanField(object.getContent())).append(delimiter);
+  buffer.append(object.isShareable());
   return buffer.toString();
 }
 ```
 
-The opposite process is known as *deserialization*. 
-[202209181847](../202209181847) - Deserialization
+The opposite process is known as [deserialization](../202209181847).  
 
 ## Tags
 #db
