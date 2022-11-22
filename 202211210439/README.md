@@ -15,15 +15,15 @@ or contains data that doesn't belong there.
 
 | year 	| competition   |	host_city 	    |first_place_bot |first_place_competitor|second_place_bot | second_place_competitor | third_place_bot 	  |third_place_competitor|
 |-------|---------------|-----------------|----------------|----------------------|-----------------|-------------------------|---------------------|----------------------|
-| 2018 	| Robot Olympics|  	Berlin 				| Nek-Nek 		 	 | Meggi Pien 					| Cyclotron 			|	Ettore Sirett 					|	Harley 						  | 	Chiquia Tetla|
-| 2018 	| Robot Cup 		| 	Johannesburg 	| Mitchell 		 	 | Pen Cicculini 				| Cyclotron 			|	Ettore Sirett 					|	D3tr0yer 						| 	Isis Lafoy|
-| 2018 	| Battle Jam 		| 	Chennai 			| Fester 			 	 | Hashim Littrik 			| The Undertaker 	|	Donny Jaques 						|	Rip 								| 	Meggi Pien|
-| 2019 	| Robot Olympics|  	Brisbane 			| Harley 			 	 | Chiquia Tetla 				| Haymaker 				|	Carolann Abotson 				|	¯\_(ツ)_/¯ 					| 	Ernesta Salvatore|
-| 2019 	| Robot Cup 		| 	Seoul 				| #BAUT 			 	 | Ailee Roderick 			| Dianne 					|	Massimo Surgenor 				|	Nales 							| 	Isis Lafoy|
-| 2019 	| Battle Jam 		| 	La Paz 				| Chester 		 	 | Kermie Solan 				| Nek-Nek 				|	Meggi Pien 	Yule 				|	Fayre 							| 	Fidelus|
-| 2020 	| Robot Olympics|  	Minsk 				| Cyclotron 	 	 | Ettore Sirett 				| 45-A-93 				|	Callie Linham 					|	Long Island Ice Tea | 	Koo Harland|
-| 2020 	| Robot Cup 		| 	Seoul 				| DREAM_LORD 	 	 | Imogen Coyte 				| Gladys 					|	Massimo Surgenor 				|	WingNutt 						| 	Avivah Rickard|
-| 2020 	| Battle Jam 		| 	Chennai 			| Rip 					 | Meggi Pien 					| D3tr0yer 				| Isis Lafoy 							|	Nek-Nek 						|   Meggi Pien|
+| 1994 	| Dance Olympics|  	Berlin 				| Butterfly Swing 		 	 | George Marshall 					| Cyclotron 			|	Monty Mccann 					|	Heel Spin 						  | 	Blanche Maldonado|
+| 1994 	| Freestyle 		| 	Shanghai 	| Gemini Blast 		 	 | Dorian Tapia 				| Cyclotron 			|	Monty Mccann 					|	Swing Dancing 						| 	Darius Mcdonald|
+| 1994 	| Dance Battle 		| 	Tokyo 			| Kickstand 			 	 | Delmer Berry 			| The Moonwalk 	|	Marc French 						|	Quick Shuffle 								| 	George Marshall|
+| 1995 	| Dance Olympics|  	Mexico City 			| Heel Spin 			 	 | Blanche Maldonado 				| Haymaker 				|	Ella Bell 				|	Body Roll 					| 	Vicki Bauer|
+| 1995 	| Freestyle 		| 	NY City 				| 360 flip 			 	 | Georgina Calhoun 			| The Floss 					|	Massimo Surgenor 				|	Nales 							| 	Darius Mcdonald|
+| 1995 	| Dance Battle 		| 	Istanbul 				| Chester 		 	 | Pete Allison 				| Butterfly Swing 				|	George Marshall 	Yule 				|	Fayre 							| 	Josue Frederick|
+| 1996 	| Dance Olympics|  	Minsk 				| Cyclotron 	 	 | Monty Mccann 				| The Dougie 				|	Shon Tyler 					|	Voguing | 	Kelly Berg|
+| 1996 	| Freestyle 		| 	NY City 				| Fly High 	 	 | Jamel Duncan 				| Two-Step 					|	Massimo Surgenor 				|	WingNutt 						| 	Norman Houston|
+| 1996 	| Dance Battle 		| 	Tokyo 			| Quick Shuffle 					 | George Marshall 					| Swing Dancing 				| Darius Mcdonald 							|	Butterfly Swing 						|   George Marshall|
 
 Can you point out the issues with the above table?  
 
