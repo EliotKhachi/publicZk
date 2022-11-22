@@ -13,7 +13,7 @@ or contains data that doesn't belong there.
 
 ## Example
 
-| year 	| competition   |	host_city 	    |first_place_bot |first_place_competitor|second_place_bot | second_place_competitor | third_place_bot 	  |third_place_competitor|
+| year 	| competition   |	host_city 	    |first_place_dance_move|first_place_dancer|second_place_dance_move| second_place_dancer| third_place_dance_move|third_place_dancer|
 |-------|---------------|-----------------|----------------|----------------------|-----------------|-------------------------|---------------------|----------------------|
 | 1994 	| Dance Olympics|  	Berlin 				| Butterfly Swing 		 	 | George Marshall 					| Cyclotron 			|	Monty Mccann 					|	Heel Spin 						  | 	Blanche Maldonado|
 | 1994 	| Freestyle 		| 	Shanghai 	| Gemini Blast 		 	 | Dorian Tapia 				| Cyclotron 			|	Monty Mccann 					|	Swing Dancing 						| 	Darius Mcdonald|
