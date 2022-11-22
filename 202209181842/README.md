@@ -15,10 +15,10 @@ private void writeToFile(List<Object> objects) throws DataAccessException {
 
 private String objectToLine(Object object) {
   StringBuilder buffer = new StringBuilder(100);
-  buffer.append(object.getId()).append(delimiter);
-  buffer.append(cleanField(object.getFrom())).append(delimiter);
-  buffer.append(cleanField(object.getContent())).append(delimiter);
-  buffer.append(object.isShareable());
+  buffer.append(object.getVar1()).append(delimiter);
+  buffer.append(object.getVar2()).append(delimiter);
+  buffer.append(object.getVar3()).append(delimiter);
+  buffer.append(object.getVar4()).append(delimiter);
   return buffer.toString();
 }
 ```
