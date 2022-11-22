@@ -18,9 +18,9 @@ or contains data that doesn't belong there.
 | 1994 	| Dance Olympics|  	Berlin 				| Butterfly Swing 		 	 | George Marshall 					| Cyclotron 			|	Monty Mccann 					|	Heel Spin 						  | 	Blanche Maldonado|
 | 1994 	| Freestyle 		| 	Shanghai 	| Gemini Blast 		 	 | Dorian Tapia 				| Cyclotron 			|	Monty Mccann 					|	Swing Dancing 						| 	Darius Mcdonald|
 | 1994 	| Dance Battle 		| 	Tokyo 			| Kickstand 			 	 | Delmer Berry 			| The Moonwalk 	|	Marc French 						|	Quick Shuffle 								| 	George Marshall|
-| 1995 	| Dance Olympics|  	Mexico City 			| Heel Spin 			 	 | Blanche Maldonado 				| Haymaker 				|	Ella Bell 				|	Body Roll 					| 	Vicki Bauer|
+| 1995 	| Dance Olympics|  	Mexico City 			| Heel Spin 			 	 | Blanche Maldonado 				| The Robot 				|	Ella Bell 				|	Body Roll 					| 	Vicki Bauer|
 | 1995 	| Freestyle 		| 	NY City 				| 360 flip 			 	 | Georgina Calhoun 			| The Floss 					|	Massimo Surgenor 				|	Nales 							| 	Darius Mcdonald|
-| 1995 	| Dance Battle 		| 	Istanbul 				| Chester 		 	 | Pete Allison 				| Butterfly Swing 				|	George Marshall 	Yule 				|	Fayre 							| 	Josue Frederick|
+| 1995 	| Dance Battle 		| 	Istanbul 				| The Hustle 		 	 | Pete Allison 				| Butterfly Swing 				|	George Marshall 	Yule 				|	Fayre 							| 	Josue Frederick|
 | 1996 	| Dance Olympics|  	Minsk 				| Cyclotron 	 	 | Monty Mccann 				| The Dougie 				|	Shon Tyler 					|	Voguing | 	Kelly Berg|
 | 1996 	| Freestyle 		| 	NY City 				| Fly High 	 	 | Jamel Duncan 				| Two-Step 					|	Massimo Surgenor 				|	WingNutt 						| 	Norman Houston|
 | 1996 	| Dance Battle 		| 	Tokyo 			| Quick Shuffle 					 | George Marshall 					| Swing Dancing 				| Darius Mcdonald 							|	Butterfly Swing 						|   George Marshall|
