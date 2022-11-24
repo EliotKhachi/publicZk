@@ -10,7 +10,7 @@
 or contains data that doesn't belong there.
 
 ## Example
-
+`competition`
 | year 	| competition   |	host_city 	    |first_place_dance_move|first_place_dancer|second_place_dance_move| second_place_dancer| third_place_dance_move|third_place_dancer|
 |-------|---------------|-----------------|----------------|----------------------|-----------------|-------------------------|---------------------|----------------------|
 | 1994 	| Dance Olympics|  	Berlin 				| Butterfly Swing 		 	 | George Marshall 					| Popping and Locking 			|	Monty Mccann 					|	Heel Spin 						  | 	Blanche Maldonado|
@@ -23,10 +23,26 @@ or contains data that doesn't belong there.
 | 1996 	| Freestyle 		| 	NY City 				| Fly High 	 	 | Jamel Duncan 				| Two-Step 					|	Massimo Surgenor 				|	WingNutt 						| 	Norman Houston|
 | 1996 	| Dance Battle 		| 	Tokyo 			| Quick Shuffle 					 | George Marshall 					| Swing Dancing 				| Darius Mcdonald 							|	Butterfly Swing 						|   George Marshall|
 
-Can you point out potential design issues with the table above?  
+There are some design issues with the `competition` table above:  
+1. **Insert a primary key** - Without a primary key, we are forced to use the 
+natural key (`year`,`competition`), which could lead to problems if a competition is 
+hosted twice in a single year.   
 
-A good "tell" for bad table schema is a column that contains a string more than once.  
-Try to identify them and why they could lead to confusion or a badly managed database. How would you resolve it?
+2. **Extract one-to-many relationships** - Remove one-to-many relationships in
+ the table and create a new table to represent them.  
+* A `competition` has many ranks - create a `competition_rank` table.  
+* A record in `competition_rank` has a dancer, dance move, rank, and competition id.  
+
+3. **Extract repeating string values** - If there are values that repeat in a column 
+that can be represented as their own concept, put them in its own table.  
+* Create a `host_city` table with an `id` and `name`.   
+* Create a `competition` table with an `id` and `name`.   
+* Create a `dancer` and `dance_move` table to remove repeating string values in 
+`competition_rank`
+
+4. **Consolidate** - Add a new master table to tie in the new tables. 
+Define relationships, create foreign keys where needed.  
+
 
 ## Tags
 #db
