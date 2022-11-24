@@ -1,4 +1,4 @@
-# Database
+# Database 
 
 A *database* is a set of data stored in a computer. 
 This data is usually structured in a way that makes the data easily accessible.  
