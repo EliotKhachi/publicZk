@@ -2,9 +2,7 @@
 
 A Relational Database Management System (RDBMS) do the following for software engineers:  
 
-* Supports multiple databases  
-* Supports the core SQL (Structured Query Language) specification as defined by 
-ISO standards.  
+* Supports multiple [databases](../202211240255) * Supports the core SQL (Structured Query Language) specification as defined by ISO standards.  
 * Connects your database to the network. They accept requests and return results over 
 the network.  
 * Secures your databases, tables, or even rows by granting read, add, update, or delete 
