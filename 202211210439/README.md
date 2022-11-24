@@ -23,7 +23,7 @@ or contains data that doesn't belong there.
 | 1996 	| Freestyle 		| 	NY City 				| Fly High 	 	 | Jamel Duncan 				| Two-Step 					|	Massimo Surgenor 				|	WingNutt 						| 	Norman Houston|
 | 1996 	| Dance Battle 		| 	Tokyo 			| Quick Shuffle 					 | George Marshall 					| Swing Dancing 				| Darius Mcdonald 							|	Butterfly Swing 						|   George Marshall|
 
-Can you point out the issues with the above table?  
+Can you point out potential design issues with the table above?  
 
 A good "tell" for bad table schema is a column that contains a string more than once.  
 Try to identify them and why they could lead to confusion or a badly managed database. How would you resolve it?
