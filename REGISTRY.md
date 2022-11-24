@@ -39,6 +39,7 @@
 1. #postgres
 1. #productivity
 1. #programming
+1. #public
 1. #qualityControl
 1. #react
 1. #reMarkable

@@ -19,5 +19,10 @@ What is a **transaction**? A database transaction is a group of actions
 
 **A** - Atomicity: 
 
+## References
+
+[What is a Relational Database Management System](https://www.codecademy.com/article/what-is-rdbms-sql)
+[ACID Transactions](https://www.databricks.com/glossary/acid-transactions)
+
 ## Tags
 #db
