@@ -5,7 +5,7 @@ Given a CAD software / PLM database with the following tables:
 * engineer 
 * assembly 
 * component
-* assembly\_component - *bridge table between assemblys and components (many-to-many relationship)*
+* assembly\_component - *bridge table between assemblies and components (many-to-many relationship)*
 
 , return a result grid that links engineer's last names, their responsible 
 assembly drawing numbers, and the components in those assemblies that are machined parts.
