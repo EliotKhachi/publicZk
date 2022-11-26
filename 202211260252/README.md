@@ -1,4 +1,4 @@
-# Network Ports
+# Network Ports 
 
 *Network ports* are used to establish a logical connection that is used by programs and services to exchange information. Ports can range from 0 - 65535, and are assigned by the **IANA** (Internet Assigned Numbers Authority).  
 
