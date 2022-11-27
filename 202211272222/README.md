@@ -1,4 +1,4 @@
-# Create MySQL Docker Container
+# Create a MySQL Docker Container
 
 ```bash
 docker run \
