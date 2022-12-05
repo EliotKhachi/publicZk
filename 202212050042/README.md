@@ -6,4 +6,5 @@ Its **physical reality** consists of billions of machines that have network conn
 
 Me, you, and the average Joe are the clients. We access the internet, through our home modem and router, whenever we navigate to Instagram, Meta, or TikTok on our computer, laptop, or smart phone.  
 
+## Tags
 #networks
