@@ -3,22 +3,39 @@
 There are commonly 9 different types of HTTP request methods.  
 
 GET
-    A read operation. Returns data, HTML, CSS or the like. The client cannot send data with the request.
-POST
-    Often an insert or create operation, though may also represent an update. The client may send data with the request.
-PUT
-    An update operation. The client may send data with the request.
-DELETE
-    A delete operation.
+---
+A read operation. These requests only retrieve data. The client cannot send data with this request.  
 HEAD
-    The identical response as GET but with no payload (HTML, CSS, data). Useful for troubleshooting HTTP response codes and headers.
-OPTIONS
-    Returns HTTP methods that are supported for the given path.
-PATCH
-    A partial update. The client may send data with the request.
+---
+Identical to `GET` except the response body is ommitted. Used to troubleshoot HTTP response codes and errors.  
+POST
+---
+A create operation. Could also be used to update data. Client may send data with the request.   
+PUT
+---
+An update/replace operation. Client may send data with the request.  
+DELETE
+---
+A delete operation.  
 CONNECT
-    Used to escalate from HTTP to HTTPS. HTTPS encrypts requests and responses before they travel through the network.
+---
+Establishes a tunnel to the server identified by the target resource. Can be used to upgrade from HTTP to HTTPS. 
+
+OPTIONS
+---
+Describes the communication options for the target resource.  
 TRACE
-    Echos the request the server received. Useful to check how intermediate network nodes modify the original request. 
+---
+Performs a message loop-back test. Echoes the request the server received. Useful to check networks with intermediary nodes where the request gets modified along the way.  
+
+PATCH
+---
+A partial update operation.  
+
+## Links
+[What is HTTP?](../202206110246)
+
+## References
+[HTTP Request Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
 ## Tags
