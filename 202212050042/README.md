@@ -1,4 +1,4 @@
-# What is the Internet?
+# What is the Internet? 
 
 The *internet* is essentially a globally-connected medium through which information, or data, is exchanged.  
 
