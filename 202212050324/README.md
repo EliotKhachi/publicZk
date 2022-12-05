@@ -1,4 +1,4 @@
-# Types of HTTP Requests
+# Types of HTTP Requests 
 
 There are commonly 9 different types of HTTP request methods.  
 
