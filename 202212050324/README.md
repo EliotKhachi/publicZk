@@ -4,6 +4,7 @@ There are commonly 9 different types of HTTP request methods.
 
 GET
 ---
+
 A read operation. These requests only retrieve data. The client cannot send data with this request.  
 HEAD
 ---
