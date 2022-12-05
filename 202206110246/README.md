@@ -1,15 +1,12 @@
 # What is HTTP?
 
-*HTTP* stands for *HyperText Transfer Protocol* and is the underlying network protocol that enables transfer of hypermedia documents on the web, typically between a browser and a server.  
+*HTTP* stands for *HyperText Transfer Protocol* and is the underlying network protocol that enables transfer of hypermedia documents on the web, typically between a browser (client) and a server. Clients make the HTTP requests to the server, and the server *must* answer with a response.  
+
+[Types of HTTP Requests](../202212050324)
 
 A *protocol* is a set of rules for communication between two computers. HTTP is a textual, stateless protocol.
 * *Textual* - All commands are plain-text and human-readable  
 * *Stateless* - Neither the server nor the client remembers previous communications  
-
-## Be Aware
-* Usually only *clients* make HTTP requests, and only to servers.  
-* An HTTP request requires the file's URL.  
-* The web server *must answer* every HTTP request, with atleast an error.  
 
 ## Server Side
 1. The HTTP server first checks if the requested file's URL matches an existing file.  
