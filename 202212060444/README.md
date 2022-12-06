@@ -1,4 +1,4 @@
-# Apache Tomcat
+# Apache Tomcat 
 
 The *Apache Tomcat* is an open-source implementation of the Jakarta EE platform. It provides a "pure Java" HTTP web server environment in which java code can also run. It is a Java web application server, but not a full JEE application server.
 
