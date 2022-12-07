@@ -34,6 +34,7 @@
 1. #networks
 1. #nginx
 1. #oop
+1. #openai
 1. #personality
 1. #politics
 1. #postgres
