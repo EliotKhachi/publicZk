@@ -12,5 +12,8 @@ One solution to this problem is to redistribute wealth more equally, through pol
 
 Overall, the impact of generational wealth on the distribution of wealth in America is significant, and it reinforces and perpetuates inequality in our society. By redistributing wealth more equally, we can help to create a more just and equitable society, where everyone has a fair chance to succeed and thrive.  
 
+## References
+[OpenAI - Chat](https://chat.openai.com/chat)
+
 ## Tags
 #openai
