@@ -17,8 +17,5 @@ The **Model-view-controller (MVC)** is a software architectural pattern commonly
 
 The *service* [202210100444](../202210100444) handles the model. The controller executes methods in the view and service to coordinate between them. The view doesn't know about the controller or the service. All components know about the model.  
 
-## Movie Theatre Analogy
-Consider the following scenario through the lens of the MVC pattern. You're at a movie theatre and you'd like to buy some popcorn and candy. You ask the clerk for the snacks, he gets them, and then you pay for them. In this scenario, the payment, popcorn, and candy are *models*. The clerk is the *controller*. And you are the *view*. You could also consider the cash register or the credit card scanner as the *service* since it is registering the transaction.  
-
 ## Tags
 #dev #software
