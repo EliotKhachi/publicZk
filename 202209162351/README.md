@@ -12,7 +12,7 @@ The differences between a RESTful or Spring MVC and a Console MVC reside in the 
 ## Similarities
 |           |MVC |
 |-----------|------------|
-| Model     |Java/Spring Objects.| 
+| Model     |Java/Spring Objects that define the domain data of your application.| 
 | View      | Presents data to the user and accepts input.|
 |Controller | Java classes. Mediates between the view and model.|
 
