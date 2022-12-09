@@ -1,20 +1,21 @@
-# RESTful vs Console MVC 
+# Spring/RESTful MVC vs Console MVC 
 
-The differences between a RESTful or Spring MVC and a Console MVC reside in the purpose of each software architecture layer.  
+The differences between a RESTful or Spring MVC and a Console MVC reside in the return values of the controller methods.  
 
-## Differences
-|           |RESTful MVC | Console MVC |
-|-----------|------------|-------------|
-| Model     |Controls the HTTP Response.| Controls what gets printed to the console.|
-| View      | HTTP content; either an HTML template or JSON serializer. The HTML template merges with the model and is returned in the response. Spring MVC generates the JSON. | Print statements that get concatenated and printed to the console after merging with the model.|
-|Controller | Using annotations, Spring MVC recognizes controllers and maps HTTP requests to Controller methods.| A Contrller in a Console MVC defines the core methods that call your service and view, including the main run loop.|
-
-## Similarities
+## First, the Similarities
 |           |MVC |
 |-----------|------------|
 | Model     |Java/Spring Objects that define the domain data of your application.| 
 | View      | Presents data to the user and accepts input.|
-|Controller | Java classes. Mediates between the view and model.|
+|Controller | Java classes. Mediates between the view and service.|
+
+## Now, the Differences
+|           |RESTful MVC | Console MVC |
+|-----------|------------|-------------|
+|Controller | Controller methods return HTTP statuses, JSONs, and other HTTP responses. Using annotations, Spring MVC maps HTTP requests to mapped ontroller methods.| A Controller in a Console MVC only has void methods that print to the console.|
+| Model     |Controls the HTTP Response.| Controls what gets printed to the console.|
+| View      | HTTP content; either an HTML template or JSON serializer. The HTML template merges with the model and is returned in the response. Spring MVC generates the JSON. | Print statements that get concatenated and printed to the console after merging with the model.|
+
 
 
 ## More - Difference between a RESTful Web Service and Traditional MVC
