@@ -1,6 +1,6 @@
 # Spring/RESTful MVC vs Console MVC 
 
-The differences between a RESTful or Spring MVC and a Console MVC reside in the return values of the controller methods.  
+The fundamental difference between a Spring/RESTful MVC and a Console MVC are the return values of the Controller methods.  
 
 ## First, the Similarities
 |           |MVC |
