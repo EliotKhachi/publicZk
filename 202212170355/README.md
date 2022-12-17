@@ -1,4 +1,4 @@
-# Mapping Database Tables to Objects
+# Mapping Database Tables to Objects 
 
 Representing your database in your software application can be a tricky task. Being a design decision, there are many solutions, each depend on the relationship you are trying to represent.  
 
