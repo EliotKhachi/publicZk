@@ -1,9 +1,9 @@
 # Mapping Database Tables to Objects
 
-Representing your database in your software application can be a tricky task. Being a design decision, there are many solutions, each depend on the relationship you are trytrying to represent.  
+Representing your database in your software application can be a tricky task. Being a design decision, there are many solutions, each depend on the relationship you are trying to represent.  
 
 ## Independent Tables / One-to-One Relationships
-The most straightforward kind, one-to-one relationships, can be mapped with a single class. There's only one way to do it. Consider a table of icecream flavors:  
+The most straightforward kind of relationship is one-to-one. They can be mapped with a single class. There's only one way to do it.  
 ```mysql
 create table icecream_flavor (
     icecream_flavor_id int primary key auto_increment,
@@ -14,13 +14,13 @@ create table icecream_flavor (
 ```java
 public class IcecreamFlavor{
     int icecreamFlavorId;
-    String name;
+    int icecreamIngredientsId;
+    String flavorName;
 }
 ```
 
 ## One-to-Many Relationships
-Then you have one-to-many relationships. Each icecream flavor has multiple ingredients. The `icecream_ingredients` table has multiple rows with the same `icecream_flavor_id`  
-
+Consider how we could map the following one-to-many relationships:
 ```mysql
 create table icecream_flavor (
     icecream_flavor_id int primary key auto_increment,
@@ -33,12 +33,13 @@ create table icecream_ingredients (
     ingredient_name not null
 )
 ```
+Doesn't seem too hard, let's just add a list of ingredients to each icecream flavor.  
 ```java
 public class IcecreamFlavor {
     List<Ingredient> ingredients;
 }
 ```
-The above approach is simple but it requires a secondary fetch to fetch an ingredient's icecream. We can resolve this by also adding an `Icecream` to the `Ingredient` class.
+The above approach is simple but how can we find all the icecreams that contain a certain ingredient? This would require a secondary fetch: We can resolve this by also adding an `Icecream` to the `Ingredient` class.
 
 ```java
 public class Ingredient {
@@ -48,7 +49,6 @@ public class Ingredient {
 This approach makes it easier to fetch icecream, but now we've complicated our object model by introducing circular references.  
 
 ## Many-to-Many Relationships
-
 
 
 ## Tags
