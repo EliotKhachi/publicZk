@@ -1,4 +1,4 @@
-# React Library for JavaScript
+# React Library for JavaScript 
 
 ## What is it
 React is a JavaScript library for building UIs (user interfaces) in an intuitive and easier way. A React application is structured into pieces of code called *components*.
