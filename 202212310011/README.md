@@ -1,4 +1,4 @@
-# Side Effects and the UseEffect Hook in React
+# Side Effects and the UseEffect Hook in React 
 
 A *side effect* in React is any action that works outside the standard React rendering process. `useEffect` is a function used to isolate side effects from the rest of React's application code. 
 
