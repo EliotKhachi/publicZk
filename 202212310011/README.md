@@ -9,5 +9,6 @@ A *side effect* in React is any action that works outside the standard React ren
 1. Fetching data via HTTP - React needs to wait to update the Virtual DOM until it gets the replacement data. We tell React to wait with `useEffect`.   
 2. Manually manipulating the DOM - React only manipulates the DOM through the Virtual DOM. It is not aware of any direct manipulation of the DOM unless we acknowledge those actions with `useEffect`.  
 
+
 ## Tags
 #react #dev
