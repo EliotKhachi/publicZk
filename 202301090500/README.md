@@ -9,7 +9,7 @@
 
 * `sed 's/find/replace/' <oldfile >newfile` - modifies the output of `oldfile` such that the *first* instance of "find" on each line is replaced with "replace", and then writes that output to `newfile`.  
 
-* `sed -i 's/find/replace/' text.txt - re-writes `text.txt` *in-place* such that the *first* instance of "find" on each line is replaced with "replace".  
+* `sed -i 's/find/replace/' text.txt` - re-writes `text.txt` *in-place* such that the *first* instance of "find" on each line is replaced with "replace".  
 
 * `sed '/Replace/s/the/THE/' text.txt` - prints the contents of `text.txt` except for every line that contains "Replace", the first instance of "the" is replaced with "THE".  
 
