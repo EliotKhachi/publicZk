@@ -23,11 +23,13 @@ For the following examples, the `sed` command is operating on the `text.txt` fil
 
 * `sed -i 's/[[:space"]]*$//' text.txt` - for every line, remove the tabs at the end of the line.  
 
-* `sed '/^$/d' text.txt` - delete every empty (^$) line.   
+* `sed -i '/^$/d' text.txt` - delete every empty (^$) line.   
 
-* `sed 's/[a-z]/\U&/g' text.txt` - make all letters a-z uppercase.  
+* `sed -i 's/[a-z]/\U&/g' text.txt` - make all letters a-z uppercase.  
 
-* `sed 's/[A-Z]/\L&/g' text.txt` - make all letters A-Z lowercase.  
+* `sed -i 's/[A-Z]/\L&/g' text.txt` - make all letters A-Z lowercase.  
+
+* `sed 11q text.txt` - print the first 11 lines.   
 
 ## Tags
 #linux
