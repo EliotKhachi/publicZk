@@ -1,4 +1,4 @@
-# Sed Command
+# Sed Command 
 
 `sed` is a linux command that stands for "stream editor". It is used to filter and transform text.   
 
