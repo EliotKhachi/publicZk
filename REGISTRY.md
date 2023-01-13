@@ -13,6 +13,7 @@
 1. #db
 1. #design
 1. #dev
+1. #dev-references
 1. #docker
 1. #electronics
 1. #embeddedSystems
