@@ -1,4 +1,4 @@
-# React Errors Encounters
+# React Errors Encounters 
 
 |Error Message|Meaning|Solution|
 |-------------|-------|--------|
