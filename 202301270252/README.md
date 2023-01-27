@@ -1,4 +1,4 @@
-# Common Device Screen Sizes
+# Common Device Screen Sizes 
 
 |Breakpoint| Description|
 |---------|-------------|
