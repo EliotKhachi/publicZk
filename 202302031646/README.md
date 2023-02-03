@@ -21,7 +21,7 @@ Additional information:
 
 
 ## References
-[AskUbuntu - Switch Between Multiple Java Versions](https://askubuntu.com/questions/740757/switch-between-multiple-java-versions)
+[AskUbunt - Switch Between Multiple Java Versions](https://askubuntu.com/questions/740757/switch-between-multiple-java-versions)
 
 ## Tags
 #java
