@@ -1,4 +1,4 @@
-# Media Formats - Web vs Android vs iOS
+# Media Formats - Web vs Android vs iOS 
 
 ## Introduction
 Media formats are file types used to store digital media content such as audio, video, images, and text.
