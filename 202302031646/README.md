@@ -1,4 +1,4 @@
-# Switching Java Versions
+# Switching Java Versions 
 
 Firstly, you will need to install the java version(s) you would like to switch between.  
 
