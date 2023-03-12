@@ -5,7 +5,7 @@ You generally install software on Ubuntu in one of two ways:
 2. From the Ubuntu Software Center (self-explanatory)
 
 ## Using `apt`
-`sudo apt install `./example.deb`
+`sudo apt install ./example.deb`
 
 ## Other methods
 1. `wget --no-check-certificate [download-location]`
