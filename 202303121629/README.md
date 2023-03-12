@@ -1,13 +1,14 @@
 # How to Install Deb Files on Ubuntu
 
+## TLDR
+`sudo apt install ./example.deb`
+
 You generally install software on Ubuntu in one of two ways:
 1. From the command line with the `apt` and `apt-get` utilities (apt being the default Ubuntu package manager).  
 2. From the Ubuntu Software Center (self-explanatory)
 
-## Using `apt`
-`sudo apt install ./example.deb`
 
-## Other methods
+## Downloading the .deb file through the command line
 1. `wget --no-check-certificate [https://.../.deb]`
 * `--no-check-certificate` skips the SSL handshake. Default action: compare the server certificate to the certificate authorities.
 
