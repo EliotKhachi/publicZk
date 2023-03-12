@@ -1,4 +1,4 @@
-# How to Install Deb Files on Ubuntu
+# How to Install Deb Files on Ubuntu 
 
 ## TL;DR
 `sudo apt install ./example.deb`  
