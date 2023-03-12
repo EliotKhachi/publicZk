@@ -19,7 +19,7 @@ You generally install software on Ubuntu in one of two ways:
 * `-L` re-routes curl to the newest location if the requested webpage has moved. 
 
 # References
-[How to Install Deb Files on Ubuntu](https://linuxize.com/post/how-to-install-deb-packages-on-ubuntu/)
+[Linuxize - How to Install Deb Files on Ubuntu](https://linuxize.com/post/how-to-install-deb-packages-on-ubuntu/)
 
 ## Tags
 #linux
