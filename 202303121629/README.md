@@ -1,7 +1,8 @@
 # How to Install Deb Files on Ubuntu
 
 ## TL;DR
-`sudo apt install ./example.deb`
+`sudo apt install ./example.deb`  
+
 ---
 You generally install software on Ubuntu in one of two ways:
 1. From the command line with the `apt` and `apt-get` utilities (apt being the default Ubuntu package manager).  
