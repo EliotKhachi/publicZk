@@ -8,16 +8,16 @@ You generally install software on Ubuntu in one of two ways:
 `sudo apt install ./example.deb`
 
 ## Other methods
-1. `wget --no-check-certificate [download-location]`
+1. `wget --no-check-certificate [https://.../.deb]`
 * `--no-check-certificate` skips the SSL handshake. Default action: compare the server certificate to the certificate authorities.
 
-2. `curl -k -O - L [download-location]`
+2. `curl -k -O - L [https://.../.deb]`
 * `-k` denotes "insecure". Default action: verify that the connection is secure.  
 * `-O` tells curl to save the data to a local file. Default action: write the received data to stdout.  
 * `-L` re-routes curl to the newest location if the requested webpage has moved. 
 
 # References
-[How to Install Dev Files on Ubuntu](https://linuxize.com/post/how-to-install-deb-packages-on-ubuntu/)
+[How to Install Deb Files on Ubuntu](https://linuxize.com/post/how-to-install-deb-packages-on-ubuntu/)
 
 ## Tags
 #linux
