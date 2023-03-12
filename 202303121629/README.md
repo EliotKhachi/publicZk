@@ -1,6 +1,6 @@
 # How to Install Deb Files on Ubuntu
 
-## TLDR
+## TL;DR
 `sudo apt install ./example.deb`
 
 You generally install software on Ubuntu in one of two ways:
