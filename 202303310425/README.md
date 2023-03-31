@@ -1,4 +1,4 @@
-# NIST: Annual Report on U.S. Manufacturing Industry Statistics: 2022
+# NIST: Annual Report on U.S. Manufacturing Industry Statistics: 2022 
 
 *An examination of how U.S. manufacturing compares to other countries, the trends in the domestic industry, and the industry trends compared to those in other countries.*  
 
