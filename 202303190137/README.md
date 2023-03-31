@@ -1,3 +1,0 @@
-# scp Command
-
-## Tags

@@ -24,7 +24,6 @@
 1. #GDT
 1. #git
 1. #habits
-1. #healthcare
 1. #hub
 1. #java
 1. #laws
@@ -39,7 +38,6 @@
 1. #oop
 1. #openai
 1. #personality
-1. #politics
 1. #postgres
 1. #productivity
 1. #programming
