@@ -63,4 +63,4 @@ The Model-Based Enterprise (MBE) Self-Assessment tool is outlined by the Nationa
 	5. Logistics/Technical Manuals - Completely automated technical manual creation.
 
 ## Tags
-#systemsEngineering #MBSE
+#systemsEngineering
