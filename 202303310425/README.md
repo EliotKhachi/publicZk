@@ -15,9 +15,8 @@ Index ranked the U.S. as 44th in the capacity to produce and export manufactured
 * **Types of Goods Produced** - The largest manufacturing subsector in the U.S. is computer and electronic products followed by chemical manufacturing 
 and food, beverage, and tobacco products.  
 * **Economic Disruptions** - During the 2008 recession, the manufacturing value added declined more than the decline in total U.S. GDP. 
-This resulted in the 2022-Q1 GPD to be 33.6% above 2005's, while manufacturing was only 25.1% above 2005's.  
-* **Manufacturing Supply Chain Costs** - The top 3 domestic supply chain entities by value added are: 1) Petroleum refineries at $596.1B, 
-2) Oil and gas extraction at $516.1B, and 3) Management of companies and enterprises at $128.5B
+This resulted in the 2022-Q1 GPD to be 33.6% above 2005's, while manufacturing was only 25.1% above 2005's. 
+* **Manufacturing Supply Chain Costs** - The top 3 domestic supply chain entities by value added are: 1) Petroleum refineries at $596.1B, 2) Oil and gas extraction at $516.1B, and 3) Management of companies and enterprises at $128.5B
 * **Manufacturing Safety, Compensation, and Profits** - Employee compensation in manufacturing (including benefits) has had a 5-year 
 compound annual growth of -2.1%, but remains 8.8% above total private industry compensation. Manufacturing fatalities and injury rates have been declining since 2002.  
 
