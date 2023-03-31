@@ -10,4 +10,4 @@ A Reference Architecture is a high fidelity representation used to develop a tec
 4. Generated a built-in learning system: they now had the ability to compare new, completed systems against the reference architecture to update that architecture and better prepare for the next new, related problem.
 
 ## Tags
-#systemsEngineering #MBSE
+#systemsEngineering
