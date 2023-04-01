@@ -22,7 +22,7 @@ compound annual growth of -2.1%, but remains 8.8% above total private industry c
 
 
 ## References
-[Download NIST Report Here](https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-49.pdf)
+[Read Full NIST Report Here](https://doi.org/10.6028/NIST.AMS.100-49)
 
 ## Tags
 #research
