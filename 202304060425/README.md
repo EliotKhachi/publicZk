@@ -1,4 +1,4 @@
-# OpenAI QuickStart Notes
+# OpenAI QuickStart Notes 
 
 ## Fundamentals
 OpenAI's APIs consist of a simple, flexible, and extremely powerful interface.  
