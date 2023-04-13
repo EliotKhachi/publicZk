@@ -58,6 +58,7 @@
 1. #Tags
 1. #template
 1. #terminal
+1. #test
 1. #windows
 1. #wsl
 1. #zettelkasten
