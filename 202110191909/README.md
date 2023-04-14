@@ -12,4 +12,4 @@ After installing ST-Link V2, you must understand how to set up your project file
 2. [CSDN Blog - Programming ARM Cortex (STM32) under GNU/Linux](../202110191854)  
 
 ## Tags
-#embeddedSystems #STM32 #linux
+#embeddedSystems #STM32
