@@ -2,7 +2,3 @@
 
 ## Tags
 #openai
-#openai
-#openai
-#openai
-#openai
