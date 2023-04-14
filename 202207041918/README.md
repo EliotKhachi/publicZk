@@ -18,4 +18,4 @@ Outputs:
 ## References
 [Pheonix Nap - List Processes in Linux](https://phoenixnap.com/kb/list-processes-linux)  
 ## Tags
-#linux
+#linux #commands
