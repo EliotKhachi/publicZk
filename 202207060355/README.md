@@ -26,4 +26,4 @@ For WAN (World Area Network) WOL capabilities, you must port forward your Pi to 
 [2] [LinuxConfig.org - udev Rules Tutorial](https://linuxconfig.org/tutorial-on-how-to-write-basic-udev-rules-in-linux)  
 
 # Tags
-#linux #networks #rpi
+#networks #rpi
