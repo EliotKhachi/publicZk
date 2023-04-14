@@ -6,4 +6,4 @@ In software engineering, **SOLID** is an acronym for five design principles inte
 [Wikipedia - SOLID](https://en.wikipedia.org/wiki/SOLID)  
 
 # Tags
-#oop #dev
+#oop #java
