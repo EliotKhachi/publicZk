@@ -14,4 +14,4 @@ See --> [202209300527](../202209300527) - SCRAM Authentication
 [Microsoft Tech Community - How to securely authenticate with SCRAM in Postgres 13](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/how-to-securely-authenticate-with-scram-in-postgres-13/ba-p/1548319)  
 
 ## Tags
-#postgres
+#postgres #db
