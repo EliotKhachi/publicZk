@@ -21,4 +21,3 @@ Names:*
 A temperature of **0** tells the model to be confident, accurate, and deterministic in its response, while increasing the temperature to a maximum value of **1** will result in more diverse and risky completions.   
 
 ## Tags
-#ai
