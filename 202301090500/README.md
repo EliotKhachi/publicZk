@@ -5,9 +5,9 @@
 ## Examples
 For the following examples, the `sed` command is operating on the `text.txt` file to either print its output or modify its contents.  
 
-* `sed 's/find/replace/' text.txt` - prints `text.txt` except the *first* instance of the string matching 'find' on each line is replaced with "replace".   
+* `sed 's/find/replace/' text.txt` - prints the contents of `text.txt` except for every line in `text.txt`, the *first* instance of the string matching 'find' is replaced with "replace".   
 
-* `sed 's/find/replace/g' text.txt` - prints `text.txt` except *all* instances of "find" on each line are replaced with "replace".   
+* `sed 's/find/replace/g' text.txt` - prints the contents of `text.txt` except *all* instances of "find" on each line are replaced with "replace".   
 
 * `sed 's/find/replace/' <oldfile >newfile` - modifies the output of `oldfile` such that the *first* instance of "find" on each line is replaced with "replace", and then writes that output to `newfile`.  
 
@@ -32,4 +32,4 @@ For the following examples, the `sed` command is operating on the `text.txt` fil
 * `sed 11q text.txt` - print the first 11 lines.   
 
 ## Tags
-#linux
+#linux #commands
