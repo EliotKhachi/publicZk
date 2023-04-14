@@ -9,4 +9,4 @@ Virtual machines is an abstraction of a machine or physical hardware. I.e. a mac
 Gives us the same kind of isolation but they are more lightweight because they share the OS of the host.
 
 ## Tags
-#linux
+#docker
