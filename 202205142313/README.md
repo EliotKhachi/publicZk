@@ -29,4 +29,4 @@ Now that your standby computer is ready to be woken up, you need a way to send m
 [Lifewire - How to Set Up and Use Wake-on-LAN](https://www.lifewire.com/wake-on-lan-4149800)
 
 ## Tags
-#linux
+#networks
