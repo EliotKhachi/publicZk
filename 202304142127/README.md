@@ -49,5 +49,8 @@ Consult the docs for more details as well as case studies for and examples of da
 ## References
 [OpenAI Fine Tuning Docs](https://platform.openai.com/docs/guides/fine-tuning)
 
+## Links
+[OpenAI Hub](../202304140429)
+
 ## Tags
 #openai
