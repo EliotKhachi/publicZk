@@ -21,6 +21,3 @@
 ## Other Links
 1. [\[Control Methods\]](../202202182317)  
 2. [\[Control-Law Development\]](../202202182316)  
-
-## Tags
-#aerospace #hub
