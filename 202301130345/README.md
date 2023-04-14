@@ -34,4 +34,4 @@ import {
 [Javascript Module CheatSheet](https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829)
 
 ## Tags
-#dev-references
+#npm #javascript
