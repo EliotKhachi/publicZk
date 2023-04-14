@@ -10,4 +10,3 @@ Conditions:
 5. Entropy
 
 ## Tags
-#fluidMechanics
