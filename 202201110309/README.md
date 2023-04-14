@@ -10,7 +10,7 @@ In addition to the basic principles of systems engineering [\[What is Systems En
 6. [\[Vehicle Interface\]](../202204180446)  
 
 ## References
-1. Huzel, Dieter, and David Huang. *Modern Engineering For Design of Liq    uid-Propellant Rocket Engines*. AIAA, 1992. 
+1. Huzel, Dieter, and David Huang. *Modern Engineering For Design of Liquid-Propellant Rocket Engines*. AIAA, 1992. 
 
 ## Tags
-#aerospace #systemsEngineering #hub 
+#systemsEngineering
