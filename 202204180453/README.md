@@ -10,6 +10,4 @@ Fluids are substances...
 ## References
 1. [Dictionary.com](https://www.dictionary.com/browse/fluid)
 
-
 ## Tags
-#engineering #aerospace
