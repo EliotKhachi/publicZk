@@ -8,4 +8,3 @@
 [Wikipedia - Entropy](https://en.wikipedia.org/wiki/Entropy)
 
 ## Tags
-#fluidMechanics
