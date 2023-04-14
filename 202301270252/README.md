@@ -1,4 +1,4 @@
-# Common Media Query Breakpoints
+# Common Device Screen Sizes
 
 |Breakpoint| Description|
 |---------|-------------|
@@ -22,4 +22,4 @@ Tailwind breakpoints
 [YouTube - CSS Tutorial](https://www.youtube.com/watch?v=OXGznpKZ_sA)
 
 ## Tags
-#dev
+#mobile
