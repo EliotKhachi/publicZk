@@ -12,7 +12,6 @@ run `pdftotext -layout source.pdf target.txt`, where `source` is the pdf in ques
 To convery just a single range of pages do  
 `pdftotext - layout -f M -l N source.pdf target.txt`, where  is the first page and N is the last one.  
 
-
 ## Windows
 
 ## Mac
@@ -21,4 +20,4 @@ To convery just a single range of pages do
 [Wondershare - Convert PDF to Text](https://pdf.wondershare.com/pdf-knowledge/pdf-to-text-linux.html)  
 
 ## Tags
-#linux #programming
+#tools
