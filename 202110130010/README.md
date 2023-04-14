@@ -5,4 +5,3 @@ A fluid with a constant density is called an *incompressible* fluid. All fluids 
 ## References
 *Fundamentals of Fluid Mechanics 8th ed* by Munson, Young and Okiishi
 ## Tags
-#fluidMechanics
