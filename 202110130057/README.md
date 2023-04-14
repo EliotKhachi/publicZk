@@ -7,4 +7,3 @@ It is calculated by multiplying gravity by the density of the fluid: γ = ρg
 *Fundamentals of Fluid Mechanics 8th ed* by Munson, Young and Okiishi
 
 ## Tags
-#fluidMechanics
