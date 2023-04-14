@@ -17,4 +17,4 @@ To kill a process in Linux by PID (process identification number) simply
 You can find the PID of a process with `ps -ef | less`. You can also do `pidof <process-name>`
 
 ## Tags
-#linux
+#linux #commands
