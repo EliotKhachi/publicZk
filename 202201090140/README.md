@@ -36,4 +36,4 @@ Many soft skills are associated with personality traits and personal habits, but
 [Hard Skills vs Soft Skills](https://www.indeed.com/career-advice/resumes-cover-letters/hard-skills-vs-soft-skills)
 
 ## Tags
-#business
+#jobsearch
