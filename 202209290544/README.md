@@ -15,4 +15,4 @@ Whenever you do something new, in all likelihood, you will fail. None of the rea
 ## References
 
 ## Tags
-#business #design
+#business
