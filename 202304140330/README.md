@@ -1,4 +1,4 @@
-# Best OCR Tool
+# Best OCR Tool 
 
 ## Tags
 #openai
