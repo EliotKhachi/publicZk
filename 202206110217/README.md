@@ -20,4 +20,4 @@ Nginx has capabilities for...
 [YouTube - Nginx Tutorial | Learn Nginx Fundamentals | Deploy a Web Application Using Nginx | Edureka](https://www.youtube.com/watch?v=1ndlRiaYiWQ)
 
 ## Tags
-#dev #nginx
+#nginx
