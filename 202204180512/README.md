@@ -15,4 +15,3 @@ The characteristic length *L* is the length in a fluid flow that most accurately
 1. [Navneet Kumar PhD - Quora](https://www.quora.com/What-is-the-characteristic-length-in-fluid-mechanics?share=1)  
 
 ## Tags
-#fluidMechanics
