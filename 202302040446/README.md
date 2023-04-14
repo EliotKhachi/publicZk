@@ -14,4 +14,4 @@ On the web, popular media formats include HTML, CSS, JavaScript, and multimedia 
 [developer.android.com](https://developer.android.com/guide/topics/media/media-formats)
 
 ## Tags
-#dev #mobile #react
+#mobile
