@@ -17,4 +17,4 @@ Developers make web pages dynamic by *handling* events to load/unload web pages 
 React does this automatically through the *Virtual DOM*. React manages the Virtual DOM dynamically and only changes elements or parts of elements when needed. This then translates into the actual DOM loaded by the browser.  
 
 ## Tags
-#react #dev
+#react
