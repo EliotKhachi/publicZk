@@ -9,4 +9,3 @@ Definition of hydrostatic pressure: **p_hydrostatic = γz**, where γ is the spe
 *Fundamentals of Fluid Mechanics 8th ed* by Munson, Young and Okiishi
 
 ## Tags
-#fluidMechanics
