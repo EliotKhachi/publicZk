@@ -1,4 +1,4 @@
-# Fluid Mechanics
+# Fluid Mechanics Hub
 
 Fluid mechanics is the study of how [\[Fluid\]](../202204180453) behaves.
 
@@ -22,4 +22,4 @@ Fluid mechanics is the study of how [\[Fluid\]](../202204180453) behaves.
 5. [\[Entropy \]](../202201152243)  
 
 ## Tags
-#aerospace #engineering #fluidMechanics #hub
+#engineering 
