@@ -8,4 +8,3 @@ Definition of dynamic pressure: **q = 1/2ρv^2** --> units: F\*L/L^3 or F/L^2
 *Fundamentals of Fluid Mechanics 8th ed.* by Munson, Young, and Okiishi
 
 ## Tags
-#fluidMechanics
