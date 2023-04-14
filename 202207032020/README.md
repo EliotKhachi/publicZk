@@ -20,4 +20,4 @@ To convery just a single range of pages do
 [Wondershare - Convert PDF to Text](https://pdf.wondershare.com/pdf-knowledge/pdf-to-text-linux.html)  
 
 ## Tags
-#tools
+#commands
