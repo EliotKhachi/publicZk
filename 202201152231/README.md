@@ -5,4 +5,3 @@
 * Isentropic flow is [reversible](./202201152242).
 
 ## Tags
-#fluidMechanics
