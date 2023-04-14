@@ -11,4 +11,4 @@ A *side effect* in React is any action that works outside the standard React ren
 
 
 ## Tags
-#react #dev
+#react
