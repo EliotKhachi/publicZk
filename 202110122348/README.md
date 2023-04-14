@@ -5,4 +5,3 @@ All real flowing fluid imparts a fictional force onto the object(s) which surrou
 Inviscid flow is a characterization of fluid wherein the flow is assumed to have no viscosity, and therefore zero friction effects. This characterization is appropriate when the frictional effects are negligible, i.e. slow flow inside of a large pipe with little surface roughness.
 
 ## Tags
-#fluidMechanics
