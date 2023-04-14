@@ -5,6 +5,5 @@ r the app.
 
 We can then create a container using that image. The container is where we use to run our application locally.  
 
-
 ## Tags
-#linux
+#docker
