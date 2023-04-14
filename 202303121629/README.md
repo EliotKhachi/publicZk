@@ -22,4 +22,4 @@ You generally install software on Ubuntu in one of two ways:
 [Linuxize - How to Install Deb Files on Ubuntu](https://linuxize.com/post/how-to-install-deb-packages-on-ubuntu/)
 
 ## Tags
-#linux
+#linux #commands
