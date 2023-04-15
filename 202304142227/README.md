@@ -1,4 +1,4 @@
-# Embeddings
+# Embeddings 
 
 ## Introduction
 OpenAI’s text embeddings measure the relatedness of text strings. Embeddings are commonly used for:
