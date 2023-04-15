@@ -1,4 +1,4 @@
-# Fine Tuning GPT-3
+# Fine Tuning GPT-3 
 
 ## What Models Can Be Fine-Tuned?
 Currently (4/14/2023), the following base models can be fine-tuned:  
