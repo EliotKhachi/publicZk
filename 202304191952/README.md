@@ -37,6 +37,12 @@ Examples:
     myClosure()
 ```
 
+## Summary
+apply java plugin --> compile java code with `build` task --> configured `jar` task --> added dependency `junit` for tests --> ran test
+
+## References
+[Gradle Tutorial Github Repo](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazFJUUFoRkF6SDhydTJTQ0E4WFRlMlVxMFE0UXxBQ3Jtc0tuMzZkS1E2eHNwTGNaYldJbl9fV3V0eXJxbjZ4cmhpQ3BQbDVwTnZLbnM5akVIcFRtaHZWUHpINWJudGF3a2xUTlNMc2RiUEtUbWhXb0o3bEhwWlFHcy1VaVhqa0t5YU1fUDFIbFItdHpCQTNQOFJ6MA&q=https%3A%2F%2Fgithub.com%2Ftkgregory%2Fgradle-tutorial&v=-dtcEMLNmn0)
+[Gradle Tutorial YouTube Video](https://www.youtube.com/watch?v=-dtcEMLNmn0)
 
 ## Tags
 #java
