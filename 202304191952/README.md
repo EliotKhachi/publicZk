@@ -1,4 +1,4 @@
-# Using Gradle to Build Java Apps
+# Using Gradle to Build Java Apps 
 
 ## What is Gradle
 Gradle is a build tool used to build Java applications.
