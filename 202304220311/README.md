@@ -1,4 +1,4 @@
-# Exoskeleton - MVP
+# Exoskeleton - MVP 
 
 ## What is it
 An exoskeleton is an extension of the human body that makes us faster, stronger, and more durable.  
