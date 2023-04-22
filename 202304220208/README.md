@@ -1,4 +1,4 @@
-# HASEL Actuators
+# HASEL Actuators 
 
 ## What are they?
 Hasel actuators are a soft, artificial muscle fibers that have applications in robotics.  
