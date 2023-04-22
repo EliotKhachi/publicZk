@@ -17,5 +17,8 @@ When a voltage is applied to the cathode, the cathode and anode are attracted to
 ## Application
 [Exoskeleton](../202304220311)
 
+## References
+[1] [An Easy-to-Implement Toolkit to Create Versatile and High-Performance HASEL ACtuators for Untethered Soft Robots](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.201900178)
+
 ## Tags
 #technology
