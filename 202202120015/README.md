@@ -12,5 +12,5 @@ The command language provides the programmer explicit control over the link proc
 
 ## Other Links
 1. [\[Linker Script\]](../202202102126)  
+
 ## Tags
-#embeddedSystems
