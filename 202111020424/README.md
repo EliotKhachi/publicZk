@@ -33,13 +33,11 @@ R = 		     time constant		          1000 ns
 
 ## References
 
-[Introduction to I2C](https://deepbluembedded.com/i2c-communication-protocol-tutorial-pic/)
-
-[I2C Open-Drain ](../202112050545)
-
-[I2C Data Line: SDA](../202112050552)
-
-[I2C Clock Line: SCL](../202112050607)
+[1] [Introduction to I2C](https://deepbluembedded.com/i2c-communication-protocol-tutorial-pic/)
+[2] [I2C Open-Drain ](../202112050545)
+[3] [I2C Data Line: SDA](../202112050552)
+[4] [I2C Clock Line: SCL](../202112050607)
+[5] [I2C Bus Arbitration](../202112050502)
 
 ## Tags
 #embeddedSystems
