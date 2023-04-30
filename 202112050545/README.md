@@ -9,4 +9,3 @@ This causes the default state for each line to be HIGH when the open-drain drive
 [I2C Clock Line: SCL](../202112050607)
 
 ## Tags
-#embeddedSystems 
