@@ -15,7 +15,7 @@ First, learn how to program in C. Why?
 2. It is extremely versatile.  
 3. It will teach you how computers operate.  
 4. It is the most common language used in embedded system design.   
-[YouTube - freeCodeCamp.org - C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+[YouTube - freeCodeCamp.org - C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)  
 
 ## 2. Learn the Basics of Electronics
 **What are the following things and how do they work?**  
