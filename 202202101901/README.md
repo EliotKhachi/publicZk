@@ -7,4 +7,4 @@ To link our program to generate a *binary* [\[Executable Binary File\]](../20220
 [\[YouTube - STM32 Programming From Scratch\]](https://www.youtube.com/watch?v=gdRmETe4QEo&list=PLu_gnizW9as04Pyyu75gFfQij1gnATXBy&index=3&t=2242s)  
 
 ## Tags
-#embeddedSystems #hub
+#embeddedSystems 
