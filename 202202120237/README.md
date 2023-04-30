@@ -17,4 +17,3 @@ Here a stack size of 100 is specified, located in RAM Bank 2.
 2. [\[Binary vs Hexadecimal\]](../202110241835)
 
 ## Tags
-#embeddedSystems
