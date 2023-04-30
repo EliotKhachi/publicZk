@@ -6,4 +6,3 @@ A *prequisite* in a makefile is the name of the file that required as input to c
 [\[Makefiles\]](../202110182235)
 
 ## Tags
-#embeddedSystems
