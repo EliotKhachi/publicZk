@@ -15,4 +15,3 @@ Here the connection from the source code to the block of memory is being made fo
 ## Other Links
 1. [\[Linker Directives\]](../202202120014)  
 ## Tags
-#embeddedSystems
