@@ -18,4 +18,3 @@ Linker *directives* tell the Linker [\[Linker\]](../202202120018) where the avai
 1. [\[Linker Script\]](../202202102126)  
 
 ## Tags
-#embeddedSystems
