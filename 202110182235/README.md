@@ -27,4 +27,4 @@ Typing `make hellomake` in the command line will execute the recipe of this rule
 2. [\[GNU make Manual\]](https://www.gnu.org/software/make/manual/html_node/index.html#SEC_Contents)
 
 ## Tags
-#embeddedSystems #hub
+#embeddedSystems
