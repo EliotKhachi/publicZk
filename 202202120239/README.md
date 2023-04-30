@@ -18,4 +18,3 @@ The *DATABANK* directive is similar to *ACCESSBANK* [\[Linker Directive: ACCESS 
 1. [\[Linker Directives\]](../202202120014)  
 
 ## Tags
-#embeddedSystems
