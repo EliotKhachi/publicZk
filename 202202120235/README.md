@@ -13,7 +13,6 @@ Here the search path is specified to be the current directory `.` .
 1. [\[Linker Script - Science Direct \]](https://www.sciencedirect.com/topics/engineering/linker-script)  
 
 ## Other Links
-1. \[Linker Directives\]](../202202120014)  
+[1] [Linker Directives](../202202120014)  
 
 ## Tags
-#embeddedSystems
