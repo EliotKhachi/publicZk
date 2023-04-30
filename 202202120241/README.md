@@ -25,4 +25,3 @@ The following is a table associating the contents of memory being allocated with
 ## Other Links
 1. [\[Linker Directives\]](../202202120014)  
 ## Tags
-#embeddedSystems
