@@ -21,4 +21,3 @@ Here we allocate the following according to microcontroller specifications:
 1. [\[Linker Directives\]](../202202120014)  
 2. [\[Binary vs Hexadecimal\]](../202110241835)  
 ## Tags
-#embeddedSystems
