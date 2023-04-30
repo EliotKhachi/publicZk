@@ -16,4 +16,3 @@ FILES pl8f2320.lib
 1. [\[Linker Directives\]](../202202120014)  
 
 ## Tags
-#embeddedSystems
