@@ -25,4 +25,3 @@ Above is a rule whose target is *clean* but it doesn't have any prerequisites an
 [Makefiles](../202110182235)  
  
 ## Tags
-#embeddedSystems
