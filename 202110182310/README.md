@@ -10,4 +10,3 @@ A *recipe* is a set of command-line instructions that GNU *make* recognizes as b
 [\[Makefiles\]](../202110182235)
 
 ## Tags
-#embeddedSystems
