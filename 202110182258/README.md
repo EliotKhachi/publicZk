@@ -6,4 +6,3 @@ A *rule* in a makefile explains how and when to remake certain files which are t
 [Makefiles](../202110182235)
 
 ## Tags
-#embeddedSystems
