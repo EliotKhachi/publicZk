@@ -1,3 +1,0 @@
-# C Cheat Sheet
-
-## Tags

@@ -7,7 +7,7 @@ Hasel actuators are a soft, artificial muscle fibers that have applications in r
 A single Hasel actuator... 
 1. is composed of an outer, flexible plastic/polymer shell  
 2. is filled with a liquid dielectric  
-3. has two electrodes on opposite sides of one half of the shell - [Carbon Electrodes](../202304220219)
+3. has two electrodes on opposite sides of one half of the shell. One kind of electrodes are [Carbon Electrodes](../202304220219).
 
 The shell resembles a pouch that contains the liquid. The cathode and anode are placed across from each other on opposite sides of the pouch. 
 
