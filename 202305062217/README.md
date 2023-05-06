@@ -1,3 +1,0 @@
-# Closed/Open Circuits
-
-## Tags
