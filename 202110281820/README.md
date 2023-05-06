@@ -7,6 +7,4 @@ Typically, AC is composed of the sine wave form when plotted on a 2D plane where
 ## References
 1. [Wikipedia: Alternating Current](https://en.wikipedia.org/wiki/Alternating_current)
 
-
 ## Tags
-#electronics
