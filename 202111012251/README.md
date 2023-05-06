@@ -12,4 +12,3 @@ ADCs are used to obtain a useful value out of analog signals that originate from
 [Direct Current (DC)](../202110281823)
 
 ## Tags
-#electronics
