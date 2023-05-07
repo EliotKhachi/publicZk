@@ -26,4 +26,7 @@ Voltage (V) has units of volts (V)
 Current (I) has units of amperes (A)  
 Resistance (R) has units of ohms (O)  
 
+## References
+[Beginner Electronics Hub](../202305062158)
+
 ## Tags
