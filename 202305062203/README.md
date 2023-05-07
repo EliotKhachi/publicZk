@@ -15,4 +15,7 @@ Direct current is used in devices with batteries. Your laptop, computer, phone, 
 AC and DC currents can be converted into one another using an analog-to-digital converter.   
 [Analog to Digital Converter (ADC)](../202111012251)
 
+## References
+[Beginner Electronics Hub](../202305062158)
+
 ## Tags
