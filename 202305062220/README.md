@@ -1,4 +1,4 @@
-# Flow + Resistance
+# Flow + Resistance 
 
 Electricity is the flow of electrons.  
 
