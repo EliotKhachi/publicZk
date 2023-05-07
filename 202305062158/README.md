@@ -4,6 +4,14 @@
 
 2. [Flow + Resistance](../202305062220)  
 
+3. [Resistor](../202305071844)  
+
+4. [LEDs](../202305072101)
+
+5. [How Much Resistance?](../202305072106)
+
+[How Much Resistance?](../202305072106)
+
 ## References
 [YouTube - CodeNMore - Beginniner Electronics](https://www.youtube.com/watch?v=r-X9coY    TOV4&list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
 
