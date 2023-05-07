@@ -1,4 +1,4 @@
-# Alternating vs Direct Current
+# Alternating vs Direct Current 
 
 ## Different Forms of Electricity
 Alternating current (AC) is a form of electricity wherein the direction of flow of the current in the wire *alternates* many times per second. [Alternating Current (AC) ](../202110281820)
