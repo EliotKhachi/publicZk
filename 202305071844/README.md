@@ -11,4 +11,7 @@ We must control the amount of current circuits to provide the components just th
 ## How
 A resistor's resistance value depends on the material composition of the block between its wires. They come in a range of varying resistance values, which can be discerned by their color bands [Resistor Color Code Chart](https://duckduckgo.com/?q=resistor+color+code+chart&t=newext&atb=v344-1&iax=images&ia=images&iai=https%3A%2F%2F1.bp.blogspot.com%2F-FHlvZOYyT7M%2FXnDvoCRj6lI%2FAAAAAAAAATI%2FrKA6gHlUJ8I2263rZBzZsA4f4ejv1JPSgCEwYBhgL%2Fs1600%2FFive%252BBand%252BResistor%252BColour%252BCode.png)
 
+## References
+[Beginner Electronics Hub](../202305062158)
+
 ## Tags
