@@ -9,6 +9,6 @@ LEDs have two leads: the longer lead is the anode (+) and the shorter lead is th
 * If the LED is in the circuit its leads in reverse (the anode is connected to the negative terminal of the battery), the LED won't work and can be damaged.  
 * LEDs can only handle very little current. A resistor is required in the circuit to use an LED properly and safely.  
 
-How do you decide what resistance resistor to use?  
+How do you decide what resistance resistor to use? [How Much Resistance?](../202305072106)
 
 ## Tags
