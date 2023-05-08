@@ -26,6 +26,14 @@
 
 13. [Ohm's Law](../202305080119)
 
+14. [Power / Wattage](../202305080129)  
+
+15. [Buttons](../202305080247) and [Potentiometers](../202305080253)  
+
+16. [Capacitors](../202305080332)  
+
+17. [Diodes](../202305080356)  
+
 ## References
 [YouTube - CodeNMore - Beginner Electronics](https://www.youtube.com/watch?v=r-X9coY    TOV4&list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
 
