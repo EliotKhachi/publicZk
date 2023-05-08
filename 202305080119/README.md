@@ -1,4 +1,4 @@
-# Ohm's Law
+# Ohm's Law 
 
 **Formula:** V = IR  
 * I = V / R  
