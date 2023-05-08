@@ -1,4 +1,4 @@
-# Power / Wattage
+# Power / Wattage 
 
 Power is a measure of energy over time (E/T).  
 Power (P) has units of Watts (W).  
