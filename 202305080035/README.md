@@ -15,4 +15,8 @@ A switch is used to connect and disconnect wires in circuits.
 *DPDT* - Double Pole Double Throw
 * Connects to wires `A` *and* `B` in the ON position, and *switches* to wires `C` and `D` in the OFF position, thereby disconnecting `A` and `B`.  
 
+## So What is a Pole and a Throw?
+The number of poles is the number of switches.  
+The number of throws is the number of positions that a single switch can support.  
+
 ## Tags
