@@ -1,4 +1,4 @@
-# How Much Resistance?
+# How Much Resistance? 
 
 How much resistance (R) do we have to put into a circuit so that our components will work and won't break?  
 
