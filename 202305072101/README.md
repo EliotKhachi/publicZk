@@ -1,4 +1,4 @@
-# LEDs
+# LEDs 
 
 LED stands for Light-Emitting Diode. It's basically a tiny little light-bulb. [Diodes](../202305080356)
 
