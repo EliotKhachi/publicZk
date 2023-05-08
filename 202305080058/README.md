@@ -1,4 +1,4 @@
-# Circuit Design, Build, and Measuring!
+# Circuit Design, Build, and Measuring! 
 
 ## Measuring Tips
 * To measure voltage or resistance, the multimeter's probes can be placed in parallel with the circuit.  
