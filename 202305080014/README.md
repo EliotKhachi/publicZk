@@ -10,4 +10,7 @@ A multimeter can tell us the following things about the two points:
 
 In order to use your multimeter properly, make sure to refer to your multimeter's  user manual.  
 
+## References
+[Beginner Electronics Hub](../202305062158)
+
 ## Tags
