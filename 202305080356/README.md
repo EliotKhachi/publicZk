@@ -1,4 +1,4 @@
-# Diodes
+# Diodes 
 
 Diodes allow electricity to flow in only one direction: from the anode (+) to the cathode (-). Much like a check valve for fluids.  
 
