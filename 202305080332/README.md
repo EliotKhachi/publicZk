@@ -28,4 +28,7 @@ Capacitance (C) is measured in units of Farads (F). Small circuits typically use
 **Capacitors in Parallel**
 `Q_total = Q_1 + Q_2 + ... Q_N`
 
+## References
+[Beginner Electronics Hub](../202305062158)
+
 ## Tags
