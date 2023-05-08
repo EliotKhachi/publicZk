@@ -19,4 +19,7 @@ A switch is used to connect and disconnect wires in circuits.
 The number of poles is the number of switches.  
 The number of throws is the number of positions that a single switch can support.  
 
+## References
+[Beginner Electronics Hub](../202305062158)
+
 ## Tags
