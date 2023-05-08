@@ -1,4 +1,4 @@
-# Capacitors
+# Capacitors 
 
 ## What is it
 Capacitors store charge. They are kind of like mini-batteries. They have a body and two leads. The body is composed of two sheets of conductive material with a dielectric material (an insulator) in the middle.  
