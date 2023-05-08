@@ -1,4 +1,4 @@
-# Schematics Basics
+# Schematics Basics 
 
 ## What are they
 Schematics are *on-paper* representations of circuits. Typically schematics are drawn out before building the actual circuit. Schematics are to circuits what blueprints are to buildings.  
