@@ -1,4 +1,4 @@
-# Resistor
+# Resistor 
 
 ## What
 A resistor is a block of material with two wires sticking out.   
