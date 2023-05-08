@@ -6,11 +6,11 @@
 
 3. [Resistor](../202305071844)  
 
-4. [LEDs](../202305072101)
+4. [LEDs](../202305072101)  
 
-5. [How Much Resistance?](../202305072106)
+5. [How Much Resistance?](../202305072106)  
 
-[How Much Resistance?](../202305072106)
+6. [Your First Circuit](../202305072233)  
 
 ## References
 [YouTube - CodeNMore - Beginniner Electronics](https://www.youtube.com/watch?v=r-X9coY    TOV4&list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
