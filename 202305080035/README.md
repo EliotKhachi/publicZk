@@ -1,4 +1,4 @@
-# Switches
+# Switches 
 
 A switch is used to connect and disconnect wires in circuits.  
 
