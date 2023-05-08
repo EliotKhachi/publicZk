@@ -1,4 +1,4 @@
-# Buttons
+# Buttons 
 
 A button is an electrical component that connects/disconnects its leads while it is pressed.  
 
