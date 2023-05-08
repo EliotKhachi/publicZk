@@ -1,4 +1,4 @@
-# Electronics Necessities
+# Electronics Necessities 
 
 1. Battery holder (two AA holder or 9V battery holder)  
 2. Pliers  
