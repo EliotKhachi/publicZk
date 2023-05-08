@@ -1,4 +1,4 @@
-# Series and Parallel
+# Series and Parallel 
 
 The terms *series* and *parallel* are used to describe a component's relationship to another component inside of a circuit. 
 
