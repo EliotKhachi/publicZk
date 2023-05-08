@@ -11,4 +11,7 @@ Schematics are *on-paper* representations of circuits. Typically schematics are 
 ## Must-Know Nomenclature
 1. A connected wire is denoted by drawing a dot at its intersection with another wire.  
 
+## References
+[Beginner Electronics Hub](../202305062158)
+
 ## Tags
