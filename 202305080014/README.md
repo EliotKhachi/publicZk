@@ -1,0 +1,13 @@
+# Multimeter
+
+A Multimeter is a tool used to evaluate the properties of a circuit in order to investigate and resolve issues. A multimeter utilizes two probes to place between any two points in the circuit.  
+
+A multimeter can tell us the following things about the two points:  
+1. Whether the points are connected (closed circuit) or disconnected (open circuit).  
+2. The voltage between each point.  
+3. The current between each point.  
+4. The resistance between each point.  
+
+In order to use your multimeter properly, make sure to refer to your multimeter's  user manual.  
+
+## Tags
