@@ -5,4 +5,7 @@ A potentiometer is an electrical component that usually has 3 leads and a knob. 
 
 A potentiometer is essentially a variable [resistor](../202305071844). By turning the knob, you're able to change the resistance of the potentiometer.  
 
+## References
+[Beginner Electronics Hub](../202305062158)
+
 ## Tags
