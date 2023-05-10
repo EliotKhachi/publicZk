@@ -21,4 +21,7 @@ A Parallel circuit is one with multiple paths for the electricity to flow throug
 * The appliances in your house. If you disconnect your toaster, your referigerator is still going to work. --> PARALLEL 
 * Consider a string of Christmas lights. If just one light burns out, then none of the lights will turn on. --> SERIES 
 
+## References
+[Beginner Electronics Hub](../202305062158)
+
 ## Tags
