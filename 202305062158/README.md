@@ -28,11 +28,13 @@
 
 14. [Power / Wattage](../202305080129)  
 
-15. [Buttons](../202305080247) and [Potentiometers](../202305080253)  
+15. [Series and Parallel](../202305080141)  
 
-16. [Capacitors](../202305080332)  
+16. [Buttons](../202305080247) and [Potentiometers](../202305080253)  
 
-17. [Diodes](../202305080356)  
+17. [Capacitors](../202305080332)  
+
+18. [Diodes](../202305080356)  
 
 ## References
 [YouTube - CodeNMore - Beginner Electronics](https://www.youtube.com/watch?v=r-X9coYTOV4&list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
