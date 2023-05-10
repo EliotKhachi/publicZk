@@ -1,4 +1,4 @@
-# Relays
+# Relays 
 
 Relays are [Switches](../202305080035) that are flipped by running current through them rather than by mechanically flipping them. Typically relays require a sustained current to stay flipped.   
 
