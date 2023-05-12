@@ -3,6 +3,7 @@
 1. #ai
 1. #algorithms
 1. #arch
+1. #assyrian
 1. #aws
 1. #bash
 1. #business
