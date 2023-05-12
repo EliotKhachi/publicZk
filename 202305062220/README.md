@@ -24,7 +24,7 @@ With these rules, a smaller pipe increases the resistance, which decreases the v
 ## Units
 Voltage (V) has units of volts (V)  
 Current (I) has units of amperes (A)  
-Resistance (R) has units of ohms (*horseshoe symbol*)  
+Resistance (R) has units of ohms (\*horseshoe symbol\*)  
 
 ## References
 [Beginner Electronics Hub](../202305062158)
