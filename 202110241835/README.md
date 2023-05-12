@@ -12,9 +12,9 @@ It means that for any number, each digit is multiplied by 10^n and added to geth
 100001 = 1 * 10^0 + 0 * 10^1 + 0 * 10^2 + 0 * 10^3 + 0 * 10^4 + 1 * 10^5
 
 ## Different Number Systems
+[Binary Number System](../202305122214)
 
-
-
+There's also the hexadecimal system.  
 See how they compare: [Decimal vs Hex vs Binary](../202305122212)
 
 ## Tags
