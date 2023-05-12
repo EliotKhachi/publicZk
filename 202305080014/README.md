@@ -8,9 +8,9 @@ A multimeter can tell us the following things about the two points:
 3. The current between each point.  
 4. The resistance between each point.  
 
-* To measure the voltage drop between two points or resistance between two points, the multimeter probes can be connected in parallel.  
+* To measure the voltage drop or resistance connect the multimeter probes in parallel.   
 
-* To measure the current at a specific point in the circuit, the multimeter must be connected in series at that point.  
+* To measure the current, the multimeter must be connected in series at that point.  
 
 In order to use your multimeter properly, make sure to refer to your multimeter's  user manual.  
 
