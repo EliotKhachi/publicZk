@@ -40,6 +40,10 @@
 
 20. [Relay Oscillator ](../202305121732)  
 
+21. [Integrated Circuits ](../202305121825)
+
+22. [Logic Gates](../202305122120)
+
 ## References
 [YouTube - CodeNMore - Beginner Electronics](https://www.youtube.com/watch?v=r-X9coYTOV4&list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
 
