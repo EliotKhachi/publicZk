@@ -1,15 +1,15 @@
 # Buttons
 
-A button is an electrical component that connects or disconnects the leads upon pressing it.  
+A button is an electrical component that connects/disconnects its leads while it is pressed.  
 
 ## Types of Buttons
-**Normally Open Push Button**  
-The two leads of the button are normally disconnected and become connected when pressed.   
+**Normally Open**  
+The button's leads become connected when pressed.   
 
-**Normally Closed Push Button**
-The two leads of the button are normally connected and become disconnected when pressed.   
+**Normally Closed**
+The button's leads become disconnected when pressed.  
 
-**Double Pole Button**
+**Double Pole**
 Path `A` in the circuit is normally connected, and while the button is pressed path path `A` disconnects and `B` becomes connected.  
 
 ## References
