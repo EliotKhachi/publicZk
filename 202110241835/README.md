@@ -1,22 +1,17 @@
-# Binary vs Hexadecimal
+# Number Systems
 
-| Decimal | Hex | Binary |
-|---------|-----|--------|
-| 0       | 0   | 0000   |
-| 1	  | 1	| 0001	 |
-| 2 	  | 2 	| 0010	 |
-| 3    	  | 3   | 0011   |
-| 4       | 4   | 0100   |
-| 5       | 5   | 0101   |
-| 6 	  | 6   | 0110   |
-| 7   	  | 7   | 0111   |
-| 8       | 8   | 1000   |
-| 9       | 9   | 1001   |
-| 10      | A   | 1010   |
-| 11      | B   | 1011   |
-| 12      | C   | 1100   |
-| 13      | D   | 1101   |
-| 14      | E   | 1110   |
-| 15      | F   | 1111   |
+The number system we're all familiar with is decimal: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. This counting system is in *Base 10*.  
+
+What does that mean?
+
+It means that for any number, each digit is multiplied by 10^n and added to gether to give you the total value of that number, where `n` is the digit's *place* starting at 0 from the right.  
+
+## Example
+18 = 8 * 10^0 + 1 * 10^1
+256 = 6 * 10^0 + 5 * 10^1 + 2 * 10^2
+100001 = 1 * 10^0 + 0 * 10^1 + 0 * 10^2 + 0 * 10^3 + 0 * 10^4 + 1 * 10^5
+
+## Different Number Systems
+
 ## Tags
 #electronics #programming
