@@ -1,10 +1,11 @@
 # Floating pins 
 
-Floating pins on a processor or a microcontroller board like Arduino are BAD and should be avoided. But what are they?
+Floating pins are usually referring to the pins on an IC [Integrated Circuits](../202305121825), processor, or microcontroller. They are BAD and should be avoided.   
 
-Floating pins are the pins on a processor or MCU that are neither a 1 or a 0. They are constantly alternating back and forth randomly due to noise because of some internal magic going on in the processor. This makes that pin unable to be used to read or write to because the signal will get lost in the noise.
+Floating pins are neither HIGH or LOW [HIGH and LOW Voltages](../202305121857). They can alternate back and forth due to noise, or the IC  may automatically assign it a value. This makes the pin unpredictable.   
 
-A resistor is used to connect floating pins to either high (5.0/3.3V) or low (GND) so that the pin has a constant reading when not being used. When the pin is used, the signal writing to or reading from the pin will not pass through the resistor because the current will take the path of least resistance.
+## Solution
+A resistor can connect floating pins to either HIGH or LOW so that the pin has a constant reading when not being used. You may need to incorporate a switch to control how to assign floating pins.  
 
 ## References
 [Floating Pins, Pull-Up Resistors and Arduino](https://www.programmingelectronics.com/floating-pins-pull-up-resistors-and-arduino/)
