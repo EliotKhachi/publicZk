@@ -1,9 +1,7 @@
 # Logic Gates
 
-A logic gate is a circuit that takes inputs and generates an output.  
+A logic gate is a circuit that takes input signals as HIGH or LOW and generates HIGH or LOW output. [HIGH and LOW Voltages](../202305121857)  
 
-The inputs and outputs are either HIGH or LOW. [HIGH and LOW Voltages](../202305121857)  
-## Types
-The types of logic gates are the same as the types of logic operators.
+See [Logic Operators](../202305122125) for different types of logic gates.  
 
 ## Tags
