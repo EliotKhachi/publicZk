@@ -36,6 +36,8 @@
 
 18. [Diodes](../202305080356)  
 
+19. [Transistors](../202305120442)
+
 ## References
 [YouTube - CodeNMore - Beginner Electronics](https://www.youtube.com/watch?v=r-X9coYTOV4&list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
 
