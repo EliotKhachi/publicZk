@@ -1,6 +1,6 @@
 # Flow + Resistance
 
-Electricity is the flow of electronics.  
+Electricity is the flow of electrons.  
 
 ## The Water Analogy   
 Imagine a tank full of water with an open pipe connected to it, causing the water to drain out.  
