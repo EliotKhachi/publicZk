@@ -10,6 +10,8 @@ An NPN transistor has 3 leads :
 
 Normally, no electricity can close from the collector to the emitter...unless you apply a very small amount of current to the base. You can use a really weak battery to provide electricity for the base, or a bigger battery and include a large resistor.  
 
+[Transistor Symbol](http://www.clipartbest.com/cliparts/7Ta/6Ka/7Ta6KaA7c.png)
+
 ## PNP Transistor
 
 ## Tags
