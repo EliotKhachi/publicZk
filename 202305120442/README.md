@@ -1,4 +1,4 @@
-# Transistors
+# Transistors 
 
 A transistor is functionally similar to a relay.  
 
