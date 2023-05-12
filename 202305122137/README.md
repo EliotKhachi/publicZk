@@ -10,4 +10,7 @@ Logic operators in programming and circuitry take in inputs and have correspondi
 |1|0|1|
 |1|1|1|
 
+## Links
+[Logic Operators](../202305122125)
+
 ## Tags
