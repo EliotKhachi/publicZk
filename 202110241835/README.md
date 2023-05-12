@@ -13,5 +13,9 @@ It means that for any number, each digit is multiplied by 10^n and added to geth
 
 ## Different Number Systems
 
+
+
+See how they compare: [Decimal vs Hex vs Binary](../202305122212)
+
 ## Tags
 #electronics #programming
