@@ -1,4 +1,4 @@
-# NAND Logic Gate
+# NAND Logic Gate 
 
 Logic operators in programming and circuitry take in inputs and have corresponding outputs.
 
