@@ -1,0 +1,3 @@
+# New Zettel
+
+## Tags
