@@ -1,4 +1,4 @@
-# 555 Timer IC
+# 555 Timer IC 
 
 The 555 Timer IC is an integrated circuit that is used as a timer or oscillator.  
 
