@@ -1,4 +1,4 @@
-# Relay Oscillator 
+# Relay Oscillator  
 
  A relay oscillator is a mechanism inside of a circuit that periodically opens and closes a portion of a circuit.  
 
