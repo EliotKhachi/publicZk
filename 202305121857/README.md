@@ -1,4 +1,4 @@
-# HIGH and LOW Voltages
+# HIGH and LOW Voltages 
 
 *HIGH* and *LOW* are short-hand terms to describe the output voltage of a lead or pin.  
 
