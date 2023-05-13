@@ -1,4 +1,4 @@
-# Decimal vs Hex vs Binary
+# Decimal vs Hex vs Binary 
 
 | Decimal | Hex | Binary |
 |---------|-----|--------|
