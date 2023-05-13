@@ -1,4 +1,4 @@
-# Logic Operators
+# Logic Operators 
 
 Logic operators in programming and circuitry take in inputs and have corresponding outputs.   
 
