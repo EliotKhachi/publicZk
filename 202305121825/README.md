@@ -1,4 +1,4 @@
-# Integrated Circuits 
+# Integrated Circuits  
 
 An Integration Circuit (IC) is a small circuit packaged up into a small component with a number of leads. The functions of ICs vary widely.  
 
