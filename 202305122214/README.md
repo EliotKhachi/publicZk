@@ -1,4 +1,4 @@
-# Binary Number System
+# Binary Number System 
 
 The binary number system is a number system in *Base 2* [Number Systems](../202110241835).  
 
