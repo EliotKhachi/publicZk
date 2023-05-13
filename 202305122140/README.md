@@ -1,4 +1,4 @@
-# XOR Logic Gate
+# XOR Logic Gate 
 
 Logic operators in programming and circuitry take in inputs and have corresponding outputs.
 
