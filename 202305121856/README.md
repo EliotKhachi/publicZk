@@ -1,4 +1,4 @@
-# Comparators
+# Comparators 
 
 A comparator has 3 leads:  
 1. V+ input
