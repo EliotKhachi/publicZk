@@ -1,6 +1,6 @@
 # Useful Mappings for Zettelkasten Workflow
 
-[Competition is for Losers](/home/eliot/Public/repos/publicZk//202305190340)
+[Competition is for Losers](/home/eliot/Public/repos/publicZk/202305190340)
 
 When working in the terminal, here are useful keystroke mappings for enhancing workflows.  
 
