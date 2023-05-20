@@ -1,7 +1,5 @@
 # Competition is for Losers
 
-[Useful Mappings for Zettelkasten Workflow](../202305141612/README.md)
-
 1. capturing value  
 2. lies people tell  
 3. how to build a monopoly - start in a small market and then expand.  

@@ -1,7 +1,5 @@
 # Useful Mappings for Zettelkasten Workflow
 
-[Competition is for Losers](../202305190340/README.md)
-
 When working in the terminal, here are useful keystroke mappings for enhancing workflows.  
 
 ## Vim Mappings
