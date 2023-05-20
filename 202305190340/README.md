@@ -1,6 +1,6 @@
 # Competition is for Losers
 
-[Useful Mappings for Zettelkasten Workflow](/home/eliot/Public/repos/publicZk//202305141612)
+[Useful Mappings for Zettelkasten Workflow](../202305141612/README.md)
 
 1. capturing value  
 2. lies people tell  
