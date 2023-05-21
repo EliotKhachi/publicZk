@@ -10,6 +10,7 @@ Try 'wc --help' for more information.
 ```
 
 ## Links
+[Redirecting Standard Error](../202305212235/README.md)  
 
 ## References
 [Linux Pocket Guide](https://linuxpocketguide.com/)

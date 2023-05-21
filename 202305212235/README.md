@@ -1,5 +1,7 @@
 # Redirecting Standard Error
 
+First, what is [Standard Error](../202305212230/README.md)?
+
 Another place we can put the error of a command is in a file. Similar to [Redirecting Standard Output](../202305212218/README.md), we use the `2>` operator to *redirect* standard output into a file, overwriting its contents, and `2>>` to append to the file.  
 ## Example
 ```
