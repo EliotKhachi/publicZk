@@ -6,8 +6,8 @@ Another place you can put the output of a command is in a file. Use the `>` shel
 
 ## Example
 ```
-$ ls > file1  
-$ cat file1  
+$ ls > file1  # output to a file
+$ cat file1  # print file contents  
 Desktop Documents Downloads Pictures Music  
 ```
 
