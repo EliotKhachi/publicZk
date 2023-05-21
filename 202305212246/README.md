@@ -2,6 +2,8 @@
 
 The power of linux comes from the shell and its commands. Mastery of the shell requires a fundamental understanding of how inputs, outputs, and errors work when using commands.  
 
+[What is a Command?](../202305212316/README.md)
+
 ## Inputs
 You can provide input
 1. From your keyboard --> [Standard Input](../202305212202/README.md).  
