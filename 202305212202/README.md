@@ -17,9 +17,7 @@ is
 Eliot
 ```
 *press `Ctrl-d` to submit*  
-`4`  
-
-*command output*  
+`4` *output*  
 
 ## Tags
 #linux
