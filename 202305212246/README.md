@@ -22,5 +22,8 @@ Errors can be
 ## Links
 See next --> [String Commands Together](../202305212305/README.md)
 
+## References
+[Linux Pocket Guide](https://linuxpocketguide.com/)
+
 ## Tags
 #linux
