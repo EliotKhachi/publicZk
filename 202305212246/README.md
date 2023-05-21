@@ -1,6 +1,6 @@
 # Mastering Linux
 
-The power of linux comes from the shell and its commands. Mastery of the shell requires a fundamental understanding of how inputs, outputs, and errors to and from commands work. 
+The power of linux comes from the shell and its commands. Mastery of the shell requires a fundamental understanding of how inputs, outputs, and errors work in the context of using commands.   
 
 ## Inputs
 You can provide input
