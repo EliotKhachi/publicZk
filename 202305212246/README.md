@@ -1,6 +1,6 @@
-# Inputs, Outputs, and Errors
+# Mastering Linux
 
-In linux, many commands take inputs and print outputs and/or errors.  
+The power of linux comes from the shell and its commands. Mastery of the shell requires a fundamental understanding of how inputs, outputs, and errors to and from commands work. 
 
 ## Inputs
 You can provide input
@@ -16,6 +16,9 @@ The output can be
 Errors can be  
 1. Printed onto your terminal --> [Standard Error](../202305212230/README.md)  
 2. Written to a file --> [Redirecting Standard Error](../202305212235/README.md)
+
+## Links
+See next --> [String Commands Together](../202305212305/README.md)
 
 ## Tags
 #linux
