@@ -7,8 +7,12 @@ By default, the shell prints the output onto your terminal.
 This is referred to as *standard output*.
 
 ## Example
-`$ ls` *command*
-`Desktop Documents Downloads Pictures Music` *output*
+`$ ls`  
+`Desktop Documents Downloads Pictures Music`  
+
+## Links
+
+## References
 
 ## Tags
 #linux
