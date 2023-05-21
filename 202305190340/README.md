@@ -1,7 +1,5 @@
 # Competition is for Losers
 
-![image](/home/eliot/Pictures/Screenshots/rMScreenshots/Sat_May_20_05:46:03_PM_PDT_2023.png)
-
 1. capturing value  
 2. lies people tell  
 3. how to build a monopoly - start in a small market and then expand.  
