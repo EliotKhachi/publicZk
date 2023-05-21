@@ -19,5 +19,11 @@ Eliot
 *press `Ctrl-d` to submit*  
 `4` *output*  
 
+## Links
+[Redirecting Standard Input](../202305212146/README.md)
+
+## References
+[Linux Pocket Guide](https://linuxpocketguide.com/)
+
 ## Tags
 #linux
