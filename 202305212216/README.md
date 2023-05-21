@@ -1,6 +1,6 @@
 # Standard Output
 
-Often times, commands produce an output.  
+Often times, commands write an output.  
 
 By default, the shell prints the output onto your terminal.  
 
