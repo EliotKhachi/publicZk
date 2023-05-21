@@ -11,8 +11,10 @@ This is referred to as *standard output*.
 `Desktop Documents Downloads Pictures Music`  
 
 ## Links
+[Redirecting Standard Output](../202305212218/README.md)  
 
 ## References
+[Linux Pocket Guide](https://linuxpocketguide.com/)
 
 ## Tags
 #linux
