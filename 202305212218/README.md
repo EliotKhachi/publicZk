@@ -9,5 +9,8 @@ Another place you can put the output of a command is in a file. Use the `>` shel
 `$ cat file1`  
 `Desktop Documents Downloads Pictures Music`  
 
+## References
+[Linux Pocket Guide](https://linuxpocketguide.com/)
+
 ## Tags
 #linux
