@@ -15,4 +15,3 @@ Desktop Documents Downloads Pictures Music
 [Linux Pocket Guide](https://linuxpocketguide.com/)
 
 ## Tags
-#linux

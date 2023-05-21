@@ -16,4 +16,3 @@ Try 'wc --help' for more information.
 [Linux Pocket Guide](https://linuxpocketguide.com/)
 
 ## Tags
-#linux

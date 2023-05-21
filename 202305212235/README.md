@@ -17,4 +17,3 @@ To redirect both standard output and standard error to a single file, use the `&
 [Linux Pocket Guide](https://linuxpocketguide.com/)
 
 ## Tags
-#linux

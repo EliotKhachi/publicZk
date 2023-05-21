@@ -26,4 +26,3 @@ Eliot
 [Linux Pocket Guide](https://linuxpocketguide.com/)
 
 ## Tags
-#linux

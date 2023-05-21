@@ -17,4 +17,3 @@ This is referred to as *standard output*.
 [Linux Pocket Guide](https://linuxpocketguide.com/)
 
 ## Tags
-#linux

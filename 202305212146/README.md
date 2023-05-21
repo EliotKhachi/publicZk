@@ -11,4 +11,3 @@ Another way to provide input is using a file. Use the `<` shell operator to *red
 [Linux Pocket Guide](https://linuxpocketguide.com/)
 
 ## Tags
-#linux
