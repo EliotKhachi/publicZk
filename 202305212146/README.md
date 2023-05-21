@@ -1,24 +1,9 @@
 # Redirecting Standard Input
 
-Often times, commands require an input.  
+First, what even is [Standard Input](../202305212202/README.md)?
 
-When an input isn't given, the shell prompts you for one, waiting for you to type it out, finishing with `Ctrl-d`.  
+Another way to provide input is using a file. Use the `<` shell operator to *redirect* the file's contents into standard input.   
 
-For example,
-`$ wc -l` *command*
-*shell prompts you for an input, and you type:*
-```hello
-my
-name
-is
-Eliot
-```
-*press `Ctrl-d` to submit*
-`4` *command output*
-
-This is referred to as *standard input*.  
-
-Another way to provide input is to give the command a file to read using the `<` shell operator.  
 `$ wc -l < myfile` *command*
 `4` *output*
 
