@@ -20,7 +20,8 @@ Eliot
 `4` *output*  
 
 ## Links
-[Redirecting Standard Input](../202305212146/README.md)
+[Inputs, Outputs, and Errors](../202305212246/README.md)  
+[Redirecting Standard Input](../202305212146/README.md)  
 
 ## References
 [Linux Pocket Guide](https://linuxpocketguide.com/)

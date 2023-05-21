@@ -11,6 +11,7 @@ This is referred to as *standard output*.
 `Desktop Documents Downloads Pictures Music`  
 
 ## Links
+[Inputs, Outputs, and Errors](../202305212246/README.md)  
 [Redirecting Standard Output](../202305212218/README.md)  
 
 ## References

@@ -11,7 +11,10 @@ $ cat file1  # print file contents
 Desktop Documents Downloads Pictures Music  
 ```
 
+## Links
+[Inputs, Outputs, and Errors](../202305212246/README.md)  
+
 ## References
-[Linux Pocket Guide](https://linuxpocketguide.com/)
+[Linux Pocket Guide](https://linuxpocketguide.com/)  
 
 ## Tags

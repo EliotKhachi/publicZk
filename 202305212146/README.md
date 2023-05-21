@@ -7,6 +7,9 @@ Another way to provide input is using a file. Use the `<` shell operator to *red
 `$ wc -l < myfile` *command*  
 `4` *output*
 
+## Links
+[Inputs, Outputs, and Errors](../202305212246/README.md)  
+
 ## References
 [Linux Pocket Guide](https://linuxpocketguide.com/)
 

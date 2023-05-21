@@ -10,6 +10,7 @@ Try 'wc --help' for more information.
 ```
 
 ## Links
+[Inputs, Outputs, and Errors](../202305212246/README.md)  
 [Redirecting Standard Error](../202305212235/README.md)  
 
 ## References

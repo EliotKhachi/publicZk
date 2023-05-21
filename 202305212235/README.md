@@ -13,6 +13,9 @@ Try 'wc --help' for more information.
 
 To redirect both standard output and standard error to a single file, use the `&>`/`>&` or `&>>`/`>>&` operators for overwriting or appending contents to the file, respectively.  
 
+## Links
+[Inputs, Outputs, and Errors](../202305212246/README.md)  
+
 ## References
 [Linux Pocket Guide](https://linuxpocketguide.com/)
 
