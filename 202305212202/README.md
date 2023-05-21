@@ -7,16 +7,19 @@ When an input isn't given, the shell prompts you for one, waiting for you to typ
 This is referred to as *standard input*.
 
 ## Example,
-`$ wc -l` *command*
-*shell prompts you for an input, and you type:*
-```hello
+`$ wc -l` *command*  
+*shell prompts you for an input:*
+```
+hello
 my
 name
 is
 Eliot
 ```
-*press `Ctrl-d` to submit*
-`4` *command output*
+*press `Ctrl-d` to submit*  
+`4`  
+
+*command output*  
 
 ## Tags
 #linux
