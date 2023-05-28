@@ -2,9 +2,9 @@
 
 The *memory map* of a microcontroller tells us the address ranges of each area of the MCU's memory. An MCU's memory has the following areas:  
 * SRAM  
-* Main Flash memory
-* System memory
-* Reserved memory
+* Main Flash memory  
+* System memory  
+* Reserved memory  
 
 ## Other Links
 [Linker Directives](../202202120014)
