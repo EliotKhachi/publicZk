@@ -37,4 +37,4 @@ Go to the next level and use a more low-level microcontroller. Less libraries, m
 [YouTube - Prof. Dr. Florian Leitner-Fischer - How to become an Embedded Software Engineer - 5 STEP ROADMAP to learn Embedded Software Engineering](https://www.youtube.com/watch?v=IOs6QDI-2MY) 
 
 ## Tags
-#hub #embeddedSystems
+#embeddedSystems
