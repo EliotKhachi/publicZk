@@ -35,3 +35,4 @@ For [example](https://duckduckgo.com/?q=parallel+circuit&t=newext&atb=v344-1&iax
 [Beginner Electronics Hub](../202305062158)
 
 ## Tags
+#electronics

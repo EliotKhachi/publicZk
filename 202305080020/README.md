@@ -15,3 +15,4 @@ Schematics are *on-paper* representations of circuits. Typically schematics are 
 [Beginner Electronics Hub](../202305062158)
 
 ## Tags
+#electronics

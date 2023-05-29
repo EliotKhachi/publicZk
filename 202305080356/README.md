@@ -12,3 +12,4 @@ Diodes in **Breakdown Mode** are diodes whose max voltage rating was exceeded an
 [Beginner Electronics Hub](../202305062158)
 
 ## Tags
+#electronics

@@ -30,3 +30,4 @@ Resistance (R) has units of ohms (\*horseshoe symbol\*)
 [Beginner Electronics Hub](../202305062158)
 
 ## Tags
+#electronics

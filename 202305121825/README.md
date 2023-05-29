@@ -15,3 +15,4 @@ The top of the IC is indicated by an indentation on the IC body. Looking down on
 [555 Timer IC](../202305121829)
 
 ## Tags
+#electronics

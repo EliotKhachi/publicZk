@@ -15,3 +15,4 @@ A resistor's resistance value depends on the material composition of the block b
 [Beginner Electronics Hub](../202305062158)
 
 ## Tags
+#electronics

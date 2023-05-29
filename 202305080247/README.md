@@ -16,3 +16,4 @@ Path `A` in the circuit is normally connected, and while the button is pressed p
 [Beginner Electronics Hub](../202305062158)
 
 ## Tags
+#electronics

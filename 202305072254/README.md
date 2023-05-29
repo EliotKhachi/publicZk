@@ -6,3 +6,4 @@ A breadboard is a board of wired connections that make it easy to connect compon
 [Beginner Electronics Hub](../202305062158)
 
 ## Tags
+#electronics

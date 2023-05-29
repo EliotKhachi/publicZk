@@ -10,3 +10,4 @@ Note that when an input of a logic gate is not connected to HIGH or LOW, then th
 [Logic Gates Depiction - PNG](https://instrumentationtools.com/wp-content/uploads/2017/07/instrumentationtools.com_digital-logic-gates-truthtables.png)
 
 ## Tags
+#electronics #programming

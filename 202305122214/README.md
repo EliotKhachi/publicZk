@@ -10,3 +10,4 @@ The binary number system is a number system in *Base 2* [Number Systems](../2021
 [Beginner Electronics Hub](../202305062158)
 
 ## Tags
+#electronics #programming

@@ -22,3 +22,4 @@ Consider a simple series circuit with a battery, resistory, and LED:
 R = (9 - 3.2) / 0.024 = 240 Ohms
 
 ## Tags
+#electronics

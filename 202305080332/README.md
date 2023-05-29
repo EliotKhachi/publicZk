@@ -32,3 +32,4 @@ Capacitance (C) is measured in units of Farads (F). Small circuits typically use
 [Beginner Electronics Hub](../202305062158)
 
 ## Tags
+#electronics

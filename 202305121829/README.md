@@ -20,3 +20,4 @@ Depending on how it is wired to and used, the 555 Timer can be operated in *Asta
 The output pin will be hooked up to whatever it is you want to oscillate, i.e. an LED blink.  
 
 ## Tags
+#electronics

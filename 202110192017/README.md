@@ -11,4 +11,4 @@ A resistor can connect floating pins to either HIGH or LOW so that the pin has a
 [Floating Pins, Pull-Up Resistors and Arduino](https://www.programmingelectronics.com/floating-pins-pull-up-resistors-and-arduino/)
 
 ## Tags
-#electronics #embeddedSystems
+#electronics

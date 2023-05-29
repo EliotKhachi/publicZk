@@ -17,3 +17,4 @@ Right now, this oscillation is going to happen as fast as the speed of electrici
 Right now we just have an oscillator. Switch out your SDPT with a DPDT, and use the other pole, `B`, and its `on`-`off` positions to do something useful!  
 
 ## Tags
+#electronics

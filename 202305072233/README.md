@@ -5,3 +5,4 @@ Connect a resistor to one of the leads of the LED, and connect that resistor to 
 [Simple LED Circuit](https://circuits-diy.com/wp-content/uploads/2020/02/simple-basic-led-circuit-3v.png)
 
 ## Tags
+#electronics

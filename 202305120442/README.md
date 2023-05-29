@@ -15,3 +15,4 @@ Normally, no electricity can close from the collector to the emitter...unless yo
 ## PNP Transistor
 
 ## Tags
+#electronics

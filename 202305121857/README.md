@@ -8,3 +8,4 @@ LOW - there is *not* an output voltage, or it's connected to ground.
 HIGH is equivalent to a 1 and LOW is equivalent to a 0.  
 
 ## Tags
+#electronics
