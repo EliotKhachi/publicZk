@@ -1,9 +1,9 @@
-# ARM Microcontroller Hub
+# What is a Microcontroller?
 
-A microcontroller is an electronic device that takes in input signals and generates output signals. 
+A microcontroller is an electronic device that can control, sense, receive input, respond to events, and communicate with other devices and peripherals.  
 
 ## References
-[ARM Microcontroller Programming and Circuit Building Series](https://www.youtube.com/watch?v=ftjQ6YelAXE)  
+*ARM Microcontrollers - Programming and Circuit Building - Volume 1* by Patrick Hood-Daniel
 
 ## Tags
 #hub
