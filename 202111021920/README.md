@@ -1,9 +1,15 @@
 # Serial Communication  
 
-Serial communication is the process of sending data one bit at a time, sequentially, over one or more communication channels or computer buses.  
+Serial communication is the process of sending data one bit at a time, sequentially, over one communication channel or computer bus. This is in contrast to parallel communication.  
 
-**How does the receiving end of this communication understand anything?**
-This form of communication boils down to how many bits are
+**Recall: A wire can only send data by pulling that line high or low**
+
+1. The data bus always sends data in parallel with a [Clock Bus](../202305300022/README.md).  
+2. Similar to the clock bus,
+2. The data bus contains start and stop signatures
+With start and stop signatures in the data line
+
+the foby working alongside the clock bus, 
 
 ## Different Methods of Data Exchange
 

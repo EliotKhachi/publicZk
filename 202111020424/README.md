@@ -1,4 +1,4 @@
-# I2C Communication  
+# I2C Communication
 
 ## Overview
 I2C is a communication protocol that can be used to control many devices (up to 127 devices) in a microcontroller circuit. Each device has a unique ID (either hardcoded in their circuit, or configurable within the IDE, i.e. servos). 
