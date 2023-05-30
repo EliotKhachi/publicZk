@@ -6,8 +6,10 @@ I2C is a [Serial Communication](../202111021920) protocol that involves two wire
 2. SCL (clock)  
 
 Each device has an SDA and SCL wire, and all devices are connected to the same SDA and SCL buses.   
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Mon_May_29_07:22:42_PM_PDT_2023.png)
 
 The SDA and SCL wires work together to define the *start* and *stop* conditions, and the bits of data in between.  
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Mon_May_29_07:23:02_PM_PDT_2023.png)
 
 # Links
 [1] [I2C Open-Drain ](../202112050545)  
