@@ -1,23 +1,13 @@
 # Serial Communication  
 
 Serial communication is the process of sending data one bit at a time, sequentially, over one communication channel or computer bus. This is in contrast to parallel communication.  
-
 **Recall: A wire can only send data by pulling that line high or low**
 
-1. The data bus always sends data in parallel with a [Clock Bus](../202305300022/README.md).  
-2. Similar to the clock bus,
-2. The data bus contains start and stop signatures
-With start and stop signatures in the data line
-
-the foby working alongside the clock bus, 
-
-## Different Methods of Data Exchange
-
-* **Simplex** - One device is the sender and the other is the receiver at *all* times, i.e. television and radio.
-
-* **Half Duplex** - One device is the sender and the other is the receiver at *any given* time, but not at the *same* time. If the sender transmits, then the receiver can accept and cannot send and vice versa. I.e. the internet (laptop sends a request for a webpage, the web server processes the request and sends back the information)
-
-* **Full Duplex** - The most widely used communication in the world. Both the sender and receiver can transmit and receive at the same time, i.e. your smartphone. 
+## How can you make sense of 1s and 0s coming from a single wire?
+1. Ensure that the transmitter and the receiver agree on what serial communication protocol is being used, for example [I2C Communication](../202111020424/README.md).  
+2. The 1s and 0s (bits) on the data bus occur in parallel with a [Clock Bus](../202305300022/README.md).  
+3. The bits and the transitions between them are interpreted with respect to the clock bus.  
+4. The data and clock buses have start and stop signatures used to group bits together to form integers or ASCII characters.  
 
 ## References
 [Wikipedia - Serial Communication](https://en.wikipedia.org/wiki/Serial_communication)
