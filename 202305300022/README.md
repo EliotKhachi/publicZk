@@ -9,6 +9,8 @@ The clock bus is a wire that is simply pulled high and low in a continuous fashi
 4. **High-speed Mode** (Hs-mode): 3.4 Mbit/s
 5. **Ultra-Fast Mode** (UFm): 5 Mbit/s
 
+Not all devices can be operated at all speeds, but devices are downward-compatible. However, the latter is not true for ultra fast-mode devices because an ultra-fast bus is uni-directional while the other modes are bi-directional.
+
 ## Links
 [I2C Clock Line: SCL ](../202112050607/README.md)
 
