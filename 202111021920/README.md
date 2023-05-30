@@ -1,6 +1,9 @@
 # Serial Communication  
 
-Serial communication is a common approach for transferring information between data processing equipment and *peripherals*.
+Serial communication is the process of sending data one bit at a time, sequentially, over one or more communication channels or computer buses.  
+
+**How does the receiving end of this communication understand anything?**
+This form of communication boils down to how many bits are
 
 ## Different Methods of Data Exchange
 
@@ -11,7 +14,7 @@ Serial communication is a common approach for transferring information between d
 * **Full Duplex** - The most widely used communication in the world. Both the sender and receiver can transmit and receive at the same time, i.e. your smartphone. 
 
 ## References
-[What is Serial Communication and How it works?](https://www.codrey.com/embedded-systems/serial-communication-basics/)
+[Wikipedia - Serial Communication](https://en.wikipedia.org/wiki/Serial_communication)
 
 ## Tags
-#electronics #embeddedSystems
+#electronics
