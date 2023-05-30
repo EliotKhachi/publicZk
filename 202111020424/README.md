@@ -1,7 +1,8 @@
 # I2C Communication
 
 ## Overview
-I2C is a communication protocol that can be used to control many devices (up to 127 devices) in a microcontroller circuit. Each device has a unique ID (either hardcoded in their circuit, or configurable within the IDE, i.e. servos). 
+I2C is a [Serial Communication](../202111021920) protocol that can be used to control many devices (up to 127 devices) in a microcontroller circuit. Each device has a unique ID (either hardcoded in their circuit, or configurable within the IDE, i.e. servos). 
+
 
 Two wires are used to communicate: SDA (data) and SCL (clock). Each device has an SDA and SCL wire, and the microcontroller has an SDA and SCL wire. All devices are connected to the same SDA and SCL buses.
 
