@@ -31,13 +31,15 @@ R = 		     time constant		          1000 ns
     ----------------------------------------------, i.e. ---------
     0.8743 * capacitance measured on the I2C lines       0.8473*C_b
 
-## References
+# Links
+[1] [I2C Open-Drain ](../202112050545)  
+[2] [I2C Data Line: SDA](../202112050552)  
+[3] [I2C Clock Line: SCL](../202112050607)  
+[4] [I2C Bus Arbitration](../202112050502)  
 
+## References
 [1] [Introduction to I2C](https://deepbluembedded.com/i2c-communication-protocol-tutorial-pic/)  
-[2] [I2C Open-Drain ](../202112050545)  
-[3] [I2C Data Line: SDA](../202112050552)  
-[4] [I2C Clock Line: SCL](../202112050607)  
-[5] [I2C Bus Arbitration](../202112050502)  
+[2] [Wikipedia - I2C](https://en.wikipedia.org/wiki/I%C2%B2C)  
 
 ## Tags
-#embeddedSystems
+#electronics #embeddedSystems
