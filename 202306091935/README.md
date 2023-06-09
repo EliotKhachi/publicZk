@@ -12,5 +12,8 @@
 
 6. Flash: `sudo st-flash write <file_to_flash>.bin 0x08000000`. Reset: `sudo st-flash reset`.
 
+## References
+[freeelectron Blog - Installing ST-Link V2 to Flash STM32 Targets on Linux](https://freeelectron.ro/installing-st-link-v2-to-flash-stm32-targets-on-linux/)
+
 ## Tags
 #linux #STM32
