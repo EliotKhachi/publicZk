@@ -1,5 +1,9 @@
 # Flash STM32 MCUs on Linux with ST-Link/V2
 
+Method 1: STM32CubeIDE
+
+Method 2: Open Source
+
 1. Download the latest [GNU ARM Toolchain](https://developer.arm.com/downloads/-/gnu-rm) for Linux. [Compression and Extraction - tar, gzip](../202302031659/README.md)
 
 2. Download open-source stlink debugger from [github.com/stlink-org/stlink](https://github.com/stlink-org/stlink).  
