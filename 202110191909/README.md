@@ -1,8 +1,8 @@
 # How to Flash STM32 Microcontrollers on Linux 
 
-1. Download the latest [GNU ARM Toolchain](https://developer.arm.com/downloads/-/gnu-rm) for Linux:  
+1. Download the latest [GNU ARM Toolchain](https://developer.arm.com/downloads/-/gnu-rm) for Linux. [Compression and Extraction - tar, gzip](../202302031659/README.md)
 
-2. Download open-source stlink debugger from [github.com/stlink-org/stlink](https://github.com/stlink-org/stlink) 
+2. Download open-source stlink debugger from [github.com/stlink-org/stlink](https://github.com/stlink-org/stlink).  
 
 3. Configure your paths to the binaries
 
