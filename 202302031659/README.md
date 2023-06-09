@@ -1,4 +1,4 @@
-# Compressing & Decompressing Files (tar, gzip, gunzip) 
+# Compression and Extraction - tar, gzip
 
 In the linux command line...  
 
