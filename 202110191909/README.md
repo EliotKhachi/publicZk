@@ -2,10 +2,7 @@
 
 Method 1: STM32CubeIDE
 
-Method 2: Open Source
-
-## References
-[freeelectron Blog - Installing ST-Link V2 to Flash STM32 Targets on Linux](https://freeelectron.ro/installing-st-link-v2-to-flash-stm32-targets-on-linux/)  
+Method 2: [Flash STM32 MCUs w/ Open Source Software](../202306091935/README.md)
 
 ## Tags
 #STM32
