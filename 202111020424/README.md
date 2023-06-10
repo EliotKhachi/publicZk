@@ -1,7 +1,7 @@
 # I2C Communication
 
 ## Overview
-I2C is a [Serial Communication](../202111021920) protocol that involves two wires:  
+I2C is a *half-duplex* [Serial Communication](../202111021920) protocol that involves two wires:  
 1. SDA (data)  
 2. SCL (clock)  
 
