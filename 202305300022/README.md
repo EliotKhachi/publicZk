@@ -1,6 +1,6 @@
 # Clock Bus
 
-The clock bus is a wire that is simply pulled high and low in a continuous fashion to set a clock speed, typically done by the transmitter. Each time the transmitter pulls the line high and then low is one cycle.  
+The clock bus is a wire that is simply pulled high and low in a continuous fashion to set a clock speed, typically done by the master device. Each time the master pulls the line high and then low is one cycle.  
 
 # 5 modes of clock speed:
 1. **Standard-Mode** (Sm): 100 kbit/s
