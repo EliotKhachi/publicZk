@@ -6,7 +6,7 @@ I wrote a script that took 1,000 samples from the MPU 6050 sensor. The screensho
 |Measurement Type|Avg Measured Value|Expected Value|Units|
 |----------------|------------------|--------------|-----|
 |X-Acc|1.00018382|1|g's|
-|Y-Acc|0.033935059|0|g's|
+|Y-Acc|0.0339350589|0|g's|
 |Z-Acc|-0.25394848|0|g's|
 |X-Gyro|2.07064843|0|deg/s|
 |Y-Gyro|-2.98403939|0|deg/s|
