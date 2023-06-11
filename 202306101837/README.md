@@ -11,7 +11,7 @@ Most, if not all, STM32 microcontrollers can establish at least one I2C bus, giv
 3. 
 **Step 3:** [Use STM32 HAL libraries to read and write data via I2C](../202306112223/README.md)
 
-## References
+# References
 [Matej Blagsic Github Example](https://github.com/prtzl/Embedded_videos/tree/master/026_HAL-I2C)
 
 ## Tags

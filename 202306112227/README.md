@@ -18,5 +18,8 @@ In these cases, you do not need to specify the register addresses as a function 
 Left-shifting the 7-bit slave address puts a 0 at the LSB of the address byte, telling the slave that the master wishes to write to it.
 An address byte with a 1 as the LSB tells the slave that the master wishes to read from it.
 
+## Links
+[Use STM32 HAL libraries to read and write data via I2C](../202306112223/README.md) 
+
 ## Tags
 #STM32
