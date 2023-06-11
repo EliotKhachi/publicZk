@@ -34,6 +34,7 @@
 1. #manufacturing
 1. #MBSE
 1. #mobile
+1. #MPU6050
 1. #networks
 1. #nginx
 1. #npm
