@@ -13,7 +13,7 @@ The great thing about these regulators is that they have 2 modes of operation.
 Select this mode by connecting the `SET` pin to ground. In this mode, the output of the MAX603 is set to 5V and the output of the MAX604 is set to 3.3V.  
 **Adjustable Mode**
 For an output voltage ranging from 1.25V to 11V, use two external resistors connected as a voltage divider to `SET`.  
-![image](https://s3.us-west-1.amazonaws.com/zettelimages/Fri_Jun_16_05:54:23_PM_PDT_2023.png)
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Fri_Jun_16_05:54:23_PM_PDT_2023.png)  
 Set the output voltage with the following equation.  
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Fri_Jun_16_05:56:20_PM_PDT_2023.png)
 
