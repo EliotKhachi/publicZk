@@ -17,6 +17,9 @@ For an output voltage ranging from 1.25V to 11V, use two external resistors conn
 Set the output voltage with the following equation:  
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Fri_Jun_16_05:56:20_PM_PDT_2023.png)
 
+## Links
+[Voltage Regulators](../202306170030/README.md)
+
 ## References
 [Mouser MAX603/MAX604 Datasheet](https://www.mouser.com/datasheet/2/609/MAX603_MAX604-3113208.pdf)
 
