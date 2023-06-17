@@ -3,8 +3,8 @@
 The MAX603 and MAX604 voltage regulators are a great choice for electronics hobbyists for their versatility and ease of use.  
 
 ## Key Features
-**input range:** 2.7V to 11.5V.  
-**output range:** 1.25V to 11V.  
+**input range:** 2.7V to 11.5V  
+**output range:** 1.25V to 11V  
 **current output:** up to 500mA 
 
 ## Output Voltage Selection
