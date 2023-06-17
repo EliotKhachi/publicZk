@@ -6,6 +6,8 @@ Build a quadcopter that can hover in the air.
 Learn core concepts and practical applications of embedded systems.  
 
 ## Component Layout
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Jun_17_10:56:10_AM_PDT_2023.png)
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Jun_17_10:56:30_AM_PDT_2023.png)
 
 ## Bill of Materials (BOM)
 1 X [Blue-Pill Microcontroller (STM32F103C8T6)](../202306171654/README.md)  
