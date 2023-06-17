@@ -16,6 +16,7 @@ Learn core concepts and practical applications of embedded systems.
 4 X Motor Drivers (MOSFETs)  
 
 ## Schematic
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Jun_17_10:11:23_AM_PDT_2023.png)
 
 ## Tags
 #electronics #projects
