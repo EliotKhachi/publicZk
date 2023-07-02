@@ -18,8 +18,8 @@
 ```
 4. Test the Apache configuration for syntax errors  
 `sudo apachectl configtest`  
-5. Run Certbot
-`sudo certbot --apache`
+5. Run Certbot  
+`sudo certbot --apache`  
 
 ## References
 [AWS Docs - Configure SSL/TLS on Amazon Linux 2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html)
