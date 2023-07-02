@@ -1,5 +1,9 @@
 # Install and Configure Apache Web Server on Amazon Linux 2 EC2 Instance
 
+## Pre-Requisites
+* An Amazon Linux 2 EC2 Instance
+* Configured security groups on that instance for SSH, HTTP, and HTTPS requests.
+
 ## Steps
 1. *SSH into your EC2 instance*
 2. `sudo yum update -y` # update your package list
