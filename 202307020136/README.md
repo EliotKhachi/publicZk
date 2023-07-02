@@ -13,4 +13,4 @@
 6. `sudo systemctl is-enabled httpd` # verify httpd is on
 
 ## Tags
-#ec2
+#aws
