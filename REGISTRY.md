@@ -17,6 +17,7 @@
 1. #design
 1. #dev
 1. #docker
+1. #ec2
 1. #electronics
 1. #embeddedSystems
 1. #engineering
