@@ -5,6 +5,7 @@
 2. Micro SD Card  
 3. Computer  
 
+## Steps
 1. Insert your microSD card into your computer.  
 2. `sudo apt install rpi-imager` and launch the application using by typing `rpi-imager`
 3. Select your OS of choice (Raspberry OS Lite is a good choice to stay lightweght since no desktop environment is needed for a headless setup).  
