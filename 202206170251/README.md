@@ -17,7 +17,7 @@ A headless configuration is one that doesn't require a separate keyboard or moni
 
 3. Eject microSD card and enter it into the raspberry pi. Connect the raspberry pi to power.  
 
-4. Run `nmap -sP 192.168.1.*` and find your raspberry pi's IP address  
+4. Run `nmap -sn 192.168.1.*` and find your raspberry pi's IP address  
 
 5. If you can't find a raspberry pi in this list you may need to connect the pi to your router via ethernet or configure its Wi-Fi manually. The latter is a pain. To later be able to connect via Wi-Fi, try running `sudo apt-get update && sudo apt-get dist-upgrade` to enable the onboard wireless LAN chip (this is the case with the RPi 3B+).  
 
