@@ -7,7 +7,8 @@
 1. Update package list  
 `sudo yum update`  
 2. Install Certbot  
-`sudo yum install certbot python2-certbot-apache`  
+`sudo yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm` # install epel repository
+`sudo yum install certbot python3-certbot-apache mod_ssl` # install certbot and its dependencies
 3. Create a virtual host listening on port 80  
 `sudo vim /etc/httpd/conf.d/your_domain.conf`  
 ```
@@ -22,6 +23,7 @@
 `sudo certbot --apache`  
 
 ## References
+[Install Certbot on Amazon Linux 2](https://devcoops.com/install-certbot-on-amazon-linux-2/)
 [AWS Docs - Configure SSL/TLS on Amazon Linux 2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html)
 
 ## Tags
