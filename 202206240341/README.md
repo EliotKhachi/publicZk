@@ -33,4 +33,4 @@ To resolve this error, try running:
 ```
 
 ## Tags
-#hub #linux
+#linux
