@@ -3,7 +3,7 @@
 ## Summary
 *Attached* is a book about romantic relationships, written to help people find new relationships or improve current ones. The approach it takes to doing this is by teaching Adult Attachment Theory and the studies that back it. After learning the origin and developments of the theory, you garner insights from countless relationship examples. 
 
-## Key Insights / Strong View Points
+## Key Insights
 * Humans have a deep need for intimacy that must be met by a romantic partner.  
 * We are emotionally and physiologically regulated by our romantic partner.  
 * Co-dependence is a normal state of a healthy relationship.  
