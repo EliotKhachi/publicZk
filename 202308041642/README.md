@@ -1,8 +1,11 @@
-# The Practical Approach to Escaping the Scarcity Mindset
+# How Most People Escape the Scarcity Mindset
 
-To the degree that you want peace and happiness in your life, yes you should *try* to escape the scarcity mindset. I say "try" here because it is difficult to completely escape [[Escaping The Scarcity Mindset](../202308041621/README.md)].  
+It is difficult to completely escape the scarcity mindset, so most people resort to the cultivating a balance between power and your needs and desires. They do this through a combination of  
+1. Acquiring power  
+2. Let go of *some* of your needs and desires.  
 
-The practical approach to escaping the scarcity mindset is to acquire enough power to satisfy your needs and *selected* desires.  
+## Links
+[[Escaping The Scarcity Mindset](../202308041621/README.md)]
 
 ## Tags
 #growth
