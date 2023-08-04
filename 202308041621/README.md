@@ -4,11 +4,7 @@ There are two ways to completely escape [The Scarcity Mindset](../202308040127/R
 1. Acquire ultimate power. No one can contest your desires or needs. Not even God. At this point, you are God...  
 2. Let go of your desires and the fear of death.  
 
-For most people, these two extremes are not feasible. Here is what most people do:  
-1. Let go of your desires but still fear of death. Acquire enough power to satisfy your needs.  
-2. Let go of *some* of your desires but still fear death. Acquire enough power to satisfy your needs and selected desires.  
-
-Living in scarcity is largely dependent on your current circumstances. Prisoners in a concentration camp in Nazi Germany during WW2 were living in scarcity and that was the best strategy to survive. 
+These two extremes take your current circumstances out of the equation. For most people, your current circumstances matter. Prisoners in a Nazi concentration camp were living in scarcity and that was the best strategy to survive [[The Practical Approach to Escaping the Scarcity Mindset](../202308041642/README.md)].  
 
 ## Tags
 #growth
