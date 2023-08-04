@@ -6,6 +6,7 @@ The abundance mindset is in direct opposition to [The Scarcity Mindset](../20230
 This mindset is associated with being in a state of love because you view people around you as allies. Allies that help you attain your goals and whom you help attain their goals. You're constantly giving or receiving love. You are at ease and in control.  
 
 ## Spiritual Abundance
+*in work...*
 
 ## Tags
 #growth
