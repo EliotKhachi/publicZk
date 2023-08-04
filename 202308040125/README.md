@@ -6,7 +6,7 @@ The world is a positive-sum game. You are satisfied with what you have and can a
 ## Spiritual Abundance
 In *Man's Search for Meaning*, Viktor Frankl spoke about his experience, and that of his fellow prisoners, in Nazi concentration camps. He described the psychological progression of letting go of your desires-- from the moment the officers strip you of your possessions to being entrenched in daily camp life. Things that you thought you couldn't live without, you simply let go of, along with a part of your perceived identity. Even when the needs of the prisoners were taken away and they were pushed to the brink of death, they clung onto hope, the will to live, the *the search for meaning*, and through it all, they still found joy and laughter.  
 
-Despite living in complete scarcity, the prisoners experienced glimpses of the abundance mindset. This means that you can an abundance mindset independent of your current circumstances.  
+Despite living in complete scarcity, the prisoners experienced glimpses of the abundance mindset. This means that you can have an abundance mindset regardless of your current circumstances.  
 
 ## Tags
 #growth
