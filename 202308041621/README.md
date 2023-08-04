@@ -2,7 +2,7 @@
 
 There are two ways to escape [The Scarcity Mindset](../202308040127/README.md):  
 1. Acquire ultimate power. No one can contest your desires or needs. Curse God.  
-2. Let go of your earthly desires and the fear of death. Surrender to God. [[Psalm of David](https://www.biblegateway.com/passage/?search=Psalm+23%3A1-6&version=ESV)]  
+2. Let go of your earthly desires and conquer the fear of death. Surrender to God. [[Psalm of David](https://www.biblegateway.com/passage/?search=Psalm+23%3A1-6&version=ESV)]  
 
 Option #1 isn't a complete escape. No matter how much power you think you have, you will never have complete control. Bitterness and resentment results from the feeling of a lack of control.  
 
