@@ -6,5 +6,7 @@ This mindset is associated with being in a state of fear because you view the pe
 **Fight** - You must compete, fight, and win against others to fulfill your desires.  
 **Flight** - You must surrender or flee to protect what you have.  
 
+[Escaping The Scarcity Mindset](../202308041621/README.md)
+
 ## Tags
 #growth
