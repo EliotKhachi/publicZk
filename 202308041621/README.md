@@ -1,6 +1,6 @@
 # Escaping The Scarcity Mindset
 
-There are a couple ways to escape [The Scarcity Mindset](../202308040127/README.md):  
+There are two ways to completely escape [The Scarcity Mindset](../202308040127/README.md):
 1. Acquire ultimate power. No one can contest your desires or needs.  
 2. Let go of your desires and the fear of death.  
 
