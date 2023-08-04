@@ -6,7 +6,7 @@ The world is a positive-sum game. You are satisfied with what you have and can a
 ## Spiritual Abundance
 *in work...*  
 
-In *Man's Search for Meaning*, Viktor Frankl spoke about his experience, and that of the prisoners, in Nazi concentration camps. He described the psychological progression of letting go of your desires-- from the moment the officers strip you of your possessions upon being admitted to the camp to being entrenched in daily camp life. Things that you thought you couldn't live without, you simply let go of, along with a part of your perceived identity. Even when your needs were taken away from you and you were pushed to the brink of death, you clung onto hope, the will to live, *the search for meaning*. Through all of this, the prisoners even found joy and laughter at times.  
+In *Man's Search for Meaning*, Viktor Frankl spoke about his experience, and that of his fellow prisoners, in Nazi concentration camps. He described the psychological progression of letting go of your desires-- from the moment the officers strip you of your possessions to being entrenched in daily camp life. Things that you thought you couldn't live without, you simply let go of, along with a part of your perceived identity. Even when your needs were taken away from you and you were pushed to the brink of death, you clung onto hope, the will to live, *the search for meaning*. Through all of this, the prisoners even found joy and laughter at times.  
 
 ## Tags
 #growth
