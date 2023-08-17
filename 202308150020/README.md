@@ -1,7 +1,7 @@
 # Man's Search For Meaning by Viktor Frankl
 
 ## Summary
-*Man's Search For Meaning* by Viktor Frankl is an autobiography about the author's experiences in concentration camps during WWII in Nazi Germany. Viktor Frankl was a psychologist  
+*Man's Search For Meaning* by Viktor Frankl is an autobiography about the author's experiences in concentration camps in Nazi Germany. Being a well-educated psychologist, Viktor told his story in the context of man's pysche. 
 
 ## Quotes
 * “Sometimes the frustrated will to meaning is vicariously compensated for by a will to power… or pleasure” (paraphrased)
@@ -16,7 +16,7 @@
 ## Story of Death in Tehran:  
 A rich and mighty Persian once walked in his garden with one of his servants. The servant cried that he had just encounted Death, who had threatened him. He begged his master to give him his fastest horse so that he could make haste and flee to Tehran, which he could reach that same evening. The master consented and the servant galloped off on the horse. On returning to his house the master himself met Death, and questioned him, "Why did you terrify and threaten my servant?" "I did not threaten him; I only showed surprise in still finding him here when I planned to meet him tonight in Tehran," said Death.  
 
-3 ways to experience meaning:
+## 3 Ways to Experience Meaning:
 1. Achievements
 2. Experiences of Love / Truth / Beauty
 3. Suffering
