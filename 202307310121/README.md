@@ -5,11 +5,11 @@ To live in congruence with one's self means your actions are in accordance with 
 Actions arise out of beliefs. If your actions cannot be reconciled with your beliefs, then you are not being congruent. Either your governing principle or your behavior needs to be corrected to achieve harmony.  
 
 ## Examples
-* Living in accordance with the [The Golden Rule](../202307310130/README.md).
+* Living in accordance with the [The Golden Rule](https://github.com/EliotKhachi//publicZk/tree/main/202307310130).  
 * Carrying yourself with dignity and respect and believing every human has intrinsic worth.  
 
 ## Links
-[The Implications of The Golden Rule](../202307310117/README.md)
+[The Implications of The Golden Rule](https://github.com/EliotKhachi//publicZk/tree/main/202307310117)
 
 ## Tags
 #growth
