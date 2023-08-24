@@ -6,5 +6,8 @@ I vividly remember a 3-month period during the summer of 2021, just after gradua
 
 The reason that sometimes I was nervous was because I was in [The Scarcity Mindset](https://github.com/EliotKhachi//publicZk/tree/main/202308040127). I was caught up in how the sale would benefit me. What I can gain from the situation. What I had at stake and the opportunity I can let slip. This is a false sense of scarcity because **there's always the next door to knock**. I truly had nothing to lose. When I was radiating trust and positivity, I had adopted [The Abundance Mindset](https://github.com/EliotKhachi//publicZk/tree/main/202308040125). The reason I was there was to help other people meet their financial goals.  
 
+## Links
+1. [What Situations Make Sense To Be In Abundance?](https://github.com/EliotKhachi//privateZk/tree/main/202308240205)
+
 ## Tags
 #growth #beliefs
