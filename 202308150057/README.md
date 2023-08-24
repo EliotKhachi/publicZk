@@ -1,3 +1,0 @@
-# test-no-tweepy
-
-## Tags
