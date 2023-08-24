@@ -10,4 +10,4 @@ The reason that sometimes I was nervous was because I was in [The Scarcity Minds
 1. [What Situations Make Sense To Be In Abundance?](https://github.com/EliotKhachi//privateZk/tree/main/202308240205)
 
 ## Tags
-#growth #beliefs
+#beliefs
