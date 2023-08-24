@@ -17,4 +17,4 @@ With that being said, it's best to avoid these situations entirely by de-escalat
 1. [What Situations Make Sense To Be In Scarcity?](https://github.com/EliotKhachi//publicZk/tree/main/202308240240)
 
 ## Tags
-#growth #beliefs
+#beliefs
