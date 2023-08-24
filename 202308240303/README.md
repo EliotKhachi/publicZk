@@ -1,10 +1,10 @@
-# Engaging With People With Trust Issues
+# Meeting New People
 
-Some people have trust issues and assume bad intentions from the moment you meet them.  
+A solid approach to meeting new people is to always assume good intentions and have a positive outlook. With that being said, some may not reciprocate your outlook and do not trust others so easily. No matter what, always respect other people's boundaries.  
 
-In situations where the relationship is still very early or, better yet, you've only just met, it may be best to just move on to another opportunity for friendship, business, romance, etc..  
+When interacting with someone who assumes bad intentions, it's up to you whether you want to continue the interaction. Trying to "win them over" or gain their trust may just make them more uncomfortable. It is probably not worth the effort. It may be best to just move on to another opportunity for friendship, business, romance, etc..[[The Abundance Mindset](https://github.com/EliotKhachi//publicZk/tree/main/202308040125)].  
 
-Should you attempt to "win them over" or gain their trust? Is it even worth the effort when there are better people to spend your time and energy on? [[The Abundance Mindset](https://github.com/EliotKhachi//publicZk/tree/main/202308040125)].  
+To give them credit, one should [Be Wary Of The Stranger](https://github.com/EliotKhachi//publicZk/tree/main/202308240321) to some degree.  
 
 ## Tags
 #growth 
