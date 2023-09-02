@@ -20,7 +20,7 @@ Eliot
 `4` *output*  
 
 ## Links
-[Inputs, Outputs, and Errors](../202305212246/README.md)  
+[Mastering Linux](../202305212246/README.md)  
 [Redirecting Standard Input](../202305212146/README.md)  
 
 ## References
