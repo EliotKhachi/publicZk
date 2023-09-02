@@ -7,9 +7,9 @@ By default, the shell prints the output onto your terminal.
 This is referred to as *standard output*.
 
 ## Example
-*command*
-`$ ls` 
-*output*
+*command*  
+`$ ls`  
+*output*  
 `Desktop Documents Downloads Pictures Music`  
 
 ## Links
