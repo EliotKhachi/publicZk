@@ -8,7 +8,7 @@ Another way to provide input is using a file. Use the `<` shell operator to *red
 `4` *output*
 
 ## Links
-[Inputs, Outputs, and Errors](../202305212246/README.md)  
+[Mastering Linux](../202305212246/README.md)  
 
 ## References
 [Linux Pocket Guide](https://linuxpocketguide.com/)
