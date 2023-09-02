@@ -7,8 +7,10 @@ By default, the shell prints the output onto your terminal.
 This is referred to as *standard output*.
 
 ## Example
-`$ ls # command (lists subdirectories)`  
-`Desktop Documents Downloads Pictures Music # output`  
+*command*
+`$ ls` 
+*output*
+`Desktop Documents Downloads Pictures Music`  
 
 ## Links
 [Inputs, Outputs, and Errors](../202305212246/README.md)  
