@@ -6,6 +6,12 @@ The purpose of this project is to to control the pool and spa features from your
 ## Hardware
 I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) to my pool's contrrol panel. There are 4 wires that run from the control panel to the Raspberry Pi.  
 
+Jandy's Power Center RS485 Connection Locations (Red, 4-pin connector at the top left)  
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:51:26_AM_PDT_2023.png)
+
+RS485 Wire Connections
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:52:41_AM_PDT_2023.png)
+
 |Wire|Function|
 |-----|--------|
 |Red|VCC (+10 Volts)|
@@ -16,7 +22,7 @@ I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/ras
 I haven't identified what signals are running through the black and yellow wires, but it is a 2-wire communication protocol.  
 
 ## References
-[AquaLink RS Troubleshooting Manual](https://data2.manualslib.com/pdf4/81/8060/805967-jandy/aqualink_rs.pdf?ce3b0be5667faf2e7bc2a4a458b5c686)
+[AquaLink RS Installation Manual](https://cdn.fluidrausa.com/-/media/zodiac/global/downloads/0748-91071/6594.pdf?rev=8ef7e65bffb247efb962fe23e434b87e)
 
 ## Tags
 #projects
