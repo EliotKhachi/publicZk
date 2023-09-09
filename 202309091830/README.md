@@ -9,17 +9,12 @@ I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/ras
 Jandy's Power Center RS485 Connection Locations (Red, 4-pin connector at the top left)  
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:51:26_AM_PDT_2023.png)
 
-RS485 Wire Connections  
+RS485 Pin Connector  
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:52:41_AM_PDT_2023.png)
 
-|Wire|Function|
-|-----|--------|
-|Red|VCC (+10 Volts)|
-|Black|Comm Signal 1|
-|Green|GND|
-|Yellow|Com Signal 2|
 
-I haven't identified what signals are running through the black and yellow wires, but it is a 2-wire communication protocol.  
+FTDI USB-RS485 Cable Connections  
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:55:02_AM_PDT_2023.png)
 
 ## References
 [AquaLink RS Installation Manual](https://cdn.fluidrausa.com/-/media/zodiac/global/downloads/0748-91071/6594.pdf?rev=8ef7e65bffb247efb962fe23e434b87e)
