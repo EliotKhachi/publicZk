@@ -9,7 +9,7 @@ I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/ras
 Jandy's Power Center RS485 Connection Locations (Red, 4-pin connector at the top left)  
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:51:26_AM_PDT_2023.png)
 
-RS485 Wire Connections
+RS485 Wire Connections  
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:52:41_AM_PDT_2023.png)
 
 |Wire|Function|
