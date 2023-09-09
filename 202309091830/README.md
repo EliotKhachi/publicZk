@@ -1,14 +1,10 @@
 # AqualinkD Project
 
 ## Introduction
-For some background, the control unit for my home's pool and jacuzzi is in the kitchen. There are a few control features, namely the filter pumps, jet pumps, and lights.
-
-The purpose of this project is to to control the pool and spa features from your phone, wherever you are. Imagine you're having a long day at work... and you want to get the jacuzzi nice and steamy by the time you get home.
+The purpose of this project is to to control the pool and spa features from your phone, wherever you are. Imagine you have a long day at work... and you want to get the jacuzzi nice and steamy by the time you get home :).
 
 ## Hardware
 I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) to my pool's contrrol panel. There are 4 wires that run from the control panel to the Raspberry Pi.  
-
-![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sun_Jul_23_06:26:30_PM_PDT_2023.png)
 
 |Wire|Function|
 |-----|--------|
