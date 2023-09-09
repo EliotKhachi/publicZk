@@ -17,7 +17,8 @@ FTDI USB-RS485 Cable Connections
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:55:02_AM_PDT_2023.png)
 
 ## References
-[AquaLink RS Installation Manual](https://cdn.fluidrausa.com/-/media/zodiac/global/downloads/0748-91071/6594.pdf?rev=8ef7e65bffb247efb962fe23e434b87e)
+[AqualinkD Github Project](https://github.com/sfeakes/AqualinkD)  
+[AquaLink RS Installation Manual](https://cdn.fluidrausa.com/-/media/zodiac/global/downloads/0748-91071/6594.pdf?rev=8ef7e65bffb247efb962fe23e434b87e)  
 
 ## Tags
 #projects
