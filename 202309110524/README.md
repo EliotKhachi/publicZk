@@ -3,7 +3,7 @@
 ## S3 Storage Classes
 
 |Storage Class|Recommended Type of Data|Access Frequency|Time to Access|
-|-------------|----------------|--------------|
+|-------------|------------------------|----------------|--------------|
 |Standard|Any|Frequent|milliseconds|
 |Intelligent Tiering|Any|Unknown or changing access patterns|milliseconds|
 |Standard-IA|Long-lived|Infrequent|milliseconds|
