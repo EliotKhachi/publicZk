@@ -1,8 +1,8 @@
 # Amazon S3 More Features
 
-## S3 Storage Classes
+## S3 Storage Classes and Use Cases
 
-|Storage Class|Recommended Type of Data|Access Frequency|Time to Access|
+|Storage Class|Type of Data|Access Frequency|Time to Access|
 |-------------|------------------------|----------------|--------------|
 |Standard|Any|Frequent|milliseconds|
 |Intelligent Tiering|Any|Unknown or changing access patterns|milliseconds|
