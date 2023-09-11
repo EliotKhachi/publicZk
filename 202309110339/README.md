@@ -14,7 +14,9 @@
 
 ## References
 [AWS Certification Paths](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)  
-[AWS Certified Cloud Practitioner (CLF-C01) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)  
+
+## Links
+[AWS Certified Cloud Practitioner Exam Guide](https://github.com/EliotKhachi//publicZk/tree/main/202309110348)
 
 ## Tags
 #career
