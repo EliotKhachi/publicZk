@@ -6,3 +6,4 @@ An instance store provides temporary block-level storage for your instance. This
 [AWS Docs - Amazon EC2 Instance Store](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html)  
 
 ## Tags
+#aws
