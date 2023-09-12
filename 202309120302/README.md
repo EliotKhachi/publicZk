@@ -5,5 +5,8 @@ Amazon Elastic File System (EFS) automatically grows and shrinks as you add and 
 * Pay for storage you use  
 * Designed for 11 9s of durability and 4 9s of availibility  
 
+# References
+[AWS Docs - Amazon EFS](https://aws.amazon.com/efs/?nc2=type_a)  
+
 ## Tags
 #aws
