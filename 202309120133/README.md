@@ -4,7 +4,7 @@
 
 2. [What is one of the advantages of the Amazon Relational Database Service (Amazon RDS)?](https://github.com/EliotKhachi//publicZk/tree/main/202309120312)  
 
-3. 
+3. [A customer needs to run a MySQL database that easily scales. Which AWS service should they use?](https://github.com/EliotKhachi//publicZk/tree/main/202309120318)
 
 ## References
 [YouTube - AWS Certification Real Exam Questions - Cloud Practitioner - PART 1](https://www.youtube.com/watch?v=IvvD13aNO68&list=PL_0RK_1F4sTDNZOzu4aQ0h7RBA6tPwuUj)
