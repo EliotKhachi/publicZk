@@ -9,7 +9,8 @@ D. [Amazon S3](https://github.com/EliotKhachi//publicZk/tree/main/202309110516)
 Amazon DynamoDB is a fully managed NoSQL database service.  
 
 ## Distractors
-Answer A - Redshift is used to build a [Data Warehouse](https://github.com/EliotKhachi//publicZk/tree/main/202309120502).  
-Answer B - 
+Answer A - Redshift is used to build a [Data Warehouse](https://github.com/EliotKhachi//publicZk/tree/main/202309120502) for *relational* databases.   
+Answer B - RDS is a *relational* database service.   
+Answer C - S3 is used to store objects, it is not a database service.  
 
 ## Tags
