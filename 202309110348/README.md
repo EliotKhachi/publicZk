@@ -1,6 +1,5 @@
 # AWS Certified Cloud Practitioner Study Guide
 
-## Safety Net
 **What are we talking about?**  
 The AWS Certified Cloud Practitioner is the first AWS Certification you must achieve before moving onto more specialized and complex certifications from AWS. [What is AWS? ](https://github.com/EliotKhachi//publicZk/tree/main/202206100231)
 
@@ -35,6 +34,8 @@ AWS Docs.
 
 **Who are the experts?**  
 See technical assistance options available at AWS, i.e. AWS Professional Services and AWS Solutions Architects.  
+
+Review practice questions:
 
 ## References
 [AWS Certified Cloud Practitioner (CLF-C02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide_C02.pdf)
