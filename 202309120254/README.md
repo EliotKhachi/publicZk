@@ -6,3 +6,4 @@ AWS Snowball is a service used to easily migrate petabyte-scale data to the clou
 [AWS Docs - Amazon Snowball](https://aws.amazon.com/snowball/)
 
 ## Tags
+#aws
