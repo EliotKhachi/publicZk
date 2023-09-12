@@ -14,6 +14,10 @@
 
 7. [One of the advantages to moving infrastructure from an on-premises data center to the AWS Cloud is:](https://github.com/EliotKhachi//publicZk/tree/main/202309120437)  
 
+8. [What is the lowest-cost, durable storage option for retaining database backups for immediate retrieval?](https://github.com/EliotKhachi//publicZk/tree/main/202309120443)  
+
+9. 
+
 ## References
 [YouTube - AWS Certification Real Exam Questions - Cloud Practitioner - PART 1](https://www.youtube.com/watch?v=IvvD13aNO68&list=PL_0RK_1F4sTDNZOzu4aQ0h7RBA6tPwuUj)
 
