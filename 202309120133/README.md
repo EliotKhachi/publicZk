@@ -10,7 +10,9 @@
 
 5. [Which of the following is a shared control between the customer and AWS?](https://github.com/EliotKhachi//publicZk/tree/main/202309120425)  
 
-6. 
+6. [How many Availability Zones should compute resources be provisioned across to achieve high availability?](https://github.com/EliotKhachi//publicZk/tree/main/202309120431)  
+
+7. [One of the advantages to moving infrastructure from an on-premises data center to the AWS Cloud is:](https://github.com/EliotKhachi//publicZk/tree/main/202309120437)  
 
 ## References
 [YouTube - AWS Certification Real Exam Questions - Cloud Practitioner - PART 1](https://www.youtube.com/watch?v=IvvD13aNO68&list=PL_0RK_1F4sTDNZOzu4aQ0h7RBA6tPwuUj)
