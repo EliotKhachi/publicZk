@@ -3,7 +3,7 @@
 A. [Amazon S3 Glacier](https://github.com/EliotKhachi//publicZk/tree/main/202309120137)  
 B. Amazon RDS  
 C. AWS Snowball  
-D. Amazon EFS  
+D. Amazon Redshift  
 E. Amazon EFS  
 
 ## Tags
