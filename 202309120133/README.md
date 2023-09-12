@@ -1,6 +1,7 @@
 # AWS Cloud Practitioner Practice Questions
 
-1. [CLF-C02-1: Which AWS services should be used for read/write of constantly changing data? Choose two](https://github.com/EliotKhachi//publicZk/tree/main/202309120136)  
+1. [Which AWS services should be used for read/write of constantly changing data? Choose two](https://github.com/EliotKhachi//publicZk/tree/main/202309120136)  
+
 2. 
 
 ## References
