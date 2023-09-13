@@ -22,6 +22,8 @@
 
 11. [Which AWS service provides the ability to manage infrastructure as code?](https://github.com/EliotKhachi//publicZk/tree/main/202309130434)  
 
+12. [If a customer needs to audit the change management of AWS resources, which of the following AWS services should the customer use?](https://github.com/EliotKhachi//publicZk/tree/main/202309130457)  
+
 ## References
 [YouTube - AWS Certification Real Exam Questions - Cloud Practitioner - PART 1](https://www.youtube.com/watch?v=IvvD13aNO68&list=PL_0RK_1F4sTDNZOzu4aQ0h7RBA6tPwuUj)
 
