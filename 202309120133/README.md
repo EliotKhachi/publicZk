@@ -20,6 +20,8 @@
 
 10. [Where should a company go to search software listings from independent software vendors to find, test, buy and deploy software that runs on AWS?](https://github.com/EliotKhachi//publicZk/tree/main/202309130358)  
 
+11. [Which AWS service provides the ability to manage infrastructure as code?](https://github.com/EliotKhachi//publicZk/tree/main/202309130434)  
+
 ## References
 [YouTube - AWS Certification Real Exam Questions - Cloud Practitioner - PART 1](https://www.youtube.com/watch?v=IvvD13aNO68&list=PL_0RK_1F4sTDNZOzu4aQ0h7RBA6tPwuUj)
 
