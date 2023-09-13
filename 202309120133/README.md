@@ -18,6 +18,8 @@
 
 9. [What is an example of agility in the AWS Cloud?](https://github.com/EliotKhachi//publicZk/tree/main/202309120508)  
 
+10. [Where should a company go to search software listings from independent software vendors to find, test, buy and deploy software that runs on AWS?](https://github.com/EliotKhachi//publicZk/tree/main/202309130358)  
+
 ## References
 [YouTube - AWS Certification Real Exam Questions - Cloud Practitioner - PART 1](https://www.youtube.com/watch?v=IvvD13aNO68&list=PL_0RK_1F4sTDNZOzu4aQ0h7RBA6tPwuUj)
 
