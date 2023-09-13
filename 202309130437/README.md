@@ -1,9 +1,12 @@
-# AWS CodeDeploy
+# AWS Direct Connect
 
-AWS CodeDeploy is a fully managed deployment service that automates software deployments to various compute services, such as Amazon Elastic Compute Cloud (EC2), Amazon Elastic Container Service (ECS), AWS Lambda, and your on-premises servers. Use CodeDeploy to automate software deployments, eliminating the need for error-prone manual operations.  
+AWS Direct Connect links your internal network to an AWS Direct Connect location over a standard Ethernet fiber-optic cable. With this connection, you can create virtual interfaces directly to public AWS services (for example, to Amazon S3) or to Amazon VPC, bypassing internet service providers in your network path. An AWS Direct Connect location provides access to AWS in the Region with which it is associated.  
+
+The following diagram shows a high-level overview of how AWS Direct Connect interfaces with your network.  
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Tue_Sep_12_09:39:11_PM_PDT_2023.png)
 
 ## References
-[AWS CodeDeploy](https://aws.amazon.com/codedeploy/)
+[AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)  
 
 ## Tags
 #aws
