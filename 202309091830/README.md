@@ -7,6 +7,17 @@ The purpose of this project is to to control the pool and spa features from your
 I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) to my pool's contrrol panel. There are 4 wires that run from the control panel to the Raspberry Pi.  
 
 Jandy's Power Center RS485 Connection Locations (Red, 4-pin connector at the top left)  
+
+**Cable Connections**
+|Function|Jandy Color|Jandy Pin|RS485 Color|
+|--------|-----------|---------|-----------|
+|Data +  | BLACK     | 2       | ORANGE    |
+|Data -  | YELLOW    | 3       | YELLOW    |
+|10V VCC | RED       | 1       | RED       |
+|GROUND  | GREEN     | 4       | BLACK     |
+|Terminator 1|N/A    |N/A      |BROWN      |
+|Terminator 2|N/A    |N/A      |GREEN      |
+
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:51:26_AM_PDT_2023.png)
 
 RS485 Pin Connector  
