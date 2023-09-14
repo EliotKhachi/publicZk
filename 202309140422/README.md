@@ -8,5 +8,8 @@ IAM policy statements consist of:
 5. **Resource**: list of resources to which the actions applied to  
 6. **Condition**:: conditions for when this policy is in effect (optional)  
 
+## Links
+[IAM Policies Structure](https://github.com/EliotKhachi//publicZk/tree/main/202309140418)
+
 ## Tags
 #aws
