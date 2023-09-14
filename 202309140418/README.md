@@ -1,6 +1,11 @@
 # IAM Policies Structure
 
+A *policy* consists of 3 components:  
+1. **Version**: policy language version, usually "2012-10-17"  
+2. **Id**: an identifier for policy (optional)  
+3. **Statement**: one or more individual statements (required). [[IAM Policy Statement](https://github.com/EliotKhachi//publicZk/tree/main/202309140422)]  
 
+## Example
 ```json
 {
     "Version": "2012-10-17",
