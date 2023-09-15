@@ -27,5 +27,7 @@ A *policy* consists of 3 components:
 }
 
 ```
+## Links
+[IAM Policy](https://github.com/EliotKhachi//publicZk/tree/main/202309150142)
 
 ## Tags
