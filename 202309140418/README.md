@@ -29,4 +29,3 @@ A *policy* consists of 3 components:
 ```
 
 ## Tags
-#aws
