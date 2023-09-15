@@ -3,4 +3,4 @@
 A ledger is a book for recording financial transactions.  
 
 ## Tags
-#finances
+#finance
