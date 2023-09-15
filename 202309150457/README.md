@@ -1,6 +1,7 @@
 # Amazon ELB
 
-An Amazon Elastic Load Balancer (ELB) is an aws service that is a managed load balancer. It's guaranteed to work, takes care of upgrades, maintenance, and has high availability. Only provides a few configuration details.  
+An Amazon Elastic Load Balancer (ELB) is an aws service that is a managed load balancer [[Load Balancing](https://github.com/EliotKhachi//publicZk/tree/main/202309150454)]. It's guaranteed to work, takes care of upgrades, maintenance, and has high availability. Only provides a few configuration details.  
+
 
 ## 4 Kinds of Load Balancers
 1. Application Load Balancer (HTTP / HTTPS) - Layer 7  
