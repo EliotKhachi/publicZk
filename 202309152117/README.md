@@ -3,7 +3,6 @@
 Permissions to read, update, and delete objects in an [Amazon S3](https://github.com/EliotKhachi//publicZk/tree/main/202309110516) bucket can be set in a few ways:
 
 1. [S3 Bucket Policy](https://github.com/EliotKhachi//publicZk/tree/main/202309152124)  
-An S3 bucket policy applies to the bucket itself, not the user. They can be used to to set permissions for people outside of your AWS account, even anyone on the web.  
 2. [IAM Policy](https://github.com/EliotKhachi//publicZk/tree/main/202309150142)  
 3. [IAM Roles](https://github.com/EliotKhachi//publicZk/tree/main/202309150127)  
 
