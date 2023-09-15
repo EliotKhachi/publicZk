@@ -26,6 +26,7 @@
 1. #embeddedSystems
 1. #engineering
 1. #finance
+1. #finances
 1. #fluidMechanics
 1. #gcc
 1. #GDT
