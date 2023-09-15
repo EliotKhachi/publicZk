@@ -1,4 +1,4 @@
-# Cloud Principle: Durability
+# Cloud Principle of Durability
 
 ## Tags
 #cloud
