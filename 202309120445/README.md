@@ -6,7 +6,7 @@ We recommend Amazon EBS for data that must be quickly accessible and requires lo
 
 To copy, , and archive EBS volumes, see [EBS Snapshots](https://github.com/EliotKhachi//publicZk/tree/main/202309150357).  
 
-If you want very fast accessibility, see [Amazon EC2 Instance Store](https://github.com/EliotKhachi//publicZk/tree/main/202309120447).  
+If you want very fast data read and write, see [Amazon EC2 Instance Store](https://github.com/EliotKhachi//publicZk/tree/main/202309120447).  
 
 ## References
 [AWS Docs - Amazon EBS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)  
