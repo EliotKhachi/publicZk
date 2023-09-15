@@ -12,4 +12,3 @@ IAM policy statements consist of:
 [IAM Policies Structure](https://github.com/EliotKhachi//publicZk/tree/main/202309140418)
 
 ## Tags
-#aws
