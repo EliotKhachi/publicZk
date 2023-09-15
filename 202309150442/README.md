@@ -1,6 +1,6 @@
-# High Availability
+# Elasticity
 
-High availability in the cloud means running your application / system in at least 2 [Availability Zones](https://github.com/EliotKhachi//publicZk/tree/main/202309120416). That way if one goes down, another is *available* to run and serve your application.  
+Elasticity in the cloud means that there will be some "auto-scaling" so that the system can scale based on the load. This is "cloud-friendly": pay-per-use, match demand, optimize costs.  
 
 ## Tags
 #cloud
