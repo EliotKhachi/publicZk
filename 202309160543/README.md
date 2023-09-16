@@ -1,4 +1,4 @@
-# Amazon CDK
+# AWS Beanstalk
 
 ## Tags
 #aws
