@@ -1,6 +1,6 @@
 # Software Architecture Layers 
 
-Software architecture layers are used to organize code by using a common and extremely powerful technique called *chunking*. 
+Software architecture layers are used to organize code in the repository.  
 
 **The Problem:** Medium to large-sized software applications contain hundreds to thousands of source files, with tens of thousands of lines of code, which becomes difficult to manage.  
 
@@ -24,4 +24,4 @@ Information flows from the user interface to the domain, and from the domain to 
     * Data Access - [202210090652](../202210090652) - Data Access Layer  
 
 ## Tags
-#software #dev
+#dev
