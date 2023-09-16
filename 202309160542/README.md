@@ -1,4 +1,4 @@
-# AWS Batch
+# AWS Lightsail
 
 ## Tags
 #aws
