@@ -1,8 +1,11 @@
 # Application Tiers
 
-A application *tier* refers to a portion of an application that requires compute and/or data retrieval.  
+A application *tier* refers to a portion of application code that is dedicated to its own physical hardware.  
 
-For example, one application tier of Netflix may be serving the page content with your feed of video thumbnails. Another application tier is playing the video you hover over your mouse over. A third tier is serving and processing the full video you click on.  
+While [Software Architecture Layers ](https://github.com/EliotKhachi//publicZk/tree/main/202209172045), are merely a way of organizing your code, tiers refer to the architecture physically running the code.  
+
+## References
+[Should all apps be n-tier?](https://web.archive.org/web/20200802111420/http://www.lhotka.net:80/weblog/ShouldAllAppsBeNtier.aspx)
 
 ## Tags
 #dev
