@@ -5,4 +5,4 @@ Amazon EventBridge is an aws service that is used to schedule scripts to run usi
 ## References
 
 ## Tags
-#as
+#aws
