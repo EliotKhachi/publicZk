@@ -14,7 +14,6 @@ Amazon CloudWatch collects and visualizes real-time logs, metrics, and event dat
 
 ## Import Alarms
 Alarms are used to trigger notifications for any metric.  
-
 Alarms actions include:
 * Autoscaling
 * stop, terminate, reboot, or recover an EC2 instance
@@ -22,5 +21,6 @@ Alarms actions include:
 
 ## References
 [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)
+
 ## Tags
 #aws
