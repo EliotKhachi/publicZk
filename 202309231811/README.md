@@ -14,9 +14,10 @@ I am building a portfolio website to showcase my personality, background, intere
 3.1 It shall be entirely statically served.
 3.2 It shall be written entirely in HTML and CSS.
 4. Layout requirements
-4.1 The website shall have a greeting section on the left-hand side of the page that summarizes my background, education, and interests in the style of my personality.
-4.2 The website shall have a projects section on the right-hand side of the page that shows each project title as a link that can be clicked on. This will be laid out as a 2-by-2 box, with space for a photo above each project title.
-4.3 Underneath the projects section, still on the right-hand side, the website shall have a section to show some blogs (as blog titles that are links).
+4.1 The website shall have a greeting section on the left-hand side of the page that summarizes my education, and interests in the style of my personality (see requirements 2.1 and 2.2).
+4.2 Underneath the greeting section will be the professional work experience section (see requirement 2.3).
+4.2 The website shall have a projects section on the right-hand side of the page that shows each project title as a link that can be clicked on (see requirement 2.4). This will be laid out as a 2-by-2 box, with space for a photo above each project title.
+4.3 Underneath the projects section, still on the right-hand side, the website shall have a section to show my blog titles (put place holders for the blog titles as links).
 4.4 At the bottom of the page there will be link placeholders for my linkedin, github, and email.
 
 Here is your starting point:
