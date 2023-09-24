@@ -21,4 +21,3 @@ This puts you in a scarcity mindset with-respect-to your time, thereby making be
 	* It's the sender's responsibility to communicate why the email they are writing is important and to convince the receiver to respond. It is also their responsibility to write the email as unambiguously as possible to make it as easy as possible for the receiver to respond.
 
 ## Tags
-#productivity
