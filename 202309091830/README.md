@@ -3,9 +3,12 @@
 ## Introduction
 The purpose of this project is to to control the pool and spa features from your phone, wherever you are. Imagine you have a long day at work... and you want to get the jacuzzi nice and steamy by the time you get home :).
 
-## Hardware
-I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) to my pool's contrrol panel. There are 4 wires that run from the control panel to the Raspberry Pi.  
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep_23_07:22:02_PM_PDT_2023.png)
 
+## Hardware
+I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) to my pool's contrrol panel. There are 4 wires that run from the control panel to the Raspberry Pi: Data +, Data -, GND, and 10V VCC. The 10V power will go through a 5V voltage regulator.   
+
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep_23_07:22:36_PM_PDT_2023.png)
 
 **Cable Connections**
 |Function|Jandy Color|Jandy Pin|RS485 Color|
@@ -18,15 +21,14 @@ I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/ras
 |Terminator 2|N/A    |N/A      |GREEN      |
 
 
-Jandy's Power Center RS485 Connection Locations (Red, 4-pin connector at the top left)  
-![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:51:26_AM_PDT_2023.png)
-
 RS485 Pin Connector  
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:52:41_AM_PDT_2023.png)
 
-
 FTDI USB-RS485 Cable Connections  
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:55:02_AM_PDT_2023.png)
+
+Raspberry Pi Zero W connected.
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep_23_07:23:07_PM_PDT_2023.png)
 
 ## References
 [AqualinkD Github Project](https://github.com/sfeakes/AqualinkD)  
