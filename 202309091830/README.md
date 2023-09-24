@@ -10,14 +10,13 @@ The control panel has 4 wires: Data +, Data -, GND, and 10V VCC.
 
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep_23_07:22:36_PM_PDT_2023.png)
 
+The wires make up the RS485 communication protocol. I will use a USB-RS485 cable adapter to communicate between the panel and a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/). The cable will also power the pi through a 5V voltage regulator.   
+
 RS485 Pin Connector  
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:52:41_AM_PDT_2023.png)
 
 FTDI USB-RS485 Cable Connections  
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:55:02_AM_PDT_2023.png)
-
-The 10V power will go through a 5V voltage regulator.   
-I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) to my pool's control panel. 
 
 **Cable Connections**
 |Function|Jandy Color|Jandy Pin|RS485 Color|
