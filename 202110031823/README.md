@@ -15,4 +15,3 @@ Roosevelt was a man of many interests, yet he managed to do well in Harvard & pu
 1. Newport, Cal. *Deep Work*. New York, Hachette Book Group Inc, 2016.
 
 ## Tags
-#productivity
