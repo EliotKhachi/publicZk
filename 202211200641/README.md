@@ -17,4 +17,4 @@ Before diving deep into the resources, scan through the chapter or section and c
 * [YouTube - Elizabeth Filips on Speed Learning](https://www.youtube.com/watch?v=_wzJnWCBWkI&t=981s)
 
 ## Tags
-#productivity #learning
+#productivity #books
