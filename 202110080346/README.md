@@ -39,6 +39,7 @@ There are 3 main elements of every habit having to do with *formation and purpos
 
 ## References
 *Limitless* by Jim Kwik  
+*Atomic Habits* by James Clear
 
 ## Tags
 #habits
