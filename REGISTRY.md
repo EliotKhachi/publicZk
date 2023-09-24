@@ -1,6 +1,4 @@
-1. #
 1. #aerospace
-1. #ai
 1. #algorithms
 1. #arch
 1. #as
@@ -70,7 +68,6 @@
 1. #technology
 1. #template
 1. #terminal
-1. #test
 1. #windows
 1. #wsl
 1. #zettelkasten
