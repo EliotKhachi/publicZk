@@ -1,9 +1,9 @@
 # Man's Search For Meaning by Viktor Frankl
 
 ## Summary
-*Man's Search For Meaning* by Viktor Frankl is an autobiography about the author's experiences in concentration camps in Nazi Germany. Being a well-educated psychologist, Viktor told his story in the context of man's pysche. 
+*Man's Search For Meaning* by Viktor Frankl is an autobiography about the author's experiences in Nazi concentration camps as well as a commentary about man's will to live.  
 
-## Quotes
+## Favorite Quotes
 * “Sometimes the frustrated will to meaning is vicariously compensated for by a will to power… or pleasure” (paraphrased)
 * “… everything can be taken from a man but one thing: the last of the human freedoms— to choose one’s attitude in any given set of circumstances, to choose one’s own way.”
 * “The way in which a a man accepts his fate and all the suffering it entails, the way in which he takes up his cross, gives him ample opportunity— even under the most difficult circumstances— to add a deeper meaning to his life.”
