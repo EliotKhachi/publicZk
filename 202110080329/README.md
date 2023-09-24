@@ -4,7 +4,7 @@
 What is the smallest simple step I can take now?
 
 ## The Zeigarnik Effect
-The conclusion that uncompleted tasks create a level of tension that keeps that task at the front of our minds until it is completed.
+Uncompleted tasks create a level of tension that keeps that task at the front of our minds until it is completed.
 
 ## The Problem
 The Zeigarnik effect is noticed on a daily basis in procrastination.
