@@ -1,4 +1,4 @@
-# Habits  
+# Atomic Habits  
 
 ## Key Questions
 How do we start good habits or end bad ones?
