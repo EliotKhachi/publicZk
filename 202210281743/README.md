@@ -24,4 +24,4 @@
 [Elizabeth Filips - Become a Speed Learner](https://www.youtube.com/watch?v=_wzJnWCBWkI)  
 
 ## Tags
-#template
+#learning
