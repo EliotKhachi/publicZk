@@ -6,9 +6,18 @@ The purpose of this project is to to control the pool and spa features from your
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep_23_07:22:02_PM_PDT_2023.png)
 
 ## Hardware
-I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) to my pool's contrrol panel. There are 4 wires that run from the control panel to the Raspberry Pi: Data +, Data -, GND, and 10V VCC. The 10V power will go through a 5V voltage regulator.   
+The control panel has 4 wires: Data +, Data -, GND, and 10V VCC.
 
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep_23_07:22:36_PM_PDT_2023.png)
+
+RS485 Pin Connector  
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:52:41_AM_PDT_2023.png)
+
+FTDI USB-RS485 Cable Connections  
+![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:55:02_AM_PDT_2023.png)
+
+The 10V power will go through a 5V voltage regulator.   
+I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) to my pool's control panel. 
 
 **Cable Connections**
 |Function|Jandy Color|Jandy Pin|RS485 Color|
@@ -17,15 +26,6 @@ I am connecting a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/ras
 |Data -  | YELLOW    | 3       | YELLOW    |
 |10V VCC | RED       | 1       | RED       |
 |GROUND  | GREEN     | 4       | BLACK     |
-|Terminator 1|N/A    |N/A      |BROWN      |
-|Terminator 2|N/A    |N/A      |GREEN      |
-
-
-RS485 Pin Connector  
-![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:52:41_AM_PDT_2023.png)
-
-FTDI USB-RS485 Cable Connections  
-![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep__9_11:55:02_AM_PDT_2023.png)
 
 Raspberry Pi Zero W connected.
 ![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Sep_23_07:23:07_PM_PDT_2023.png)
