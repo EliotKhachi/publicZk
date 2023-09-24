@@ -1,4 +1,4 @@
-# Linux Fundamentals
+# Shell Fundamentals
 
 The power of linux comes from the shell and its commands. Mastery of the shell requires a fundamental understanding of how inputs, outputs, and errors work when using commands.  
 
