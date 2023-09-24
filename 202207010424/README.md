@@ -1,6 +1,6 @@
 # What is SSH? 
 
-SSH stands for *secure shell*. It is a protocol for communication between two linux machines through a secure channel (network port 22).   
+SSH stands for *secure shell*. It is a protocol for communication between two computer through a secure channel (network port 22).   
 
 ## Three Layers
 1. Transport Layer - Ensure secure communication between server and client. Monitors data encryption/decrption and the integrity of the connection.  
