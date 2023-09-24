@@ -6,7 +6,6 @@
 1. #as
 1. #assyrian
 1. #aws
-1. #aws`
 1. #bash
 1. #beliefs
 1. #books

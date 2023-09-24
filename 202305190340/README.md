@@ -18,4 +18,4 @@
 [YouTube - Competition is for Losers with Peter Thiel](https://www.youtube.com/watch?v=3Fx5Q8xGU8k&t=305s)
 
 ## Tags
-#startup
+#business
