@@ -8,6 +8,9 @@ To copy, , and archive EBS volumes, see [EBS Snapshots](https://github.com/Eliot
 
 If you want very fast data read and write, see [Amazon EC2 Instance Store](https://github.com/EliotKhachi//publicZk/tree/main/202309120447).  
 
+## Types
+EBS volumes are characterized by Size (Gb), Throughput (Bits/s), and IOPS (R/W operations per second). There are gp2, gp3, io1, io2, st1, and sc1. g\* are general purpose, io\* are high-performance, and s\* are HDD.   
+
 ## References
 [AWS Docs - Amazon EBS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)  
 
