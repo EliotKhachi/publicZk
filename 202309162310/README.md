@@ -3,7 +3,6 @@
 Amazon Simple Queue Service (SQS) is used to decouple application tiers with a queue to optimize performance and cost efficiency [[Application Tiers]](https://github.com/EliotKhachi//publicZk/tree/main/202309162313).  
 
 ![image](./Sat_Sep_16_06:13:24_PM_PDT_2023.png)
-![image](./Sat_Sep_16_06:13:24_PM_PDT_2023.png)
 
 One example of using this service is to de-couple an application tier that serves the website from the tier that serves video content. This way, an autoscaling group can be made for each tier, and **each can scale independently**. [[AWS Auto Scaling Group (ASG)](https://github.com/EliotKhachi//publicZk/tree/main/202309152017)]  
 
