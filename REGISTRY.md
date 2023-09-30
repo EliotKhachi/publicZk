@@ -65,6 +65,7 @@
 1. #STM32
 1. #systemsEngineering
 1. #technology
+1. #test
 1. #windows
 1. #wsl
 1. #zettelkasten
