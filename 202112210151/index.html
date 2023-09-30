@@ -1,0 +1,30 @@
+<h1 id="setting-up-wsl-for-embedded-development">Setting Up WSL for Embedded Development</h1>
+<ol type="1">
+<li><p>Make sure WSL kernel version is 5.10.60.1 or later and you are usiing a WSL 2 distro. Run this:</p>
+<p>uname -a</p></li>
+<li><p>Install user space tools for USB/IP &amp; database of USB hardware identifiers on Ubuntu through WSL. Run this:</p>
+<p>sudo apt install linux-tools-5.4.0-77-generic hwdata</p></li>
+<li><p>Edit /etc/sudoers.tmp so the root can find the usbip command. On Ubuntu, run this:</p>
+<p>sudo visudo</p></li>
+</ol>
+<p>Alternatively you can navigate to /etc and edit using vim:</p>
+<pre><code>sudo vim sudoers</code></pre>
+<ol start="4" type="1">
+<li><p>Add usr/lib/linux-tools/5.4.0-77-generic to the beginning of the secure path. After editing the line should look like this:</p>
+<p>Defaults secure_path=“/usr/lib/linux-tools/5.4.0-77-generic:/usr/local/sbin:…”</p></li>
+</ol>
+<p><strong>NOTE:</strong> You may need to configure udev rules to allow non-root users to access the device. I.e. for using embedded devices with openocd, you must copy<em>share/openocd/contrib60-openocd.rules</em> to the /etc/udev/rules.d folder.</p>
+<p>After updating your rules, run this:</p>
+<pre><code>udevadm control --reload</code></pre>
+<p>If you get the error, “Failed to send reload request: No such file or directory”, run</p>
+<pre><code>sudo service udev restart</code></pre>
+<p>then run it again.</p>
+<ol start="5" type="1">
+<li><p>Open Windows PowerShell (WPS) and Windows Subsystem for Linux (WSL) in separate tabs</p></li>
+<li><p>Connect ST-link device</p></li>
+<li><p>In WPS run usbipd wsl list to see all the available devices.</p></li>
+<li><p>In WPS run gsudo usbipd wsl attach –busid <device-id> to attach a “fake driver” to the device so windows can recognize it. gsudo is used for admin privileges.</p></li>
+<li><p>Congratulations! You can now use stflash in WSL to flash your microcontroller.</p></li>
+</ol>
+<h2 id="tags">Tags</h2>
+<p>#embeddedSystems</p>

@@ -1,0 +1,68 @@
+<h1 id="springrestful-mvc-vs-console-mvc">Spring/RESTful MVC vs Console MVC</h1>
+<p>The fundamental difference between a Spring/RESTful MVC and a Console MVC are the return values of the Controller methods.</p>
+<h2 id="first-the-similarities">First, the Similarities</h2>
+<table>
+<colgroup>
+<col style="width: 47%" />
+<col style="width: 52%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>MVC</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Model</td>
+<td>Java/Spring Objects that define the domain data of your application.</td>
+</tr>
+<tr class="even">
+<td>View</td>
+<td>Presents data to the user and accepts input.</td>
+</tr>
+<tr class="odd">
+<td>Controller</td>
+<td>Java classes. Mediates between the view and service.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="now-the-differences">Now, the Differences</h2>
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 33%" />
+<col style="width: 36%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>RESTful MVC</th>
+<th>Console MVC</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Controller</td>
+<td>Controller methods return HTTP statuses, JSONs, and other HTTP responses. Using annotations, Spring MVC maps HTTP requests to mapped controller methods.</td>
+<td>A controller in a console MVC uses void methods to print to the console.</td>
+</tr>
+<tr class="even">
+<td>Model</td>
+<td>Controls the HTTP Response.</td>
+<td>Controls what gets printed to the console.</td>
+</tr>
+<tr class="odd">
+<td>View</td>
+<td>HTTP content; either an HTML template or JSON serializer. The HTML template merges with the model and is returned in the response. Spring MVC generates the JSON.</td>
+<td>Print methods that get concatenate inputs from the model and print to the console</td>
+</tr>
+</tbody>
+</table>
+<h2 id="more---restful-vs-traditional-mvc">More - RESTful vs Traditional MVC</h2>
+<p><strong>Traditional MVC -</strong> Performs server-side rendering of the data to HTML. <a href="../202210090632">Model View Controller</a></p>
+<p><strong>RESTful Web Service -</strong> Populates and returns an object, and the object data is written directly to the HTTP response as JSON.</p>
+<h2 id="references">References</h2>
+<p><a href="https://spring.io/guides/gs/rest-service/">Spring Rest Service Guide</a></p>
+<h2 id="tags">Tags</h2>
+<p>#spring #dev</p>

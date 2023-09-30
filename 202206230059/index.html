@@ -1,0 +1,9 @@
+<h1 id="how-to-protect-your-linux-server-from-hackers">How to Protect Your Linux Server From Hackers</h1>
+<ol type="1">
+<li><p>Update your linux OS –&gt; <code>sudo apt install unattended-upgrades</code> and configure it so you automatically download security updates –&gt; <code>sudo dpkg-reconfigure --priority=low unattended-upgrades</code> (added text to /etc/apt/apt.conf.d/20auto-upgrades)</p></li>
+<li><p>Find trusted sources to use actively maintained docker images (<a href="linuxserver.io">linuxserver.io</a>), and redeploy your docker container(s) <a href="https://github.com/containrrr/watchtower">watchtower</a></p></li>
+<li><p>Generate an SSH key pair to SSH into your Linux Server - <a href="../202205131908">202205131908</a> - SSH into Another Machine</p></li>
+</ol>
+<p><a href="https://www.youtube.com/watch?v=Bx_HkLVBz9M">YouTube - How to protect Linux from Hackers // My server security strategy!</a></p>
+<h2 id="tags">Tags</h2>
+<p>#networks #linux</p>

@@ -1,0 +1,31 @@
+<h1 id="generate-and-configure-ssl-certificate-for-apache-on-amazon-linux-2-ec2-instance-using-certbot">Generate and Configure SSL Certificate for Apache on Amazon Linux 2 EC2 Instance Using CertBot</h1>
+<h2 id="pre-requisite">Pre-Requisite</h2>
+<p><a href="../202307020136/README.md">Install and Configure Apache Web Server on Amazon Linux 2 EC2 Instance</a></p>
+<h2 id="steps-to-configure-ssl-certificate">Steps to Configure SSL Certificate</h2>
+<ol type="1">
+<li>Update package list<br />
+<code>sudo yum update</code><br />
+</li>
+<li>Install Certbot<br />
+<code>sudo yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm</code> # install epel repository<br />
+<code>sudo yum install certbot python2-certbot-apache mod_ssl</code> # install certbot and its dependencies<br />
+</li>
+<li>Create a virtual host listening on port 80<br />
+<code>sudo vim /etc/httpd/conf.d/your_domain.conf</code><br />
+</li>
+</ol>
+<pre><code>&lt;VirtualHost *:80&gt;
+    ServerName your_domain 
+    DocumentRoot /var/www/html
+&lt;/VirtualHost&gt;</code></pre>
+<ol start="4" type="1">
+<li>Test the Apache configuration for syntax errors<br />
+<code>sudo apachectl configtest</code><br />
+</li>
+<li>Run Certbot<br />
+<code>sudo certbot --apache</code></li>
+</ol>
+<h2 id="references">References</h2>
+<p><a href="https://devcoops.com/install-certbot-on-amazon-linux-2/">Install Certbot on Amazon Linux 2</a> <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html">AWS Docs - Configure SSL/TLS on Amazon Linux 2</a></p>
+<h2 id="tags">Tags</h2>
+<p>#aws</p>

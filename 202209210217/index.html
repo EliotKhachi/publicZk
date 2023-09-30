@@ -1,0 +1,16 @@
+<h1 id="writing-disk-iso-images-to-usb-on-linux">Writing Disk ISO Images to USB on Linux</h1>
+<ol type="1">
+<li><p>Plug in USB</p></li>
+<li><p>List drives - <code>sudo fdisk -l</code></p></li>
+<li><p>Unmount the usb - <code>umount /dev/sdb*</code></p></li>
+<li><p>Format the drive - <code>sudo mkfs.vfat /dev/sdb -I</code></p></li>
+<li><p>Use DD command to write the ISO image to the specified drive:<br />
+<code>dd if=~/Downloads/NameOfIsoImage.iso of=/dev/sdb</code><br />
+, where <code>if</code> stands for input file and <code>of</code> stands for output file<br />
+Optionally may add <code>bs=1M</code> to specify byte writing speed to one million or <code>status=progress</code> to display progress. Be patient as it may take a while for the image to show up on your computer.</p></li>
+<li><p>Alternative way to monitor dd progress - <code>pgrep -l 'dd$'</code></p></li>
+</ol>
+<h2 id="references">References</h2>
+<p><a href="https://ostechnix.com/how-to-create-bootable-usb-drive-using-dd-command/">Ostechnix - How to Create Bootable USB Drive Using DD Command</a></p>
+<h2 id="tags">Tags</h2>
+<p>#linux</p>

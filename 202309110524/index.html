@@ -1,0 +1,84 @@
+<h1 id="amazon-s3-more-features">Amazon S3 More Features</h1>
+<h2 id="s3-storage-classes-and-use-cases">S3 Storage Classes and Use Cases</h2>
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 35%" />
+<col style="width: 23%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Storage Class</th>
+<th>Type of Data</th>
+<th>Access Frequency</th>
+<th>Time to Access</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Standard</td>
+<td>Any</td>
+<td>Frequent</td>
+<td>milliseconds</td>
+</tr>
+<tr class="even">
+<td>Intelligent Tiering</td>
+<td>Any</td>
+<td>Unknown or changing access patterns</td>
+<td>milliseconds</td>
+</tr>
+<tr class="odd">
+<td>Standard-IA</td>
+<td>Long-lived</td>
+<td>Infrequent</td>
+<td>milliseconds</td>
+</tr>
+<tr class="even">
+<td>One Zone-IA</td>
+<td>long-lived and re-createable</td>
+<td>Infrequent</td>
+<td>milliseconds</td>
+</tr>
+<tr class="odd">
+<td>Glacier Instant Retrieval</td>
+<td>Long-lived</td>
+<td>Frequent</td>
+<td>milliseconds</td>
+</tr>
+<tr class="even">
+<td>Glacier Flexible Retrieval</td>
+<td>Long-lived</td>
+<td>Unknown or changing access patterns</td>
+<td>minutes; free bulk retrievals in 5-12 hours.</td>
+</tr>
+<tr class="odd">
+<td>Glacier Deep Archive</td>
+<td>Long-lived</td>
+<td>Infrequent</td>
+<td>12-48 hours retrieval</td>
+</tr>
+</tbody>
+</table>
+<h2 id="management-tools-for-granular-data-control">Management Tools For Granular Data Control</h2>
+<ul>
+<li>S3 Storage Class Analysis is used to analyze data access patterns, and transfer data to lower-cost storage classes.<br />
+</li>
+<li>Data transfer events and data expiration times are documented in the S3 Lifecycle Policy.<br />
+</li>
+<li>S3 Cross-Region Replication (CRR) is used to replicate data between regions.<br />
+</li>
+<li>S3 Same Region Replication is used to replicate data within a region.<br />
+</li>
+<li>S3 Object Lock ise used to enforce <em>no deletion</em> for a retention period, write-once-read-many (WORM) policies.<br />
+</li>
+<li>S3 Inventory reports your objects, metadata, and encryption status.<br />
+</li>
+<li>S3 batch operations can be done on billions of objects; i.e. copy objects to another S3 bucket, replace object tag sets, modify access controls, or restore archived objects from an S3 Glacier.<br />
+</li>
+<li>S3 works with AWS Lambda to automate activites, alerts, and workflows without additional infrastructure.<br />
+</li>
+<li>Big Analytics</li>
+</ul>
+<h2 id="tags">Tags</h2>
+<p>#aws</p>

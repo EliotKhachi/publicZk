@@ -1,0 +1,7 @@
+<h1 id="the-systeminit-function">The SystemInit() Function</h1>
+<p>Found in the CMSIS system_&lt;device&gt;.c file, the SystemInit function is called by the <em>reset handler</em> <a href="../202202110419">[Reset Handler]</a> and provides all the necessary code to configure the MCU for startup:<br />
+* setting up internal <em>phase locked loops</em><br />
+* configuring the MCU clock tree and internal buss structure<br />
+* enabling the external buss if required * <strong>sets the CMSIS global cariable SystemCoreClock to the CPU frequency</strong></p>
+<h2 id="tags">Tags</h2>
+<p>#embeddedSystems #STM32</p>

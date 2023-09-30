@@ -1,0 +1,22 @@
+<h1 id="wake-on-lan-using-raspberry-pi">Wake On Lan Using Raspberry Pi</h1>
+<h2 id="prerequisites">Prerequisites</h2>
+<ol type="1">
+<li><p>Your computer’s motherboard must be capable of WOL.<br />
+<em>Go to your motherboard manufacturer’s website and check its capabilities. Then go into your computer’s BIOS and make sure WOL is enabled.</em> <a href="https://www.asus.com/global/support/FAQ/1045950/">Asus Motherboard How to set and enable WOL function in BIOS</a></p></li>
+<li><p>Your computer must have a network adapter that is capable of WOL. It doesn’t matter whether it is wireless or ethernet.<br />
+<em>Do</em> <code>sudo apt-get install ethtools</code> <em>and run</em> <code>ip addr</code><em>. Identify the network adapter you intend to use for WOL. With that identified, do sudo ethtool <interface-name> to list its properties. See the “Supports Wake-On:” and “Wake-On:” lines. Do</em> <code>sudo ethtool -s enp5s0 wol g</code> <em>to enable WOL; the line should say “Wake-On: g” now. If not, you must use another network interface.</em></p></li>
+</ol>
+<h2 id="networkinghardware-prerequisites">Networking/Hardware Prerequisites</h2>
+<p>In order to Wake On Lan (WOL) a computer using a Raspberry Pi, the Pi must always be on and connected to your computer via ethernet. You can do this by powering the pi from your PC’s USB port, and keeping your USB port powered even when your computer is off.</p>
+<p>For local WOL capabilities, you need to be able to SSH into the raspberry pi from the local network –&gt; <a href="../202206170251">202206170251</a> - SSH into a Raspberry Pi &lt;– <em>(For the RPI 3B+, and perhaps other models, you must first SSH via ethernet and run <code>sudo apt-get update &amp;&amp;</code>sudo apt-get dist-upgrade` to enable the onboard wireless LAN chip</em> <a href="https://magpi.raspberrypi.com/articles/raspberry-pi-3bplus-specs-benchmarks">MagPi RPi 3B+ Specs and Benchmarks</a></p>
+<p>For WAN (World Area Network) WOL capabilities, you must port forward your Pi to the internet –&gt; <a href="../202207030601">202207030601</a> - Port Forwarding to the Internet &lt;–</p>
+<h2 id="steps">Steps</h2>
+<ol type="1">
+<li><p>Get the mac address of the network interface you can WOL from. <code>ip addr</code> <em>to list the network interfaces again and see the mac address (AA:BB:CC:DD:EE:FF).</em></p></li>
+<li><p>On your raspberry pi, run <code>sudo apt-get install etherwake</code>. To wake up a PC simply do <code>sudo etherwake AA:BB:CC:DD:EE:FF</code>. Where AA:BB:CC:DD:EE:FF is the MAC address of the network interface you are using to wake up the PC.</p></li>
+</ol>
+<h2 id="references">References</h2>
+<p>[1] <a href="https://linuxconfig.org/introduction-to-wake-on-lan">LinuxConfig.org - Introduction to Wake On Lan</a><br />
+[2] <a href="https://linuxconfig.org/tutorial-on-how-to-write-basic-udev-rules-in-linux">LinuxConfig.org - udev Rules Tutorial</a></p>
+<h1 id="tags">Tags</h1>
+<p>#networks #rpi</p>

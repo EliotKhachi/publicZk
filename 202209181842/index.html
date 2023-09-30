@@ -1,0 +1,24 @@
+<h1 id="serialization">Serialization</h1>
+<p><em>Serialization</em> is the process of converting an object’s data to a string or byte sequence that can be saved or transmitted</p>
+<h2 id="example">Example</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="kw">private</span> <span class="dt">void</span> <span class="fu">writeToFile</span>(<span class="bu">List</span>&lt;<span class="bu">Object</span>&gt; objects) <span class="kw">throws</span> DataAccessException {</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>  <span class="kw">try</span> (<span class="bu">PrintWriter</span> writer = <span class="kw">new</span> <span class="bu">PrintWriter</span>(filePath)) {</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a>    <span class="kw">for</span> (<span class="bu">Object</span> object : objects) {</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a>      writer.<span class="fu">println</span>(<span class="fu">objectToLine</span>(object));</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a>    }</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true"></a>  } <span class="kw">catch</span> (<span class="bu">IOException</span> ex) {</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true"></a>    <span class="kw">throw</span> <span class="kw">new</span> <span class="fu">DataAccessException</span>(<span class="st">&quot;Could not write to file path: &quot;</span> + filePath, ex);</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true"></a>  }</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true"></a>}</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true"></a></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true"></a><span class="kw">private</span> <span class="bu">String</span> <span class="fu">objectToLine</span>(<span class="bu">Object</span> object) {</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true"></a>  <span class="bu">StringBuilder</span> buffer = <span class="kw">new</span> <span class="bu">StringBuilder</span>(<span class="dv">100</span>);</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true"></a>  buffer.<span class="fu">append</span>(object.<span class="fu">getVar1</span>()).<span class="fu">append</span>(delimiter);</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true"></a>  buffer.<span class="fu">append</span>(object.<span class="fu">getVar2</span>()).<span class="fu">append</span>(delimiter);</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true"></a>  buffer.<span class="fu">append</span>(object.<span class="fu">getVar3</span>()).<span class="fu">append</span>(delimiter);</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true"></a>  buffer.<span class="fu">append</span>(object.<span class="fu">getVar4</span>()).<span class="fu">append</span>(delimiter);</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true"></a>  <span class="kw">return</span> buffer.<span class="fu">toString</span>();</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true"></a>}</span></code></pre></div>
+<p>The opposite process is known as <a href="../202209181847">deserialization</a>.</p>
+<h2 id="tags">Tags</h2>
+<p>#db</p>

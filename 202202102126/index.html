@@ -1,0 +1,32 @@
+<h1 id="linker-script">Linker Script</h1>
+<p>A <em>linker script</em> is a text file written in the <em>ld</em> command language <a href="../202202120015">[Linker Command Language: ld]</a> made up of a series of <em>directives</em> <a href="../202202120014">[Linker Directives]</a>.</p>
+<h2 id="example-linker-script-for-stm32f030x8">Example Linker Script for STM32F030x8</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode c"><code class="sourceCode c"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a>MEMORY</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>{</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a>    FLASH(rx)   : ORIGIN = <span class="bn">0x08000000</span>, LENGTH=<span class="dv">64</span><span class="er">K</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a>    RAM(xrw)    : ORIGIN = <span class="bn">0x20000000</span>, LENGTH=<span class="dv">8</span><span class="er">K</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a>}</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true"></a>_estack = ORIGIN(RAM) + LENGTH(RAM);</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true"></a>SECTIONS</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true"></a>{</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true"></a>    .isr_vector:</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true"></a>    {</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true"></a>        . = ALIGN(<span class="dv">4</span>);</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true"></a>        KEEP(*(.isr_vector))</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true"></a>        . = ALIGN(<span class="dv">4</span>);</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true"></a>    }</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true"></a>    </span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true"></a>    .text :</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true"></a>    {</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true"></a>        . = ALIGN(<span class="dv">4</span>);</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true"></a>        *(.text)</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true"></a>        *(.text*)</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true"></a>    }</span></code></pre></div>
+<h2 id="references">References</h2>
+<ol type="1">
+<li><a href="https://wiki.osdev.org/Linker_Scripts">OS Dev Wiki - Linker Scripts</a></li>
+</ol>
+<h2 id="tags">Tags</h2>
+<p>#embeddedSystems</p>

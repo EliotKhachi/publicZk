@@ -1,0 +1,7 @@
+<h1 id="side-effects-and-the-useeffect-hook-in-react">Side Effects and the UseEffect Hook in React</h1>
+<p>A <em>side effect</em> in React is any action that works outside the standard React rendering process. <code>useEffect</code> is a function used to isolate side effects from the rest of React’s application code.</p>
+<p><strong>Refresher</strong>: Recall that React renders components dynamically through the Virtual DOM. - <a href="../202212310014">React Library for JavaScript</a></p>
+<p><strong>Examples of Side Effects:</strong> 1. Fetching data via HTTP - React needs to wait to update the Virtual DOM until it gets the replacement data. We tell React to wait with <code>useEffect</code>.<br />
+2. Manually manipulating the DOM - React only manipulates the DOM through the Virtual DOM. It is not aware of any direct manipulation of the DOM unless we acknowledge those actions with <code>useEffect</code>.</p>
+<h2 id="tags">Tags</h2>
+<p>#react</p>

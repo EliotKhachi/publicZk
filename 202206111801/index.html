@@ -1,0 +1,25 @@
+<h1 id="nginx---getting-started">Nginx - Getting Started</h1>
+<h2 id="installation">Installation</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a>    <span class="fu">sudo</span> apt update</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>        <span class="fu">sudo</span> apt install nginx -y</span></code></pre></div>
+<h2 id="useful-commands">Useful Commands</h2>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true"></a>        <span class="fu">sudo</span> systemctl start nginx <span class="co"># start service</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true"></a>        <span class="fu">sudo</span> systemctl stop nginx <span class="co"># stop service</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true"></a>        <span class="fu">sudo</span> systemctl status nginx <span class="co"># see service status</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true"></a>        <span class="fu">sudo</span> systemctl enable nginx <span class="co"># auto start when Linux server is rebooted</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true"></a>        <span class="fu">sudo</span> systemctl disable nginx <span class="co"># disable auto start</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true"></a>        <span class="fu">sudo</span> systemctl restart nginx <span class="co"># restart service</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true"></a>        <span class="fu">sudo</span> systemctl reload nginx <span class="co"># reload config settings without restarting</span></span></code></pre></div>
+<p>After starting the nginx service, try <code>curl localhost</code> to see if you pull the default nginx welcome page html file.</p>
+<h2 id="enable-firewall-access">Enable Firewall Access</h2>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true"></a>        <span class="fu">sudo</span> ufw app list <span class="co"># list applications</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true"></a>        <span class="fu">sudo</span> ufw allow <span class="st">&#39;Nginx ...&#39;</span> <span class="co"># allow an Nginx application (Full, HTTP(S))</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true"></a>        <span class="fu">sudo</span> ufw status <span class="co"># verify Nginx is active</span></span></code></pre></div>
+<h2 id="proxy-to-your-web-app">Proxy to Your Web App</h2>
+<p>To edit Nginx’s default configuration, go to <code>/etc/nginx/sites-available</code> and use your preferred text editor to edit <code>default</code>.</p>
+<p>Inside the <code>location</code> braces, add <code>proxy_pass http://localhost:3000</code>, or any other local port you wish to host from.</p>
+<p>Save the file and run <code>sudo /etc/init.d/nginx restart</code></p>
+<h2 id="references">References</h2>
+<p><a href="https://www.youtube.com/watch?v=QdHvS0D1zAI&amp;t=394s">Fireship@YouTube - Host your Website on the Raspberry Pi</a></p>
+<h2 id="tags">Tags</h2>
+<p>#nginx</p>

@@ -1,0 +1,21 @@
+<h1 id="sed-command">Sed Command</h1>
+<p><code>sed</code> is a linux command that stands for “stream editor”. It is used to filter and transform text.</p>
+<h2 id="examples">Examples</h2>
+<p>For the following examples, the <code>sed</code> command is operating on the <code>text.txt</code> file to either print its output or modify its contents.</p>
+<ul>
+<li><p><code>sed 's/find/replace/' text.txt</code> - prints the contents of <code>text.txt</code> except for every line in <code>text.txt</code>, the <em>first</em> instance of the string matching ‘find’ is replaced with “replace”.</p></li>
+<li><p><code>sed 's/find/replace/g' text.txt</code> - prints the contents of <code>text.txt</code> except <em>all</em> instances of “find” on each line are replaced with “replace”.</p></li>
+<li><p><code>sed 's/find/replace/' &lt;oldfile &gt;newfile</code> - modifies the output of <code>oldfile</code> such that the <em>first</em> instance of “find” on each line is replaced with “replace”, and then writes that output to <code>newfile</code>.</p></li>
+<li><p><code>sed -i 's/find/replace/' text.txt</code> - re-write <em>in-place</em> such that the <em>first</em> instance of “find” on each line is replaced with “replace”.</p></li>
+<li><p><code>sed -i '/Replace/s/the/THE/' text.txt</code>- for every line that contains “Replace”, the first instance of “the” is replaced with “THE”.</p></li>
+<li><p><code>sed -i '/line_pattern/d' text.txt</code> - every line that contains “line_pattern” is removed.</p></li>
+<li><p><code>sed -i -e 's/usr/u/g' -e 's/bin/b/g' text.txt</code> - <em>all</em> instances of “usr” are replaced with “u” <strong>and</strong> <em>all</em> instances of “bin” are replaced with “b”.</p></li>
+<li><p><code>sed -i 's/ *$//' text.txt</code> - for every line, remove the spaces at the end of the line.</p></li>
+<li><p><code>sed -i 's/[[:space"]]*$//' text.txt</code> - for every line, remove the tabs at the end of the line.</p></li>
+<li><p><code>sed -i '/^$/d' text.txt</code> - delete every empty (^$) line.</p></li>
+<li><p><code>sed -i 's/[a-z]/\U&amp;/g' text.txt</code> - make all letters a-z uppercase.</p></li>
+<li><p><code>sed -i 's/[A-Z]/\L&amp;/g' text.txt</code> - make all letters A-Z lowercase.</p></li>
+<li><p><code>sed 11q text.txt</code> - print the first 11 lines.</p></li>
+</ul>
+<h2 id="tags">Tags</h2>
+<p>#linux #commands</p>

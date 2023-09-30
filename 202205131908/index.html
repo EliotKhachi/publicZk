@@ -1,0 +1,38 @@
+<h1 id="ssh-into-another-machine">SSH into Another Machine</h1>
+<p>To SSH to a remote machine from your local machine, you must first generate an ssh key pair</p>
+<p><strong>On local machine</strong><br />
+<code>ssh-keygen -t rsa -b 4096</code></p>
+<h2 id="disable-passphrase-authentication">Disable Passphrase Authentication</h2>
+<ol start="2" type="1">
+<li>Copy over your public rsa key over to your remote machine’s <em>authorized_keys</em> file<br />
+<strong>On local machine</strong></li>
+</ol>
+<pre><code>    user@local$ cd ~/.ssh 
+    user@local$ vim id_rsa.pub
+    # Copy contents</code></pre>
+<p><strong>On remote machine</strong></p>
+<pre><code>    user@remote$ cd ~/.ssh
+    user@remote$ vim authorized_keys
+    # Paste contents of id_rsa.pub from local machine into this file</code></pre>
+<ol start="3" type="1">
+<li>Go into your sshd_config file <strong>On remote machine</strong></li>
+</ol>
+<pre><code>    user@remote$ cd /etc/ssh
+    user@remote$ cat sshd_config &gt;&gt; sshd_config.bak ## Create a backup of your sshd_config file first
+    user@remote$ sudo vim sshd_config
+    # Uncomment and change the following:
+    # PermitRootLogin prohibit-password to PermitRootLogin yes 
+    # PasswordAuthentication no to PasswordAuthentication yes</code></pre>
+<ol start="4" type="1">
+<li>If you still can’t <code>ssh remote-user@remote-ip</code> without passphrase authentication, try the following:</li>
+</ol>
+<div class="sourceCode" id="cb4"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true"></a>    <span class="fu">sudo</span> service ssh restart</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true"></a>    <span class="co"># OR</span></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true"></a>    <span class="fu">sudo</span> systemctl restart ssh</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true"></a>    <span class="co"># AND</span></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true"></a>    <span class="fu">ssh-add</span> ~/.ssh/<span class="op">&lt;</span>private-key-file-name<span class="op">&gt;</span> <span class="co"># This will add and save your key on your OS.</span></span></code></pre></div>
+<p>You can set this up upon booting up the machine. Further configuration is needed to ssh while the remote machine is suspended or to prevent ssh from exiting when the remote machine enters sleep mode.</p>
+<h2 id="references">References</h2>
+<p><a href="https://www.youtube.com/watch?v=vpk_1gldOAE">Linux Terminal Tutorial SSH Key-Based Authentication</a></p>
+<h2 id="tags">Tags</h2>
+<p>#ssh</p>

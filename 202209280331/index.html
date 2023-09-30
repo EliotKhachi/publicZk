@@ -1,0 +1,45 @@
+<h1 id="getting-speakers-to-work-on-lg-gram-laptop">Getting Speakers to Work on LG Gram Laptop</h1>
+<p>First of all, this zettel only applies to my speakers</p>
+<p><strong>–&gt;</strong> <code>lspci -v</code></p>
+<pre><code>00:1f.3 Multimedia audio controller: Intel Corporation Alder Lake PCH-P High Definition Audio Controller (rev 01)
+    DeviceName: Onboard - Sound
+    Subsystem: LG Electronics, Inc. Device 0443
+    Flags: bus master, fast devsel, latency 32, IRQ 195, IOMMU group 13
+    Memory at 603d190000 (64-bit, non-prefetchable) [size=16K]
+    Memory at 603d000000 (64-bit, non-prefetchable) [size=1M]
+    Capabilities: &lt;access denied&gt;
+    Kernel driver in use: snd_hda_intel
+    Kernel modules: snd_hda_intel, snd_sof_pci_intel_tgl</code></pre>
+<p>I got my speakers to work by doing combinations of what I found in this <code>askubuntu</code> thread: <a href="https://askubuntu.com/questions/1319109/ubuntu-20-04-lts-no-sound-on-lg-gram-2021-a-lot-of-troubleshooting-attempted">Ask Ubuntu - no sound on LG Gram 2021</a></p>
+<p>Essentially, here is what I did:</p>
+<ol type="1">
+<li><code>sudo vim /etc/default/grub</code> and change</li>
+</ol>
+<p><code>GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"</code></p>
+<p>to</p>
+<p><code>GRUB_CMDLINE_LINUX_DEFAULT="quiet splash snd_intel_dspcfg.dsp_driver=1"</code></p>
+<ol start="2" type="1">
+<li><p>Removed my old SOF drivers<br />
+<strong>–&gt;</strong> <code>sudo mv /lib/firmware/intel/sof* ~/Desktop/old-sof-backup</code><br />
+<strong>–&gt;</strong> <code>sudo mv /usr/local/bin/sof-* ~/Desktop/old-sof-backup</code></p></li>
+<li><p>Download and install the newer drivers from the SOF Project Github repo<br />
+Link: <a href="https://github.com/thesofproject/sof-bin">Github - thesofproject/sof-bin</a></p></li>
+</ol>
+<ol type="a">
+<li>Open the directory for your desired SOF version in terminal, let’s assume v2.1.1.<br />
+<strong>–&gt;</strong> <code>sudo rsync -a sof*v2.1.1 /lib/firmware/intel/</code><br />
+<strong>–&gt;</strong> <code>sudo ln -s sof-v2.1.1 /lib/firmware/intel/sof</code><br />
+<strong>–&gt;</strong> <code>sudo ln -s sof-tplg-v2.1.1 /lib/firmware/intel/sof-tplg</code><br />
+<strong>–&gt;</strong> <code>sudo rsync tools-v2.1.1/* /usr/local/bin</code></li>
+</ol>
+<ol start="4" type="1">
+<li>Download and install the fixes/patches from the following SOF Project Github repo: Link: <a href="https://github.com/thesofproject/alsa-ucm-conf/tree/sof_ucm1">Github - thesofproject/alsa-ucm-conf</a></li>
+</ol>
+<p>(Remove the old “/usr/share/alsa/ucm” directory and replace it with the newly downloaded one from the repo) a) sudo rm -r /usr/share/alsa/ucm b) sudo mv ./ucm /usr/share/alsa</p>
+<ol start="5" type="1">
+<li>IMPORTANT: Reboot into BIOS</li>
+</ol>
+<p><strong>–&gt;</strong> <code>sudo systemctl reboot --firmware-setup</code><br />
+, don’t change anything, and save and exit. Your speakers should now be working.</p>
+<h2 id="tags">Tags</h2>
+<p>#linux #debug</p>

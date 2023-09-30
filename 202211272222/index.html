@@ -1,0 +1,22 @@
+<h1 id="create-a-mysql-docker-container">Create a MySQL Docker Container</h1>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="ex">docker</span> run <span class="kw">\</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a><span class="ex">--name</span> container-name <span class="kw">\</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a><span class="ex">-e</span> MYSQL_ROOT_PASSWORD=my-password <span class="kw">\</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a><span class="ex">-p</span> 3307:3306 <span class="kw">\</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a><span class="ex">-d</span> <span class="kw">\</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true"></a><span class="ex">mysql</span></span></code></pre></div>
+<ol type="1">
+<li><code>docker run</code> is a shortcut command for <code>docker pull</code>, <code>docker create</code>, and <code>docker start</code><br />
+</li>
+<li><code>--name container-name</code> names the container. Replace “container-name” with a useful name.<br />
+</li>
+<li><code>-e MYSQL_ROOT_PASSWORD=my-password</code> sets the container’s <em>MYSQL_ROOT_PASSWORD</em> environment variable. Replace “my-password” with a good password.<br />
+</li>
+<li><code>-p 3007:3306</code> links port 3306 on our <em>container’s</em> to port 3307 on our <em>host machine</em>. MySQL’s default network port is 3306.<br />
+</li>
+<li><code>-d</code> stands for <em>detached</em> and tells the container to run in the background of the terminal session.<br />
+</li>
+<li><code>mysql</code> is the name of the docker image used to create the container. Without explictly mentioning the tag, docker automatically pulls <code>mysql:latest</code> for us.</li>
+</ol>
+<h2 id="tags">Tags</h2>
+<p>#docker #db</p>

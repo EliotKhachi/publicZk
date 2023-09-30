@@ -1,0 +1,13 @@
+<h1 id="requestparam"><span class="citation" data-cites="RequestParam">@RequestParam</span></h1>
+<p><code>@RequestParam</code> is an annotation used to tell Spring to expect a parameter to be passed into the method, and if it’s not, the parameter will use a default value.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="at">@GetMapping</span>(<span class="st">&quot;/hello&quot;</span>)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>    <span class="kw">public</span> <span class="bu">String</span> <span class="fu">hello</span>(<span class="at">@RequestParam</span>(value = <span class="st">&quot;name&quot;</span>, defaultValue = <span class="st">&quot;World&quot;</span>) <span class="bu">String</span> name) {</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a>        <span class="kw">return</span> <span class="bu">String</span><span class="fu">.format</span>(<span class="st">&quot;Hello </span><span class="sc">%s</span><span class="st">!&quot;</span>, name);</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a>    }</span></code></pre></div>
+<p>Here <code>@RequestParam</code> tells Spring to expect a parameter named <code>name</code> into the <code>hello()</code> method, and perscribes a default value of “World” to it. To pass a variable into this method, type into address bar the URL up to the domain/subdomain/port (as applicable), and then <code>/?name=Eliot</code>. This passes the value “Eliot” into <code>name</code>, and the webpage displays “Hello Eliot!”. This is called a <em>query string</em>.</p>
+<h2 id="links">Links</h2>
+<p><a href="../202209171855">202209171855</a> - <span class="citation" data-cites="GetMapping">@GetMapping</span></p>
+<h2 id="references">References</h2>
+<p><a href="https://spring.io/quickstart">Spring Official Site- Quickstart Guide</a></p>
+<h2 id="tags">Tags</h2>
+<p>#spring</p>

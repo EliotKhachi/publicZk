@@ -1,0 +1,13 @@
+<h1 id="flash-stm32-mcus-w-open-source-software">Flash STM32 MCUs w/ Open Source Software</h1>
+<ol type="1">
+<li><p>Download the latest <a href="https://developer.arm.com/downloads/-/gnu-rm">GNU ARM Toolchain</a> for Linux. <a href="../202302031659/README.md">Compression and Extraction - tar, gzip</a></p></li>
+<li><p>Download open-source stlink debugger from <a href="https://github.com/stlink-org/stlink">github.com/stlink-org/stlink</a>.</p></li>
+<li><p>Configure your paths to the binaries. <a href="../202306091810/README.md">Adding Binaries to Path - Linux</a></p></li>
+<li><p>Connect your ST-Link to your MCU (3.3V, GND, SWDIO, SWCLK). Find your MCU’s datasheet to find out which pins to connect to.</p></li>
+<li><p>Connect your ST-Link to your computer. Run <code>st-info --probe</code>. You should get the response: <code>Found 1 stlink programmers</code>. Otherwise, go back to step 1.</p></li>
+<li><p>Flash: <code>sudo st-flash write &lt;file_to_flash&gt;.bin 0x08000000</code>. Reset: <code>sudo st-flash reset</code>.</p></li>
+</ol>
+<h2 id="references">References</h2>
+<p><a href="https://freeelectron.ro/installing-st-link-v2-to-flash-stm32-targets-on-linux/">freeelectron Blog - Installing ST-Link V2 to Flash STM32 Targets on Linux</a></p>
+<h2 id="tags">Tags</h2>
+<p>#linux #STM32</p>

@@ -1,0 +1,22 @@
+<h1 id="linker-directive-access-bank">Linker Directive: ACCESS BANK</h1>
+<p>An <em>ACCESS BANK</em> linker directive allocates data memory in a linker script.</p>
+<h2 id="syntax">Syntax</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode c"><code class="sourceCode c"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a>ACCESSBANK  NAME=accessram  START=<span class="bn">0x0</span>   END=<span class="bn">0x7F</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>.</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a>.</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a>.</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a>ACCESSBANK  NAME=accesssfr  START=<span class="bn">0xF80</span> END=<span class="bn">0xFFF</span>   PROTECTED</span></code></pre></div>
+<p>Here we allocate the following according to microcontroller specifications:<br />
+1. RAM block labelled <strong>accessram</strong> in the address range __ to __<br />
+2. SFR memory block labelled <strong>accesssfr</strong> in the address range __ to __ and specified to be <code>PROTECTED</code> <a href="../202202151856">[Protected Key Word in ld]</a>.</p>
+<h2 id="references">References</h2>
+<ol type="1">
+<li><a href="https://www.sciencedirect.com/t%20opics/engineering/linker-script">[Linker Script - Science Direct ]</a></li>
+</ol>
+<h2 id="other-links">Other Links</h2>
+<ol type="1">
+<li><a href="../202202120014">[Linker Directives]</a><br />
+</li>
+<li><a href="../202110241835">[Binary vs Hexadecimal]</a><br />
+## Tags</li>
+</ol>

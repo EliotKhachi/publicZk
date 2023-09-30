@@ -1,0 +1,25 @@
+<h1 id="makefiles">Makefiles</h1>
+<h2 id="what-are-they-and-why-do-we-use-them">What are they and Why do we use them?</h2>
+<p><strong>Makefiles</strong> are text files named <em>Makefile</em> or <em>makefile</em> that utilize GNU <em>make</em>’s tools to compile and link a program. They are often used in combination with the GCC compiler <a href="../202110191739">[What is GCC]</a> to form the GCC/Make opensource toolchain for developing software.</p>
+<h2 id="the-simplest-makefile">The Simplest Makefile</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode mk"><code class="sourceCode makefile"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="dv">hellomake:</span><span class="dt"> hellomake.c hellofunc.c</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>        gcc -o hellomake hellomake.c hellofunc.c -I.</span></code></pre></div>
+<p>This makefile contains one <em>rule</em> with the <em>target</em> <code>hellomake</code>, <em>prerequisite(s)</em> <code>hellomake.c</code> and <code>hellofunc.c</code>, and <em>recipe</em> <code>gcc -o hellomake hellomake.c hellofunc.c -I</code>.</p>
+<p>Typing <code>make hellomake</code> in the command line will execute the recipe of this rule. Note that typing <code>make</code> with no arguments on the command line will execute the first rule of a makefile in the current directory.</p>
+<h2 id="links">Links</h2>
+<ol type="1">
+<li><a href="../202110182258">[A Rule in a Makefile]</a><br />
+</li>
+<li><a href="../202110182306">[A Target in a Makefile]</a><br />
+</li>
+<li><a href="../202110182309">[A Prerequisite in a Makefile]</a><br />
+</li>
+<li><a href="../202110182310">[A Recipe in a Makefile]</a></li>
+</ol>
+<h2 id="references">References</h2>
+<ol type="1">
+<li><p><a href="https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/">[A Simple Makefile Tutorial]</a></p></li>
+<li><p><a href="https://www.gnu.org/software/make/manual/html_node/index.html#SEC_Contents">[GNU make Manual]</a></p></li>
+</ol>
+<h2 id="tags">Tags</h2>
+<p>#embeddedSystems</p>

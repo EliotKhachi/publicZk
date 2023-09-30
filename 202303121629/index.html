@@ -1,0 +1,27 @@
+<h1 id="how-to-install-deb-files-on-ubuntu">How to Install Deb Files on Ubuntu</h1>
+<h2 id="tldr">TL;DR</h2>
+<p><code>sudo apt install ./example.deb</code></p>
+<hr />
+<p>You generally install software on Ubuntu in one of two ways: 1. From the command line with the <code>apt</code> and <code>apt-get</code> utilities (apt being the default Ubuntu package manager).<br />
+2. From the Ubuntu Software Center (self-explanatory)</p>
+<h2 id="downloading-the-.deb-file-through-the-command-line">Downloading the .deb file through the command line</h2>
+<ol type="1">
+<li><code>wget --no-check-certificate [https://.../.deb]</code></li>
+</ol>
+<ul>
+<li><code>--no-check-certificate</code> skips the SSL handshake. Default action: compare the server certificate to the certificate authorities.</li>
+</ul>
+<ol start="2" type="1">
+<li><code>curl -k -O - L [https://.../.deb]</code></li>
+</ol>
+<ul>
+<li><code>-k</code> denotes “insecure”. Default action: verify that the connection is secure.<br />
+</li>
+<li><code>-O</code> tells curl to save the data to a local file. Default action: write the received data to stdout.<br />
+</li>
+<li><code>-L</code> re-routes curl to the newest location if the requested webpage has moved.</li>
+</ul>
+<h1 id="references">References</h1>
+<p><a href="https://linuxize.com/post/how-to-install-deb-packages-on-ubuntu/">Linuxize - How to Install Deb Files on Ubuntu</a></p>
+<h2 id="tags">Tags</h2>
+<p>#linux #commands</p>

@@ -1,0 +1,34 @@
+<h1 id="crontab">Crontab</h1>
+<p>Crontab is a command used to schedule commands for recurring jobs you’d like to set up. This is how it works:</p>
+<ol type="1">
+<li>There’s a crontab file accessed using <code>crontab -e</code> (may require <code>sudo</code>)<br />
+</li>
+<li>You can add as many jobs as you want in this file on any line. One job per line.<br />
+</li>
+<li>Each line has 6 fields separated by white space. The first 5 specify the time and the last specifies the job command itself.</li>
+</ol>
+<h2 id="template">Template</h2>
+<p><em>[minute(0-59)] [hour (0-59)] [month-day (1-31)] [month (1-12 or 3-letter-abbreviation)] [week-day (0-6)] [command]</em></p>
+<ul>
+<li>Each time field can specify multiple occurences:
+<ul>
+<li>sequence - [0, 15, 20, 30]<br />
+</li>
+<li>range - [0-30]<br />
+</li>
+<li>sequence of ranges - [0-30, 40-50]<br />
+</li>
+<li>all - *<br />
+</li>
+<li>every nth time - */n</li>
+</ul></li>
+</ul>
+<h2 id="examples">Examples</h2>
+<p>* * * * * - Every minute<br />
+45 * * * * - 45 minutes after each hour (1:45, 2:45, …)<br />
+45 9 8 dec * - Every December 8th at 9:45 am</p>
+<h2 id="references">References</h2>
+<p>[1] <em>Linux Pocket Guide: Essential Commands</em> By Daniel J. Barrett<br />
+[2] <a href="https://linuxhandbook.com/crontab/">Understanding Crontab in Linux With Examples</a></p>
+<h2 id="tags">Tags</h2>
+<p>#linux #commands</p>

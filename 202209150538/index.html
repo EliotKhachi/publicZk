@@ -1,0 +1,33 @@
+<h1 id="spring-beans-configuration">Spring Beans Configuration</h1>
+<p>Spring <em>beans</em> are found in the the <code>resources</code> directory of Maven projects in order for our program to find it. It can be named anything but <code>dependency-configuration.xlm</code> is standard.</p>
+<h2 id="bean">Bean</h2>
+<p>A &lt;bean&gt; element can be added inside &lt;beans&gt; in this .xml file to register an instance of a datatype, i.e. your objects, with the DI container.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="kw">&lt;bean</span><span class="ot"> class=</span><span class="st">&quot;learn.spaceflight.personnel.Astronaut&quot;</span><span class="kw">&gt;</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>        <span class="co">&lt;!-- 2. constructor-args represent values provided to the constructor. --&gt;</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a>        <span class="kw">&lt;constructor-arg</span><span class="ot"> value=</span><span class="st">&quot;Saraann&quot;</span><span class="kw">/&gt;</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a>        <span class="kw">&lt;constructor-arg</span><span class="ot"> value=</span><span class="st">&quot;Burd&quot;</span><span class="kw">/&gt;</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a>        <span class="kw">&lt;constructor-arg</span><span class="ot"> value=</span><span class="st">&quot;14</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true"></a><span class="er">&lt;</span><span class="st">/bean&gt;</span></span></code></pre></div>
+<h2 id="questions-and-answers">Questions and Answers</h2>
+<p><strong>1. Whats the difference between a <code>value</code> and <code>ref</code> &lt;constructory-arg&gt;?</strong><br />
+The <code>value</code> attribute represents an explicit value, while the <code>ref</code> attribute passes a reference to the <code>id</code> of a registered bean.</p>
+<p><strong>2. Where is the Spring dependency added in pom.xml?</strong> In the <code>dependency</code> tag inside the <code>dependencies</code> tag. Tags used to define the dependency are <code>groupId</code>, <code>artifactId</code>, and <code>version</code>.</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true"></a><span class="kw">&lt;dependencies&gt;</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true"></a>        <span class="co">&lt;!-- dependency injection support --&gt;</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true"></a>        <span class="kw">&lt;dependency&gt;</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true"></a>            <span class="kw">&lt;groupId&gt;</span>org.springframework<span class="kw">&lt;/groupId&gt;</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true"></a>            <span class="kw">&lt;artifactId&gt;</span>spring-context<span class="kw">&lt;/artifactId&gt;</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true"></a>            <span class="kw">&lt;version&gt;</span>5.2.7.RELEASE<span class="kw">&lt;/version&gt;</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true"></a>    <span class="kw">&lt;/dependency</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true"></a><span class="er">&lt;/dependencies</span><span class="kw">&gt;</span></span></code></pre></div>
+<p><strong>3. How does Spring locate the XML configuration file?</strong><br />
+The XML configuration file, no matter its name, should be located in <code>src/main/resources</code> directory in a Maven project.</p>
+<p><strong>4. What XML is used for constructor injection? What is used for setter injection?</strong><br />
+Constructor injection is done with the <code>constructor-arg</code> tag and the <code>property</code> tag is used for setter injection.</p>
+<p><strong>5. What is the “prototype” <code>scope</code> in a <code>bean</code> definition?</strong><br />
+A bean with a prototype scope creates a new instance each time <code>getBean</code> is called. There’s no shared state.</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true"></a><span class="kw">&lt;bean</span><span class="ot"> class=</span><span class="st">&quot;learn.spaceflight.spacecraft.Probe&quot;</span><span class="ot"> scope=</span><span class="st">&quot;prototype&quot;</span><span class="kw">/&gt;</span></span></code></pre></div>
+<h2 id="references">References</h2>
+<p><a href="https://spring.io/">Spring Official Site</a></p>
+<h2 id="tags">Tags</h2>
+<p>#spring</p>

@@ -1,0 +1,27 @@
+<h1 id="common-linux-errors">Common Linux Errors</h1>
+<ol type="1">
+<li><p>Disk Parition is Full - Find &amp; Delete Huge Files</p>
+<pre><code> * du -sh * : Lists all the files/folders in the directory and how much disk space they are taking up.
+
+ * rm -rf &lt;filename&gt; : Removes file or directory and all files in it.</code></pre></li>
+<li><p>Find File or Directory &amp; Grep Error from log File * find /home -name filename : Searches from home (/home) directory and prints the directory that the file with the name (-name) “filename” is found in. * find /home -type d -name <directory> : Searches from home directory for a directory (type -d) with name (-name) “directory”. Prints the directory that “directory” is found in.</p>
+<pre><code> * grep error file : Grep error from &quot;file&quot;</code></pre></li>
+<li><p>Compare two files Content</p></li>
+<li><p>Check CUP &amp; RAM Usages “High Memory”</p></li>
+<li><p>Debugging Network related issues</p></li>
+</ol>
+<ul>
+<li><code>sudo lshw -class network</code></li>
+</ul>
+<ol start="6" type="1">
+<li><p>ssh login related issues</p></li>
+<li><p>Kill Process Forcefully</p></li>
+<li><p><strong>The following packages have unmet dependencies: … :Conflicts:… E:Broken packages</strong><br />
+To resolve this error, try running:</p></li>
+</ol>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true"></a>    <span class="fu">sudo</span> apt --fix-broken install</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true"></a>    <span class="fu">sudo</span> apt-get update <span class="kw">&amp;&amp;</span> <span class="fu">sudo</span> apt-get upgrade</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true"></a>    <span class="fu">sudo</span> dpkg --configure -a</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true"></a>    <span class="fu">sudo</span> apt-get install -f</span></code></pre></div>
+<h2 id="tags">Tags</h2>
+<p>#linux</p>

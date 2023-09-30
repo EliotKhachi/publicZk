@@ -1,0 +1,33 @@
+<h1 id="the-three-testing-as">The Three Testing A’s</h1>
+<p>The three testing A’s are:</p>
+<ol type="1">
+<li><p><strong>Arrange:</strong> First <em>arrange</em> the tests to be ran properly, including but not limited to using a known good state <a href="../202209182233">202209182233</a> - Known Good State.</p></li>
+<li><p><strong>Act:</strong> Next, <em>act</em> by calling the method you are testing.<br />
+</p></li>
+<li><p><strong>Assert:</strong> In each of your test methods, <em>assert</em> certain results you expect to see, while carefully considering the known good state you are operating with.</p></li>
+</ol>
+<h2 id="example">Example</h2>
+<p>The <code>MemoryFileRepositoryTest</code> class holds all the test methods for the <code>MemoryFileRepository</code> class. Here is the <code>add()</code> test method, a “C” operation in CRUD. <a href="../202209180027">202209180027</a> - CRUD.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="at">@Test</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a><span class="dt">void</span> <span class="fu">add</span>() <span class="kw">throws</span> DataAccessException {</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a>    Memory memory = <span class="kw">new</span> <span class="fu">Memory</span>();</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a>    memory.<span class="fu">setFrom</span>(<span class="st">&quot;A Friend&quot;</span>);</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a>    memory.<span class="fu">setContent</span>(<span class="st">&quot;A special memory.&quot;</span>);</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true"></a>    Memory actual = repository.<span class="fu">add</span>(memory);</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true"></a>    <span class="fu">assertEquals</span>(<span class="dv">4</span>, actual.<span class="fu">getId</span>());</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true"></a></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true"></a>    <span class="bu">List</span>&lt;Memory&gt; all = repository.<span class="fu">findAll</span>();</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true"></a>    <span class="fu">assertEquals</span>(<span class="dv">4</span>, all.<span class="fu">size</span>());</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true"></a></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true"></a>    actual = all.<span class="fu">get</span>(<span class="dv">3</span>); <span class="co">// the newly-added memory</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true"></a>    <span class="fu">assertEquals</span>(<span class="dv">4</span>, actual.<span class="fu">getId</span>());</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true"></a>    <span class="fu">assertEquals</span>(<span class="st">&quot;A Friend&quot;</span>, actual.<span class="fu">getFrom</span>()); <span class="co">// confirm all fields</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true"></a>    <span class="fu">assertEquals</span>(<span class="st">&quot;A special memory.&quot;</span>, actual.<span class="fu">getContent</span>());</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true"></a>    <span class="fu">assertFalse</span>(actual.<span class="fu">isShareable</span>());</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true"></a>}</span></code></pre></div>
+<p><strong>Arrange:</strong> First, a new memory is initialized.<br />
+<strong>Act:</strong> Then the memory is added to the repository.<br />
+<strong>Assert:</strong> The newly added memory instance is verified to have the correct fields, including <code>Id</code>, <code>From</code>, and <code>Content</code>. The <code>size()</code> of the memories repository is also verified to have been incremented.</p>
+<h2 id="tags">Tags</h2>
+<p>#java #software</p>

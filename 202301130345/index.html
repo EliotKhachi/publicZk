@@ -1,0 +1,32 @@
+<h1 id="javascript-importexport-cheatsheet">Javascript Import/Export CheatSheet</h1>
+<div class="sourceCode" id="cb1"><pre class="sourceCode js"><code class="sourceCode javascript"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="co">// Name Export | Name Import</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a><span class="im">export</span> <span class="kw">const</span> name <span class="op">=</span> <span class="st">&#39;value&#39;</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a><span class="im">import</span> { name } <span class="im">from</span> <span class="st">&#39;...&#39;</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a><span class="co">// Default Export | Default Import</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true"></a><span class="im">export</span> <span class="im">default</span> <span class="st">&#39;value&#39;</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true"></a><span class="im">import</span> anyName <span class="im">from</span> <span class="st">&#39;...&#39;</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true"></a><span class="co">// Rename Export | NameImport</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true"></a><span class="im">export</span> { name <span class="im">as</span> newName }</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true"></a><span class="im">import</span> { newName } <span class="im">from</span> <span class="st">&#39;...&#39;</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true"></a></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true"></a><span class="co">// Name + Default | Import All</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true"></a><span class="im">export</span> <span class="kw">const</span> name <span class="op">=</span> <span class="st">&#39;value&#39;</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true"></a><span class="im">export</span> <span class="im">default</span> <span class="st">&#39;value&#39;</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true"></a><span class="im">import</span> <span class="op">*</span> <span class="im">as</span> anyName <span class="im">from</span> <span class="st">&#39;...&#39;</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true"></a></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true"></a><span class="co">// Export List + Rename | Import List + Rename</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true"></a><span class="im">export</span> {</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true"></a>  name1<span class="op">,</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true"></a>  name2 <span class="im">as</span> newName2</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true"></a>}</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true"></a></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true"></a><span class="im">import</span> {</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true"></a>  name1 <span class="im">as</span> newName1<span class="op">,</span></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true"></a>  newName2</span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true"></a>} <span class="im">from</span> <span class="st">&#39;...&#39;</span></span></code></pre></div>
+<h2 id="references">References</h2>
+<p><a href="https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829">Javascript Module CheatSheet</a></p>
+<h2 id="tags">Tags</h2>
+<p>#npm #javascript</p>

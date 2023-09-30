@@ -1,0 +1,22 @@
+<h1 id="pointers-in-cc">Pointers in C/C++</h1>
+<p>A pointer is a data type in C/C++ that contains a memory address. That is it. It is that simple.</p>
+<pre><code>    int age = 10;
+    double gpa = 3.4;
+    char grade = &#39;A&#39;;</code></pre>
+<p>The above examples are variables of other data types in C. Each variable’s value is stored somewhere in memory. In other words, each variable has a memory address. To access their memory address, use the ‘&amp;’ (ampersand) symbol:</p>
+<pre><code>    &amp;age
+    &amp;gpa
+    &amp;grade</code></pre>
+<p>To store the variable’s memory address, declare a pointer variable:</p>
+<pre><code>    int* pAge = &amp;age;
+    double* pGpa = &amp;gpa;
+    char* pGrade = &amp;grade;</code></pre>
+<p>A few things to note are… 1. The ‘*’ (asterisk) symbol is used to declare a pointer variable. 2. When declaring a pointer, the actual datatype keyword (e.g. <code>double</code>)does NOT declare the datatype. The datatype keyword simply tells the compiler how much memory to allocate for the pointer. Remeber that the <em>pointer</em> is the data type, not the <code>double</code>, or <code>int</code>, or <code>char</code>, etc.<br />
+3. A pointer of void type can be declared, but must be converted to the correct type before use.</p>
+<pre><code>    int* p = &amp;num; // intialize a pointer to an int
+    void* p1 = p; // initialize a void pointer from an int pointer
+    int* p2 = p1; // initialize an int pointer from a void pointer</code></pre>
+<h2 id="references">References</h2>
+<p><a href="https://www.youtube.com/watch?v=KJgsSFOSQv0">C Programming For Beginners</a> <a href="https://devdocs.io/c/language/pointer">C/C++ DevDocs</a></p>
+<h1 id="tags">Tags</h1>
+<p>#programming</p>

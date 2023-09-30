@@ -1,0 +1,59 @@
+<h1 id="git-ignore-file">Git Ignore File</h1>
+<p>Before explaining the <em>.gitignore</em> file, it’s imperative that you understand git sees every file in your working copy as one of three things.<br />
+1. tracked - a file which as been previously staged or committed.<br />
+2. untracked - a file which <em>has not</em> been staged or committed.<br />
+3. ignored - a file which git has been explicitly told to ignore.</p>
+<h2 id="examples-of-the-.gitignore-file">Examples of The <em>.gitignore</em> File</h2>
+<ul>
+<li>dependency caches, i.e. /node_modules or /packages<br />
+</li>
+<li>compiled code, such as .o, .pyc, and .class files, or similarly, build output directories, such as /bin, /out, or /target<br />
+</li>
+<li>files generated at runtime, such as .log, lock, or .tmp<br />
+</li>
+<li>hidden system files, such as .DS_Store or Thumbs.db<br />
+</li>
+<li>personal IDE config files, such as .idea/workspace.xml</li>
+</ul>
+<h2 id="git-ignore-patterns">Git ignore patterns</h2>
+<ul>
+<li>**/logs
+<ul>
+<li>logs/debug.log<br />
+</li>
+<li>logs/monday/foo.bar<br />
+</li>
+<li>build/logs/debug.log<br />
+</li>
+</ul></li>
+<li>**/logs/debug.log
+<ul>
+<li>logs/debug.log<br />
+</li>
+<li>build/logs/debug.log</li>
+<li><em>but not</em> logs/build/debug.log</li>
+</ul></li>
+<li>*.log
+<ul>
+<li>debug.log<br />
+</li>
+<li>foo.log<br />
+</li>
+<li>.log<br />
+</li>
+<li>logs/debug.log<br />
+</li>
+</ul></li>
+<li>*.log !important.log
+<ul>
+<li>debug.log<br />
+</li>
+<li>important/trace.log<br />
+</li>
+<li><em>but not</em> important/debug.log</li>
+</ul></li>
+</ul>
+<h2 id="references">References</h2>
+<p><a href="https://www.atlassian.com/git/tutorials/saving-changes/gitignore">Atlassian .gitignore Tutorial</a></p>
+<h2 id="tags">Tags</h2>
+<p>#git #programming</p>

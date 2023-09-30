@@ -1,0 +1,13 @@
+<h1 id="i2c-data-line-sda">I2C Data Line: SDA</h1>
+<p>SDA one of the two open-drain, bidirectional lines of the I2C bus. The SDA line is where the communication happens between the master(s) and slave(s). The Master reads or writes a sequence of 1s and 0s by pulling the line HIGH or LOW respectively.</p>
+<p>This sequence of 1s and 0s establishes the 3 components of communication:</p>
+<ol type="1">
+<li>Direction - Is the Master reading data from the slave (R/W bit = 1) or writing to the slave (R/W bit = 0)?</li>
+<li>Information - What bytes of is are the master reading or writing?</li>
+<li>Location - Where are we reading from or writing to? Context gives the data its meaning.
+<ul>
+<li>Slave Address</li>
+<li>Slave’s Register Address</li>
+</ul></li>
+</ol>
+<h2 id="tags">Tags</h2>

@@ -1,0 +1,20 @@
+<h1 id="arraylists---java">ArrayLists - Java</h1>
+<h2 id="introduction">Introduction</h2>
+<p>Arraylists are part of the <strong>Java Collections Framework</strong>. Like arrays, arraylists can hold large amounts of data of any single type. Arraylists can also change in size.</p>
+<h2 id="constructors">Constructors</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a>    <span class="bu">ArrayList</span>&lt;E&gt; arraylist1 = <span class="kw">new</span> <span class="bu">ArrayList</span>&lt;E&gt;(); <span class="co">// initialize ArrayList of E objects with a default capacity</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>    <span class="bu">ArrayList</span>&lt;E&gt; arraylist2 = <span class="kw">new</span> <span class="bu">ArrayList</span>&lt;E&gt;(<span class="dv">23</span>); <span class="co">// initialize with an explicit capacity</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a>    <span class="bu">ArrayList</span>&lt;E&gt; arraylist3 = <span class="kw">new</span> <span class="bu">ArrayList</span>&lt;E&gt;(arraylist1); <span class="co">// initialize based on another collection</span></span></code></pre></div>
+<h2 id="methods">Methods</h2>
+<div class="sourceCode" id="cb2"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true"></a>    <span class="co">// ADDING ELEMENTS</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true"></a>    arraylist1.<span class="fu">add</span>(<span class="kw">new</span> <span class="fu">E</span>(param1, param2, ...); <span class="co">// add an E object to end of arraylist</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true"></a>    </span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true"></a>    E test = <span class="kw">new</span> <span class="fu">E</span>(param1, param2, ...); <span class="co">// create an E object</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true"></a>    arraylist1.<span class="fu">add</span>(<span class="dv">0</span>, test); <span class="co">// and add it to ArrayList at index 0</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true"></a></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true"></a>    <span class="co">// REMOVING ELEMENTS</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true"></a>    arraylist1.<span class="fu">remove</span>(<span class="dv">1</span>); <span class="co">// removes element at index 1</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true"></a>    arraylist1.<span class="fu">remove</span>(param1); <span class="co">// can remove an element based on a value. </span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true"></a>    <span class="co">// note that the .remove() by value function loops through the arraylist elements and checks if the value &quot;.equals()&quot; each element. Therefore, by default, .equals() defaults to returning true only when the object passed into remove() references the same spot in memory as a given element in the arraylist. Instead, you may @Override the object&#39;s .equals() method to return true for a set of conditions you define, such as sharing the same String name; </span></span></code></pre></div>
+<h2 id="tags">Tags</h2>
+<p>#programming #java</p>

@@ -1,0 +1,13 @@
+<h1 id="running-the-program-from-sram">Running the Program from SRAM</h1>
+<ul>
+<li><p>Some microcontrollers have the ability to start the program from SRAM rather than flash memory, as is conventionally done, to save power. This is done by starting up the program code in flash, copying its contents over to SRAM, and then turning off the power to the internal flash memory.</p></li>
+<li><p>In the case of an MCU with only a small SRAM space, part of the program code can still be copied and ran from SRAM and flash memory is turned on only when the remaining parts are needed.</p></li>
+</ul>
+<h2 id="links">Links</h2>
+<p><a href="../202202110419">[Reset Handler]</a></p>
+<h2 id="references">References</h2>
+<ol type="1">
+<li><a href="https://www.sciencedirect.com/topics/engineering/reset-handler">[Science Direct - Reset Handler]</a></li>
+</ol>
+<h2 id="tags">Tags</h2>
+<p>#embeddedSystems</p>

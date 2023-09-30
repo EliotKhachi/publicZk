@@ -10,14 +10,14 @@ for dir in $(ls | grep -vE "\.sh$|\.md$|\.json$"); do
     echo $dir
     cd $dir
     # Convert Markdown to HTML
-    # pandoc "README.md" -o "index.html"
-    # 
-    # if [ $? -eq 0 ]; then
-    #   echo "Conversion successful. HTML file saved as $output_file"
-    # else
-    #   echo "Conversion failed at $dir."
-    #   exit 1
-    # fi
+    pandoc "README.md" -o "index.html"
+    
+    if [ $? -eq 0 ]; then
+      echo "Conversion successful. HTML file saved as index.html"
+    else
+      echo "Conversion failed at $dir."
+      exit 1
+    fi
     cd ..
 done
 

@@ -1,0 +1,49 @@
+<h1 id="types-of-gpio-registers-and-their-bit-configurations">Types of GPIO Registers And Their Bit Configurations</h1>
+<h2 id="used-to-configure-a-pin">Used to Configure a Pin</h2>
+<ol type="1">
+<li><strong>Mode R</strong> - Mode Register - This register allows you to set any GPIO port and pin to a particular mode. There are 4 modes denoted by 2 bits XX (The first X is <em>called</em> bit 1 and the second X is <em>called</em> bit 0. This is to be distinguished from what <em>value</em> (0 or 1) the bits actually hold.
+<ul>
+<li>Input Mode (reset state): XX = 00 (bit 1 = 0, bit 0 = 0)</li>
+<li>General purpose output mode: XX = 01 (bit 1 = 0, bit 0 = 1)</li>
+<li>Alternate function mode: XX = 10 (bit 1 = 1, bit 0 = 0)</li>
+<li>Analog mode: XX = 11 (bit 1 = 1, bit 0 = 1)</li>
+</ul></li>
+<li><strong>Otype R</strong> - Output Type - Determines whether the pin is open drain or push/pull . There are 2 modes denoted by 1 bit X. Bits 15:0 in the register can be configured, Bits 31:16 are reserved and must be kept at reset value.
+<ul>
+<li>Open Drain - X = 1</li>
+<li>Push/Pull - X = 0</li>
+</ul></li>
+<li><strong>OSpeed R</strong> - Output Speed. Determines the speed of the signal (clock frequency?). There are 3 modes denoted by 2 bits XX (The first X is <em>called</em> bit 1 and the second X is <em>called</em> bit 0. This is to be distinguished from what <em>value</em> (0 or 1) the bits actually hold.
+<ul>
+<li>Input Mode (reset state): XX = 00 (bit 1 = 0, bit 0 = 0)</li>
+<li>Low Speed - XX = X1 (bit 1 = 0 or 1, bit 0 = 1)</li>
+<li>Medium Speed - XX = 01 (bit 1 = 0, bit 0 = 1)</li>
+<li>High Speed - XX = 11 (bit 1 = 1, bit 0 = 1)</li>
+</ul></li>
+<li><strong>PUPUDR</strong> - Pull-up/Pull-down Register. There are 3 modes denoted by 2 bits XX.
+<ul>
+<li>No pull-up, pull-down - XX = 00</li>
+<li>Pull-up - XX = 01</li>
+<li>Pull-down - XX = 10</li>
+<li>Reserved - XX = 11</li>
+</ul></li>
+</ol>
+<h2 id="used-to-actually-output-to-a-pin">Used to Actually Output to a Pin</h2>
+<ol type="1">
+<li><p><strong>BSRR</strong> - Bit Set Reset Register - 32 total bits.</p>
+<p>15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 -&gt; pin #</p>
+<p>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -&gt; reset bits</p>
+<p>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -&gt; set bits</p></li>
+</ol>
+<p>To turn on any given pin, set the <em>set</em> bit to 1 for that pin. To turn off any given pin, set the <em>reset</em> bit to 1 for that pin.</p>
+<ol start="2" type="1">
+<li><strong>BRR</strong> - Bit Reset Register - 16 total bits. Acts just like the <em>set</em> register on the <strong>BSRR</strong>.</li>
+</ol>
+<h2 id="used-to-enable-the-gpio">Used to Enable the GPIO</h2>
+<p><strong>RCC</strong> - Reset Clock &amp; Control - This register controls a few buses located on the processor. The <strong>RCC</strong> is used to enable certain buses and their clocks. For instance, the <strong>AHB</strong> (Advanced High Performance Bus) can be enabled through the <strong>AHBENR</strong> register, which is under the <strong>RCC</strong>.<a href="../202110200251">RCC: C Code Example Using AHB to Enable GPIO Clock for Port C</a></p>
+<h2 id="references">References</h2>
+<p><a href="https://www.youtube.com/watch?v=o0A0zTdf3zY&amp;list=PL6PplMTH29SHgRPDufZhfMRoFwRAIrzOp&amp;index=6">How to Output to a Pin to Blink an LED</a></p>
+<h2 id="links">Links</h2>
+<p><a href="../202110200251">RCC: C Code Example Using AHB to Enable GPIO Clock for Port C</a></p>
+<h2 id="tags">Tags</h2>
+<p>#embeddedSystems</p>

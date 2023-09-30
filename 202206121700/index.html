@@ -1,0 +1,13 @@
+<h1 id="hosting-a-server---dns-using-cloudflare-api">Hosting a Server - DNS Using Cloudflare API</h1>
+<h2 id="see-202206170404---configure-raspberry-pi-to-host-a-server-to-get-started-on-hosting-a-server">See –&gt; <a href="../202206170404">202206170404</a> - Configure Raspberry Pi to Host a Server &lt;– to get started on hosting a server</h2>
+<p>Next, you’ll need to set up Dynamic DNS on your machine and link it to the domain name you want. <a href="https://www.youtube.com/watch?v=rI-XxnyWFnM">DDNS on a Raspberry Pi using the Cloudflare API (Dynamic DNS)</a></p>
+<p><strong>NOTE:</strong> A couple other things not mentioned in the video but are necessary:<br />
+1. Change <code>proxy="false"</code> to <code>proxy="true"</code><br />
+2. Change <code>auth_method="local"</code> to <code>auth_method="global"</code><br />
+Now the DNS Content (IP address) of the specified <code>record_name</code> in the <code>cloudflare.sh</code> script you just wrote should change to your router’s public IP address whenever the script is executed. Go ahead and write your <code>crontab</code> for it.</p>
+<h2 id="references">References</h2>
+<ol type="1">
+<li><a href="https://www.youtube.com/watch?v=QdHvS0D1zAI&amp;t=69s">Raspberry Pi versus AWS</a></li>
+</ol>
+<h2 id="tags">Tags</h2>
+<p>#networks</p>

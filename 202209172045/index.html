@@ -1,0 +1,20 @@
+<h1 id="software-architecture-layers">Software Architecture Layers</h1>
+<p>Software architecture layers are used to organize code in the repository.</p>
+<p><strong>The Problem:</strong> Medium to large-sized software applications contain hundreds to thousands of source files, with tens of thousands of lines of code, which becomes difficult to manage.</p>
+<p><strong>The Solution:</strong> By chunking the program into conceptually relevant categories, called <em>layers</em>, software developers are able to keep their footing on the whole program by thinking of the application as groups of code that interact with each other rather than thousands of source files scattered in a directory.</p>
+<h2 id="software-chunking---simple-to-complex">Software Chunking - Simple to Complex</h2>
+<ol type="1">
+<li>Statements</li>
+<li>Methods</li>
+<li>Classes</li>
+<li>Packages</li>
+<li>Logical Layers</li>
+<li>Physical Layers</li>
+</ol>
+<h2 id="minimal-architecture-three-layers">Minimal Architecture: Three Layers</h2>
+<p>Information flows from the user interface to the domain, and from the domain to the data access layer. Layers communicate with each other through <em>Models</em>. <a href="../202210090645">202210090645</a> - Models in a Software Application</p>
+<p><em>Information flows downward from the User Interface to the Domain to the Data Access in series (usually).</em> * User Interface - <a href="../202210090650">202210090650</a> - User Interface Layer<br />
+* Domain - <a href="../202210090643">202210090643</a> - Domain Layer<br />
+* Data Access - <a href="../202210090652">202210090652</a> - Data Access Layer</p>
+<h2 id="tags">Tags</h2>
+<p>#dev</p>
