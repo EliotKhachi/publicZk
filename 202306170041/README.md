@@ -9,7 +9,8 @@ The MAX603 and MAX604 voltage regulators are a great choice for electronics hobb
 **current output:** up to 500mA 
 
 ## Pin Configuration
-![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sun_Jul_23_02:22:36_PM_PDT_2023.png)
+![image](./Sun_Jul_23_02:22:36_PM_PDT_2023.png)
+![image](./Sun_Jul_23_02:22:36_PM_PDT_2023.png)
 
 ## Output Voltage Selection
 The great thing about these regulators is that they have 2 modes of operation.  
@@ -17,9 +18,11 @@ The great thing about these regulators is that they have 2 modes of operation.
 Select this mode by connecting the `SET` pin to ground. In this mode, the output of the MAX603 is set to 5V and the output of the MAX604 is set to 3.3V.  
 **Adjustable Mode**  
 For an output voltage ranging from 1.25V to 11V, use two external resistors connected as a voltage divider to `SET`.  
-![image](https://s3.us-west-1.amazonaws.com/zettelimages/Fri_Jun_16_05:54:23_PM_PDT_2023.png)  
+![image](./Fri_Jun_16_05:54:23_PM_PDT_2023.png)  
+![image](./Fri_Jun_16_05:54:23_PM_PDT_2023.png)  
 Set the output voltage with the following equation:  
-![image](https://s3.us-west-1.amazonaws.com/zettelimages/Fri_Jun_16_05:56:20_PM_PDT_2023.png)
+![image](./Fri_Jun_16_05:56:20_PM_PDT_2023.png)
+![image](./Fri_Jun_16_05:56:20_PM_PDT_2023.png)
 
 ## Links
 [Voltage Regulators](../202306170030/README.md)

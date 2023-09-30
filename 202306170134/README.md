@@ -16,15 +16,18 @@ Learn core concepts and practical applications of embedded systems.
 ## Layout
 The mounting plate should be large enough to mount all of these components. 
 **Top View**
-![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Jun_17_10:56:10_AM_PDT_2023.png)
+![image](./Sat_Jun_17_10:56:10_AM_PDT_2023.png)
+![image](./Sat_Jun_17_10:56:10_AM_PDT_2023.png)
 Adding our components' lengths, we get about 4.9". We'll make our mounting plate 6".  
 Adding our components' widths, we get about 3.7". We'll make our mounting plate 4.5".  
 **Bottom View**
-![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Jun_17_10:56:30_AM_PDT_2023.png)
+![image](./Sat_Jun_17_10:56:30_AM_PDT_2023.png)
+![image](./Sat_Jun_17_10:56:30_AM_PDT_2023.png)
 
 
 ## Schematic
-![image](https://s3.us-west-1.amazonaws.com/zettelimages/Sat_Jun_17_10:19:28_AM_PDT_2023.png)
+![image](./Sat_Jun_17_10:19:28_AM_PDT_2023.png)
+![image](./Sat_Jun_17_10:19:28_AM_PDT_2023.png)
 
 ## Tags
 #electronics #projects

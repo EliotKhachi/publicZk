@@ -4,7 +4,8 @@ Load balancing is the act of forwarding internet traffic to multiple servers dow
 
 A load balancer is a server.  
 
-![image](https://s3.us-west-1.amazonaws.com/zettelimages/Thu_Sep_14_09:55:14_PM_PDT_2023.png)
+![image](./Thu_Sep_14_09:55:14_PM_PDT_2023.png)
+![image](./Thu_Sep_14_09:55:14_PM_PDT_2023.png)
 
 ## Reasons to use a load balancer
 1. Spread load across multiple downstream servers (in case of many simultaneous requests)  
