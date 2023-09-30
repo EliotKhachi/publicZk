@@ -1,6 +1,6 @@
 # The Implications of The Golden Rule
 
-Prompt: If you are [Living in Congruence With One's Self](https://github.com/EliotKhachi//publicZk/tree/main/202307310121) and adhere to the [The Golden Rule](./202307310130), then what are the implications?  
+Prompt: If you are [Living in Congruence With One's Self](./202307310121) and adhere to the [The Golden Rule](./202307310130), then what are the implications?  
 
 ## Your Self-Image
 You treat yourself how you treat others. How you treat yourself is a matter of how you carry yourself. Be kind, loving, and respectful to yourself.  

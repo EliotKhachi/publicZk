@@ -10,7 +10,7 @@ D. It enabled users to dynamically adjust CPU and RAM resources.
 
 ## Distractors
 * Answer B is an [S3](./202309110516) property.  
-* Answer C is an [Aurora](https://github.com/EliotKhachi//publicZk/tree/main/202309120144) or [DynamoDB](./202309120319) property.  
+* Answer C is an [Aurora](./202309120144) or [DynamoDB](./202309120319) property.  
 * Answer D is false. Users need to configure their CPU and RAM resources wherever they're running [Amazon RDS](./202309120141).  
 
 ## Tags
