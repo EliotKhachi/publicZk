@@ -4,7 +4,7 @@
 **No matter what the situation is, no matter how confident or strong you are, how small or seemingly weak the other person is, you never completely know what that person is capable of.**  
 
 ## Fear of Death
-Following from this rule, if you have some fear of death, then it is perfectly natural to have nerves during a conflict that can lead to a physical altercation. To be otherwise is to be incongruent with one's self [Living in Congruence With One's Self](https://github.com/EliotKhachi//publicZk/tree/main/202307310121).  
+Following from this rule, if you have some fear of death, then it is perfectly natural to have nerves during a conflict that can lead to a physical altercation. To be otherwise is to be incongruent with one's self [Living in Congruence With One's Self](./202307310121).  
 
 With that being said, it's best to avoid these situations entirely by de-escalating or fleeing. If, despite your efforts, the situation has gotten physical, then defend yourself or try to partially incapacitate the offender until you are in a dominant or safe position.  
 
@@ -14,7 +14,7 @@ With that being said, it's best to avoid these situations entirely by de-escalat
 **Fulfilling your needs or desires** - There may be times when you are willing to put your life on the line in order to fulfill a need or desire. Carefully assess the risks and rewards.  
 
 ## Links
-1. [What Situations Make Sense To Be In Scarcity?](https://github.com/EliotKhachi//publicZk/tree/main/202308240240)
+1. [What Situations Make Sense To Be In Scarcity?](./202308240240)
 
 ## Tags
 #beliefs

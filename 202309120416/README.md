@@ -1,6 +1,6 @@
 # Availability Zone
 
-Multiple, isolation locations known as *Availablity Zones* exist in each [AWS Region](https://github.com/EliotKhachi//publicZk/tree/main/202309120400). Each Availability Zone contains multiple data centers, each with redundant power, networking, and connectivity, and housed in separate facilities.  
+Multiple, isolation locations known as *Availablity Zones* exist in each [AWS Region](./202309120400). Each Availability Zone contains multiple data centers, each with redundant power, networking, and connectivity, and housed in separate facilities.  
 
 If you distribute your instances across multiple Availability Zones and one instance fails, you can design your application so that an instance in another Availability Zone can handle requests. 
 

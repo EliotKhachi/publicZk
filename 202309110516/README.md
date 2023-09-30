@@ -12,9 +12,9 @@ Each object has a *key*, which is the URL *after* the name of the bucket, i.e. s
 In actuality, bucket objects are not stored in folders. Each object is simply found by a key.  
 
 ## More Info
-[Amazon S3 More Features](https://github.com/EliotKhachi//publicZk/tree/main/202309110524)  
-[Amazon S3 Glacier](https://github.com/EliotKhachi//publicZk/tree/main/202309120137)  
-[Amazon S3 Encryption](https://github.com/EliotKhachi//publicZk/tree/main/202309152208)  
+[Amazon S3 More Features](./202309110524)  
+[Amazon S3 Glacier](./202309120137)  
+[Amazon S3 Encryption](./202309152208)  
 
 ## References
 [AWS Docs - Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)  

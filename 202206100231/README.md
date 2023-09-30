@@ -8,7 +8,7 @@ To configure your own cloud server, check out this zettel --> [202206100247](../
 [AWS Getting Started](https://aws.amazon.com/getting-started/?nc1=f_cc)
 
 ## Links
-[AWS Certified Cloud Practitioner Study Guide](https://github.com/EliotKhachi//publicZk/tree/main/202309110348)
+[AWS Certified Cloud Practitioner Study Guide](./202309110348)
 
 ## Tags
 #aws

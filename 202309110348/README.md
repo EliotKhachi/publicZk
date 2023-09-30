@@ -1,10 +1,10 @@
 # AWS Certified Cloud Practitioner Study Guide
 
 Review practice questions here:
-[AWS Cloud Practitioner Practice Questions](https://github.com/EliotKhachi//publicZk/tree/main/202309120133)
+[AWS Cloud Practitioner Practice Questions](./202309120133)
 
 **What are we talking about?**  
-The AWS Certified Cloud Practitioner is the first AWS Certification you must achieve before moving onto more specialized and complex certifications from AWS. [What is AWS? ](https://github.com/EliotKhachi//publicZk/tree/main/202206100231)
+The AWS Certified Cloud Practitioner is the first AWS Certification you must achieve before moving onto more specialized and complex certifications from AWS. [What is AWS? ](./202206100231)
 
 **Why is it important?**  
 Many companies, big or small, use AWS's services to build, test, deploy, and scale their applications. Learning how to use the AWS cloud is a superpower in the age of computing.  

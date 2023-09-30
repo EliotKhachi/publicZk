@@ -1,9 +1,9 @@
 # A customer needs to run a MySQL database that easily scales. Which AWS service should they use?
 
-A. [Amazon Aurora](https://github.com/EliotKhachi//publicZk/tree/main/202309120144)  
-B. [Amazon Redshift](https://github.com/EliotKhachi//publicZk/tree/main/202309120301)  
-C. [Amazon DynamoDB](https://github.com/EliotKhachi//publicZk/tree/main/202309120319)  
-D. [Amazon ElastiCache](https://github.com/EliotKhachi//publicZk/tree/main/202309120320)
+A. [Amazon Aurora](./202309120144)  
+B. [Amazon Redshift](./202309120301)  
+C. [Amazon DynamoDB](./202309120319)  
+D. [Amazon ElastiCache](./202309120320)
 
 ## Answer = A
 Amazon Aurora is a relational database management system (RDBMS) built for the cloud that instantenously scales instances and storage.  
