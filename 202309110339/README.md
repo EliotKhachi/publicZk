@@ -16,7 +16,7 @@
 [AWS Certification Paths](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)  
 
 ## Links
-[AWS Certified Cloud Practitioner Exam Guide](./202309110348)
+[AWS Certified Cloud Practitioner Exam Guide](../202309110348)
 
 ## Tags
 #career

@@ -1,8 +1,8 @@
 # Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links?
 
-A. [Availability Zone](./202309120416)  
-B. [Edge Location](./202309120410)  
-C. [AWS Region](./202309120400)  
+A. [Availability Zone](../202309120416)  
+B. [Edge Location](../202309120410)  
+C. [AWS Region](../202309120400)  
 D. Private networking  
 
 ## Answer - A

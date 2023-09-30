@@ -16,7 +16,7 @@
 
 |1|2|3|4|
 ## References
-1. [Product Verification Process](./202201130159)
+1. [Product Verification Process](../202201130159)
 
 ## Tags
 #systemsEngineering

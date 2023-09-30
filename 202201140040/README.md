@@ -6,7 +6,7 @@
 
 1. At the time of the cut-off signal, the thrust-level is still at 100%  
 2. After a short period of time (0 - 0.5 s) the main valves begin to close 
-3. Following shortly afterward is a decrease in power from the turbine. See [Turbopump](./202201100451) for more information.
+3. Following shortly afterward is a decrease in power from the turbine. See [Turbopump](../202201100451) for more information.
 4. After another short period of time ~0.5 s, the valves are fully closed. During this time is the sharpest decline in thrust.
 5. Finally after another short period (~0.5s) we have full cessation of thrust.
 

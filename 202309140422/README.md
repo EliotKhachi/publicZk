@@ -9,6 +9,6 @@ IAM policy statements consist of:
 6. **Condition**:: conditions for when this policy is in effect (optional)  
 
 ## Links
-[IAM Policies Structure](./202309140418)
+[IAM Policies Structure](../202309140418)
 
 ## Tags

@@ -3,7 +3,7 @@
 A *policy* consists of 3 components:  
 1. **Version**: policy language version, usually "2012-10-17"  
 2. **Id**: an identifier for policy (optional)  
-3. **Statement**: one or more individual statements (required). [[IAM Policy Statement](./202309140422)]  
+3. **Statement**: one or more individual statements (required). [[IAM Policy Statement](../202309140422)]  
 
 ## Example
 ```json
@@ -28,6 +28,6 @@ A *policy* consists of 3 components:
 
 ```
 ## Links
-[IAM Policy](./202309150142)
+[IAM Policy](../202309150142)
 
 ## Tags
