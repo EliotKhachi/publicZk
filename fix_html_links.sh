@@ -18,6 +18,8 @@ for dir in $(ls | grep -vE "\.sh$|\.md$|\.json$"); do
       echo "Conversion failed at $dir."
       exit 1
     fi
+    sed -n 's/…/.../p' index.html # fix elipsis 
+    sed -n 's/—/-/p' index.html # fix dash
     cd ..
 done
 
