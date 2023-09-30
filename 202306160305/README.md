@@ -10,7 +10,6 @@
 |4|DC Motor Holder||
 
 ![image](./Thu_Jun_15_08:34:15_PM_PDT_2023.png)
-![image](./Thu_Jun_15_08:34:15_PM_PDT_2023.png)
 
 ## Tags
 #embeddedSystems
