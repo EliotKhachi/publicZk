@@ -1,8 +1,0 @@
-<h1 id="models-in-a-software-application">Models in a Software Application</h1>
-<p>All software application layers point to <strong>Models</strong>. Models are not layers themselves. They represent domain <em>data</em>, but not <em>behavior</em>, and they don’t enforce any rules for any of the layers. Rather, models represent a sort of shared vocabulary between layers to promote information flow. The user interface layer can’t do its job without knowing a bit about the domain. The same goes for the data access layer.</p>
-<h2 id="examples">Examples</h2>
-<ul>
-<li><p>A <code>Student</code> class is a Model. It structures data pertaining to students such as <code>age</code>, <code>firstName</code>, <code>lastName</code>, <code>GPA</code>, <code>major</code>, etc. Any CRUD operation involving a student the use of this model at every application layer. <a href="../202209180027">202209180027</a> - CRUD</p></li>
-<li><p>A <code>Tweet</code> class is a Model. A tweet consists of the following data: <code>id</code>, <code>owner</code>, <code>message</code>, and <code>tags</code>.<br />
-## Tags</p></li>
-</ul>

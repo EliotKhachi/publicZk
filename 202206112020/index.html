@@ -1,7 +1,0 @@
-<h1 id="generating-an-self-signed-ssl-certificate">Generating an Self-Signed SSL Certificate</h1>
-<p>To generate a self-signed SSL certificate, install openssl and use its command for generating a private key and website certificate. Run the following command in <em>/etc/nginx/certificate</em>: <code>openssl req -new -newkey rsa:4096 -x509 -sha256 -days 365 -nodes -out nginx-certificate.crt -keyout nginx.key</code>.</p>
-<p>Note that you can name your .key and .crt files anything you’d like.</p>
-<h2 id="references">References</h2>
-<p><a href="https://techexpert.tips/nginx/enable-https-nginx/">Tech Expert Tips - Enable HTTPS on Nginx</a></p>
-<h2 id="tags">Tags</h2>
-<p>#security #ssl</p>
