@@ -34,7 +34,7 @@ for dir in $(ls | grep -Ev '.md$|.json$|.css$|.html$|.sh$'); do
 
     # Fix zettel links within html per website's zettel storage structure:
     # zettelkasten/zettel-id.html
-    sed -i 's#<a href="\.\./\([0-9]\{12\}\)">#<a href="\../\1/index.html">#g' $output_file
+    sed -i 's#<a href="\.\./\([0-9]\{12\}\)">#<a href="\../\1/zettel.html">#g' $output_file
 
     cd ..
 done

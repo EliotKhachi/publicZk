@@ -15,7 +15,7 @@
     <div class="content">
         <h1 id="makefiles">Makefiles</h1>
         <h2 id="what-are-they-and-why-do-we-use-them">What are they and Why do we use them?</h2>
-        <p><strong>Makefiles</strong> are text files named <em>Makefile</em> or <em>makefile</em> that utilize GNU <em>make</em>'s tools to compile and link a program. They are often used in combination with the GCC compiler <a href="../202110191739/index.html">[What is GCC]</a> to form the GCC/Make opensource toolchain for developing software.</p>
+        <p><strong>Makefiles</strong> are text files named <em>Makefile</em> or <em>makefile</em> that utilize GNU <em>make</em>'s tools to compile and link a program. They are often used in combination with the GCC compiler <a href="../202110191739/zettel.html">[What is GCC]</a> to form the GCC/Make opensource toolchain for developing software.</p>
         <h2 id="the-simplest-makefile">The Simplest Makefile</h2>
         <div class="sourceCode" id="cb1"><pre class="sourceCode mk"><code class="sourceCode makefile"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="dv">hellomake:</span><span class="dt"> hellomake.c hellofunc.c</span></span>
         <span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>        gcc -o hellomake hellomake.c hellofunc.c -I.</span></code></pre></div>
@@ -23,10 +23,10 @@
         <p>Typing <code>make hellomake</code> in the command line will execute the recipe of this rule. Note that typing <code>make</code> with no arguments on the command line will execute the first rule of a makefile in the current directory.</p>
         <h2 id="links">Links</h2>
         <ol>
-        <li><a href="../202110182258/index.html">[A Rule in a Makefile]</a></li>
-        <li><a href="../202110182306/index.html">[A Target in a Makefile]</a></li>
-        <li><a href="../202110182309/index.html">[A Prerequisite in a Makefile]</a></li>
-        <li><a href="../202110182310/index.html">[A Recipe in a Makefile]</a></li>
+        <li><a href="../202110182258/zettel.html">[A Rule in a Makefile]</a></li>
+        <li><a href="../202110182306/zettel.html">[A Target in a Makefile]</a></li>
+        <li><a href="../202110182309/zettel.html">[A Prerequisite in a Makefile]</a></li>
+        <li><a href="../202110182310/zettel.html">[A Recipe in a Makefile]</a></li>
         </ol>
         <h2 id="references">References</h2>
         <ol>

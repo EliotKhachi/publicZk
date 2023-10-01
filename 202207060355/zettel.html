@@ -23,8 +23,8 @@
         </ol>
         <h2 id="networkinghardware-prerequisites">Networking/Hardware Prerequisites</h2>
         <p>In order to Wake On Lan (WOL) a computer using a Raspberry Pi, the Pi must always be on and connected to your computer via ethernet. You can do this by powering the pi from your PC's USB port, and keeping your USB port powered even when your computer is off.</p>
-        <p>For local WOL capabilities, you need to be able to SSH into the raspberry pi from the local network --&gt; <a href="../202206170251/index.html">202206170251</a> - SSH into a Raspberry Pi &lt;-- <em>(For the RPI 3B+, and perhaps other models, you must first SSH via ethernet and run <code>sudo apt-get update &amp;&amp; </code>sudo apt-get dist-upgrade` to enable the onboard wireless LAN chip</em> <a href="https://magpi.raspberrypi.com/articles/raspberry-pi-3bplus-specs-benchmarks">MagPi RPi 3B+ Specs and Benchmarks</a></p>
-        <p>For WAN (World Area Network) WOL capabilities, you must port forward your Pi to the internet --&gt; <a href="../202207030601/index.html">202207030601</a> - Port Forwarding to the Internet &lt;--</p>
+        <p>For local WOL capabilities, you need to be able to SSH into the raspberry pi from the local network --&gt; <a href="../202206170251/zettel.html">202206170251</a> - SSH into a Raspberry Pi &lt;-- <em>(For the RPI 3B+, and perhaps other models, you must first SSH via ethernet and run <code>sudo apt-get update &amp;&amp; </code>sudo apt-get dist-upgrade` to enable the onboard wireless LAN chip</em> <a href="https://magpi.raspberrypi.com/articles/raspberry-pi-3bplus-specs-benchmarks">MagPi RPi 3B+ Specs and Benchmarks</a></p>
+        <p>For WAN (World Area Network) WOL capabilities, you must port forward your Pi to the internet --&gt; <a href="../202207030601/zettel.html">202207030601</a> - Port Forwarding to the Internet &lt;--</p>
         <h2 id="steps">Steps</h2>
         <ol>
         <li><p>Get the mac address of the network interface you can WOL from. <code>ip addr</code> <em>to list the network interfaces again and see the mac address (AA:BB:CC:DD:EE:FF).</em></p></li>
