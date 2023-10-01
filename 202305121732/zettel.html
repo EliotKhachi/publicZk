@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Relay Oscillator </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="relay-oscillator">Relay Oscillator</h1>
+        <p>A relay oscillator is a mechanism inside of a circuit that periodically opens and closes a portion of a circuit.</p>
+        <h2 id="how-an-oscillator-works">How an Oscillator Works</h2>
+        <p>Consider a battery and a SPDT relay. This SPDT relay has pole <code>A</code> and two positions, <code>on</code> and <code>off</code>.</p>
+        <ol>
+        <li>Connect the negative terminal of the battery to the cathode of the relay.</li>
+        <li>Connect the positive terminal of the battery to the <code>A-off</code> position of the relay (notice we are supplying power when the relay is off).</li>
+        <li>Connect the <code>A</code> pole to the anode of the relay.</li>
+        </ol>
+        <p><strong>Explanation</strong> Consider the starting state as the point when the connections are made and the relay is <code>off</code>. At this point, power moves to the relay, thereby switching it to <code>A-on</code> and breaking its <code>A-off</code> connection. When the relay is on, power from the battery and the relay is severed, and it goes back to <code>off</code>, and so on...</p>
+        <p>Right now, this oscillation is going to happen as fast as the speed of electricity can move, which will damage your relay. To incorporate a delay, we need the relay to stay powered on for a bit longer. Adding a capacitor in parallel with the relay keeps the relay powered after it breaks its connection with the battery. Once the capacitor is out of charge, the relay switches <code>off</code> and is connected with the battery again.</p>
+        <h2 id="using-an-oscillator">Using an Oscillator</h2>
+        <p>Right now we just have an oscillator. Switch out your SDPT with a DPDT, and use the other pole, <code>B</code>, and its <code>on</code>-<code>off</code> positions to do something useful!</p>
+        <h2 id="tags">Tags</h2>
+        <p>#electronics</p>
+    </div>
+</body>
+</html>

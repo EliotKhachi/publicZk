@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Docker in Action </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="docker-in-action">Docker in Action</h1>
+        <h2 id="sample-docker-file">Sample Docker file</h2>
+        <div class="sourceCode" id="cb1"><pre class="sourceCode yml"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="at">    FROM node:alpine</span><span class="co"> # create an image from the official *node* image on hub.docker.com on top of an *alpine* linux distro</span></span>
+        <span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a><span class="at">    COPY . /app</span><span class="co"> # Copy all the files in the current directory into the image under the directory /app/.</span></span>
+        <span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a><span class="at">    WORKDIR /app</span><span class="co"> # Set your working directory as the app directory of the image from this point forward in the Dockerfile</span></span>
+        <span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a><span class="at">    CMD node app.js</span><span class="co"> # Execute the command `node app.js` while inside the image</span></span></code></pre></div>
+        <h2 id="tags">Tags</h2>
+        <p>#docker</p>
+    </div>
+</body>
+</html>

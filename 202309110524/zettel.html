@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Amazon S3 More Features</title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="amazon-s3-more-features">Amazon S3 More Features</h1>
+        <h2 id="s3-storage-classes-and-use-cases">S3 Storage Classes and Use Cases</h2>
+        <table>
+        <thead>
+        <tr class="header">
+        <th>Storage Class</th>
+        <th>Type of Data</th>
+        <th>Access Frequency</th>
+        <th>Time to Access</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="odd">
+        <td>Standard</td>
+        <td>Any</td>
+        <td>Frequent</td>
+        <td>milliseconds</td>
+        </tr>
+        <tr class="even">
+        <td>Intelligent Tiering</td>
+        <td>Any</td>
+        <td>Unknown or changing access patterns</td>
+        <td>milliseconds</td>
+        </tr>
+        <tr class="odd">
+        <td>Standard-IA</td>
+        <td>Long-lived</td>
+        <td>Infrequent</td>
+        <td>milliseconds</td>
+        </tr>
+        <tr class="even">
+        <td>One Zone-IA</td>
+        <td>long-lived and re-createable</td>
+        <td>Infrequent</td>
+        <td>milliseconds</td>
+        </tr>
+        <tr class="odd">
+        <td>Glacier Instant Retrieval</td>
+        <td>Long-lived</td>
+        <td>Frequent</td>
+        <td>milliseconds</td>
+        </tr>
+        <tr class="even">
+        <td>Glacier Flexible Retrieval</td>
+        <td>Long-lived</td>
+        <td>Unknown or changing access patterns</td>
+        <td>minutes; free bulk retrievals in 5-12 hours.</td>
+        </tr>
+        <tr class="odd">
+        <td>Glacier Deep Archive</td>
+        <td>Long-lived</td>
+        <td>Infrequent</td>
+        <td>12-48 hours retrieval</td>
+        </tr>
+        </tbody>
+        </table>
+        <h2 id="management-tools-for-granular-data-control">Management Tools For Granular Data Control</h2>
+        <ul>
+        <li>S3 Storage Class Analysis is used to analyze data access patterns, and transfer data to lower-cost storage classes.</li>
+        <li>Data transfer events and data expiration times are documented in the S3 Lifecycle Policy.</li>
+        <li>S3 Cross-Region Replication (CRR) is used to replicate data between regions.</li>
+        <li>S3 Same Region Replication is used to replicate data within a region.</li>
+        <li>S3 Object Lock ise used to enforce <em>no deletion</em> for a retention period, write-once-read-many (WORM) policies.</li>
+        <li>S3 Inventory reports your objects, metadata, and encryption status.</li>
+        <li>S3 batch operations can be done on billions of objects; i.e. copy objects to another S3 bucket, replace object tag sets, modify access controls, or restore archived objects from an S3 Glacier.</li>
+        <li>S3 works with AWS Lambda to automate activites, alerts, and workflows without additional infrastructure.</li>
+        <li>Big Analytics</li>
+        </ul>
+        <h2 id="tags">Tags</h2>
+        <p>#aws</p>
+    </div>
+</body>
+</html>

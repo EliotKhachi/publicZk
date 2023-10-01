@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Known Good State </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="known-good-state">Known Good State</h1>
+        <p>In software development, <em>Known good state</em> is a predefined set of data that guarantees our tests will pass if our methods are correct. Without known good state, code that is functionally correct may fail in a test because it's working on bad data.</p>
+        <h2 id="example">Example</h2>
+        <p><strong>Given:</strong></p>
+        <ul>
+        <li>Test 1 <em>asserts</em> that there are 5 records in the file.</li>
+        <li>Test 2 <em>asserts</em> that a record can be added to the file.</li>
+        </ul>
+        <p><strong>Potential Issue:</strong></p>
+        <ul>
+        <li>If Test 2 is ran before Test 1, Test 1 will fail even if it is functionally correct because it is operating under a false assumption of the current state of the database: There are <em>no longer</em> 5 records in the file.</li>
+        </ul>
+        <h2 id="good-practices">Good Practices</h2>
+        <ul>
+        <li>Pre-populate a file with a known good state and copy the contents of that file into a test file before a test runs.</li>
+        </ul>
+        <h2 id="tags">Tags</h2>
+        <p>#software</p>
+    </div>
+</body>
+</html>

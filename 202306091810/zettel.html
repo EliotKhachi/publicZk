@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Adding Binaries to Path - Linux</title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="adding-binaries-to-path---linux">Adding Binaries to Path - Linux</h1>
+        <p>Adding binaries to your path is useful for executing files regardless of the directory you are currently in.</p>
+        <p>You have two options:</p>
+        <ol>
+        <li><p>Create a copy <code>cp</code> or a link <code>ln</code> in <code>/usr/bin</code>.<br />
+        <code>sudo cp ~/mypath/to/mybinary /usr/bin</code> or <code>sudo ln -s ~/mypath/to/mybinary /usr/bin/mybinary</code> This works because <code>/usr/bin</code> is added to your system path by default.</p></li>
+        <li><p>Add a separate path to your binary.<br />
+        In your ~/.bashrc... <code>export PATH="$PATH:~/mypath/to/mybinary"</code></p></li>
+        </ol>
+        <h2 id="tags">Tags</h2>
+        <p>#linux</p>
+    </div>
+</body>
+</html>

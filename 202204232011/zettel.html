@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Breadth First Search </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="breadth-first-search">Breadth First Search</h1>
+        <h2 id="key-points">Key Points</h2>
+        <p><em>Breadth First Search (BFS)</em> is an algorithm for traversing an unweighted Graph or a Tree.</p>
+        <ul>
+        <li><p>BFS starts with the root node and explores each adjacent node before exploring node(s) at the next level.</p></li>
+        <li><p>BFS makes use of a Queue <a href="../202204020516/index.html">[Selecting a Data Structure]</a> for storing the visited nodes of the graph / tree</p></li>
+        </ul>
+        <h2 id="traversing-algorithm">Traversing Algorithm</h2>
+        <ol>
+        <li>Start with the root node, mark it as <em>visited</em> and push it into the Queue.</li>
+        <li>Remove the node at the front of the Queue, add that node to the BFS traversal order, and push the nodes adjacent to the removed node that have not been visited, into the Queue.</li>
+        <li>Repeat step 2 while the Queue is not empty.</li>
+        </ol>
+        <h2 id="links">Links</h2>
+        <ol>
+        <li><a href="../202204020516/index.html">[Selecting a Data Structure]</a></li>
+        </ol>
+        <h2 id="references">References</h2>
+        <p><a href="https://algotree.org/algorithms/tree_graph_traversal/breadth_first_search/">Breadth First Search (BFS) Algorithm</a></p>
+        <h2 id="tags">Tags</h2>
+        <p>#programming</p>
+    </div>
+</body>
+</html>

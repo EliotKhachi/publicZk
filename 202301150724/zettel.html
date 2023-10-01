@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>React Errors Encounters </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="react-errors-encounters">React Errors Encounters</h1>
+        <table>
+        <thead>
+        <tr class="header">
+        <th>Error Message</th>
+        <th>Meaning</th>
+        <th>Solution</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="odd">
+        <td>ENOSPC: System limit for number of file watchers reached</td>
+        <td>This error message tells us that the number of files monitored by the system has reached the limit, thereby causing the command execution <code>npm start</code> to fail.</td>
+        <td>The solution is to modify the number of system monitoring files. For Ubuntu, add <code>fs.inotify.max_user_watches=524288</code> at the bottom of <code>/etc/sysctl.conf</code>.</td>
+        </tr>
+        <tr class="even">
+        <td><em>Insert some error message regarding conflicting versions or incompatible dependencies</em></td>
+        <td>This type of error message is telling you that there are conflicting packages in your react application.</td>
+        <td>The solution is to delete <code>node_modules</code> and <code>package-lock.json</code> in your project folder and <code>npm install</code> again. Run <code>npm start</code> and look for any other errors in your app that point out a dependency conflict. You can <code>npm uninstall &lt;package-name&gt;</code> and <code>npm install &lt;package-name&gt;@&lt;version-number&gt;</code> or <code>npx expo install &lt;package-name&gt;@&lt;version-number&gt;</code> until you resolve all issues. If you bootstrapped a react-native app using the React Native CLI, you can configure these versions as you wish to resolve conflicts. However, if you bootstrapped with Expo, you must ensure the versions that you install are compatible with the overarching expo app version.</td>
+        </tr>
+        </tbody>
+        </table>
+        <h2 id="tags">Tags</h2>
+        <p>#react</p>
+    </div>
+</body>
+</html>

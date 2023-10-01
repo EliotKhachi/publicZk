@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Linux Kill a Process </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="linux-kill-a-process">Linux Kill a Process</h1>
+        <p>To kill a process in Linux by PID (process identification number) simply<br />
+        <code>kill -&lt;signal_number&gt; &lt;PID&gt;</code><br />
+        <em>or</em></p>
+        <p><code>killall -&lt;signal-number&gt; &lt;process_name&gt;</code></p>
+        <h2 id="common-signal-numbers">Common Signal Numbers</h2>
+        <ul>
+        <li><p><strong>SIGUP (1)</strong> - Hangs the terminal running the process or kills the process. Relads configuration files and open/close log files.</p></li>
+        <li><p><strong>SIGKILL (9)</strong> - Direct kill signal to the target process. Last resort method. Doesn't save data or clean up termination of the process.</p></li>
+        <li><p><strong>SIGTERM (15)</strong> - Sends a termination signal to the target process. SIGTERM is the default signal to send and it's considered the safest method.</p></li>
+        </ul>
+        <h2 id="pid">PID</h2>
+        <p>You can find the PID of a process with <code>ps -ef | less</code>. You can also do <code>pidof &lt;process-name&gt;</code></p>
+        <h2 id="tags">Tags</h2>
+        <p>#linux #commands</p>
+    </div>
+</body>
+</html>

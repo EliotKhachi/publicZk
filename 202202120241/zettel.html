@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Linker Directive: CODEPAGE </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="linker-directive-codepage">Linker Directive: CODEPAGE</h1>
+        <p>The <em>CODEPAGE</em> directive is used to allocate program memory on the microcontroller and conveys the microcontroller memory maps <a href="../202202101936/index.html">[Memory Map of a Microcontroller]</a>.</p>
+        <h2 id="implementation">Implementation</h2>
+        <div class="sourceCode" id="cb1"><pre class="sourceCode c"><code class="sourceCode c"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a>CODEPAGE    NAME=page   START=<span class="bn">0x0</span>   END=<span class="bn">0x3FFF</span>  </span>
+        <span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>CODEPAGE    NAME=idlocs START=<span class="bn">0x200000</span>  END=<span class="bn">0x200007</span>    PROTECTED   </span>
+        <span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a>CODEPAGE    NAME=config START=<span class="bn">0x300000</span>  END=<span class="bn">0x30000D</span>    PROTECTED   </span>
+        <span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a>CODEPAGE    NAME=devid  START=<span class="bn">0x3FFFFE</span>  END=<span class="bn">0x3FFFFF</span>    PROTECTED   </span>
+        <span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a>CODEPAGE    NAME=eedata START=<span class="bn">0xF00000</span>  END=<span class="bn">0xF000FF</span>    PROTECTED   </span></code></pre></div>
+        <p>The following is a table associating the contents of memory being allocated with each <em>NAME</em>:</p>
+        <table>
+        <thead>
+        <tr class="header">
+        <th>NAME</th>
+        <th>Type of Memory</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="odd">
+        <td>page</td>
+        <td>main block of memory; program code</td>
+        </tr>
+        <tr class="even">
+        <td>idlocs</td>
+        <td></td>
+        </tr>
+        <tr class="odd">
+        <td>config</td>
+        <td>configuration data</td>
+        </tr>
+        <tr class="even">
+        <td>devid</td>
+        <td>device identification</td>
+        </tr>
+        </tbody>
+        </table>
+        <h2 id="references">References</h2>
+        <ol>
+        <li><a href="https://www.sciencedirect.com/topics/engineering/linker-script">[Linker Script - Science Direct]</a></li>
+        </ol>
+        <h2 id="other-links">Other Links</h2>
+        <ol>
+        <li><a href="../202202120014/index.html">[Linker Directives]</a></li>
+        </ol>
+        <h2 id="tags">Tags</h2>
+    </div>
+</body>
+</html>

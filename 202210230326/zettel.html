@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Mapping XML Elements With Spring Annotations </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="mapping-xml-elements-with-spring-annotations">Mapping XML Elements With Spring Annotations</h1>
+        <table>
+        <thead>
+        <tr class="header">
+        <th>External XML File</th>
+        <th>Spring Annotation</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="odd">
+        <td>bean</td>
+        <td>@Component/@Service/@Repository</td>
+        </tr>
+        <tr class="even">
+        <td>dependency-configuration.xml"</td>
+        <td>@ComponentScan</td>
+        </tr>
+        <tr class="odd">
+        <td>ClassPathXmlApplicationContext</td>
+        <td>AnnotationConfigApplicationContext</td>
+        </tr>
+        <tr class="even">
+        <td>&lt;constructor-arg value="..."&gt;</td>
+        <td>@Value("...")</td>
+        </tr>
+        <tr class="odd">
+        <td>context.getBean(&lt;ClassName&gt;.class)</td>
+        <td>context.getBean(&lt;ClassName&gt;.class)</td>
+        </tr>
+        <tr class="even">
+        <td>Hard code file path</td>
+        <td>@PropertySource</td>
+        </tr>
+        </tbody>
+        </table>
+        <h2 id="tags">Tags</h2>
+        <p>#spring</p>
+    </div>
+</body>
+</html>

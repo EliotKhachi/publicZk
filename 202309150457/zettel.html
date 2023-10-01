@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Amazon Elastic Load Balancer (ELB)</title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="amazon-elastic-load-balancer-elb">Amazon Elastic Load Balancer (ELB)</h1>
+        <p>An Amazon Elastic Load Balancer (ELB) is an aws service that is a managed load balancer [<a href="../202309150454/index.html">Load Balancing</a>]. It's guaranteed to work, takes care of upgrades, maintenance, and has high availability. Only provides a few configuration details.</p>
+        <h2 id="4-kinds-of-load-balancers">4 Kinds of Load Balancers</h2>
+        <ol>
+        <li>Application Load Balancer (HTTP / HTTPS) - Layer 7</li>
+        <li>Network Load Balancers (ultra-high performance, allows for TCP) - Layer 4</li>
+        <li>Gateway Load Balancer - Layer 3</li>
+        </ol>
+        <h2 id="comparison">Comparison</h2>
+        <table>
+        <thead>
+        <tr class="header">
+        <th>Application</th>
+        <th>Network</th>
+        <th>Gateway</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="odd">
+        <td>HTTP/HTTPS/gRPC protocols (layer 7)</td>
+        <td>TCP / UDP protocols (layer 4)</td>
+        <td>GENEVE Protocol on IP Packets (layer 3);</td>
+        </tr>
+        <tr class="even">
+        <td>HTTP routing features</td>
+        <td>High performance</td>
+        <td>Route traffic to firewalls you manage on EC2 instances</td>
+        </tr>
+        <tr class="odd">
+        <td>Static DNS</td>
+        <td>Static IP through Elastic IP</td>
+        <td>intrusion detection</td>
+        </tr>
+        </tbody>
+        </table>
+        <h2 id="references">References</h2>
+        <p><a href="https://aws.amazon.com/elasticloadbalancing/">Amazon ELB</a></p>
+        <h2 id="tags">Tags</h2>
+        <p>#aws</p>
+    </div>
+</body>
+</html>

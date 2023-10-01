@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Port Forwarding to the Internet </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="port-forwarding-to-the-internet">Port Forwarding to the Internet</h1>
+        <p>All the internet's servers communicate through what is known as Port 80. In order to enable your router to host a server on the internet, it must have enabled Port 80 as one of its forwarded ports.</p>
+        <ol>
+        <li><p>Go to your router's configuration settings online (For ASUS, go to router.asus.com)</p></li>
+        <li><p>Navigate to the port forwarding page (this may be different depending on the router model, try checking under WAN.</p></li>
+        <li><p>Add a new port forwarding configuration</p>
+        <ul>
+        <li>Make a name for this service</li>
+        <li>Specify the External Port as 80 or a range from 80 to 80</li>
+        <li>Select the Internal IP address as the LAN IP address of the machine that you are hosting your server on (192.168.1...)</li>
+        <li>Select the Protocol to be TCP <em>and</em> UDP, (BOTH)</li>
+        </ul></li>
+        <li><p>You're done! Save the settings. You can now host your server on the internet from your specified machine.</p></li>
+        </ol>
+        <h2 id="tags">Tags</h2>
+        <p>#ssh #networks</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Installing CentOS </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="installing-centos">Installing CentOS</h1>
+        <h2 id="issue">Issue</h2>
+        <p>CentOS 7 comes with linux kernel 3.10, which doesn't support my laptop's WiFi 6E chip out of the box. I need to upgrade to kernel 5.0+ for support, however, I can't upgrade the kernel without internet. So, step 1 is to get install my WiFi chip's driver.</p>
+        <h2 id="install-intel-wi-fi-6e-gig-driver">Install Intel Wi-Fi 6E (Gig+) Driver</h2>
+        <p>There are 3 different types of these drivers: <a href="https://ark.intel.com/content/www/us/en/ark/products/series/204838/intel-wi-fi-6e-gig-series.html">Intel Wi-Fi 6E (Gig+) Series</a></p>
+        <ol>
+        <li>AX411</li>
+        <li>AX211</li>
+        <li>AX210</li>
+        </ol>
+        <hr />
+        <p>To find out which one my laptop has...</p>
+        <ol>
+        <li><p>Boot a linux distro that can already recognize my chipset --&gt; <a href="../202209210217/index.html">202209210217</a> - Writing Disk ISO Images to USB on Linux</p></li>
+        <li><p><a href="../202209220144/index.html">202209220144</a> - Find Your Wireless Chip Manufacturer and Model</p></li>
+        <li><p>Download the linux driver for your Wifi chip set: <a href="https://www.intel.com/content/www/us/en/support/articles/000005511/wireless.html">Linux Support for Intel Wireless Adapters</a></p>
+        <ul>
+        <li></li>
+        </ul></li>
+        </ol>
+        <h2 id="references">References</h2>
+        <p><a href="https://www.maketecheasier.com/fix-wi-fi-not-working-ubuntu/">WiFi Not Working - Ubuntu</a></p>
+        <h2 id="tags">Tags</h2>
+        <p>#linux</p>
+    </div>
+</body>
+</html>

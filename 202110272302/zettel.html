@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>From Idea to Schematic to PCB </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="from-idea-to-schematic-to-pcb">From Idea to Schematic to PCB</h1>
+        <h2 id="step-1">Step 1</h2>
+        <p>Plan the function of the circuit. Define requirements. Create Block Diagram without specific components.</p>
+        <p>e.g. Create a microcontroller based circuit that reads the position of a joystick and sends the values through the RF band to a receiver. The circuit must be powered through a LiPo Battery.</p>
+        <p><strong>Requirements:</strong></p>
+        <ul>
+        <li>Read power delivery data and joystick data and outputs signals through RF band to a receiver.
+        <ul>
+        <li>MCU</li>
+        <li>Joystick position signal and ADC</li>
+        <li>Receiver and ADC</li>
+        </ul></li>
+        <li>Deliver Power Using LiPo Battery
+        <ul>
+        <li>LiPo Battery</li>
+        <li>LiPo Charge Controller</li>
+        <li>Micro USB Port to charge LiPo Battery through LiPo Charge Controller</li>
+        <li>Power Switch</li>
+        <li>3.3V Regulator</li>
+        </ul></li>
+        <li>Deliver Power Safely - MCU reads input pin voltage reading from voltage divider and checks if 3.4V is exceeded to shut off RF functionality and notify user through LED.
+        <ul>
+        <li>Voltage divider</li>
+        <li>LED</li>
+        </ul></li>
+        </ul>
+        <h2 id="step-2">Step 2</h2>
+        <p>Select components and create paper schematic.</p>
+        <h2 id="step-3">Step 3</h2>
+        <p>Create proper schematic.</p>
+        <ul>
+        <li>Add components to the editor and rearrange them</li>
+        </ul>
+        <h2 id="step-4">Step 4</h2>
+        <p>Design printed circuit board (PCB).</p>
+        <h2 id="references">References</h2>
+        <p><a href="https://www.youtube.com/watch?v=35YuILUlfGs&amp;t=2s">From Idea to Schematic to PCB</a></p>
+        <h2 id="tags">Tags</h2>
+        <p>#electronics</p>
+    </div>
+</body>
+</html>

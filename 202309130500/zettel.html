@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Amazon CloudWatch</title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="amazon-cloudwatch">Amazon CloudWatch</h1>
+        <p>Amazon CloudWatch collects and visualizes real-time logs, metrics, and event data in automated dashboards to streamline your infrastructure and application maintenance.</p>
+        <h2 id="important-metrics">Important Metrics</h2>
+        <ul>
+        <li>EC2 istances: CPU Utilization, Status Checks, Network (not RAM)
+        <ul>
+        <li>Default metricsevery 5 minutes</li>
+        <li>Option for Detailed Monitoring ($$$): metrics every 1 minute</li>
+        </ul></li>
+        <li>EBS volumes: Disk Read/Writes</li>
+        <li>S3 buckets: BucketSizeBytes, NumberOfObjects, AllRequests</li>
+        <li>Billing: Total Estimated Charge</li>
+        <li>Service Limits: how much you've been using a service API</li>
+        <li>Custom metrics: push your own metrics</li>
+        </ul>
+        <h2 id="import-alarms">Import Alarms</h2>
+        <p>Alarms are used to trigger notifications for any metric.<br />
+        Alarms actions include:</p>
+        <ul>
+        <li>Autoscaling</li>
+        <li>stop, terminate, reboot, or recover an EC2 instance</li>
+        <li>SNS notifications</li>
+        </ul>
+        <h2 id="references">References</h2>
+        <p><a href="https://aws.amazon.com/cloudwatch/">Amazon CloudWatch</a></p>
+        <h2 id="tags">Tags</h2>
+        <p>#aws</p>
+    </div>
+</body>
+</html>

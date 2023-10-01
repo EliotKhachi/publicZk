@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Concept of Segementation Fault or Core Dump </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="concept-of-segementation-fault-or-core-dump">Concept of Segementation Fault or Core Dump</h1>
+        <p>A Core Dump or Segmentation fault is a specific error caused by accessing memory that "does not belong to you."</p>
+        <h2 id="various-causes">Various Causes</h2>
+        <ul>
+        <li><p>Trying to write a read-only memory</p>
+        <p>int main() { char *str;</p>
+        <pre><code>  /* Stored in read only part of data segment */
+          str = &quot;GfG&quot;;    
+
+          /* Problem:  trying to modify read only memory */
+          *(str+1) = &#39;n&#39;;
+          return 0;
+        </code></pre>
+        <p>}</p></li>
+        <li><p>Trying to dereference a pointer after freeing the memory block</p>
+        <p>int* p = # free (p); *p = 110;</p></li>
+        <li><p>Improper use of scanf() - scanf() function expects the address of a variable as an input</p></li>
+        </ul>
+        <h2 id="references">References</h2>
+        <p><a href="https://www.geeksforgeeks.org/core-dump-segmentation-fault-c-cpp/">Core Dump (Segmentation fault in C/C++ - GeeksforGeeks</a></p>
+        <h2 id="tags">Tags</h2>
+        <p>#programming</p>
+    </div>
+</body>
+</html>

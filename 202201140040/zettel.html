@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>LRE Start and Shutdown Characteristics </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="lre-start-and-shutdown-characteristics">LRE Start and Shutdown Characteristics</h1>
+        <ul>
+        <li>Start and shutdown characteristics of a liquid rocket engine are best depicted with a Thrust vs Time curve beginning from the time of the cut-off signal to the cessation of thrust.</li>
+        </ul>
+        <p><img src="$USERDIR/Zettelkasten/Pictures/Fig5p3-1" alt="Figure 2.3: Typical Thrust-Decay Diagram" /></p>
+        <ol>
+        <li>At the time of the cut-off signal, the thrust-level is still at 100%</li>
+        <li>After a short period of time (0 - 0.5 s) the main valves begin to close</li>
+        <li>Following shortly afterward is a decrease in power from the turbine. See <a href="../202201100451/index.html">Turbopump</a> for more information.</li>
+        <li>After another short period of time ~0.5 s, the valves are fully closed. During this time is the sharpest decline in thrust.</li>
+        <li>Finally after another short period (~0.5s) we have full cessation of thrust.</li>
+        </ol>
+        <h2 id="start-and-shutdown-functional-requirements">Start and Shutdown Functional Requirements</h2>
+        <ul>
+        <li>Compliance with specified thrust-vs.-time characteristics.</li>
+        <li>Maximum rate of increase at any time during buildup.</li>
+        <li>Freedom from surges and thrust overshoots.</li>
+        <li>Smoothness (freedom from damaging oscillations).</li>
+        <li>Repeatability from run to run and from engine to engine.</li>
+        </ul>
+        <h2 id="references">References</h2>
+        <p>Modern Engineering For Design of Liquid-Propellant Rocket Engines by Dieter K. Huzel and David H. Huang</p>
+        <h2 id="tags">Tags</h2>
+        <p>#aerospace</p>
+    </div>
+</body>
+</html>

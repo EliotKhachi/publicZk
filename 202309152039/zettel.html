@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Scaling Strategies</title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="scaling-strategies">Scaling Strategies</h1>
+        <ul>
+        <li>Manual Scaling - Update the size of an ASG manually</li>
+        <li>Dynamic Scaling - Respond to changing demand
+        <ul>
+        <li>Simple / Step Scaling
+        <ul>
+        <li>When a CloudWatch alarm is triggered (i.e. CPU &gt; 70%), then add 2 units.</li>
+        <li>When a CloudWatch alarm is triggered (i.e. CPU &lt; 30%), then remove 1.</li>
+        </ul></li>
+        <li>Target Tracking Scaling
+        <ul>
+        <li>Example: I want the average ASG CPU to stay at around 40%.</li>
+        </ul></li>
+        <li>Scheduled Scaling
+        <ul>
+        <li>Anticipate a scaling based on known usage patterns</li>
+        </ul></li>
+        <li>Predictive Scaling
+        <ul>
+        <li>Uses Machine Learning to predict future traffic ahead of time</li>
+        </ul></li>
+        </ul></li>
+        </ul>
+        <h2 id="tags">Tags</h2>
+        <p>#cloud</p>
+    </div>
+</body>
+</html>

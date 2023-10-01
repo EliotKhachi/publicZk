@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Features, Modes, and Controls When Outputting to a Pin </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="features-modes-and-controls-when-outputting-to-a-pin">Features, Modes, and Controls When Outputting to a Pin</h1>
+        <p>There are 2 main modes when outputting to a pin: <strong>Open Drain</strong> - MCU pin acts as an input signal to a transistor. Generally used when there are multiple signals on a single line to communicate with each other. Important to use a pull up or pull down resistor to cancel noise from the pin.</p>
+        <p><strong>Push-Pull</strong> - Not necessary to use a <em>pull-up</em> or <em>pull-down</em> state. The <em>None</em> state is used for output pins and this mode.</p>
+        <p>There are 3 states for each mode:</p>
+        <ol>
+        <li><em>Pull-up</em></li>
+        <li><em>Pull down</em></li>
+        <li><em>None</em></li>
+        </ol>
+        <p>States are configured internally (through code) by <strong>registers</strong>.</p>
+        <h2 id="references">References</h2>
+        <p><a href="https://www.youtube.com/watch?v=o0A0zTdf3zY&amp;list=PL6PplMTH29SHgRPDufZhfMRoFwRAIrzOp&amp;index=6">How to Output to a Pin to Blink an LED</a></p>
+        <h2 id="links">Links</h2>
+        <p><a href="../202110192118/index.html">4 Types of Registers and Their Configurations</a></p>
+        <h2 id="tags">Tags</h2>
+        <p>#embeddedSystems</p>
+    </div>
+</body>
+</html>

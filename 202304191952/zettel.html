@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Using Gradle to Build Java Apps </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="using-gradle-to-build-java-apps">Using Gradle to Build Java Apps</h1>
+        <h2 id="what-is-gradle">What is Gradle</h2>
+        <p>Gradle is a build tool used to build Java applications. <a href="../202304191953/index.html">Why Do We Need Build Tools</a></p>
+        <h2 id="gradle-init-creates">gradle init creates...</h2>
+        <ul>
+        <li>build.gradle - Written in Groovy. gradle file that defines the configuration for the project (plugins, repositories, dependencies). Equivalent to the <code>pom.xml</code> in Maven.</li>
+        <li>gradlew - Stands for "gradle wrapper". Mac/Linux shell script used to execute gradle commands, i.e. <code>gradlew build</code> inside your project directory.</li>
+        <li>gradlew.bat - Same as gradlew except for Windows OS.</li>
+        <li>settings.gradle - Written in Groovy. specifies project name and other high level configuration.</li>
+        <li>.gitignore files
+        <ul>
+        <li>.gradle - Gradle project-specific cache directory</li>
+        <li>build - Gradle build output directory</li>
+        </ul></li>
+        </ul>
+        <h2 id="buildgradle-deeper-dive">build.gradle deeper dive</h2>
+        <ul>
+        <li>Project
+        <ul>
+        <li><strong>build.gradle</strong>
+        <ul>
+        <li>plugins - Defining plugins adds tasks to build scripts. I.e. adding the 'java' plugin adds the <code>build</code> task because you can now build your project (if you have a .java file).</li>
+        <li>tasks</li>
+        </ul></li>
+        </ul></li>
+        </ul>
+        <h2 id="what-is-groovy">What is Groovy</h2>
+        <p>A dynamically typed, scripting language that runs on the JVM. Gradle uses Groovy for its build scripts to call Gradle's APIs with the Gradle Groovy DSL (domain specific language).<br />
+        Examples:</p>
+        <pre><code>    def myVar = &#39;Executing as a script&#39;
+            println myVar
+
+            def multiply(first, second) {
+                println first * second
+            }
+            multiply 2, 3
+
+            def myClosure = {
+                println &#39;Executing closure&#39;
+            }
+            myClosure()
+        </code></pre>
+        <h2 id="summary">Summary</h2>
+        <p>apply java plugin --&gt; compile java code with <code>build</code> task --&gt; configured <code>jar</code> task --&gt; added dependency <code>junit</code> for tests --&gt; ran test</p>
+        <h2 id="references">References</h2>
+        <p><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqazFJUUFoRkF6SDhydTJTQ0E4WFRlMlVxMFE0UXxBQ3Jtc0tuMzZkS1E2eHNwTGNaYldJbl9fV3V0eXJxbjZ4cmhpQ3BQbDVwTnZLbnM5akVIcFRtaHZWUHpINWJudGF3a2xUTlNMc2RiUEtUbWhXb0o3bEhwWlFHcy1VaVhqa0t5YU1fUDFIbFItdHpCQTNQOFJ6MA&amp;q=https%3A%2F%2Fgithub.com%2Ftkgregory%2Fgradle-tutorial&amp;v=-dtcEMLNmn0">Gradle Tutorial Github Repo</a> <a href="https://www.youtube.com/watch?v=-dtcEMLNmn0">Gradle Tutorial YouTube Video</a></p>
+        <h2 id="tags">Tags</h2>
+        <p>#java</p>
+    </div>
+</body>
+</html>

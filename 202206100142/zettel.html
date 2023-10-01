@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Git Ignore File </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="git-ignore-file">Git Ignore File</h1>
+        <p>Before explaining the <em>.gitignore</em> file, it's imperative that you understand git sees every file in your working copy as one of three things.</p>
+        <ol>
+        <li>tracked - a file which as been previously staged or committed.</li>
+        <li>untracked - a file which <em>has not</em> been staged or committed.</li>
+        <li>ignored - a file which git has been explicitly told to ignore.</li>
+        </ol>
+        <h2 id="examples-of-the-gitignore-file">Examples of The <em>.gitignore</em> File</h2>
+        <ul>
+        <li>dependency caches, i.e. /node_modules or /packages</li>
+        <li>compiled code, such as .o, .pyc, and .class files, or similarly, build output directories, such as /bin, /out, or /target</li>
+        <li>files generated at runtime, such as .log, lock, or .tmp</li>
+        <li>hidden system files, such as .DS_Store or Thumbs.db</li>
+        <li>personal IDE config files, such as .idea/workspace.xml</li>
+        </ul>
+        <h2 id="git-ignore-patterns">Git ignore patterns</h2>
+        <ul>
+        <li>**/logs
+        <ul>
+        <li>logs/debug.log</li>
+        <li>logs/monday/foo.bar</li>
+        <li>build/logs/debug.log</li>
+        </ul></li>
+        <li>**/logs/debug.log
+        <ul>
+        <li>logs/debug.log</li>
+        <li>build/logs/debug.log</li>
+        <li><em>but not</em> logs/build/debug.log</li>
+        </ul></li>
+        <li>*.log
+        <ul>
+        <li>debug.log</li>
+        <li>foo.log</li>
+        <li>.log</li>
+        <li>logs/debug.log</li>
+        </ul></li>
+        <li>*.log !important.log
+        <ul>
+        <li>debug.log</li>
+        <li>important/trace.log</li>
+        <li><em>but not</em> important/debug.log</li>
+        </ul></li>
+        </ul>
+        <h2 id="references">References</h2>
+        <p><a href="https://www.atlassian.com/git/tutorials/saving-changes/gitignore">Atlassian .gitignore Tutorial</a></p>
+        <h2 id="tags">Tags</h2>
+        <p>#git #programming</p>
+    </div>
+</body>
+</html>

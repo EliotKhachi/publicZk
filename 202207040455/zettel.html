@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>VirtualBox </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="virtualbox">VirtualBox</h1>
+        <p><em>VirtualBox</em> is a free and open source software used to run any OS (operating system) on top of your OS, without restarting your computer.</p>
+        <h2 id="steps">Steps</h2>
+        <ol>
+        <li><p><code>sudo apt update # update packages </code></p></li>
+        <li><p><code>sudo apt install virtualbox # install virtual box</code></p></li>
+        <li><p><code>virtualbox # executes the application, VirtualBox</code> (run in console, Alt+F2)</p></li>
+        <li><p><code>wget https://download.virtualbox.org/virtualbox/6.1.32/Oracle_VM_VirtualBox_Extension_Pack-6.1.32.vbox-extpack # download extension packs for VirtualBox (USB support, disk encryption, and more)</code></p></li>
+        <li><p><code>sudo VBoxManage extpack install Oracle_VM_VirtualBox_Extension_Pack-6.1.32.vbox-extpack # install the extension packs</code></p></li>
+        </ol>
+        <hr />
+        <ol start="6">
+        <li>Inside the <em>VirtualBox</em> application, go to File &gt; Preferences &gt; Extensions. Select the extension pack you just installed (Oracle...) an click OK.</li>
+        <li>Click "New", and then select and name an OS.</li>
+        <li>Allocate RAM</li>
+        <li>Select VDI hard disk file type and dynamically allocate it. Select desired storage amount.</li>
+        <li>Start</li>
+        <li>The VM (VirtualBox Manager) is now asking you to select a start-up disk. Download the OS's .iso file from its official website.</li>
+        <li>Start --&gt; you should now be able to start the VM. If you get this error: "VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED)", go here: <a href="../202207040818/index.html">202207040818</a> - VM Error VT x is disabled in BIOS</li>
+        </ol>
+        <h2 id="tags">Tags</h2>
+        <p>#docker #VM</p>
+    </div>
+</body>
+</html>

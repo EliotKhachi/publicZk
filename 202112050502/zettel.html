@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>I2C Bus Arbitration </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="i2c-bus-arbitration">I2C Bus Arbitration</h1>
+        <p><em>Bus arbitration</em> is a feature of I2C communcation that safeguards the I2C bus lines from having collisions in the case of multiple masters initiating a transaction at the same time.</p>
+        <p>The master that writes a 0 first while the other is writing a 1 will win the arbitration and continue its message while the other master will stop and wait. This is because the master that puts a 1 is actually releasing the SDA line. See <a href="../202112050545/index.html">I2C Open-Drain </a> for more information.</p>
+        <h1 id="references">References</h1>
+        <p><a href="../202112050545/index.html">I2C Open-Drain </a> <a href="https://deepbluembedded.com/i2c-communication-protocol-tutorial-pic/">Introduction to I2C</a></p>
+        <h2 id="tags">Tags</h2>
+    </div>
+</body>
+</html>

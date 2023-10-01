@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Normalization </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="normalization">Normalization</h1>
+        <p><strong>Normalization</strong> is the process of applying well-understood design rules to <em>schema</em>.</p>
+        <ol>
+        <li><p>Tables shouldn't track multiple "things"</p></li>
+        <li><p>Tables shouldn't track more than one concept.</p></li>
+        <li><p>Ensure each concept is pure. Look for signs that a table is confusing or contains data that doesn't belong there.</p></li>
+        </ol>
+        <h2 id="example">Example</h2>
+        <p><code>competition</code></p>
+        <table>
+        <thead>
+        <tr class="header">
+        <th>year</th>
+        <th>competition</th>
+        <th>host_city</th>
+        <th>first_place_dance_move</th>
+        <th>first_place_dancer</th>
+        <th>second_place_dance_move</th>
+        <th>second_place_dancer</th>
+        <th>third_place_dance_move</th>
+        <th>third_place_dancer</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="odd">
+        <td>1994</td>
+        <td>Dance Olympics</td>
+        <td>Berlin</td>
+        <td>Butterfly Swing</td>
+        <td>George Marshall</td>
+        <td>Popping and Locking</td>
+        <td>Monty Mccann</td>
+        <td>Heel Spin</td>
+        <td>Blanche Maldonado</td>
+        </tr>
+        <tr class="even">
+        <td>1994</td>
+        <td>Freestyle</td>
+        <td>Shanghai</td>
+        <td>Gemini Blast</td>
+        <td>Dorian Tapia</td>
+        <td>Popping and Locking</td>
+        <td>Monty Mccann</td>
+        <td>Swing Dancing</td>
+        <td>Darius Mcdonald</td>
+        </tr>
+        <tr class="odd">
+        <td>1994</td>
+        <td>Dance Battle</td>
+        <td>Tokyo</td>
+        <td>Kickstand</td>
+        <td>Delmer Berry</td>
+        <td>The Moonwalk</td>
+        <td>Marc French</td>
+        <td>Quick Shuffle</td>
+        <td>George Marshall</td>
+        </tr>
+        <tr class="even">
+        <td>1995</td>
+        <td>Dance Olympics</td>
+        <td>Mexico City</td>
+        <td>Heel Spin</td>
+        <td>Blanche Maldonado</td>
+        <td>The Robot</td>
+        <td>Ella Bell</td>
+        <td>Body Roll</td>
+        <td>Vicki Bauer</td>
+        </tr>
+        <tr class="odd">
+        <td>1995</td>
+        <td>Freestyle</td>
+        <td>NY City</td>
+        <td>360 flip</td>
+        <td>Georgina Calhoun</td>
+        <td>The Floss</td>
+        <td>Massimo Surgenor</td>
+        <td>The Monastery</td>
+        <td>Darius Mcdonald</td>
+        </tr>
+        <tr class="even">
+        <td>1995</td>
+        <td>Dance Battle</td>
+        <td>Istanbul</td>
+        <td>The Hustle</td>
+        <td>Pete Allison</td>
+        <td>Butterfly Swing</td>
+        <td>George Marshall</td>
+        <td>Whip/Nae Nae</td>
+        <td>Josue Frederick</td>
+        </tr>
+        <tr class="odd">
+        <td>1996</td>
+        <td>Dance Olympics</td>
+        <td>Minsk</td>
+        <td>Popping and Locking</td>
+        <td>Monty Mccann</td>
+        <td>The Dougie</td>
+        <td>Shon Tyler</td>
+        <td>Voguing</td>
+        <td>Kelly Berg</td>
+        </tr>
+        <tr class="even">
+        <td>1996</td>
+        <td>Freestyle</td>
+        <td>NY City</td>
+        <td>Fly High</td>
+        <td>Jamel Duncan</td>
+        <td>Two-Step</td>
+        <td>Massimo Surgenor</td>
+        <td>WingNutt</td>
+        <td>Norman Houston</td>
+        </tr>
+        <tr class="odd">
+        <td>1996</td>
+        <td>Dance Battle</td>
+        <td>Tokyo</td>
+        <td>Quick Shuffle</td>
+        <td>George Marshall</td>
+        <td>Swing Dancing</td>
+        <td>Darius Mcdonald</td>
+        <td>Butterfly Swing</td>
+        <td>George Marshall</td>
+        </tr>
+        </tbody>
+        </table>
+        <p>There are some design issues with the <code>competition</code> table above:</p>
+        <ol>
+        <li><p><strong>Insert a primary key</strong> - Without a primary key, we are forced to use the natural key (<code>year</code>,<code>competition</code>), which could lead to problems if a competition is hosted twice in a single year.</p></li>
+        <li><p><strong>Extract one-to-many relationships</strong> - Remove one-to-many relationships in the table and create a new table to represent them.</p></li>
+        </ol>
+        <ul>
+        <li>A <code>competition</code> has many ranks - create a <code>competition_rank</code> table.</li>
+        <li>A record in <code>competition_rank</code> has a dancer, dance move, rank, and competition id.</li>
+        </ul>
+        <ol start="3">
+        <li><strong>Extract repeating string values</strong> - If there are values that repeat in a column that can be represented as their own concept, put them in its own table.</li>
+        </ol>
+        <ul>
+        <li>Create a <code>host_city</code> table with an <code>id</code> and <code>name</code>.</li>
+        <li>Create a <code>competition</code> table with an <code>id</code> and <code>name</code>.</li>
+        <li>Create a <code>dancer</code> and <code>dance_move</code> table to remove repeating string values in <code>competition_rank</code></li>
+        </ul>
+        <ol start="4">
+        <li><strong>Consolidate</strong> - Add a new master table to tie in the new tables. Define relationships, create foreign keys where needed.</li>
+        </ol>
+        <h2 id="tags">Tags</h2>
+        <p>#db</p>
+    </div>
+</body>
+</html>

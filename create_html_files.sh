@@ -19,8 +19,8 @@ for dir in $(ls | grep -Ev '.md$|.json$|.css$|.html$|.sh$'); do
     
     title=$(head -n 1 "$input_file" | sed -n 's/^# //p')
     
-    # declare filepath to store HTML file temporarily 
-    output_file="/tmp/zettelkasten/$(basename $(pwd)).html"
+    # Store HTML file in current directory 
+    output_file="zettel.html"
 
     # Convert Markdown to HTML using pandoc
     pandoc -f gfm "$input_file" -o "$output_file" --template="$ZETDIR/custom_template.html" --metadata title="$title"
@@ -34,9 +34,7 @@ for dir in $(ls | grep -Ev '.md$|.json$|.css$|.html$|.sh$'); do
 
     # Fix zettel links within html per website's zettel storage structure:
     # zettelkasten/zettel-id.html
-    sed -i 's#<a href="\.\./\([0-9]\{12\}\)">#<a href="\./\1">#g' $output_file
+    sed -i 's#<a href="\.\./\([0-9]\{12\}\)">#<a href="\../\1/index.html">#g' $output_file
 
-    # upload to website s3 zettelkasten
-    aws s3 cp $output_file s3://public-zettelkasten
     cd ..
 done

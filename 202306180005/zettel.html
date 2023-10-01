@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Using Timers for PWM Generation</title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="using-timers-for-pwm-generation">Using Timers for PWM Generation</h1>
+        <p>One use case for timers is to generate a PWM signal. The configuration implementation for a timer channel varies for each microcontroller and whether you are using <em>CubeMX</em>, the <em>HAL</em> library, or bare-metal programming.</p>
+        <p>In general, there are 3 core parameters when configuring a timer for PWM:</p>
+        <ol>
+        <li>Clock Source (i.e. internal clock)</li>
+        <li>Counter Period or Bit Resolution (usually 8 or 16 bit value)</li>
+        <li>Pulse (usually 8 or 16 bit value)</li>
+        </ol>
+        <h2 id="tags">Tags</h2>
+        <p>#embeddedSystems</p>
+    </div>
+</body>
+</html>

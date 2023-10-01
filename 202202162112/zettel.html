@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>WSL2: Getting Started on Windows 10 </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="wsl2-getting-started-on-windows-10">WSL2: Getting Started on Windows 10</h1>
+        <ol>
+        <li><p>Make sure to have Windows 10 updated to atleast Version 2004 (OS build 19041.264).</p></li>
+        <li><p>Type Windows Features on the search bar and make sure the <em>Windows Subsystem for Linux</em> AND <em>Virtual Machine Platform</em> are turned on.</p></li>
+        <li><p>Restart your computer.</p></li>
+        <li><p>Go to Windows Store and install Ubuntu 20.04 LTS.</p></li>
+        <li><p>Download and install the latest WSL2 Linux kernel packge for x64 machine.</p></li>
+        <li><p>Run Powershell</p></li>
+        <li><p>Configure WSL versions</p>
+        <ul>
+        <li>Check currently running and stopped versions <code>wsl -l -v</code></li>
+        <li>Set version <code>wsl --set-version Ubuntu-20.04 2</code> or <code>wsl --set-version Ubuntu-20.04 1</code></li>
+        <li>Set default version `wsl --set-default-version 2'</li>
+        </ul></li>
+        </ol>
+        <h2 id="tags">Tags</h2>
+        <p>#wsl</p>
+    </div>
+</body>
+</html>

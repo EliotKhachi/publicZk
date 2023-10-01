@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>The SystemInit() Function </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="the-systeminit-function">The SystemInit() Function</h1>
+        <p>Found in the CMSIS system_&lt;device&gt;.c file, the SystemInit function is called by the <em>reset handler</em> <a href="../202202110419/index.html">[Reset Handler]</a> and provides all the necessary code to configure the MCU for startup:</p>
+        <ul>
+        <li>setting up internal <em>phase locked loops</em></li>
+        <li>configuring the MCU clock tree and internal buss structure</li>
+        <li>enabling the external buss if required</li>
+        <li><strong>sets the CMSIS global cariable SystemCoreClock to the CPU frequency</strong></li>
+        </ul>
+        <h2 id="tags">Tags</h2>
+        <p>#embeddedSystems #STM32</p>
+    </div>
+</body>
+</html>

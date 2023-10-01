@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Linux Kernal Interals &amp; Debugging </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="linux-kernal-interals--debugging">Linux Kernal Interals &amp; Debugging</h1>
+        <h2 id="the-linux-terminal-uses-kernel-modules-for-device-drivers-network-protocols-file-system-management-and-for-many-many-more-other-uses-modules-are-basically-pieces-of-code-that-the-kernel-runs-when-needed-or-commanded-hence-commands-in-the-terminal-and-dont-run-when-unneeded-many-modules-when-ran-display-text-to-the-terminal">The Linux terminal uses kernel modules for device drivers, network protocols, file system management, and for many, many more other uses. Modules are basically pieces of code that the kernel runs when needed or <em>commanded</em> (hence commands in the terminal), and don't run when unneeded. Many modules when ran display text to the terminal.</h2>
+        <p><strong>Typical Example of Code for a Module</strong></p>
+        <pre><code>#include &lt;linux/module.h&gt;
+        #include &lt;linux/init/h&gt;
+
+        static int __init my_init(void)
+        {
+            pr_info(&quot;Hello: Module loaded at 0x%p\n&quot;, myinit);
+            return 0;
+        }
+
+        static void __exit my_exit(void)
+        {
+            pr_info(&quot;Bye: Module unloadedfrom 0x%p\n&quot;, my_exit);
+        }
+
+        // Macros load the functions
+        module_init(my_init);
+        module_exit(my_exit);
+
+        MODULE_AUTHOR(&quot;A GENIUS&quot;); // Documentation for authorship
+        MODULE_LICENSE(&quot;GPL V2);   // GNU Version 2 library used -&gt; has implication for use of this module
+        </code></pre>
+        <hr />
+        <p><strong>Compiling Modules</strong></p>
+        <p>The <em>kernel source</em> is needed to compile a module by first generating a .config file containing the necessary configuration and dependency information. <em>Makefiles</em> perform the compilation.</p>
+        <h2 id="references">References</h2>
+        <p><a href="https://www.youtube.com/watch?v=Ni_FuuYmsHw">Linux Training Course: Linux Kernel Internals &amp; Debugging</a></p>
+        <h2 id="links">Links</h2>
+        <p><a href="../202110182235/index.html">Makefiles</a></p>
+        <h2 id="tags">Tags</h2>
+        <p>#linux</p>
+    </div>
+</body>
+</html>

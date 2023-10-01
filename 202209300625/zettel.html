@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../styles.css"> <!-- Include your CSS file here -->
+    <title>Channel Binding </title>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        <h1 id="channel-binding">Channel Binding</h1>
+        <p><strong>Channel Binding</strong> is the process of <em>binding</em> the lower encryption channel to the higher application channel for cross-directional authentication.</p>
+        <hr />
+        <p>Consider the following situation:</p>
+        <p>Alice wants to log into Bob's server. She sends a hashed version of her password, but there was a <em>man-in-the-middle attack</em>, and Bob didn't get it. Instead, the attacker did. Thankfully, the password was hashed so the attacker couldn't decipher it. But still, Bob didn't receive it.</p>
+        <p>For solving this, Bob registers himself to a certificate authority (CA), which signs his certificate. Alice <em>could</em> solely rely on that signature system, but she knows it has weaknesses. To give her additional assurance that there is no man-in-the-middle attack, Bob creates a proof that he knows the password (or a salted hash thereof), and includes his certificate into this proof. This inclusion is called <strong>channel binding</strong>, as the lower encryption channel is 'bound' to the higher application channel.</p>
+        <p>Alice then has an authentication of Bob, and Bob has authentication of Alice. Taken together, they have mutual authentication.</p>
+        <h2 id="references">References</h2>
+        <p><a href="https://en.wikipedia.org/wiki/Salted_Challenge_Response_Authentication_Mechanism">Wiki - Salted Challenge Response Authentication Mechanism</a></p>
+        <h2 id="tags">Tags</h2>
+        <p>#security #cryptography</p>
+    </div>
+</body>
+</html>
