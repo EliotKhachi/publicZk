@@ -48,4 +48,4 @@ To turn off any given pin, set the *reset* bit to 1 for that pin.
 
 
 ## Tags
-#embeddedSystems 
+#embeddedSystems
