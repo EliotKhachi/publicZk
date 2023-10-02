@@ -18,4 +18,4 @@ The NIST Self-Assessment tool is a method by which to judge a MBE readiness leve
 
 See how this self-assessment tool classifies various design activities [202110021957](../202110021957). 
 ## Tags
-#systemsEngineering #MBSE 
+#systemsEngineering #MBSE
