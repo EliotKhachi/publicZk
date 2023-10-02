@@ -19,4 +19,4 @@ States are configured internally (through code) by **registers**.
 [4 Types of Registers and Their Configurations](../202110192118)
 
 ## Tags
-#embeddedSystems 
+#embeddedSystems
