@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Eliot Khachi</title>
+    <title>My Zettelkasten</title>
     <link rel="stylesheet" type="text/css" href="./zettelkasten.css" />
     <link
       href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap"
@@ -21,6 +21,11 @@
       <h1 id="title">My Zettelkasten</h1>
       <h2 id="title">Welcome to Eliot's Zettelkasten: A Garden of Ideas</h2>
       <div class="container">
+
+        <label for="tagInput">Enter Tag:</label>
+        <input onchange="renderObjects()" type="text" id="tagInput" placeholder="Type a tag" />
+        <div id="result"></div>
+
         <p>
           In the tranquil expanse of my digital garden, you'll find the
           blossoming fruits of my intellectual journeys, carefully nurtured and
