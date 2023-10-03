@@ -33,4 +33,4 @@ All EOCs must be sent to all critical stakeholders to be approved before manufac
 [Reason to issue ECOs](../202110242330)
 
 ## Tags
-#qualityControl
+#quality
