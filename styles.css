@@ -73,8 +73,10 @@ th, td {
     padding: 8px;
     text-align: left;
 }
+
 th {
-    font: bold;
+    font-weight: 700;
     background-color: var(--primary-color);
     color: var(--background-color-dark); 
 }
+

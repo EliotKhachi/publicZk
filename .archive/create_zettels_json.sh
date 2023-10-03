@@ -24,8 +24,11 @@ done
 # Join the zettel data array elements with commas
 IFS=, zettels_json="${zettels[*]}"
 
+# Get tags from registry
+tags=$(sed 's/1\. #\(.*\)$/"#\1"/g' REGISTRY.md | sed ':a;N;$!ba;s/\n/,/g')
+
 # Create the JSON output
-json_output="{\"zettels\": [$zettels_json]}"
+json_output="{\"zettels\": [$zettels_json], \"registry\": [$tags]}"
 
 # Write the JSON output to a file (while removing anything that makes jsons invalid, i.e. ,] and ,}
 echo "$json_output" | sed 's#,\]#\]#g' | sed 's#,}#}#g' > zettels.json
