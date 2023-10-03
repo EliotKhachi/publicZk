@@ -32,4 +32,4 @@ Quality audits can...
 [10 Types of Quality Audits](https://www.tiptech.com/blog/10-types-of-quality-audits/)
 
 ## Tags
-#qualityControlEliotKh#2286
+#quality
