@@ -19,15 +19,19 @@ const availableTagsDiv = document.getElementById("available-tags");
 function renderTags() {
   const availableTags = jsonData.registry;
   availableTags.forEach((item) => {
-    const tag = document.createElement("p");
+    const tag = document.createElement("button");
     tag.textContent = item;
     tag.id = "tag";
+    tag.addEventListener("click", function () {
+      tagInput.value=tag.textContent.slice(1);
+      renderObjects();
+    })
     availableTagsDiv.appendChild(tag);
   });
 }
 
 function renderObjects() {
-  const inputValue = tagInput.value.toLowerCase();
+  const inputValue = tagInput.value;
   const resultDiv = document.getElementById("result");
   if (inputValue == "") {
     resultDiv.innerHTML = "";
@@ -39,7 +43,7 @@ function renderObjects() {
 
   // Filter JSON objects based on the entered tag
   const filteredData = jsonData.zettels.filter((item) => {
-    return item.tags.some((tag) => tag.includes(inputValue));
+    return item.tags.some((tag) => tag.toLowerCase().includes(inputValue.toLowerCase()));
   });
 
   // Render the matching objects

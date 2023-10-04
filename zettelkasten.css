@@ -10,10 +10,10 @@
   --text-opacity-on-hover: 100%;
 }
 
-/* GENERAL CSS */
+/* ELEMENT CSS */
 html {
-    height: 100%;
-    width: 100%;
+  height: 100%;
+  width: 100%;
 }
 
 img {
@@ -37,40 +37,17 @@ body {
 label {
   color: var(--primary-color);
   font-size: 20px;
-  margin: 40px;
+  margin: 20px;
   margin-right: 0px;
 }
 
 input {
+  color: var(--primary-color);
   margin-top: 40px;
   margin-bottom: 40px;
-  font-size: 18px;
-}
-
-#title {
-    margin: 20px;
-    font-size: 40px;
-    color: var(--primary-color);
-}
-#title:hover {
-  text-decoration: none;
-}
-
-#available-tags {
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  margin-left: 20px;
-}
-p#tag {
-  text-align: center;
-  font-size: 12px;
-  margin: 2px;
-  padding: 10px;
-  padding-top: 1px;
-  padding-bottom: 1px;
-  background-color: black;
-  border-radius: 40px;
+  font-size: 20px;
+  background-color:transparent;
+  border-style:none;
 }
 
 h2 {
@@ -89,27 +66,80 @@ a {
   color: white;
   text-decoration: none;
 }
-
 a:hover {
   text-decoration: underline;
 }
 
-ul {
-    font-size: 20px;
-    line-height: 30px;
-
+ul,
+ol {
+  font-size: 20px;
+  line-height: 30px;
 }
 
-th, td {
-    font-size: 20px;
-    border: 3px solid var(--primary-color);
-    padding: 8px;
-    text-align: left;
+th,
+td {
+  font-size: 20px;
+  border: 3px solid var(--primary-color);
+  padding: 8px;
+  text-align: left;
 }
 th {
-    font: bold;
-    background-color: var(--primary-color);
-    color: var(--background-color-dark); 
+  font: bold;
+  background-color: var(--primary-color);
+  color: var(--background-color-dark);
+}
+
+/* CLASS CSS */
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+/* ID CSS */
+#available-tags {
+  display: flex;
+  flex-direction: row;
+}
+
+#main-content {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 90%;
+}
+
+#title {
+  margin: 20px;
+  font-size: 40px;
+  color: var(--primary-color);
+}
+#title:hover {
+  text-decoration: none;
+}
+
+#available-tags {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 20px;
+}
+button#tag {
+  width: fit-content;
+  font-size: 16px;
+  margin: 5px;
+  padding: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  background-color: transparent;
+  color: var(--primary-color);
+  font-weight:400;
+  border-radius: 40px;
+  cursor: pointer;
 }
 
 #result {
@@ -123,10 +153,13 @@ th {
   /* padding-top: 5px;
   padding-bottom: 5px; */
   border-radius: 20px;
-  font-weight: 700;
+  font-weight: 900;
   font-size: 16px;
   background-color: var(--primary-color);
   color: var(--background-color-dark);
+}
+#zettel-link:hover {
+  text-decoration: none;
 }
 
 #zettel-link-tags {
@@ -137,4 +170,18 @@ th {
 
 #zettel-link-tags:hover {
   text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .parent {
+    align-items: center;
+    justify-content:center;
+  }
+
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+}
+
+@media (min-width: 1025px) {
 }

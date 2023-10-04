@@ -18,21 +18,77 @@
       <div id="stars3"></div>
     </div>
     <div class="parent">
-      <a href ="https://www.eliotkhachi.dev" id="title">Eliot Khachi</a>
+      <a href="https://www.eliotkhachi.dev" id="title">Eliot Khachi</a>
       <h2>Welcome to My Zettelkasten!</h2>
       <div class="container">
-          <div id="available-tags">
+        <h2>Tags</h2>
+        <div id="available-tags"></div>
+        <div id="main-content">
+          <div>
+            <label for="tagInput">Enter Tag:</label>
+            <input
+              onchange="renderObjects()"
+              type="text"
+              id="tagInput"
+              placeholder="Type a tag"
+            />
+          </div>
+          <div id="result"></div>
+
+          <h2>What is a Zettelkasten?</h2>
+          <p>
+            Zettelkasten is German for "slip box". It's a note-taking system
+            designed and used by the German sociologist Niklas Luhmann. He
+            needed a system to help him manage vast amounts of information and
+            be a source for generating innovative ideas.
+          </p>
+
+          <p>
+            The problem with traditional note-taking is that it leads to
+            fragmented and cluttered information. You fragment information when
+            you box in ideas (folders) and thereby isolate them. You clutter
+            information when you have more folders than you can handle and don't
+            know where to put what. The reality is that concepts overlap and
+            intertwine and can't be categorized in just one way. Luhmann
+            believed that to truly understand complex subjects, you need a
+            system that encouraged an interplay of ideas.
+          </p>
+          <p>
+            In essence, a Zettelkasten is a living and breathing network of
+            notes; a web of knowledge; a second brain. Each note can be linked
+            to others, allowing for the emergence of unexpected connections,
+            patterns, and insights, making it an invaluable tool for research,
+            writing, and personal growth. Ideally, each note is atomic. The
+            concept of atomicity in this context means there is one and only one
+            idea being expressed per note. This makes each note complete in and
+            of itself, thereby grounding it. Such notes can now serve as the
+            foundation for other, more complex ideas. This system of note-taking
+            grows organically without maintenance because...
+          </p>
+          <ol>
+            <li>
+              Each note can stand alone with the opportunity to be linked.
+            </li>
+            <li>
+              Those that are linked infrequently are lost in the Zettelkasten
+              and are forgotten.
+            </li>
+            <li>
+              Those that are linked often will continue to come up and are the
+              ones worth remembering.
+            </li>
+          </ol>
+
+          <p>
+            If you've never heard of a Zettelkasten before, I hope you now
+            understand its power and are ampted to try it (check out
+            <a href="https://obsidian.md/">Obsidian.md</a>)! Feel free to
+            traverse my second brain up above by searching a tag :).
+          </p>
+          <p>With curiosity,</p>
+
+          <p>Eliot</p>
         </div>
-        <label for="tagInput">Enter Tag:</label>
-        <input onchange="renderObjects()" type="text" id="tagInput" placeholder="Type a tag" />
-        <div id="result"></div>
-
-        <h2>What is a Zettelkasten?</h2>
-        <p>A zettelkasten is an interconnected network of notes.</p>
-
-        <p>With curiosity,</p>
-
-        <p>Eliot</p>
       </div>
     </div>
     <script src="script.js"></script>
