@@ -1,6 +1,6 @@
 # String Commands Together
 
-*Pipes* are used to redirect the [Standard Output](../202305212216/README.md) of one command to the [Standard Input](../202305212202/README.md) of another.  
+*Pipes* are used to redirect the [Standard Output](../202305212216) of one command to the [Standard Input](../202305212202) of another.  
 
 ## Example
 ```
