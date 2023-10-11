@@ -13,8 +13,8 @@ Desktop Documents Downloads Pictures Music # output
 ```
 
 ## Links
-[Mastering Linux](../202305212246/README.md)  
-[Redirecting Standard Output](../202305212218/README.md)  
+[Mastering Linux](../202305212246)  
+[Redirecting Standard Output](../202305212218)  
 
 ## References
 [Linux Pocket Guide](https://linuxpocketguide.com/)
