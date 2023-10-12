@@ -1,6 +1,6 @@
 # Redirecting Standard Input
 
-First, what even is [Standard Input](../202305212202/README.md)?
+First, what even is [Standard Input](../202305212202)?
 
 Another way to provide input is using a file. Use the `<` shell operator to *redirect* the file's contents into standard input.   
 
@@ -8,7 +8,7 @@ Another way to provide input is using a file. Use the `<` shell operator to *red
 `4` *output*
 
 ## Links
-[Mastering Linux](../202305212246/README.md)  
+[Mastering Linux](../202305212246)  
 
 ## References
 [Linux Pocket Guide](https://linuxpocketguide.com/)
