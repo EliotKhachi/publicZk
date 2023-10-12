@@ -4,6 +4,7 @@
 1. #bash
 1. #beliefs
 1. #books
+1. #brain
 1. #business
 1. #career
 1. #cloud
@@ -24,6 +25,8 @@
 1. #git
 1. #growth
 1. #health
+1. #hello
+1. #high-five
 1. #hub
 1. #java
 1. #javascript
