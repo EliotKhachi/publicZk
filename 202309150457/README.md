@@ -6,6 +6,7 @@ An Amazon Elastic Load Balancer (ELB) is an aws service that is a managed load b
 1. Application Load Balancer (HTTP / HTTPS) - Layer 7  
 2. Network Load Balancers (ultra-high performance, allows for TCP) - Layer 4  
 3. Gateway Load Balancer - Layer 3  
+4. Classic Load Balancer (deprecated)
 
 ## Comparison
 |Application|Network|Gateway|
