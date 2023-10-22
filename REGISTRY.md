@@ -15,6 +15,7 @@
 1. #db
 1. #debug
 1. #dev
+1. #dfgjlsdfg
 1. #dgsfkdf
 1. #dkglk
 1. #docker
@@ -22,6 +23,7 @@
 1. #embeddedSystems
 1. #engineering
 1. #finance
+1. #fndthoi
 1. #gcc
 1. #GDT
 1. #git
