@@ -15,6 +15,8 @@
 1. #db
 1. #debug
 1. #dev
+1. #dgsfkdf
+1. #dkglk
 1. #docker
 1. #electronics
 1. #embeddedSystems
@@ -26,7 +28,6 @@
 1. #growth
 1. #health
 1. #hello
-1. #high-five
 1. #hub
 1. #java
 1. #javascript
