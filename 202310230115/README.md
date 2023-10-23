@@ -1,6 +1,6 @@
 # Connect Github Actions to Actions in AWS
 
-1. Create an OIDC provider in your AWS account. This is a trust relationship that allows GitHub to authenticate and be authorized to perform actions in your account.  
+1. [Create an OIDC provider in your account](../202310230118). This is a trust relationship that allows GitHub to authenticate and be authorized to perform actions in your account.  
 2. Create an IAM role in your account. You will then scope the IAM role’s trust relationship to the intended parts of your GitHub organization, repository, and branch for GitHub to assume and perform specific actions.  
 3. Assign a minimum level of permissions to the role.  
 4. Create a GitHub Actions workflow file in your repository that can invoke actions in your account.  
