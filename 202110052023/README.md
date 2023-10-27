@@ -1,6 +1,6 @@
 # What is Model-Based Systems Engineering? 
 
-The formalized application of modeling to support the evolution of system requirements, design, analysis, verification and validation activities beginning in the conceptual design phase and continuing through product end of life.
+Model-Based Systems Engineering is an approach to systems engineering [[What is Systems Engineering?  ](../202201080221)] that is *model-based* as opposed to *document-based*. Rather than having hundreds (if not thousands) of documents spread throughout the organization that outline your requirements, system architecture, design, analysis, etc., you maintain a single model. The advantage here is that any changes, revisions, or updates are made directly to the model once rather than to hundreds of documents. 
 
 # References
 *SysML Distilled* by Lenny Delligatti
