@@ -4,6 +4,5 @@
 
 * SysML should be gradually incorporated into the product development process ([202110032326](../202110032326) - Steps to Implementing a Model-Based Enterprise.)
 
-
 ## Tags
-#systemsEngineering #MBSE
+#systems #MBSE
