@@ -1,46 +1,19 @@
-# 4 Pillars or 9 Diagrams of SysML
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type= "text/css" href="../css/zettelkasten.css"> <!-- Include your CSS file here -->
+    <title>test</title>
 
-```mermaid
-classDiagram
-    Animal <|-- Duck
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
-    class Duck {
-        +String beakColor
-        +swim()
-        +quack()
-        }
-        class Fish{
-        -int sizeInFeet
-        -canEat()
-        }
-        class Zebra{
-        +bool is_wild
-        +run()
-   }
-```
-
-
-<details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-   ```
-
-</details>
-
-
-## Tags
-#systems
+</head>
+<body>
+    <div class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </div>
+    <div class="content">
+        
+    </div>
+</body>
+</html>
