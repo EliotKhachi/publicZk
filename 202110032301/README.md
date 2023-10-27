@@ -10,4 +10,4 @@ The model is a tool that helps systems engineers...
 * Capture knowledge for design evolution, justification,& organizational knowledge
 
 ## Tags
-#systems #MBSE
+#systems
