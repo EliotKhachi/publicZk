@@ -5,6 +5,7 @@
 * Don't try to "boil the ocean". Simplify and implement one feature at a time.
 * Share CAD files across departments, emphasize communication through the model.
 
-**Remember** MBSE is more of an organizational change initiative rather than a software because it's all about how you represent knowledge within the organization and facilitate information flow. All relevant persons must agree to use it.
+**Remember** MBSE is more of an organizational change initiative rather than a software because it's all about how you represent knowledge within the organization and facilitate information flow. All relevant persons must agree to use it.  
+
 ## Tags
 #systems #MBSE
