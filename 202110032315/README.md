@@ -20,4 +20,4 @@ SysML does not resemble a language at first glace, nor is it modeling itself. Th
 SysML is used to close the communications gap between systems and software engineers.
 
 ## Tags
-#systemsEngineering #MBSE
+#systems #MBSE
