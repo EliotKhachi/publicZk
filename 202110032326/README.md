@@ -7,4 +7,4 @@
 
 **Remember** MBSE is more of an organizational change initiative rather than a software because it's all about how you represent knowledge within the organization and facilitate information flow. All relevant persons must agree to use it.
 ## Tags
-#systemsEngineering #MBSE
+#systems #MBSE
