@@ -16,5 +16,7 @@ mysql
 5. `-d` stands for *detached* and tells the container to run in the background of the terminal session.  
 6. `mysql` is the name of the docker image used to create the container. Without explictly mentioning the tag, docker automatically pulls `mysql:latest` for us.  
 
+[Connect to a PostgreSQL Database Docker Instance](../202310310359)
+
 ## Tags
 #docker #db
