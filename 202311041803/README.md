@@ -1,6 +1,6 @@
 # The Categorical Imperative
 
-The Categorical Imperative is, according to Emmanuel Kant, a principle of practical rationality that is also the supreme principle of morality.  
+The Categorical Imperative is, according to Immanuel Kant, a principle of practical rationality that is also the supreme principle of morality.  
 
 ## First Formulation
 *Act only in accordance with that maxim which you can at the same time will that it become a universal law.*
