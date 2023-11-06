@@ -1,5 +1,7 @@
 # Leetcode Studyguide
 
+In this studyguide, we'll progress through increasingly complex data structures and algorithms. Within each subject there is a *Theory* section and a *Practice* section.  
+
 1. Arrays & Hashing
 2. Two Pointers
 3. Sliding Window
