@@ -5,7 +5,7 @@ Given an integer array `nums`, return `true` if any value appears at least twice
 
 ## Solution
 Initialize a set `seen`.  
-For every element in `nums`, add it to `seen` if it does not yet exist in `seen`; otherwise, return `true`. If we haven't returned `true` after looping through the entire array, then return `false`. 
+For every element in `nums`, if it doesn't exist in `seen`, then add it; otherwise, return `true`. After looping through the entire array, return `false`. 
 
 This works because when we traverse `nums` and encounter a number that we have already *seen*, that means we encountered it again; i.e. there is a duplicate and therefore we should return `true`. If we never encountered a duplicate, then we return `false` since every element is distinct.  
 
