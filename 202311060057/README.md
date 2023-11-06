@@ -1,7 +1,7 @@
 # Arrays and Hashing
 
 1. [Contains Duplicate (Easy)](../202311060058)
-2. Valid Anagram (Easy)
+2. [Valid Anagram (Easy)](../202311060130)  
 3. Two Sum (Easy)
 4. Group Anagrams (Medium)
 5. Top K Frequent Elements (Medium)
