@@ -1,4 +1,4 @@
-# Leetcode Studyguide
+# Leetcode Blind 75 Studyguide
 
 We'll progress through increasingly complex data structures and algorithms. For each problem, take note of the time and space complexities of the solution.  
 
