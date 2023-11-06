@@ -32,7 +32,7 @@ public:
 ```
 
 ## References
-[Leetcode Problems - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+[Leetcode Problems - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
 [Geeks For Geeks - Introduction to Set Data Structure](https://www.geeksforgeeks.org/introduction-to-set-data-structure-and-algorithm-tutorials/)
 
 
