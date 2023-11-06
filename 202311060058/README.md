@@ -38,7 +38,7 @@ The time complexity is a function of the for loop and method calls within the lo
 * seen.find(element) - O(log(n)), where n is the size of the set. Sets in C++ are stored as a binary search tree, and therefore searching the tree has a worst-case time-complexity of log(n).  
 * seen.end() - O(1)  
 * seen.insert - O(log(n)), where n is the size of the set.  
-This gives us a worst-case time complexity of **O(n*log(n)*log(n))**
+This gives us a worst-case time complexity of **O(n\*log(n)\*log(n))**
 
 ## References
 [Leetcode Problems - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
