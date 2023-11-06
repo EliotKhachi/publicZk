@@ -8,7 +8,7 @@ Aside from that, I think this is going to be a fun journey 😃.
 
 P.S. In my journey, I'll be using C++. I'm using C++ simply to widen my arsenal of programming languages. With that being said, the language you use has no bearing on learning the fundamental concepts.  
 
-[[Leetcode Studyguide](../202311060023)]
+[[Leetcode Blind 75 Studyguide](../202311060023)]
 
 ## Tags
 #leetcode #hub
