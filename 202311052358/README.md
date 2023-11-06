@@ -6,7 +6,7 @@ I believe every programmer should solve the [Blind 75 Must Do Leetcode](https://
 
 Aside from that, I think this is going to be a fun journey 😃.
 
-P.S. In my journey, I'll be using C++ as my programming language. With that being said, the language has no bearing in terms of learning the concepts.  
+P.S. In my journey, I'll be using Python as my programming language for its ease of use. The language has no bearing in terms of learning the concepts.  
 
 [[Leetcode Studyguide](../202311060023)]
 
