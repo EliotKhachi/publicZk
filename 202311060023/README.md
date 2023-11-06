@@ -1,6 +1,6 @@
 # Leetcode Studyguide
 
-In this studyguide, we'll progress through increasingly complex data structures and algorithms. Within each subject there is a *Theory* section and a *Practice* section.  
+We'll progress through increasingly complex data structures and algorithms. For each problem, take note of the time and space complexities of the solution.  
 
 1. Arrays & Hashing
 2. Two Pointers
