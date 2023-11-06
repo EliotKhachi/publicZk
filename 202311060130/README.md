@@ -41,7 +41,7 @@ The space complexity is determined by the map `characterOccurences` since that i
 The time complexity is the sum of the time complexities of each loop. This simplifies to **O(n)**, where n is the length of the string `s` and `t`.  
 
 ## References
-[LeetCode Problems - Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+[LeetCode Problems - Valid Anagram](https://leetcode.com/problems/valid-anagram/)  
 [GeekForGeeks - Maps in C++](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
 
 ## Tags
