@@ -12,6 +12,10 @@ Initialize a set `seen`.
 For every element in `nums`, if it doesn't exist in `seen`, then add it; otherwise, return `true`. After looping through the entire array, return `false`. 
 
 ```c++
+#include <iostream>
+#include <vector>
+#include <set>
+
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
