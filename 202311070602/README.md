@@ -1,4 +1,0 @@
-# Two Sum
-
-## Tags
-#test
