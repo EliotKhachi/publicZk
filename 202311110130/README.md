@@ -17,8 +17,6 @@ Example 2:
 Input: nums = [-1,1,0,-3,3]
 Output: [0,0,9,0,0]
 
-  
-
 Constraints:
 2 <= nums.length <= 105
 -30 <= nums[i] <= 30
@@ -27,11 +25,10 @@ The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit int
 Follow up: Can you solve the problem in O(1) extra space complexity? (The output array does not count as extra space for space complexity analysis.)
 
 ## Solution
-
 1. Declare vector `answer` with 1s  
 2. Iterate over nums from left to right and multiply `answer[i]` by `nums[0]*nums[1]*...*nums[i-1]`  
-2. Iterate over nums from right to left and multiply `answer[i]` by `nums[n]*nums[n-1]*...*nums[i+1]` 
-3. Return `answer`
+2. Iterate over nums from right to left and multiply `answer[i]` by `nums[n]*nums[n-1]*...*nums[i+1]`  
+3. Return `answer`  
 
 ```c++
 #include <vector>
@@ -69,5 +66,8 @@ class Solution {
 // i=2: 1,12,8,6| postfix = 24
 // i=3: 24,12,8,6| postfix = 24
 ```
+
+## References
+[GeeksForGeeks - Vectors in C++](https://www.geeksforgeeks.org/vector-in-cpp-stl/)  
 
 ## Tags
