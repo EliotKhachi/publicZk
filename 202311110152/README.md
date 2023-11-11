@@ -54,6 +54,7 @@ class Solution {
 ```
 
 ## References
+[Leetcode Problems - Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  
 [GeeksForGeeks - Vectors in C++](https://www.geeksforgeeks.org/vector-in-cpp-stl/)  
 [GeeksForGeeks - Unordered Set in C++](https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/)  
 
