@@ -33,7 +33,6 @@ Constraints:
 ```c++
 #include<algorithm>
 #include<unordered_set> 
-#include<algorithm>
 
 class Solution {
     public:
@@ -49,8 +48,13 @@ class Solution {
                     longest = max(length, longest);
                 }
             }
+            return longest;
         }
 };
 ```
+
+## References
+[GeeksForGeeks - Vectors in C++](https://www.geeksforgeeks.org/vector-in-cpp-stl/)  
+[GeeksForGeeks - Unordered Set in C++](https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/)  
 
 ## Tags
