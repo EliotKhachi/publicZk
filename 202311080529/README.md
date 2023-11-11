@@ -66,6 +66,8 @@ class Solution {
 ```
 
 ## References
-[Leetcodee Problems - Group Anagrams](https://leetcode.com/problems/group-anagrams/)  
+[Leetcode Problems - Group Anagrams](https://leetcode.com/problems/group-anagrams/)  
+[GeeksForGeeks - Maps in C++](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)  
+[GeeksForGeeks - Vectors in C++](https://www.geeksforgeeks.org/vector-in-cpp-stl/)  
 
 ## Tags
