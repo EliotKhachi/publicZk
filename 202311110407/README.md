@@ -33,19 +33,19 @@ Constraints:
 -105 <= nums[i] <= 105
 
 ## Solution
-Declare 2d `result` vector.  
-Sort the input vector in increasing order.  
-Loop over the input vector.  
-    For each element at `i`, set a left and right pointer `l` and `r` for the rest of the array.  
-        while l < r
-            Evaluate the sum.
-            If the sum is less than 0,
-                increment the left pointer.
-            Else if the sum is greater than 0,
-                decrement the right pointer.  
-            Else
-                add the triplet to the `result` vector.  
-                keep incrementing the left pointer and decrementing the right pointer until we pass any duplicates
+* Declare 2d `result` vector.  
+* Sort the input vector in increasing order.  
+* Loop over the input vector.  
+    * For each element at `i`, set a left and right pointer `l` and `r` for the rest of the array.  
+        * while l < r
+            * Evaluate the sum.
+            * If the sum is less than 0,
+                * increment the left pointer.
+            * Else if the sum is greater than 0,
+                * decrement the right pointer.  
+            * Else
+                * add the triplet to the `result` vector.  
+                * keep incrementing the left pointer and decrementing the right pointer until we pass any duplicates
     
 ```c++
 class Solution {
@@ -82,8 +82,8 @@ class Solution {
         }
 };
 // Example:
-// [-1,0,1,2,-1,-4]
-// [-4,-1,-1,0,1,2]
+// input array: [-1,0,1,2,-1,-4]
+// sorted array: [-4,-1,-1,0,1,2]
 
 // i=0,l=1,r=5: sum = -3
 // i=0,l=2,r=5: sum = -3
