@@ -105,6 +105,8 @@ class Solution {
 ```
 
 ## References
-[Leetcode Problems - 3Sum](https://leetcode.com/problems/3sum/)
+[Leetcode Problems - 3Sum](https://leetcode.com/problems/3sum/)  
+[CPP Reference - Algorithm](https://en.cppreference.com/w/cpp/header/algorithm)  
+[GeeksForGeeks - C++ Vector](https://www.geeksforgeeks.org/vector-in-cpp-stl/)  
 
 ## Tags
