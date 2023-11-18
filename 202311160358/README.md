@@ -9,11 +9,17 @@
 * *humanIdentifier* is a human-friendly unique identifier for this record
 * *description* is a statement that provides details about the record.
 
-There are 4 subclasses of records that each have their own REST :  
-1. Project  
-2. Project Data Versioning
-3. ExternalData and ExternalRelationship - represents the relationship between a KerML Element in a an API provider tool to ExternalData in another tool or repository.
-4. Query
+The subclasses of records: 
+1. Project 
+2. Commit
+3. CommitReferences
+    * Tag
+    * Branch
+4. DataVersion  
+5. DataIdentity
+6. Query
+
+Additionally, there is the **Data** interface, which represents any entity that can be created, updated, deleted, and queried by the Systems Modeling API and Services.  
 
 ## Section 8 - Platform Specific Models (PSMs)
 Each record has their own REST/HTTP PSM endpoint for POST, GET, PUT, and DELETE operations.   
