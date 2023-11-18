@@ -17,7 +17,7 @@ WARNING: THIS WILL WIPE YOUR EXTERNAL DISK: `sudo mkfs.ext4 /dev/sda1`
 `chmod 755 /mnt/backup`  
 5. Use the `rsync` command to copy your root directory. My script looks like this: [www.github.com/EliotKhachi/scripts/blob/main/backupPC.sh](https://github.com/EliotKhachi/scripts/blob/main/backupPC.sh)  
 
-`rsync` keeps track of files that changed and only transfers data as needed to sync directories. You can use `rsync` for remote transfers, i.e. `rsync -t my-files user@ip:destination-directory`. I recommend doing a local transfer first since it's much faster. You can then move the disk to a machine you have remote access to, such as a raspberry pi, and perform back-ups remotely from there.  
+`rsync` keeps track of files that changed and only transfers data as needed to sync directories. You can use `rsync` for remote transfers as well, i.e. `rsync -t my-files user@ip:destination-directory`. I recommend doing a local transfer first since it's much faster. You can then move the disk to a machine you have remote access to, such as a raspberry pi, and perform back-ups remotely from there.  
 
 ## Tags
 #linux #computers
