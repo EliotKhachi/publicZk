@@ -1,10 +1,10 @@
-# Backing Up PC to External Disk
+# Quick Guide to Backing Up PC
 
-This is a simple guide to back up your computer's root directory onto an external disk. Note that I am not attempting to backup all the partitions on my computer, just the main one. 
+This is a simple guide to back up your computer's root directory.  
 
 ## Pre-Requisites
-1. An external disk: SD Card, microSD card, USB, SSD, HDD, etc.  
-2. A computer. This guide entails using an Ubuntu Linux OS.  
+1. An external disk: SD Card, microSD card, USB, SSD, HDD, etc. Make sure this has more storage space than the size of your root directory (`sudo du -sh /`) or main partition (`sudo fdisk -l`).  
+2. A computer. This guide uses Ubuntu Linux OS.  
 3. A secure connection between your disk and your computer. This can be physical or remote.  
 
 ## Steps For File Transfer
