@@ -1,34 +1,21 @@
 # Backing Up PC to External Disk
 
-1. Plug your external disk, in this case `/dev/sda`, into your computer.  
-2. Create partitions on it (in this case we'll create a GUID partition table (GPT).  
-`sudo gdisk /dev/sda`
-3. Create a new GPT  
-4. In the `gdisk` interactive mode, press `n` to create a new partition. Follow the steps to identify start sectors, end sectors, and the GUID, or partition type.  
-5. After creating all your partitions, press `w` to save and write your partition table to the disk.  
-6. run `sudo fdisk -l /dev/sda` to verify your disk has the partitions.  
-7. You may need to reboot your computer at this point in order for your kernel to recognize the new partition table.  
-8. Mount each disk's partition to a directory on your computer:  
-```bash
-sudo mkdir /mnt/backup_efi
-sudo mount /dev/sda1 /mnt/backup_efi
+This is a simple guide to back up your computer's root directory onto an external disk. Note that I am not attempting to backup all the partitions on my computer, just the main one. 
 
-sudo mkdir /mnt/backup_linux1
-sudo mount /dev/sda2 /mnt/backup_partition1
+## Pre-Requisites
+1. An external disk: SD Card, microSD card, USB, SSD, HDD, etc.  
+2. A computer. This guide entails using an Ubuntu Linux OS.  
+3. A secure connection between your disk and your computer. This can be physical or remote.  
 
-sudo mkdir /mnt/backup_linux2
-sudo mount /dev/sda3 /mnt/backup_partition2
-```
+## Steps For File Transfer
+1. Plug your external disk into your computer. Let's call it `/dev/sda1`.  
+2. WARNING THIS WILL WIPE YOUR DISK: Format it to match the file system of your root partition. I'll be using "ext4"...  
+`sudo mkfs.ext4 /dev/sda1`  
+3. Mount the disk to a directory on your computer.  
+`sudo mkdir /mnt/backup && sudo mount /dev/sda1 /mnt/backup`
+4. Use the `rsync` command to copy your root directory. `rsync` keeps track of files that changed and only transfers data as needed to sync directories. My script looks like this: [www.github.com/EliotKhachi/scripts/blob/main/backupPC.sh](https://github.com/EliotKhachi/scripts/blob/main/backupPC.sh)  
 
-9. Copy files with `rsync`, where `/dev/nvme0n1` is your computer's disk.  
-```bash
-sudo rsync -avx --exclude={"/dev/*","/proc/*","/sys/*","/tmp/*","/run/*","/mnt/*","/media/*","/lost+found"} /dev/nvme0n1p1 /mnt/backup_partition1
-
-sudo rsync -avx --exclude={"/dev/*","/proc/*","/sys/*","/tmp/*","/run/*","/mnt/*","/media/*","/lost+found"} /dev/nvme0n1p2 /mnt/backup_partition2
-
-sudo rsync -avx --exclude={"/dev/*","/proc/*","/sys/*","/tmp/*","/run/*","/mnt/*","/media/*","/lost+found"} /dev/nvme0n1p3 /mnt/backup_partition3
-
-```
+It's worth noting that the `rsync` command supports remote transfers as well. You just need to preface the destination directory with the machine name, i.e. `user@ip:destination-directory`. I recommend doing a local transfer initially since it's a big transfer. You can then move the disk to a machine you have remote access to, such as a raspberry pi, and perform back-ups remotely from there.  
 
 ## Tags
 #linux #computers
