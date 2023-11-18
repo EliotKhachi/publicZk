@@ -8,7 +8,7 @@ This is a simple guide to back up your computer's root directory onto an externa
 3. A secure connection between your disk and your computer. This can be physical or remote.  
 
 ## Steps For File Transfer
-1. Plug your external disk into your computer. Let's call it `/dev/sda1`.  
+1. Plug your external disk into your computer. Run `sudo fdisk -l` to find out what it's called. Let's suppose it is `/dev/sda1`.  
 2. Format it to match the file system of your root partition. I'll be using "ext4"...  
 WARNING THIS WILL WIPE YOUR DISK: `sudo mkfs.ext4 /dev/sda1`  
 3. Mount the disk to a directory on your computer.  
