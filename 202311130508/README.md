@@ -23,35 +23,41 @@ s consists of only uppercase English letters.
 0 <= k <= s.length
 
 ## Solution
+Let's call the operation of choosing any character and changing it to any other uppercase English character the "character match operation", or CMO for short. 
+
+Imagine a sliding window traversing over the string `s`. The window starts at index 0 and keeps expanding to the right while the number of CMOs required does not exceed the allowable `k`. Otherwise, if the # of required CMOs does exceed `k`, then contract the window from the left. 
+
+**Edge Cases:**
+* if `k` is the same as the length of the string `s`, then simply return `k`.  
 
 ```c++
-#include <unordered_set>
 #include <algorithm>
-
 class Solution {
+
     public:
         int characterReplacement(string s, int k) {
-            int longest = 0, l = 0, r = 0, notDuplicate = 0;
-            char startingChar = s[0];
-            
+            if (k == s.length()) return k;
+
+            int maxCount = 0, l = 0, r = 0, result = 0;
+            vector<int> count(26);
+
             while (r < s.size()) {
-                if (s[r+1] != startingChar) notDuplicate++;
-                r++;
-                if (notDuplicate > k) {
-                    longest = max(longest, r-l+1);
-                    l++;
-                    startingChar = s[l];
-                    notDuplicate--;
+                count[s[r] - 'A']++;
+                maxCount = max(maxCount, count[s[r]-'A']);
+                if (r - l + 1 - maxCount > k) {
+                count[s[l] - 'A']--;
+                l++;
                 }
+                result = max(result, r - l +1);
+                r++;
             }
+            return result;
         }
 };
-// Example
-// ABAB, k=2
-// End of 1st Iteration: startingChar=A, notDuplicate=1, l=0, r=1,
-// End of 2nd Iteraton: startingChar=A, notDuplicate=1, l=0, r=2,
-// End of 3rd iteration: startingChar=A, notDuplicate=2,l=0,r=3,
-// End of 4th Iteration: 
+
 ```
+
+## References
+[Leetcode Problems - Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  
 
 ## Tags
