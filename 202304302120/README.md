@@ -2,12 +2,9 @@
 
 ## What is Embedded Software Engineering
 Embedded software engineering is the practice of developing embedded systems.   
-Embedded systems are computational units that are embedded electrical and mechanical devices that serve a specific purpose, for example:  
-* The device in your coffee machine.  
-* The control unit in your car that is responsible for deploying your airbags.  
-
-All embedded systems have inputs and outputs. Your coffee machine is waiting to be turned on, waiting for the user to press a button to begin brewing, etc. Your car is 
-constantly sensing for an impact that exceeds a certain threshhold value of force or deceleration to determine whether or not to deploy the airbags.  
+Embedded systems have a general definition: computational units that are electrical and mechanical devices that serve a specific purpose, for example:  
+* The embedded system in your coffee machine receives user input (via buttons on the machine) and controls various motors and/or actuators to brew and dispense your coffee.  
+* One of the many control units in your car is an embedded systems that senses collisions and deploys your airbags.  
 
 ## 1. Learn to Program in C  
 Why?
