@@ -6,4 +6,4 @@ In *ld* [\[Linker Command Language: ld\]](../202202120015), the key word *PROTEC
 [\[Linker Scripts - Science Direct\]](https://www.sciencedirect.com/topics/engineering/linker-script)
  
 ## Tags
-#embeddedSystems
+#embedded

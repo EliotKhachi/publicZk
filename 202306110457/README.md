@@ -11,4 +11,4 @@ Place a diode across the motor to prevent voltage spikes and a gate resistor to 
 [Electronics Stack Exchange - Controlling 130-size DC Motors w/ Arduino](https://electronics.stackexchange.com/questions/134284/how-do-you-control-130-size-dc-motors-with-an-arduino-seemingly-20a-dc-motors)
 
 ## Tags
-#embeddedSystems
+#embedded

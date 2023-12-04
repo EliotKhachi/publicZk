@@ -8,4 +8,4 @@ In general, there are 3 core parameters when configuring a timer for PWM:
 3. Pulse (usually 8 or 16 bit value)  
 
 ## Tags
-#embeddedSystems
+#embedded

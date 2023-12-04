@@ -11,4 +11,4 @@
 1. [\[Science Direct - Reset Handler\]](https://www.sciencedirect.com/topics/engineering/reset-handler)
 
 ## Tags
-#embeddedSystems
+#embedded

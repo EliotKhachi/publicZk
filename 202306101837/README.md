@@ -15,4 +15,4 @@ Most, if not all, STM32 microcontrollers can establish at least one I2C bus, giv
 [Matej Blagsic Github Example](https://github.com/prtzl/Embedded_videos/tree/master/026_HAL-I2C)
 
 ## Tags
-#STM32 #embeddedSystems
+#STM32 #embedded

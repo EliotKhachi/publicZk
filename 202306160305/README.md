@@ -12,4 +12,4 @@
 ![image](./Thu_Jun_15_08:34:15_PM_PDT_2023.png)
 
 ## Tags
-#embeddedSystems
+#embedded
