@@ -1,3 +1,3 @@
-# Mount the as a drive
+# Setting up the Raspberry Pi Pico
 
 ## Tags
