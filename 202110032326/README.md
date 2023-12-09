@@ -1,11 +1,8 @@
-# Steps to Implementing a Model-Based Enterprise 
+# Implementing a Model-Based Enterprise 
 
-* Begin by defining your purpose for implementing a Model-Based approach
-* Use a CAD tool and implement it into a 3D Technical Data Package [[The Purpose & Benefits of a Technical Data Pack (TDP) ](../202110032329)].  
-* Don't try to "boil the ocean". Simplify and implement one feature at a time.
-* Share CAD files across departments, emphasize communication through the model.
+Implementing [Model-Based Systems Engineering (MBSE)](../202110052023) is just as much of an organizational change initiative as it is a software adoption initiative because it's all about how you represent knowledge within the organization and facilitate information flow. All relevant persons must agree to use it.  
 
-**Remember** MBSE is more of an organizational change initiative rather than a software because it's all about how you represent knowledge within the organization and facilitate information flow. All relevant persons must agree to use it.  
+Begin by defining your purpose for implementing a Model-Based approach. In other words, don't try to "boil the ocean". Simplify and implement one feature at a time.  
 
 ## Tags
 #systems #MBSE
