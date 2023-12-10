@@ -13,25 +13,25 @@ flowchart TB
           activityDiagram("Activity Diagram") --> useCaseDiagram("Use Case Diagram")
               stateDiagram("State Diagram") --> sequenceDiagram("Sequence Diagram")
                   flowchartDiagram("Flowchart Diagram") --> packageDiagram("Package Diagram")
-                    end
+                      blockDiagram("Block Definition Diagram") --> internalBlockDiagram("Internal Block Diagram")
+                          parametricDiagram("Parametric Diagram") --> requirementDiagram("Requirement Diagram")
+                            end
 
-                      subgraph package "Structural Diagrams"
-                          classDiagram --> blockDiagram("Block Definition Diagram")
-                              classDiagram --> internalBlockDiagram("Internal Block Diagram")
-                                  classDiagram --> parametricDiagram("Parametric Diagram")
-                                    end
+                              subgraph package "Behavioral Diagrams"
+                                  activityDiagram --> useCaseDiagram
+                                      activityDiagram --> stateDiagram
+                                          activityDiagram --> sequenceDiagram
+                                              activityDiagram --> flowchartDiagram
+                                                end
 
-                                      subgraph package "Behavioral Diagrams"
-                                          activityDiagram --> useCaseDiagram
-                                              activityDiagram --> stateDiagram
-                                                  activityDiagram --> sequenceDiagram
-                                                      activityDiagram --> flowchartDiagram
-                                                        end
+                                                  subgraph package "Structural Diagrams"
+                                                      blockDiagram --> internalBlockDiagram
+                                                          blockDiagram --> parametricDiagram
+                                                            end
 
-                                                          subgraph package "Other Diagrams"
-                                                              activityDiagram --> requirementDiagram("Requirement Diagram")
-                                                                  activityDiagram --> allocationDiagram("Allocation Diagram")
-                                                                      activityDiagram --> profileDiagram("Profile Diagram")
+                                                              subgraph package "Other Diagrams"
+                                                                  requirementDiagram --> allocationDiagram("Allocation Diagram")
+                                                                      requirementDiagram --> profileDiagram("Profile Diagram")
                                                                         end
 
 ```
