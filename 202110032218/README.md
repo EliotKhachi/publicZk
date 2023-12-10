@@ -3,6 +3,8 @@
 
 The Vee Model is a model to plan out the system lifecycle as it progress from the customer's need to the concept, development, production, use, maintenance, and disposal.
 
+[!image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flocal.iteris.com%2Farc-it%2Fhtml%2Fraguide%2Fraguide_files%2Fimage098.png&f=1&nofb=1&ipt=dcee37c44dccf9c8fae581ab58cf7f5c78e66067515750df402d9a0e5806879e&ipo=images)
+
 * **Lifecycle Processes** *(Beginning of "V")*  
 	
 	1. Regional Architecture(s)  
