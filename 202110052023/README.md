@@ -7,7 +7,7 @@ Model-Based Systems Engineering (MBSE) is an approach to systems engineering [[W
 The problem with the document-based approach is that any change to the left side of the [The Vee Model ](../202110032218) must be updated across many documents manually. Furthermore, the impact of a change on the rest of the system requires thoughtful investigation, and could potentially result in design changes elsewhere.  
 
 ## The Solution
-On the other hand, a model-based approach produces a *single source of truth* and can *in theory* propagate changes automatically throughout the model. The model serves as a guide for conducting system lifecycle processes and an authority for system design.  
+On the other hand, a model-based approach propagates changes automatically. Additionally, the model serves as a *single source of truth* and data is an authoritative source of truth, thereby streamlining communication.  
 
 ## Leaving Note
 MBSE supports quick iteration and delivers return-on-investment when change happens.  

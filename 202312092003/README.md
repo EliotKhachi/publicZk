@@ -3,13 +3,22 @@
 ## Pre-Requisite Reading
 What is Model-Based Systems Engineering (MBSE) and what value does it provide? [What is Model-Based Systems Engineering? ](../202110052023)  
 
-## Why Now?
-* The Object Management Group (OMG) published a beta specification for version 2 of their Systems Modeling Language, SysMLv2, in June 2023 [[What is SysML?](../202110032315)], leading to a final adopted SysML v2 specification in 2024. This introduces for the first time a standardized textual notation for modeling systems, which makes it easier to establish software rules for creating, reading, updating, and deleting system models.  
+## Current Competitors
+* Cameo Systems Modeler
+* Ansys ModelCenter Integrate & ModelCenter MBSEPak
+
+## Why At All and Why Now?
+* INCOSE has been pushing for MBSE adoption as early as 2011  
+* NASA understands that the workforce requires modeling and scripting skills [NASA Citation 20205006908 - Suggested MBSE Implementation Plan Approaches](https://ntrs.nasa.gov/api/citations/20205006908/downloads/REVISED%20FINAL%20-%20Suggested%20MBSE%20Implementation%20Plan%20Approaches%20Webcast.pdf)
+* NASA has a vision for MBSE adoption within their organization by 2029 [Future MBSE Vision and Strategy Bridge for NASA](https://ntrs.nasa.gov/api/citations/20210014025/downloads/TM-20210014025.pdf)  
 * 
+* The Object Management Group (OMG) published a beta specification for version 2 of their Systems Modeling Language, SysMLv2, in June 2023 [[What is SysML?](../202110032315)], leading to a final adopted SysML v2 specification in 2024. This introduces for the first time a standardized textual notation for modeling systems, which makes it easier to establish rules for creating, reading, updating, and deleting system models.  
+
+![image](https://www.eliotkhachi.dev/resources/zettel-images/Sun_Dec_10_11:47:55_AM_PST_2023.png)
+
+* In fact, the specification now includes an open-source REST API. It also built on the v1 concept of "property-based" requirements. All requirements can be property-based, where the modeler must define a constraint expression that is evaluated upon analysis and indicates whether we pass or fail that requirement.  
 
 The second is immature tooling, and is where the real opportunity for innovation lies. Good software talent can be put to use here to develop cutting edge tools. The current state of the art MBSE tools are mediocre at best and cost $50k per enterprise license. The competition is weak and the upside is huge.
-
-Before discussing the next generation of MBSE tools, one needs to first understand the value that systems engineering provides. Next one needs to understand the advantage of the model-based approach to SE over the traditional approach, and the potential thereof. I am arguing that the current state of the art tools fail to live up to that potential.
 
 The current state of the art does everything it claims to do poorly and in a disconnected way:
 ◦ Requirement definition and traceability
