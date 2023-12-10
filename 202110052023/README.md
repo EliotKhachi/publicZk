@@ -1,11 +1,16 @@
 # What is Model-Based Systems Engineering? 
 
-## Philosophy
-Model-Based Systems Engineering is an approach to systems engineering [[What is Systems Engineering?](../202201080221)] that is *model-based* as opposed to *document-based*.  
+## What
+Model-Based Systems Engineering (MBSE) is an approach to systems engineering [[What is Systems Engineering?](../202201080221)] that is *model-based* as opposed to *document-based*.  
 
-Rather than having hundreds (if not thousands) of documents spread throughout the organization that outline your requirements, system architecture, design, analysis, etc., you maintain a single model. The advantage here is that any changes, revisions, or updates are made directly to the model once rather than to hundreds of documents. Any change propogates throughout the model. That model has authority over information exchange. What is in the model reigns supreme. 
+## The Problem
+The problem with the document-based approach is that any change to the left side of the [The Vee Model ](../202110032218) must be updated across many documents manually. Furthermore, the impact of a change on the rest of the system requires thoughtful investigation, and could potentially result in design changes elsewhere.  
 
-MBSE delivers ROI when change happens.  
+## The Solution
+On the other hand, a model-based approach produces a *single source of truth* and can *in theory* propagate changes automatically throughout the model. The model serves as a guide for conducting system lifecycle processes and an authority for system design.  
+
+## Leaving Note
+MBSE supports quick iteration and delivers return-on-investment when change happens.  
 
 ## 3 Pillars
 [The 3 Pillars of Model-Based Systems Engineering](../202310270335)  
