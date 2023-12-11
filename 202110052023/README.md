@@ -19,7 +19,7 @@ MBSE supports quick iteration and delivers return-on-investment when change happ
 *SysML Distilled* by Lenny Delligatti
 
 ## Other Links
-1.[\[MBSE Abbreviations and Definitions]\](../202110051904) 
+1.[MBSE Abbreviations and Definitions](../202110051904) 
 
 ## Tags
 #systems
