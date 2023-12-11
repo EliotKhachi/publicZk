@@ -1,40 +1,39 @@
-# Future Opportunities Model-Based Systems Engineering
+# Future of Model-Based Systems Engineering
 
 ## Pre-Requisite Reading
 What is Model-Based Systems Engineering (MBSE) and what value does it provide? [What is Model-Based Systems Engineering? ](../202110052023)  
 
-## Current Competitors
+## Definitions
+* When I say "model", I'm referring to a digital representation of a system. I like to picture a graph database with nodes and edges. A block diagram is one *view* of the model (a subsection of that graph). The model and views of it can be encoded as simple XML files.  
+
+## Hypothesis
+MBSE will be implemented by software engineers throughout the organization internally using an SDK. The reason why MBSE adoption has been slow and we haven't been seeing the "digital transformation" as promised is because we don't have software engineers dedicated to building models and developing MBSE workflows. Instead, we're relying on our mechanical engineers and analysts to use licensed modeling software with the support of external IT. Organizations that would like to employ MBSE need to take ownership of building the digital thread themselves. We just need to provide the organization the proper tools: **Introducing the MBSE SDK**.   
+
+## Current State Of The Art (Competitors)
+Current competitors license modeling software to engineering firms that  support
+* Requirement definition and traceability  
+* Model generation  
+* Model integration with analysis and test results  
+* Model-generated documents  
+
+Engineers do the above tasks all through typical software GUI layout: main upper toolbar, left working directory task-pane, and main workspace task-pane in the center.  
+
+**Vendors** 
 * Cameo Systems Modeler
-* Ansys ModelCenter Integrate & ModelCenter MBSEPak
+* Ansys ModelCenter
+* Dassault Systems
+* Siemens
+
+The difficult part is model integration, mainly because engineers use so many different tools and the given modeling software needs to support all those different types of integrations.  
 
 ## Why At All and Why Now?
-* INCOSE has been pushing for MBSE adoption as early as 2011  
-* NASA understands that the workforce requires modeling and scripting skills [NASA Citation 20205006908 - Suggested MBSE Implementation Plan Approaches](https://ntrs.nasa.gov/api/citations/20205006908/downloads/REVISED%20FINAL%20-%20Suggested%20MBSE%20Implementation%20Plan%20Approaches%20Webcast.pdf)
-* NASA has a vision for MBSE adoption within their organization by 2029 [Future MBSE Vision and Strategy Bridge for NASA](https://ntrs.nasa.gov/api/citations/20210014025/downloads/TM-20210014025.pdf)  
-* 
-* The Object Management Group (OMG) published a beta specification for version 2 of their Systems Modeling Language, SysMLv2, in June 2023 [[What is SysML?](../202110032315)], leading to a final adopted SysML v2 specification in 2024. This introduces for the first time a standardized textual notation for modeling systems, which makes it easier to establish rules for creating, reading, updating, and deleting system models.  
-
+* NASA has a vision for MBSE adoption within their organization by 2029. [Future MBSE Vision and Strategy Bridge for NASA](https://ntrs.nasa.gov/api/citations/20210014025/downloads/TM-20210014025.pdf)  
+* NASA understands the need for modeling and scripting skills [NASA Citation 20205006908 - Suggested MBSE Implementation Plan Approaches](https://ntrs.nasa.gov/api/citations/20205006908/downloads/REVISED%20FINAL%20-%20Suggested%20MBSE%20Implementation%20Plan%20Approaches%20Webcast.pdf)  
+* INCOSE has been pushing for MBSE adoption as early as 2011. 
 ![image](https://www.eliotkhachi.dev/resources/zettel-images/Sun_Dec_10_11:47:55_AM_PST_2023.png)
-
-* In fact, the specification now includes an open-source REST API. It also built on the v1 concept of "property-based" requirements. All requirements can be property-based, where the modeler must define a constraint expression that is evaluated upon analysis and indicates whether we pass or fail that requirement.  
-
-The second is immature tooling, and is where the real opportunity for innovation lies. Good software talent can be put to use here to develop cutting edge tools. The current state of the art MBSE tools are mediocre at best and cost $50k per enterprise license. The competition is weak and the upside is huge.
-
-The current state of the art does everything it claims to do poorly and in a disconnected way:
-◦ Requirement definition and traceability
-◦ Model generation
-◦ Model integration with analysis results
-◦ Model integration with test results
-
-With the current state of the art, the user opens the tool, opens a project, and sees a directory tree of requirements and models on the left, and a display/working window on the right, with a toolbar at the top. Pretty typical layout for a software application. The user can create requirements, build models, add connections, import analysis or test results, etc.
-
-The problem is that the user is left to his/her own discretion to add these elements and connections manually, one at a time, unsystematically. The software provides no instructions, guidance, or built-in-tests to make sure the user builds a good model (coherent, consistent, etc). This makes the tools themselves difficult to learn and clunky to use— and prone to being wrong anyway (human error). The whole problem systems engineering tries to address is that for large systems, the number of connections vastly outnumbers the number of components. It is extremely difficult to lay out manually each of these connections. MBSE is supposed to solve that but it’s simply impossible to maintain the model given our tools. Furthermore, MBSE should provide engineers a “single source of truth”. The model should contain all up-to-date information about the system. If you can’t even maintain the model, then this isn’t true either. You need full traceability and highly autonomous workflows to keep the model up to date with the team’s developments on a daily basis.
-
-I argue that the model should also be trusted to have ultimate development/design/test authority (if only it can speak 🤔)
-
-The potential here is to revamp the MBSE tool’s UI to seamlessly guide the user through systems development and verification processes following the SD&V Vee model, while helping the user build the model and traceability within it. Additionally, all team members, not just systems engineers should have access to certain portions of the model and work within it such that their workflows automatically update the model.
-
-Come in LLMs and SysML…
+* The Object Management Group (OMG) published a beta specification for version 2 of their Systems Modeling Language, SysMLv2, in June 2023 [[What is SysML?](../202110032315)], leading to a final adopted SysML v2 specification in 2024.  
+* SysmL v2 introduces for the first time a standardized *textual notation* for modeling systems, which makes it easier for software to create, read, update, and delete the model.  
+* The specification also includes an open-source REST API and builds upon the expressiveness and versatility of SysML v1.  
 
 ## References
 [incose.orrg - SysML v2 Events at the INCOSE IW 2023](https://www.incose.org/communities/working-groups-initiatives/mbse-initiative)  
