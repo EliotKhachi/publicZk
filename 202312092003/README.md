@@ -3,7 +3,6 @@
 ## Background
 * What is Model-Based Systems Engineering (MBSE) and what value does it provide? [What is Model-Based Systems Engineering? ](../202110052023)  
 * When I say "model", I'm referring to a digital representation of a system [[What is a System ](../202110032156)]. You can picture a graph database with nodes and edges. A block diagram is one *view* of the model (a subsection of that graph). The model and views of it can be encoded as XML, JSON, or SysML files.  
-* MBSE adoption is being encouraged by the international council of systems engineers (INCOSE), the Department of Defense (DoD), and the National Astronautics and Space Administration (NASA). In addition to the aerospace industry, the automotive and medical industries are also beginning to adopt it.  
 
 ## Example of a SysML File and Model View 
 ![image](https://www.eliotkhachi.dev/resources/zettel-images/Sun_Dec_10_11:47:55_AM_PST_2023.png)
@@ -26,10 +25,11 @@ Engineers perofrm the above tasks through a typical software GUI layout: main up
 1. Train an LLM to generate models (XML/JSON/SysML) for you. Should probably include a built-in text editor to correct any improperly generated text.  
     * Downside is that it requires organizations to either trust their data with a LLM/Cloud provider, or have them run their own LLM on premises.  
     * Competes with Cameo Systems Modeler. Could charge a higher pricepoint since a natural-language interface is easier to learn and more effective. 
-2. Build a simple model integration tool that updates the model by linking an internally-built analysis tool. The user configures the inputs, links the script, and the script's outputs updates the model. Could start with integrating Excel/Python/C/C++ scripts.   
+2. Build a simple model integration tool that updates the model by linking an internally-built analysis tool. The user configures the inputs, links the script, and the script's outputs updates the model. Could start with integrating Excel/Python/C/C++ scripts. Doesn't necessarily have a competitive advantage. One idea to be competitive is to take a different approach and develop an SDK as opposed to a GUI. Integration between software gets complicated and current vendors deal with this by developing many different plug-ins, but those plug-ins remain rigid. An SDK provides flexibility.   
     * Competes with Ansys ModelCenter
 
 ## Why At All and Why Now?
+* MBSE adoption is being encouraged by the international council of systems engineers (INCOSE), the Department of Defense (DoD), and the National Astronautics and Space Administration (NASA). In addition to the aerospace industry, the automotive and medical industries are also beginning to adopt it.  
 * NASA has a vision for MBSE adoption within their organization by 2029. [Future MBSE Vision and Strategy Bridge for NASA](https://ntrs.nasa.gov/api/citations/20210014025/downloads/TM-20210014025.pdf)  
 * INCOSE has been pushing for MBSE adoption since 2011. 
 * The Object Management Group (OMG) published a beta specification for version 2 of their Systems Modeling Language, SysMLv2, in June 2023 [[What is SysML?](../202110032315)], leading to a final adopted SysML v2 specification in 2024.  
