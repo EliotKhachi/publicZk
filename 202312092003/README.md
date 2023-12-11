@@ -23,8 +23,11 @@ Current competitors license modeling software to engineering firms and support v
 Engineers perofrm the above tasks through a typical software GUI layout: main upper toolbar, left working directory task-pane, and main workspace task-pane in the center. 
 
 ## MVP Ideas to Beat Competitors
-1. Train an LLM to generate models (XML/JSON/SysML) for you. Competes directly with Cameo Systems Modeler. Could probably charge more since a natural-language interface is easier to learn and more effective. Should probably include a built-in text editor to correct any improperly generated text. Downside --> requires organizations to either trust their data with a LLM/Cloud provider, or have them run their own LLM on premises.  
+1. Train an LLM to generate models (XML/JSON/SysML) for you. Should probably include a built-in text editor to correct any improperly generated text.  
+    * Downside is that it requires organizations to either trust their data with a LLM/Cloud provider, or have them run their own LLM on premises.  
+    * Competes with Cameo Systems Modeler. Could charge a higher pricepoint since a natural-language interface is easier to learn and more effective. 
 2. Build a simple model integration tool that updates the model by linking an internally-built analysis tool. The user configures the inputs, links the script, and the script's outputs updates the model. Could start with integrating Excel/Python/C/C++ scripts.   
+    * Competes with Ansys ModelCenter
 
 ## Why At All and Why Now?
 * NASA has a vision for MBSE adoption within their organization by 2029. [Future MBSE Vision and Strategy Bridge for NASA](https://ntrs.nasa.gov/api/citations/20210014025/downloads/TM-20210014025.pdf)  
