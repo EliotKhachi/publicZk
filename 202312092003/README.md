@@ -30,10 +30,10 @@ The difficult part is model integration, mainly because engineers use so many di
 * NASA has a vision for MBSE adoption within their organization by 2029. [Future MBSE Vision and Strategy Bridge for NASA](https://ntrs.nasa.gov/api/citations/20210014025/downloads/TM-20210014025.pdf)  
 * NASA understands the need for modeling and scripting skills [NASA Citation 20205006908 - Suggested MBSE Implementation Plan Approaches](https://ntrs.nasa.gov/api/citations/20205006908/downloads/REVISED%20FINAL%20-%20Suggested%20MBSE%20Implementation%20Plan%20Approaches%20Webcast.pdf)  
 * INCOSE has been pushing for MBSE adoption as early as 2011. 
-![image](https://www.eliotkhachi.dev/resources/zettel-images/Sun_Dec_10_11:47:55_AM_PST_2023.png)
 * The Object Management Group (OMG) published a beta specification for version 2 of their Systems Modeling Language, SysMLv2, in June 2023 [[What is SysML?](../202110032315)], leading to a final adopted SysML v2 specification in 2024.  
-* SysmL v2 introduces for the first time a standardized *textual notation* for modeling systems, which makes it easier for software to create, read, update, and delete the model.  
 * The specification also includes an open-source REST API and builds upon the expressiveness and versatility of SysML v1.  
+* SysmL v2 introduces for the first time a standardized *textual notation* for modeling systems, which makes it easier for software to create, read, update, and delete the model:   
+![image](https://www.eliotkhachi.dev/resources/zettel-images/Sun_Dec_10_11:47:55_AM_PST_2023.png)
 
 ## References
 [incose.orrg - SysML v2 Events at the INCOSE IW 2023](https://www.incose.org/communities/working-groups-initiatives/mbse-initiative)  
