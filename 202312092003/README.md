@@ -4,24 +4,28 @@
 What is Model-Based Systems Engineering (MBSE) and what value does it provide? [What is Model-Based Systems Engineering? ](../202110052023)  
 
 ## Definitions
-* When I say "model", I'm referring to a digital representation of a system. I like to picture a graph database with nodes and edges. A block diagram is one *view* of the model (a subsection of that graph). The model and views of it can be encoded as simple XML files.  
-
-## Hypothesis
-MBSE will be implemented by software engineers throughout the organization internally using an SDK. The reason why MBSE adoption has been slow and we haven't been seeing the "digital transformation" as promised is because we don't have software engineers dedicated to building models and developing MBSE workflows. Instead, we're relying on our mechanical engineers and analysts to use licensed modeling software with the support of external IT. Organizations that would like to employ MBSE need to take ownership of building the digital thread themselves. We just need to provide the organization the proper tools: **Introducing the MBSE SDK**.   
+* When I say "model", I'm referring to a digital representation of a system [[What is a System ](../202110032156)]. You can picture a graph database with nodes and edges. A block diagram is one *view* of the model (a subsection of that graph). The model and views of it can be encoded as XML, JSON, or SysML files.  
 
 ## Current State Of The Art (Competitors)
-* Cameo Systems Modeler - ~$60k per year per license to use
-* Ansys ModelCenter - $80k per year per license to use
+* Cameo Systems Modeler - ~$60k per year per license to use --> supports model-generation and requirement management  
+* Ansys ModelCenter - ~$80k per year per license to use --> supports model integrations with analysis and data.  
 * Dassault Systems - Unknown
 * Siemens - Unknown
 
-Current competitors license modeling software to engineering firms that  support
+Current competitors license modeling software to engineering firms that  support (may require additional plug-ins at additional costs)  
 * Requirement definition and traceability  
 * Model generation  
-* Model integration with analysis and test results  
+* Model integration with analysis and data   
 * Model-generated documents  
 
 Engineers do the above tasks all through typical software GUI layout: main upper toolbar, left working directory task-pane, and main workspace task-pane in the center.  
+
+## Minimum Viable Product Ideas
+1. Train a GPT model to generate models (XML/JSON/SysML) for you. Competes with Cameo Systems Modeler. $60k a year pricepoint.  
+2. Build
+
+## Hypothesis
+MBSE will be implemented by software engineers throughout the organization internally using an SDK. The reason why MBSE adoption has been slow and we haven't been seeing the "digital transformation" as promised is because we don't have software engineers dedicated to building models and developing MBSE workflows. Instead, we're relying on our mechanical engineers and analysts to learn and use licensed modeling software with external IT support. Organizations that would like to employ MBSE need to take ownership of building the digital thread themselves. We just need to provide the organization the proper tools: **Introducing the MBSE SDK**. The SDK would provide all the same functionality as 
 
 The difficult part is model integration, mainly because engineers use so many different tools and the given modeling software needs to support all those different types of integrations.  
 
