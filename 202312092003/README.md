@@ -36,7 +36,7 @@ The difficult part is model integration, mainly because engineers use so many di
 ![image](https://www.eliotkhachi.dev/resources/zettel-images/Sun_Dec_10_11:47:55_AM_PST_2023.png)
 
 ## References
-[incose.orrg - SysML v2 Events at the INCOSE IW 2023](https://www.incose.org/communities/working-groups-initiatives/mbse-initiative)  
+[incose.org - SysML v2 Events at the INCOSE IW 2023](https://www.incose.org/communities/working-groups-initiatives/mbse-initiative)  
 
 ## Tags
 #systems
