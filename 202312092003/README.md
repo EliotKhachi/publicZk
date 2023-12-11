@@ -34,7 +34,7 @@ Engineers perofrm the above tasks through a typical software GUI layout: main up
 * INCOSE has been pushing for MBSE adoption since 2011. 
 * The Object Management Group (OMG) published a beta specification for version 2 of their Systems Modeling Language, SysMLv2, in June 2023 [[What is SysML?](../202110032315)], leading to a final adopted SysML v2 specification in 2024.  
 * The specification also includes an open-source REST API and builds upon the expressiveness and versatility of SysML v1.  
-* SysmL v2 introduces for the first time a standardized *textual notation* for modeling systems, which makes it easier for software to create, read, update, and delete the model:   
+* SysmL v2 introduces for the first time a standardized *textual notation* for modeling systems, which makes it easier for software to create, read, update, and delete the model.   
 
 ## Other Notes
 [Hypothesis on MBSE Organizational Shift](../202312110356)
