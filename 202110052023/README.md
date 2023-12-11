@@ -9,7 +9,6 @@ The problem with the document-based approach is that any change to the left side
 ## The Solution
 On the other hand, a model-based approach propagates changes automatically, which streamlines iterative design. Additionally, the model serves as a *single source of truth* and data is an authoritative source of truth, thereby streamlining communication.  
 
-## Leaving Note
 MBSE supports quick iteration and delivers return-on-investment when change happens.  
 
 ## 3 Pillars
