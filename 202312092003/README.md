@@ -34,7 +34,7 @@ Engineers perform modeling tasks through a typical software GUI layout: main too
 1. They worked through an IDE with a text editor pane and a graphical pane. Users write JSON/XML/SysML directly and the IDE updates the model in the backend. **The MVP would be the IDE with no backend.**  
     * requires an acute familiarity with SysML (arguably a very good thing for the organization)  
 2. They worked with an SDK. Organizations continue to build their models their own way, but use the SDK to develop integrations. An SDK gives them flexibility, control, and the power to build their own model-based enterprise (think of FAANG companies building their own internal tools). **The MVP would be a simple model integration CLI utility that can link a script or excel sheet to the model**
-    * requires an organizational shift to adopt more software practices and hire software engineers (arguably the direction we need to head in if we want to see more MBSE adoption).  
+    * requires an organizational shift to adopt more software practices and hire software engineers. This is arguably the direction we need to head in anyway if we want to see more MBSE adoption. Using proprietary external tools with hundreds of different plug-ins isn't going to work [[Hypothesis on MBSE Organizational Shift](../202312110356)].  
 
 ## Why At All and Why Now?
 * MBSE adoption is being encouraged by INCOSE, the Department of Defense (DoD), and the National Astronautics and Space Administration (NASA).  
@@ -45,7 +45,7 @@ Engineers perform modeling tasks through a typical software GUI layout: main too
 * SysmL v2 introduces for the first time a standardized *textual notation* for modeling systems, which makes it easier to build software around it.  
 
 ## Other Notes
-[Hypothesis on MBSE Organizational Shift](../202312110356)
+
 
 ## References
 [incose.org - SysML v2 Events at the INCOSE IW 2023](https://www.incose.org/communities/working-groups-initiatives/mbse-initiative)  
