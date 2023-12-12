@@ -44,9 +44,6 @@ Engineers perform modeling tasks through a typical software GUI layout: main too
 * The specification includes an open-source REST API and builds upon the expressiveness and versatility of SysML v1.  
 * SysmL v2 introduces for the first time a standardized *textual notation* for modeling systems, which makes it easier to build software around it.  
 
-## Other Notes
-
-
 ## References
 [incose.org - SysML v2 Events at the INCOSE IW 2023](https://www.incose.org/communities/working-groups-initiatives/mbse-initiative)  
 
