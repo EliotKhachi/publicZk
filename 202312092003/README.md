@@ -34,7 +34,7 @@ Engineers perform modeling tasks through a typical software GUI layout: main too
 1. They worked through an IDE with a text editor pane and a graphical pane. Users write JSON/XML/SysML directly and the IDE updates the model in the backend. **The MVP would be the IDE with no backend.**  
     * requires an acute familiarity with SysML (arguably a very good thing for the organization)  
 2. They worked with an SDK. Organizations continue to build their models their own way, but use the SDK to develop integrations. An SDK gives them flexibility, control, and the power to build their own model-based enterprise (think of FAANG companies building their own internal tools). **The MVP would be a simple model integration CLI utility that can link a script or excel sheet to the model**
-    * requires an organizational shift to adopt more software practices and hire software engineers (arguably where all industries are headed).   
+    * requires an organizational shift to adopt more software practices and hire software engineers (arguably the direction we need to head in if we want to see more MBSE adoption).  
 
 ## Why At All and Why Now?
 * MBSE adoption is being encouraged by INCOSE, the Department of Defense (DoD), and the National Astronautics and Space Administration (NASA).  
