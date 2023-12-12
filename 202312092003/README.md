@@ -1,8 +1,8 @@
 # Model-Based Systems Engineering MVPs
 
 ## Background
-* What is Model-Based Systems Engineering (MBSE) and what value does it provide? [What is Model-Based Systems Engineering? ](../202110052023)  
-* When I say "model", I'm referring to a digital representation of a system [[What is a System ](../202110032156)]. You can picture a graph database with nodes and edges. A block diagram is one *view* of the model (a subsection of that graph). The model and views of it can be encoded as XML, JSON, or SysML files.  
+* What is Model-Based Systems Engineering (MBSE) and what value does it provide? [[What is Model-Based Systems Engineering? ](../202110052023)]  
+* A "model" is a digital representation of a system [[What is a System](../202110032156)]. In the backend, the model is stored in a NoSQL database. The model cannot be shown all at once; therefore, in the front-end, there are various "views" of the model. Each view is encoded as an XML/JSON/SysML file and has a graphical representation, kinda like a [block diagram](https://en.wikipedia.org/wiki/Block_diagram). Only in MBSE, the language used to describe a system, SysML, is much more expressive than block diagrams [[What is SysML?](../202110032315)].  
 
 ## Example of a SysML File and Model View 
 ![image](https://www.eliotkhachi.dev/resources/zettel-images/Sun_Dec_10_11:47:55_AM_PST_2023.png)
