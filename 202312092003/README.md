@@ -22,20 +22,19 @@ Current competitors license modeling software to engineering firms and support v
 *Keep in mind that the international council of system enginers (INCOSE) has been pushing for MBSE adoption since 2011. It has not yet been adopted deeply nor widely. Part of the question I'm trying to answer is why hasn't it been adopted yet? Why is it so difficult?*
 
 ## MVPs 
-**LLM Ideas**  
-* Train an LLM to generate model views (XML/JSON/SysML). Should probably include a built-in text editor to correct any improperly generated text.  
-* Train an LLM to update a model in the back-end.  
-* Train an LLM to query a model.  
+**Ideas to Incorporate a LLM**  
+1. Train an LLM to generate XML/JSON/SysML files (model views).  
+2. Train an LLM to update a model in the back-end given natural language inputs.  
+3. Train an LLM to query a model.  
 
-Downside is that it requires organizations to either trust their data with a LLM/Cloud provider, or have them run their own LLM on premises.  
+Downside is that these ideas require organizations to either trust their data with an LLM or Cloud provider, or have them run their own LLM on premises.  
 
 **Unique Approaches to MBSE**  
-Engineers perform the above tasks through a typical software GUI layout: main toolbar, working directory, and main workspace. What if instead of a GUI...
-* The MVP is an IDE. There is a text editor pane and a graphical view pane. Users write JSON/XML/SysML directly and the IDE updates the model in the backend. --> requires an acute familiarity with SysML (arguably a very good thing for the organization)  
-* The MVP is an SDK for model integrations. Organizations continue to build their models their own way, but use the SDK to develop integrations. An SDK gives them flexibility, control, and the power to build their own model-based enterprise (think of FAANG companies building their own internal tools). --> requires an organizational shift to adopt more software practices and hire software engineers (arguably where all industries are headed).   
-
-2. Build a simple model integration tool that updates the model by linking an internally-built analysis tool. The user configures the inputs, links the script, and the script's outputs updates the model. Could start with integrating Excel/Python/C/C++ scripts. Doesn't necessarily have a competitive advantage. One idea to be competitive is to take a different approach and develop an SDK as opposed to a GUI. Integration between software gets complicated and current vendors deal with this by developing many different plug-ins, but those plug-ins remain rigid. An SDK provides flexibility.   
-    * Competes with Ansys ModelCenter
+Engineers perform modeling tasks through a typical software GUI layout: main toolbar, working directory, and main workspace. What if instead of a GUI...
+1. They worked through an IDE with a text editor pane and a graphical pane. Users write JSON/XML/SysML directly and the IDE updates the model in the backend. **The MVP would be the IDE with no backend.**  
+    * requires an acute familiarity with SysML (arguably a very good thing for the organization)  
+2. They worked with an SDK. Organizations continue to build their models their own way, but use the SDK to develop integrations. An SDK gives them flexibility, control, and the power to build their own model-based enterprise (think of FAANG companies building their own internal tools). **The MVP would be a simple model integration CLI utility that can link a script or excel sheet to the model**
+    * requires an organizational shift to adopt more software practices and hire software engineers (arguably where all industries are headed).   
 
 ## Why At All and Why Now?
 * MBSE adoption is being encouraged by INCOSE, the Department of Defense (DoD), and the National Astronautics and Space Administration (NASA).  
