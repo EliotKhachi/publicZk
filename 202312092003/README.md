@@ -22,6 +22,8 @@ Current competitors license modeling software to engineering firms and support v
 *Keep in mind that the international council of system enginers (INCOSE) has been pushing for MBSE adoption since 2011. It has not yet been adopted deeply nor widely. Part of the question I'm trying to answer is why hasn't it been adopted yet? Why is it so difficult?*
 
 ## MVPs 
+1. Build off of [OpenMBEE](https://github.com/Open-MBEE)  
+
 **Ideas to Incorporate a LLM**  
 1. Train an LLM to generate XML/JSON/SysML files (model views).  
 2. Train an LLM to update a model in the back-end given natural language inputs.  
@@ -31,9 +33,9 @@ Downside is that these ideas require organizations to either trust their data wi
 
 **Unique Approaches to MBSE**  
 Engineers perform modeling tasks through a typical software GUI layout: main toolbar, working directory, and main workspace. What if instead of a GUI...
-1. They worked through an IDE with a text editor pane and a graphical pane. Users write JSON/XML/SysML directly and the IDE updates the model in the backend. **The MVP would be the IDE with no backend.**  
+1. They work through an IDE with a text editor pane and a graphical pane. Users write JSON/XML/SysML directly and the IDE updates the model in the backend. **The MVP would be the IDE with no backend.**  
     * requires an acute familiarity with SysML (arguably a very good thing for the organization)  
-2. They worked with an SDK. Organizations continue to build their models their own way, but use the SDK to develop integrations. An SDK gives them flexibility, control, and the power to build their own model-based enterprise (think of FAANG companies building their own internal tools). **The MVP would be a simple model integration CLI utility that can link a script or excel sheet to the model**
+2. They work with an SDK. Organizations continue to build their models their own way, but use the SDK to develop integrations. An SDK gives them flexibility, control, and the power to build their own model-based enterprise (think of FAANG companies building their own internal tools). **The MVP would be a simple model integration CLI utility that can link a script or excel sheet to the model**
     * requires an organizational shift to adopt more software practices and hire software engineers. This is arguably the direction we need to head in anyway if we want to see more MBSE adoption. Using proprietary external tools with hundreds of different plug-ins isn't going to work [[Hypothesis on MBSE Organizational Shift](../202312110356)].  
 
 ## Why At All and Why Now?
@@ -48,4 +50,4 @@ Engineers perform modeling tasks through a typical software GUI layout: main too
 [incose.org - SysML v2 Events at the INCOSE IW 2023](https://www.incose.org/communities/working-groups-initiatives/mbse-initiative)  
 
 ## Tags
-#systems
+#systems #mbse
