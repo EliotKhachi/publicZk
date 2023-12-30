@@ -1,20 +1,17 @@
 # What is Systems Engineering?  
 
-Systems Engineering is:  
+Systems Engineering is a customer-focused approach to engineering. It is a reflection of the organization's commitment to meet the customer's needs.   
 
-* A rigorous focus on the *end product* and its enabling processes, as well as its internal and external operational environments.
+1. Approach to engineering:  
+    * A way of thinking [Systems Thinking](../202201110236).  
+    * An interdisciplinary approach to engineering.  
+    * Top-down approach to designing systems [What is a System](../202110032156).  
+    * The treatment of subsystems as black boxes with functional, mechanical, electrical, and software interfaces.  
 
-* A disciplined vision of the *stakeholders' expectations* throughout the project lifecycle.
-
-* A disciplined *execution of a series of processes* necessary to guide the organization to develop and operate a product.
-
-* Top-down approach
-
-* Life-cycle orientation [\[PLM - Product Lifecycle Management\]](../202203182210)  
-
-* Interdisciplinary approach
-
-* A way of thinking [Systems Thinking](../202201110236)
+2. Customer-focused:  
+    * A disciplined *execution of a series of processes* necessary to guide the organization to develop and operate a product [The Vee Model](../202110032218).  
+    * A rigorous focus on the *end product* and its enabling processes, as well as its internal and external operational environments.  
+    * A disciplined vision of the *stakeholders' expectations* throughout the project lifecycle.  
 
 ## Tags
 #systems
