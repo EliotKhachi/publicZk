@@ -2,20 +2,6 @@
 
 ## [MBSE Background](../202312290210)
 
-## Current State Of The Art (Competitors)
-* Cameo Systems Modeler - ~$60k per year per license to use --> supports model-generation and requirement management. Also supports exporting the model as an XML file.  
-* Ansys ModelCenter - ~$80k per year per license to use --> supports model integrations with analysis and data.  
-* Dassault Systems - Unknown
-* Siemens - Unknown
-
-Current competitors license modeling software to engineering firms and support various functions (may require additional plug-ins at additional costs):  
-* Requirement definition and traceability  
-* Model generation  
-* Model integration with analysis and data   
-* Model-generated documents  
-
-*Keep in mind that the international council of system enginers (INCOSE) has been pushing for MBSE adoption since 2011. It has not yet been adopted deeply nor widely. Part of the question I'm trying to answer is why hasn't it been adopted yet? Why is it so difficult?*
-
 ## MVPs 
 1. Build off of [OpenMBEE](https://github.com/Open-MBEE)  
 **Ideas to Incorporate a LLM**  
@@ -44,7 +30,7 @@ Downside is that these ideas require organizations to either trust their data wi
 
 5. Do you want this? *As a systems engineer, yes. Information is disparate and constantly changing, making it unreliable. Reliable sources of information are the actual engineers, rather than the documents. I envision a model-based enterprise so robust that the information stored within the model is trusted over any engineer.*  
 6. Did this only recently become possible or necessary? *SysML v2 will soon be released which introduces a textual notation, making the language easier to work with as a software engineer. This also opens up the avenue to incorporate a large-language-model, which have been gaining capability and popularity.*  
-7. Are there good proxies to this idea? *Good proxies to this idea are any IDEs, SDKs, frameworks, or libraries built for the purpose of accelerating software development. You could say that most s/w tools accelerate front-end or back-end development, while my idea is a tool for accelerating model/domain development of an MBSE s/w application.*  
+7. Are there good proxies to this idea? *Good proxies to this idea are any IDEs, SDKs, frameworks, or libraries built for the purpose of accelerating software development. You could say that most s/w tools accelerate front-end or back-end development, while my idea is a tool for accelerating model development.*  
 8. Is this an idea you want to work on for years? *Yes. The future of model-based engineering is inevitable and limitless.*  
 9. Is this a scalable business? *Yes, this is software.*  
 10. Is this a good idea space? *Yes. MBSE can be applied to many industries, not just medical, automotive, or aerospace. There is still a LOT of work to be done in the MBSE space, so there are many options for pivoting. Afterall, the end goal is software that can read and understand customer requirements, generate architectural solutions, conduct trade studies, and arrive upon a fully articulated system/assembly for the customer through automated design and analysis.*  
