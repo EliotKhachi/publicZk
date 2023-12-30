@@ -2,18 +2,9 @@
 
 |Abstracted Similarity|MBSE library|React library|
 |-------------------|--------------|---------------|
-|Direction of Data Updates|SysML files (User input) --> MBSE Build Tool --> The Model (Database) --> Visualized Diagram on Browser|React Components (User input) --> Virtual DOM --> Real DOM (Front-end)|
-|Programming Language(s)|XML/SysML, Java|JSX, JavaScript|
-||Real DOM|Real DOM|
-|-------------------|||
-|-------------------|||
-|-------------------|||
-|-------------------|||
-|-------------------|||
-|-------------------|||
-|-------------------|||
-|-------------------|||
-|-------------------|||
+|**Direction of Information Flow**|SysML files (User input) --> MBSE Build Tool --> The Model (Database) --> Real DOM --> Rendered Front-End App|React Components (User input) --> Virtual DOM --> Real DOM --> Rendered Front-End App|
+|**Programming Language(s)**|XML/SysML, Java|JSX, JavaScript|
+|**Data Update Mechanism**|MBSE Build Tool (updates model)|Reconciliation (updates Virtual DOM)|
 
 ## Tags
 #MBSE
