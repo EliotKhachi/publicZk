@@ -1,9 +1,9 @@
 # MBSE Library vs React Library
 
-|Abstracted Function|MBSE library|React library|
+|Abstracted Similarity|MBSE library|React library|
 |-------------------|--------------|---------------|
-|-------------------|XML/SysML and Java|JSX and JavaScript|
-|Library|SysML files --> MBSE Build Tool --> The Model (Postgresql / GraphQL Database)|React Components --> Virtual DOM --> Real DOM|
+|Direction of Data Updates|SysML files --> MBSE Build Tool --> The Model (Postgresql / GraphQL Database)|React Components --> Virtual DOM --> Real DOM|
+|Programming Language(s)|XML/SysML, Java|JSX, JavaScript|
 ||Real DOM|Real DOM|
 |-------------------|||
 |-------------------|||
