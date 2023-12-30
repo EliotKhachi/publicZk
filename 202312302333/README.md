@@ -17,5 +17,8 @@ plemented by software engineers rather than systems engineers. Tooling needs to 
 2. It's in a boring space.  
 3. There are existing competitors.  
 
+## References
+[How to Get and Evaluate Startup Ideas](https://www.youtube.com/watch?v=Th8JoIan4dg)
+
 ## Tags
 #MBSE
