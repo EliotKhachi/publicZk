@@ -3,8 +3,8 @@
 We'll progress through increasingly complex data structures and algorithms. For each problem, take note of the time and space complexities of the solution.  
 
 1. [Arrays and Hashing](../202311060057)  
-2. Two Pointers
-3. Sliding Window
+2. [Two Pointers](../202311110253)  
+3. Sliding Window  
 4. Stack
 5. Binary Search
 6. Linked List
