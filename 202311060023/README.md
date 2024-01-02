@@ -4,7 +4,7 @@ We'll progress through increasingly complex data structures and algorithms. For 
 
 1. [Arrays and Hashing](../202311060057)  
 2. [Two Pointers](../202311110253)  
-3. Sliding Window  
+3. [Sliding Window](../202311130141)  
 4. Stack
 5. Binary Search
 6. Linked List
