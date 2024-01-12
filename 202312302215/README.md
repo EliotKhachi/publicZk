@@ -3,12 +3,7 @@
 ## Current State Of The Art (Competitors)
 |Vendor|Feature Set|Price|
 |------|-----------|-----|
-|Cameo Systems Modeler|model build tool
-requirement management
-requirement verification
-requirement traceability
-|~$60k per year per license| 
-ion and requirement management. Also supports exporting the model as an XML file.
+|Cameo Systems Modeler|model building; requirement management; requirement verification; requirement traceability |~$60k per year per license| 
 * Ansys ModelCenter - ~$80k per year per license to use --> supports model integrations with analysis and data.
 * Dassault Systems - Unknown
 * Siemens - Unknown
