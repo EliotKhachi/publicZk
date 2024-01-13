@@ -1,6 +1,7 @@
 # MBSE - Why At All and Why Now?
 
 * MBSE adoption is being encouraged by INCOSE, the Department of Defense (DoD), and the National Astronautics and Space Administration (NASA).  
+* The DOD released an instruction in December 2023 requiring the use of digital engineering methodologies across the lifecycle of defense acquisition programs [DOD Instruction 5000.97](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500097p.PDF?ver=bePIqKXaLUTK_Iu5iTNREw%3d%3d)  
 * In addition to the aerospace industry, the automotive and medical industries are also beginning to adopt it.  
 * NASA has a vision for MBSE adoption within their organization by 2029. [Future MBSE Vision and Strategy Bridge for NASA](https://ntrs.nasa.gov/api/citations/20210014025/downloads/TM-20210014025.pdf)  
 * The Object Management Group (OMG) published a beta specification for version 2 of their Systems Modeling Language, SysMLv2, in June 2023 [[What is SysML?](../202110032315)], leading to a final adopted SysML v2 specification in 2024.  
