@@ -22,5 +22,8 @@
 * S3 works with AWS Lambda to automate activites, alerts, and workflows without additional infrastructure.  
 * Big Analytics
 
+## References
+[Amazon S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/)
+
 ## Tags
 #aws
