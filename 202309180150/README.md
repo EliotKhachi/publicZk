@@ -23,6 +23,8 @@ The **Business & Enterprise** Support plan offers full checks on the 5 categorie
 
 ## References
 [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
+[Amazon S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/)
+[Amazon S3 Storage Classes Infographic](https://aws.amazon.com/s3/storage-classes-infographic/)
 
 ## Tags
 #aws
