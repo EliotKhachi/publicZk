@@ -19,4 +19,7 @@ Examples of reactive data:
     }
 ```
 
+The argument of `useState` is the initial value of the variable, in this case, 0.  
+`useState` returns the current value of the variable and a setter function for it, `count` and `setCount`.   
+
 ## Tags
