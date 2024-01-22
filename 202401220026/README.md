@@ -21,6 +21,11 @@ function Btn() {
 }
 
 ```
-In the example above, I've defined a useEffect hook to update the `loaded` state of the component. I've also passed `count` as a dependency (the second argument) to the useEffect function; meaning the function is only called if `count` updates. If I set the dependencies as an empty array, the function would only execute upon the component mounting. If I didn't declare even an empty array of dependencies, the function would get called for any component side effect. **This would result in an infinite loop since I am updating the state of the component with the useEffect function.**  
+In the example above, I've defined a `useEffect` hook to update the `loaded` state of the component whenever `count` changes.  
+
+The useEffect hook takes into two arguments: 1) a function and 2) an array.  
+The function defines the code to get executed, and the array is the list of dependencies that tell React when to call the function. In this case, when `count` changes, the function is called.  
+You can also set an empty array for the dependencies, in which case, the function is only called when the component mounts.  
+You can also forgo with passing in a second argument, in which case, the function is called for every component side effect. **Note in this case that would result in an infinite loop since my useEffect function updates the component state.**  
 
 ## Tags
