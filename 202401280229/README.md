@@ -1,10 +1,9 @@
 # MIT License
 
-When applied to a set of files and/or associated documentation files (the "Software"), the MIT license grants rights for anyone to use, copy, modify, and/or publish/distribute/sell the Software.  
+When applied to a set of files and/or associated documentation files (the "Software"), the MIT license 1) states that this Software doesn't come with any warranty and 2) grants any person the rights to use, copy, modify, and/or distribute the Software under the following conditions:   
 
-The two conditions are that the original copyright (i.e. Copyright © 2024 \<copyright holders\>) and this permission notice must be applied to any copied files.  
-
-And the software does not come with any warranty.  
+1. The original copyright (i.e. Copyright © 2024 \<copyright holders\>) is applied to any copied files.  
+2. This permission notice is applied to any copied files.  
 
 ## References
 [The MIT License](https://mit-license.org/)
