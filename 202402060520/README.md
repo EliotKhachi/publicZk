@@ -1,7 +1,6 @@
 # Typical Language Processing System
 
 ```mermaid
-graph TD;
 source program --> Preprocessor;
 modified source program --> Compiler;
 target assembly program --> Assembler;
