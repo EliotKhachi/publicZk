@@ -7,7 +7,7 @@ target assembly program --> Assembler;
 relocatable machine code --> Linker/Loader;
 library files, relocatable object files --> Linker/Loader;
 Linker/Loader --> target machine code;
-
+target machine code --> End;
 ```
 
 ## Tags
