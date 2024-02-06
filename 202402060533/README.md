@@ -10,7 +10,8 @@ graph TD;
 [LexicalAnalyzer](../202402060541)
 
 ## References
-*Compilers Principles, Techniques, and Tools; 2nd Edition* by Aho
+[1] *Compilers Principles, Techniques, and Tools; 2nd Edition* by Aho
+[2] [What is a Compiler?](../202402060504)
 
 ## Tags
 #programming #software
