@@ -1,17 +1,33 @@
 # Typical Language Processing System
 
-```mermaid
-source program
+Start
+|
+v
+[source program]
     |
     v
 [Preprocessor]
-modified source program --> Compiler;
-target assembly program --> Assembler;
-relocatable machine code --> Linker/Loader;
-library files, relocatable object files --> Linker/Loader;
-Linker/Loader --> target machine code;
-target machine code --> End;
-```
+    |
+    v
+[modified source program]
+    |
+    v
+[Compiler]
+    |
+    v
+[target assembly program]
+    |
+    v
+[Assembler]
+    |
+    v
+[relocatable machine code]
+    |
+    v
+[Linker/Loader] --> [library files, relocatable object files]
+    |
+    v
+[target machine code] --> End
 
 ## Tags
 #programming #software
