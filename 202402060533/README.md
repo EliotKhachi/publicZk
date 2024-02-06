@@ -2,7 +2,7 @@
 
 ```mermaid
 graph TD;
-Start -->|character stream| Lexical Analyzer-->|token stream| Syntax Analyzer-->|syntax tree| Semantic Analyzer-->|syntax tree| Intermediate Code Generator-->|intermediate representation| Machine-Independent Code Optimizer -->|intermediate representation| Code Generator -->|target machine code| Machine Dependent Code Optimizer --> |target-machine code| End;
+  Start -->|character stream| LexicalAnalyzer-->|token stream| SyntaxAnalyzer-->|syntax tree| SemanticAnalyzer-->|syntax tree| IntermediateCodeGenerator-->|intermediate representation| MachineIndependentCodeOptimizer -->|intermediate representation| CodeGenerator -->|target machine code| MachineDependentCodeOptimizer --> |target-machine code| End;
 
 ```
 
