@@ -5,29 +5,29 @@ Start
 |  
 v  
 [source program]  
-    |  
-    v  
+|  
+v  
 [Preprocessor]  
-    |  
-    v  
+|  
+v  
 [modified source program]  
-    |  
-    v  
+|  
+v  
 [Compiler]  
-    |  
-    v  
+|  
+v  
 [target assembly program]  
-    |  
-    v  
+|  
+v  
 [Assembler]  
-    |  
-    v  
+|  
+v  
 [relocatable machine code]  
-    |  
-    v  
+|  
+v  
 [Linker/Loader] --> [library files, relocatable object files]  
-    |  
-    v  
+|  
+v  
 [target machine code] --> End  
 ```
 
