@@ -1,5 +1,6 @@
 # Typical Language Processing System
 
+```
 Start
 |  
 v  
@@ -28,6 +29,7 @@ v
     |  
     v  
 [target machine code] --> End  
+```
 
 ## Tags
 #programming #software
