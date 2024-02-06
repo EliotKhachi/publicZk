@@ -6,5 +6,8 @@ graph TD;
 
 ```
 
+## References
+*Compilers Principles, Techniques, and Tools; 2nd Edition* by Aho
+
 ## Tags
 #programming #software
