@@ -32,4 +32,4 @@ Technically, we should also make a token like <number,4> for lexeme `60`, but we
 [2] [Phases of a Compiler](../202402060533)
 
 ## Tags
-#programming
+#cs
