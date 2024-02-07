@@ -1,14 +1,8 @@
 # Production Rules
 
-Production rules in EBNF is a *rewrite rule* that specifies a symbol substitution.   
+A production rule, or production, is a *rewrite rule* that specifies a symbol substitution. Each rule has a *head*, or left-hand side, which consists of the string that can be replaced, and a *body*, or right hand-side, which consists of the string that may replace it. The head must be a [NonTerminal Symbols](../202402070624), while the body may consist of a combination of [Terminal Symbols](../202402070511) and nonterminal symbols and/or terminal strings.  
 
-The production rule below specifies two production rules.  
-`digit excluding zero = "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" ;`
-`digit                = "0" | digit excluding zero ;`
-
-The first defines a nonterminal symbol, `digit excluding zero`, to be any terminal symbol 1-9.  
-The second defines a nonterminal symbol, `digit`` to be `digit excluding zero` or 0.  
 ## References
-[Wikipedia - Production Rules - Computer Science](https://en.wikipedia.org/wiki/Production_(computer_science))
+[Wikipedia - Production rules](https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols#Production_rules)
 
 ## Tags
