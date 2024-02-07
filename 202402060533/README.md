@@ -14,4 +14,4 @@ graph TD;
 [2] [What is a Compiler?](../202402060504)
 
 ## Tags
-#programming #software
+#cs
