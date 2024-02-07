@@ -8,4 +8,4 @@ See next --> [Phases of a Compiler](../202402060533)
 *Compilers Principles, Techniques, and Tools; 2nd Edition* by Aho  
 
 ## Tags
-#programming #software
+#cs
