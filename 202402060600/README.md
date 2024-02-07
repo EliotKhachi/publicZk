@@ -18,4 +18,4 @@ graph TD;
 [2] [Phases of a Compiler](../202402060533)
 
 ## Tags
-#programming
+#cs
