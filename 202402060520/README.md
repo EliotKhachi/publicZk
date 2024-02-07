@@ -10,4 +10,4 @@ graph TD;
 *Compilers Principles, Techniques, and Tools; 2nd Edition* by Aho
 
 ## Tags
-#programming #software
+#cs
