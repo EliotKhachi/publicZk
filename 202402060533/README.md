@@ -6,6 +6,9 @@ graph TD;
 
 ```
 
+The first two steps are lexical analysis and syntax analysis, and look something like this:  
+![image](https://www.eliotkhachi.dev/resources/zettel-images/Mon_Feb_12_08:24:04_PM_PST_2024.png)
+
 ## Links
 [LexicalAnalyzer](../202402060541)
 
