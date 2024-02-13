@@ -1,5 +1,7 @@
 # Phases of a Compiler
 
+A compiler takes in an input stream of text and produces target machine code.  
+
 The first two steps are lexical analysis and syntax analysis. By the end you've got an abstract syntax tree. The process looks something like this:  
 ![image](https://www.eliotkhachi.dev/resources/zettel-images/Mon_Feb_12_08:24:04_PM_PST_2024.png)
 
