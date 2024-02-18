@@ -6,11 +6,13 @@ The purpose of this project is to to control the pool and spa features from your
 ![image](./Sat_Sep_23_07:22:02_PM_PDT_2023.png)
 
 ## Hardware
+We'll be using a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) (RPI) to host our web app and communicate with the Aqualink Control Panel. Before hooking up the RPI, make sure you can SSH into it [[SSH into a Raspberry Pi ](../202206170251)].   
+
 The control panel has 4 wires: Data +, Data -, GND, and 10V VCC.
 
 ![image](./Sat_Sep_23_07:22:36_PM_PDT_2023.png)
 
-The wires make up the RS485 communication protocol. I will use a USB-RS485 cable adapter to communicate between the panel and a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/). The cable will also power the pi through a 5V voltage regulator.   
+The wires make up the RS485 communication protocol. A USB-RS485 cable adapter can be used to communicate between the panel and the RPI. The cable will also provide power to the RPI through a 5V voltage regulator.   
 
 Jandy's RS485 Pin Connector Colors  
 ![image](./Sat_Sep__9_11:52:41_AM_PDT_2023.png)
@@ -26,8 +28,13 @@ FTDI USB-RS485 Cable Connector Colors
 |10V VCC | RED       | 1       | RED       |
 |GROUND  | GREEN     | 4       | BLACK     |
 
-Raspberry Pi Zero W connected.
+RPI connected:
 ![image](./Sat_Sep_23_07:23:07_PM_PDT_2023.png)
+
+Finally, ssh into the raspberry pi and follow the [installation directions](https://github.com/sfeakes/AqualinkD)  
+
+You should now be able to access the AqualinkD web app from your browser.  
+![image](https://www.eliotkhachi.dev/resources/zettel-images/Sat_Feb_17_10:08:51_PM_PST_2024.png)
 
 ## References
 [AqualinkD Github Project](https://github.com/sfeakes/AqualinkD)  
