@@ -3,22 +3,22 @@
 ## Introduction
 The purpose of this project is to to control the pool and spa features from your phone, wherever you are. Imagine you have a long day at work... and you want to get the jacuzzi nice and steamy by the time you get home :).
 
-![image](./Sat_Sep_23_07:22:02_PM_PDT_2023.png)
+![image](../resources/zettel-images/202309091830/Sat_Sep_23_07:22:02_PM_PDT_2023.png)
 
 ## Hardware
 We'll be using a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) (RPI) to host our web app and communicate with the Aqualink Control Panel. Before hooking up the RPI, make sure you can SSH into it [[SSH into a Raspberry Pi ](../202206170251)].   
 
 The control panel has 4 wires: Data +, Data -, GND, and 10V VCC.
 
-![image](./Sat_Sep_23_07:22:36_PM_PDT_2023.png)
+![image](../resources/zettel-images/202309091830/Sat_Sep_23_07:22:36_PM_PDT_2023.png)
 
 The wires make up the RS485 communication protocol. A USB-RS485 cable adapter can be used to communicate between the panel and the RPI. The cable will also provide power to the RPI through a 5V voltage regulator.   
 
 Jandy's RS485 Pin Connector Colors  
-![image](./Sat_Sep__9_11:52:41_AM_PDT_2023.png)
+![image](../resources/zettel-images/202309091830/Sat_Sep__9_11:52:41_AM_PDT_2023.png)
 
 FTDI USB-RS485 Cable Connector Colors  
-![image](./Sat_Sep__9_11:55:02_AM_PDT_2023.png)
+![image](../resources/zettel-images/202309091830/Sat_Sep__9_11:55:02_AM_PDT_2023.png)
 
 **Compile into a table...**  
 |Function|Jandy Color|Jandy Pin|RS485 Color|
@@ -29,7 +29,7 @@ FTDI USB-RS485 Cable Connector Colors
 |GROUND  | GREEN     | 4       | BLACK     |
 
 RPI connected:
-![image](./Sat_Sep_23_07:23:07_PM_PDT_2023.png)
+![image](../resources/zettel-images/202309091830/Sat_Sep_23_07:23:07_PM_PDT_2023.png)
 
 Finally, ssh into the raspberry pi and follow the [installation directions](https://github.com/sfeakes/AqualinkD)  
 
