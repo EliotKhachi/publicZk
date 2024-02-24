@@ -4,5 +4,8 @@ A *household* consists of the tax filer, spouse, and tax dependents [[What is a 
 
 It's important to know who is in your household when applying for health coverage.  
 
+## References
+[Healthcare.gov](https://www.healthcare.gov/income-and-household-information/household-size/)
+
 ## Tags
 #finance
