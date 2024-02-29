@@ -1,17 +1,17 @@
-# How to Supercharge Your Life Goals
+# How to Supercharge Your Motivation For Your Goals
 
-To supercharge your life goals, you need to define your motivations for them. What is pulling you towards them and what are you running away from?  
+If you want to achieve your goals, you need to define your motivations for them. Create a force that pulls you towards what you want and pushes you away from what you fear. What are your motivations for that goal and what are the things you are running away from?  
 
-First, write down your goals. Then, for each of your goals, write down the benefits you would get if you accomplished that goal. Break up your benefits as serving 3 different parts of your self: your higher-self, day-to-day self, and lower-self [[Types of Motivations](../202402280215)].  
+For each of your goals, write down your motivations for it. Break up your motivations as stemming from 3 different parts of your self: your higher-self, day-to-day self, and lower-self [[Types of Motivations](../202402280215)].  
 
-For each benefit, flesh out what it would do for you if you got it, how it would make you feel, and how that would put you in an upward spiral/trajectory in life.  
+For each motivation, flesh out what success would do for you, how it would make you feel, and how that would put you in an upward spiral/trajectory in life.  
 
-Also for each benefit, flesh out what you would be missing out on if you didn't get it, how it would make you feel, and how that would put you in a downward spiral/trajectory in life.  
+Also flesh out what failure would do for you, how it would make you feel, and how that would put you in a downward spiral/trajectory in life.  
 
 Consider how your mental state, overall demeanor, and outlook on life would change, and the feedback loops that result.  
 
 ## The Format
-**Goal**
+**Goal**  
 * *Higher-Self*
     * Benefit 1
         * Effect of obtaining it
