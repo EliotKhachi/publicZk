@@ -1,6 +1,6 @@
 # How to Supercharge Your Motivation For Your Goals
 
-If you want to achieve your goals, you need to define your motivations for them. Create a force that pulls you towards what you want and pushes you away from what you fear. What are your motivations for that goal and what are the things you are running away from?  
+To superchage your motivation for a goal you need to define those motivations. What are your motivations for that goal and what are the things you are running away from by achieving that goal?  
 
 For each of your goals, write down your motivations for it. Break up your motivations as stemming from 3 different parts of your self: your higher-self, day-to-day self, and lower-self [[Types of Motivations](../202402280215)].  
 
