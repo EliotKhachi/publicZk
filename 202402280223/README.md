@@ -6,21 +6,21 @@ First, write down your goals. Then, for each of your goals, write down the benef
 
 For each benefit, flesh out what it would do for you if you got it, how it would make you feel, and how that would put you in an upward spiral/trajectory in life.  
 
-Also for each benefit, flesh out what you would be missing out on if you didn't achieve it fulfill it, how it would make you feel, and how that would put you in a downward spiral/trajectory in life.  
+Also for each benefit, flesh out what you would be missing out on if you didn't get it, how it would make you feel, and how that would put you in a downward spiral/trajectory in life.  
 
 Consider how your mental state, overall demeanor, and outlook on life would change, and the feedback loops that result.  
 
 ## The Format
 **Goal**
 * *Higher-Self*
-    * Benefit/Desire 1
-        * Effect of fulfillment  
+    * Benefit 1
+        * Effect of obtaining it
             * Emotion  
             * Upward Spiral  
-        * Effect of unfulfillment  
+        * Effect of not obtaining it
             * Emotion  
             * Downward Spiral  
-    * Benefit/Desire 2  
+    * Benefit 2  
     ...
 * *Day-to-Day Self*  
 ...
