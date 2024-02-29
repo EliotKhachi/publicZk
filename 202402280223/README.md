@@ -8,18 +8,23 @@ For each desire, flesh out what it would do for you if you fulfilled it, how it 
 
 Also for each desire, flesh out what you would be missing out on if you didn't fulfill it, how it would make you feel, and how that would put you in a downward spiral/trajectory in life.  
 
-Consider feedback loops, what your mental state would look like, and your overall demeanor.  
+Consider how your mental state, overall demeanor, and outlook on life would change, and the feedback loops inherent therein.  
 
 ## The Format
 **Goal**
-* Benefit/Desire 1
-    * Effect of fulfillment  
-        * Emotion  
-        * Upward Spiral  
-    * Effect of unfulfillment  
-        * Emotion  
-        * Downward Spiral  
-* Benefit/Desire 2
+* *Higher-Self Desires*
+    * Benefit/Desire 1
+        * Effect of fulfillment  
+            * Emotion  
+            * Upward Spiral  
+        * Effect of unfulfillment  
+            * Emotion  
+            * Downward Spiral  
+    * Benefit/Desire 2  
+    ...
+* *Day-to-Day Self Desires*  
+...
+* *Lower-Self Desires*  
 ...
 
 ## Tags
