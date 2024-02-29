@@ -6,4 +6,4 @@ You can classify your motivations as stemming from 3 places within yourself.
 3. [Lower-Self Motivations](../202402280157)  
 
 ## Tags
-#journal
+#growth
