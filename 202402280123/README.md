@@ -9,6 +9,5 @@ The purpose of your day-to-day self motivations are to keep you alive, sane, com
 4. Taking your life partner out for a nice get-away.  
 5. Splurging on an expensive dinner.  
 6. Going to a theme park.  
-7. Gambling.  
 
 ## Tags
