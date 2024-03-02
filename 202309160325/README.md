@@ -4,7 +4,7 @@ The primary purpose of online analytical processing (OLAP) is to analyze aggrega
 
 
 ## References
-[AWS - The Difference BEtween OLAP and OLTP](https://aws.amazon.com/compare/the-difference-between-olap-and-oltp/)
+[AWS - The Difference Between OLAP and OLTP](https://aws.amazon.com/compare/the-difference-between-olap-and-oltp/)
 
 ## Tags
 #aws
