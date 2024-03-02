@@ -2,9 +2,11 @@
 
 Amazon Elastic Block Store (Amazon EBS) provides block level storage volumes for use with EC2 instances. EBS volumes are network drives that attach (mount) to one EC2 instance at a time. EBS volumes must be in the same [Availability Zone](../202309120416) as your instance.  
 
-EBS volumes are characterized by size, throughput, and IOPS (I/O Operations per second)  
+EBS volumes are characterized by size, throughput (rate of data transfer), and IOPS (I/O Operations per second)  
 ## Types
 * gp2 / gp3 (SSD): general purpose SSD volume that balances price and performance.  
+    * gp3 can set IOPS up to 16,000 independent of storage  
+    * gp2's IOPS is linked to storage (3 IOPS per GB), and maxes out at 16,000.  
 * io1 / io2 Block Express (SSD): Highest-performance SSD colume for low-latency and high throughput  
 * st1 (HDD): low cost HDD volume designed for high-frequency and throughput.  
 * sc1 (HDD): lowest cost HDD volume designed for less frequently accessed workloads.  
