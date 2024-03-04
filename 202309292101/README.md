@@ -1,7 +1,7 @@
 # Amazon EFS Deep Dive
 
 ## Background
-[Amazon EFS](https://github.com/EliotKhachi//publicZk/tree/main/202309120302)
+[Amazon EFS](../202309120302)
 
 ## Deep Dive
 **Use Cases**  
