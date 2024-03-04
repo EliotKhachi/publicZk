@@ -28,12 +28,12 @@ FTDI USB-RS485 Cable Connector Colors
 |10V VCC | RED       | 1       | RED       |
 |GROUND  | GREEN     | 4       | BLACK     |
 
-RPI connected:
-![image](../resources/zettel-images/202309091830/Sat_Sep_23_07:23:07_PM_PDT_2023.png)
+RPI connected:  
+![image](../resources/zettel-images/202309091830/Sat_Sep_23_07:23:07_PM_PDT_2023.png)  
 
 Finally, ssh into the raspberry pi and follow the [installation directions](https://github.com/sfeakes/AqualinkD)  
 
-You should now be able to access the AqualinkD web app from your browser, as shown below:
+You should now be able to access the AqualinkD web app from your browser, as shown below:  
 ![image](https://www.eliotkhachi.dev/resources/zettel-images/Wed_Feb_28_02:50:00_PM_PST_2024.png)
 
 ## References
