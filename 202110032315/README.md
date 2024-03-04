@@ -8,6 +8,8 @@
 * [4 Pillars of SysML](../202310270518)
 
 ## Example
+![image](https://www.eliotkhachi.dev/resources/zettel-images/Sun_Dec_10_11:47:55_AM_PST_2023.png)
+
 ```mermaid
 ---
 title: Animal example
