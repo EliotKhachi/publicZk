@@ -11,4 +11,4 @@ Option #2 isn't that practical either, unless you're the Buddha or Jesus, or ano
 With that being said, I think a more balanced approach is the following:[[How Most People Live in Scarcity](../202308041642)].  
 
 ## Tags
-#growth
+#journal
