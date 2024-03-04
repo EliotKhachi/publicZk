@@ -1,8 +1,8 @@
 # MBSE MVP Ideas
 
-## Software Development Approach to MBSE [[Hypothesis on MBSE Organizational Shift](../202312110356)]
-* A CLI utility / framework / library / SDK  
-    * Used to initialize a master repo for a project  
+## 1. A Software Development Approach to MBSE
+A CLI utility / framework / library / SDK  
+  Used to initialize a master repo for a project  
     * Includes a build tool that parses SysML and checks for syntax, circular dependencies, and contradicting property definitions.  
     * Includes an SDK that allows for the integration of 3rd party software such as MATLAB, Cameo, Jupyter, Python, C++, Fortran, CAD/Simulation data output files, etc.  
 
