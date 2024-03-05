@@ -5,5 +5,7 @@ A file system is software that structures data and sets rules for the operating 
 * macOS - HFS, APFS, HFS+  
 * Linux - EXT2/3/4, XFS, JFS, Btrfs  
 
+[File System Use Cases](../202403052008)  
+
 ## Tags
 #linux
