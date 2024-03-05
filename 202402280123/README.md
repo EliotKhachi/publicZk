@@ -4,7 +4,7 @@ The purpose of your day-to-day self motivations are to keep you alive, sane, com
 
 ## Examples
 1. Feeling of accomplishment associated with running a successful business.  
-2. Wanting to be younger, more fit, younger, and healthier.  
+2. Wanting to be younger, more fit, healthier, etc..  
 3. Providing for you and your family.  
 4. Taking your life partner out for a nice get-away.  
 5. Splurging on an expensive dinner.  
