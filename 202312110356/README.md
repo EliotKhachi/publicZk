@@ -20,10 +20,10 @@ will be the labor required to generate the model. and submit pull requests to me
  All the engineers will be able to access and edit the model via a simple web interface [[Implementing a Model-Based Enterprise ](../202110032326)]. The model will live inside repository that the org version-controls ([Git](https://git-scm.com/)) and manages in an agile software development fashion ([Atlassian - Agile](https://www.atlassian.com/agile), [[Atlassian-Jira](https://www.atlassian.com/software/jira]). Systems engineers manage the product development through Git.  
 
 ## Footnotes
-[1] The Apollo missions come to mind.
+[1] The Apollo missions come to mind.  
 [2] There are many different words we can use to describe this role. Project engineer, project lead, \<name of subsystem\> lead, etc.. For the sake of discussion, we'll call him/her an IPT.  
 [3] I am simplifying here for the sake of being concise. In reality, SEs and lead engineers can also be involved in component-level design decisions.  
-[4] Gentry Lee's talk captured this perfectly at 10:30 in this talk in 2016 [YouTube - So You Want To Be a Systems Engineer?](https://www.youtube.com/watch?v=E6U_Ap2bDaE)
+[4] Gentry Lee's talk captured this perfectly at 10:30 in this talk in 2016 [YouTube - So You Want To Be a Systems Engineer?](https://www.youtube.com/watch?v=E6U_Ap2bDaE)  
 
 ## Tags
 #systems #MBSE

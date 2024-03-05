@@ -1,6 +1,8 @@
-# How Most People Live in Scarcity
+# How the Vast Majority of People Contend With Scarcity
 
-Although most people have their needs met (i.e. food, water, and shelter), it is still difficult to completely escape your earthly desires [[Escaping The Scarcity Mindset](../202308041621/README.md)]. Most people resort to cultivating a balance between their power and desires. They do this through a combination of (1) acquiring more power and (2) letting go of desires.  
+Most people contend with scarcity by first and foremost being realistic or reasonable with what their needs and desires are. They then acquire enough power (usually in the form of money) to satisfy them.  
+
+*to be continued...*
 
 ## Tags
-#growth
+#journal

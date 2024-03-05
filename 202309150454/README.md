@@ -1,10 +1,14 @@
 # Load Balancing
 
-Load balancing is the act of forwarding internet traffic to multiple servers downstream the network.  
-
 A load balancer is a server.  
 
-![image](./Thu_Sep_14_09:55:14_PM_PDT_2023.png)
+Load balancing is the act of forwarding internet traffic to multiple servers downstream the network.  
+
+## How?
+A load balancer has a routing table that essentially map URLs to target groups. The routing can be based on the *path*, *subdomain*, and even *Query Strings* of the URL:   
+**Path** - example.com/*users*  
+**Subdomain** - *one*.example.com  
+**Query Strings** - example.com/users?*id=123&order=false*  
 
 ## Reasons to use a load balancer
 1. Spread load across multiple downstream servers (in case of many simultaneous requests)  
