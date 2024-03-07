@@ -21,4 +21,4 @@ MBSE supports quick iteration and delivers return-on-investment when change happ
 1.[MBSE Abbreviations and Definitions](../202110051904) 
 
 ## Tags
-#systems
+#systems #MBSE
