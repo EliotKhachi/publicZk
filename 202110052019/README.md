@@ -9,4 +9,3 @@ More Definitions:
 [202110051904](../202110051904) - MBSE Abbreviations and Definitions 
 
 ## Tags
-#MBSE
