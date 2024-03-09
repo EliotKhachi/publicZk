@@ -35,8 +35,8 @@
 *For a software project, a package diagram could show the organization of classes and modules into packages like "UI," "database," and "business*
 
 ## Requirement
-9. **Requirement**: States the functional or non-functional conditions that a system must satisfy.
+9. **Requirement Diagram**: States the functional or non-functional conditions that a system must satisfy.
 *This diagram could outline specific system requirements such as "must support multi-platform access," "must handle 1000 concurrent users," and "must encrypt user data."*
 
 ## Tags
-#systems
+#sysml #systems
