@@ -6,12 +6,12 @@
 1. **Complete SysML Modeling** - [9 Diagrams of SysML](../202403090209)  
 2. **Requirements management**- req'mnt tracebility, model checking, test cases, automated req'mnts numbering and uniqueness, versioning control, and further customization therein.  
 3. **Traceability** + built-in functions to find usages and dependencies:  
-    * SysML Allocation  
-    * Function to Operational Activity  
-    * Operational Activity to Systems  
-    * Resource Interactions  
-    * Capability to Service  
-    * Organizational resource responsibility for Projects  
+* SysML Allocation  
+* Function to Operational Activity  
+* Operational Activity to Systems  
+* Resource Interactions  
+* Capability to Service  
+* Organizational resource responsibility for Projects  
 4. **Model exports**: normal text, RTF, HTML, XML, Word, Excel 2007 files, and Java Doc.  
 5. **Parametric modeling** - including capability to simulate systems given constraints (track dependencies and parameters throughout the lifecycle), conduct trade studies to capture design alternatives, and integrate with MS Excel, Matlab, Mathematica, and OpenModelica.  
 6. **Parallel Development** - has a teamwork server to enable more than one developer to work with the same model.  
