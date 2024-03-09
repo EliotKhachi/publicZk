@@ -4,6 +4,19 @@
 1. **Activity Diagram**: Represents workflows or processes within a system.
 
 *An activity diagram could represent the steps involved in processing an online order, including activities such as "select item," "add to cart," "enter shipping details," and "confirm order."*
+@startuml
+
+skinparam activity {
+  BackgroundColor LightYellow
+  }
+
+  (*) --> "Select Item"
+  "Select Item" --> "Add to Cart"
+  "Add to Cart" --> "Enter Shipping Details"
+  "Enter Shipping Details" --> "Confirm Order"
+  "Confirm Order" --> (*)
+
+  @enduml
 
 2. **Sequence Diagram**: Illustrates the order of interactions between objects or components in a system.
 
