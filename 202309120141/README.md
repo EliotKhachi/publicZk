@@ -9,7 +9,7 @@ Amazon Relational Database Service (Amazon RDS) is a web service that makes it e
 * Continuous backups
 * Storage backed by EBS
 * Monitoring dashboards
-* Read replicas for improved read performance
+* [RDS Read Replicas](../202403110710) for improved read performance
 
 ## References
 [AWS Docs - Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)  
