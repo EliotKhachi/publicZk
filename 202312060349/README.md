@@ -11,4 +11,4 @@ To create a project estimate, do the following:
 [projectmanager.com - Cost Estimation for Projects](https://www.projectmanager.com/blog/cost-estimation-for-projects)
 
 ## Tags
-#projects #business
+#business
