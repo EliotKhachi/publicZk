@@ -24,11 +24,9 @@ Consider how your mental state, demeanor, and outlook on life would change, and 
         * What suffering are you avoiding?  
         * Emotions  
         * Downward Spiral
-    2. *Higher Motivation*
+    2. *Day-to-Day Motivation*  
     ...
-    1. *Day-to-Day Motivation*
-    ...
-    1. *Lower Motivation*  
+    3. *Lower Motivation*  
     ...
 
 ## Tags
