@@ -17,18 +17,18 @@ Consider how your mental state, demeanor, and outlook on life would change, and 
 
 ## The Format
 * Goal
-    * *Higher-Self Motivation 1*
+    1. *Higher Motivation 1*
         * What would achieving this goal do for you?
         * Emotions
         * Upward Spiral
         * What suffering are you avoiding?  
         * Emotions  
         * Downward Spiral
-    * *Higher-Self Motivation 2*
+    2. *Higher Motivation 2*
     ...
-    * *Day-to-Day Self*  
+    1. *Day-to-Day Motivation 1*
     ...
-    * *Lower-Self*  
+    1. *Lower Motivation 1*  
     ...
 
 ## Tags
