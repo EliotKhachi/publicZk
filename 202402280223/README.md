@@ -8,10 +8,9 @@ For each motivation, ask yourself:
 * What would achieving this goal do for you?
 * How would you feel?
 * How that would put you in an upward spiral/trajectory in life?
-
 * What pain or suffering are you avoiding by achieving this goal?
 * How would you feel if you couldn't avoid those things?
-* How that would put you in a downward spiral/trajectory in life.
+* How would that put you in a downward spiral/trajectory in life?
 
 Consider how your mental state, demeanor, and outlook on life would change, and the feedback loops therein.  
 
