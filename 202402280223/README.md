@@ -1,6 +1,6 @@
 # How to Supercharge Your Motivation For Your Goals
 
-To superchage your motivations for a goal you need to write them down.  
+To supercharge your motivations for a goal you need to write them down.  
 
 For each goal, break up your motivations for that goal into 3 different parts: higher-self, day-to-day self, and lower-self motivations [[Types of Motivations](../202402280215)].  
 
