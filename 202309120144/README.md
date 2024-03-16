@@ -9,6 +9,7 @@ Amazon Aurora is a proprietary relational database management system (RDBMS) man
 
 **Other features**  
 * built-in security; automated patching with 0 dowtime, routine maintenance, etc.  
+* Other [RDS and Aurora Security Features](../202403162238)  
 * can backtrack the database to any point in time.  
 * continuous backup and recovery   
 * serverless compute  
