@@ -7,7 +7,7 @@ The HTTP response and request pass through these filters, being passed between t
 ## Implement a Filter Chain
 Add a package, i.e. `security`, and add a class, i.e. `SecurityConfig`.  
 ```java
-import com.pokemonreview.api.security;
+package com.pokemonreview.api.security;
 
 import org.springframework.context.annotation.Boot;
 import org.springframework.context.annotation.Configuration;
