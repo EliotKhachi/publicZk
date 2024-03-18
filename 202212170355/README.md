@@ -25,13 +25,13 @@ Consider how we could map the following one-to-many relationships:
 create table icecream_flavor (
     icecream_flavor_id int primary key auto_increment,
     flavor_name varchar(50) not null
-
+);
 create table icecream_ingredients (
     icecream_ingredients_id int primary key auto_increment,
     icecream_flavor_id not null,
     ingredient_id not null,
     ingredient_name not null
-)
+);
 ```
 Doesn't seem too hard, let's just add a list of ingredients to each icecream flavor.  
 ```java
@@ -48,8 +48,7 @@ public class Ingredient {
 ```
 This approach makes it easier to fetch icecream, but now we've complicated our object model by introducing circular references.  
 
-## Many-to-Many Relationships
-
+[Many-to-Many Relationship](../202403180401)  
 
 ## Tags
 #java #db #software
