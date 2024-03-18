@@ -13,7 +13,7 @@ In actuality, bucket objects are not stored in folders. Each object is simply fo
 
 ## More Info
 [Amazon S3 More Features](../202309110524)  
-[Amazon S3 Security](../202403172333)  
+[S3 Bucket Permissions ](../202309152117)
 [Amazon S3 Glacier](../202309120137)  
 [Amazon S3 Encryption](../202309152208)  
 
