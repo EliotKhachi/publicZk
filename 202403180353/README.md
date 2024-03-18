@@ -1,11 +1,15 @@
 # Configuring Users and Roles
 
-To configure your users and roles, you need to create `UserEntity` class, `Role` class, and a join table between the users and roles.  
+To configure your users and roles, you need to create `UserEntity` class, `Role` class, and a join table between the users and roles using a *many-to-many* relationship [[Database Table Mappings](../202212170355)].  
+
+UserEntity Class  
 ```java
 package com.pokemonreview.api.models;
 
 import lombok.Data; // Automatically configures getters and setters
-impor lombok.NoArgsConstructor;
+import lombok.NoArgsConstructor;
+import javac.persistence.*;
+import java.util.List;
 
 @Entity
 @Table(name = "users")
@@ -20,9 +24,15 @@ public class UserEntity {
 
     private String password;
 
+    @ManyToMany(fetch = FetchType.Eager, cascade = CascadeType.ALL) // FetchType eager will show the role to the user
+    @JoinTable(name = "user_roles", joinColumns = @JoinColumn(name = "user_id", referencedColumn = "id"),
+        inverseJoinColumns = @JoinColumn(name = "role_id", referencedColumName="id"))
+    private List<Role> roles = ArrayList<>();
+
 }
 ```
 
+Role Class
 ```java
 package com.pokemonreview.api.models;
 
@@ -33,9 +43,9 @@ import lombok.NoArgsConstructor;
 @Setter 
 @Getter 
 @Entity
-@Table(name = "roles")
+@Table(name = "role")
 @NoArgsConstructor
-public class Roles {
+public class Role {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
@@ -44,8 +54,6 @@ public class Roles {
 
 }
 ```
-
-
 
 ## Tags
 #spring
