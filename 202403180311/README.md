@@ -37,3 +37,4 @@ public class SecurityConfig {
 [YouTube - Spring Boot Security JWT Authentication Series](https://www.youtube.com/watch?v=GjN5IauaflY&list=PL82C6-O4XrHe3sDCodw31GjXbwRdCyyuY)
 
 ## Tags
+#spring
