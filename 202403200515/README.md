@@ -1,6 +1,6 @@
 # ARINC (Aeronautical Radio, Incorporated) 429 Protocol
 
-[ARINC](https://en.wikipedia.org/wiki/ARINC) 429 is a communication standard for all ground-based aeronautical radio stations to ensure compliance with the Federal Radio Commission rules and regulations.  
+[ARINC](https://en.wikipedia.org/wiki/ARINC) 429 is a communication standard for all ground-based aeronautical radio stations to ensure compliance with the Federal Radio Commission rules and regulations. It also the data protocol used to support an aircraft's avionics local area network.  
 
 ## Features
 * Self-clocking, self-synchronizing data bus protocol (Tx and Rx are on separate ports).  
