@@ -20,9 +20,7 @@ Class C missions are lower national significance, exploratory, or experimental m
 * Create internal block diagrams to extent that development risk is mitigated  
 * Track verification of interface and system requirements
 **Software Assurance**  
-* Same as Class A, for software development heavy programs  
-
-
+* Same as [Class A ](../202403210455), for software development heavy programs  
 
 ## Examples
 * Comm/Nav Outages Forecasting System (CNOFS) sponsored by space test program, w/ payload suite provided by Air Force Research Lab.  
