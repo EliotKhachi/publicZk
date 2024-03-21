@@ -1,11 +1,9 @@
 # Mission Assurance Guidelines for A-D Mission Risk Classes
 
-
-
-## Next Steps
-* Learn more about MA in other industries (automotive, medical, etc.) and how they can leverage MBSE  
-* Further develop standard for functions that aren't inherently systems engineering  
-* Further develop standard for second half of systems V  
+[Class A Missions](../202403210455)  
+[Class B Missions](../202403210459)  
+[Class C Missions](../202403210518)  
+[Class D Missions](../202403210527)  
 
 ## References
 [Aerospace Report - Mission Assurance Guidelines for A-D Mission Risk Classes](https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/TOR-2011(8591)-21.pdf)  
