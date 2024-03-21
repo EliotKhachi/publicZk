@@ -13,12 +13,12 @@ Class B missions are critical operational, exploration, or technical demonstrato
 **Requirements Analysis and Validation**  
 * Requirement traceability at every level
 **Design Assurance**  
-* Same as Class A
+* Same as [Class A ](../202403210455)
 **Integration, Test & Evaluation**  
-* Same interface modeling and traceability requirements as Class A  
+* Same interface modeling and traceability requirements as [Class A ](../202403210455)
 * May allow simulation and modeling in place of physical test for non-critical requirements  
 **Software Assurance**  
-* Same as Class A
+* Same as [Class A ](../202403210455)
 
 ## Examples  
 * Mars Exploration Rover (MER)  
