@@ -17,7 +17,7 @@ Class D missions have low national criticality and tend to be experimental with 
 **Integration, Test & Evaluation**  
 * Create internal block diagrams to extent that interfaces and safety are understood  
 **Software Assurance**
-* Same as Class A, for software development heavy programs  
+* Same as [Class A ](../202403210455), for software development heavy programs  
 
 ## Examples
 * MidStar space vehicle developed by Naval Academy  
