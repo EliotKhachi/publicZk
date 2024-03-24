@@ -14,4 +14,4 @@ Aside from helping the leader, project estimates help set expectations for the t
 [Project Cost Estimation: How to Estimate Project Cost](https://www.projectmanager.com/blog/cost-estimation-for-projects)
 
 ## Tags
-#projects
+#business

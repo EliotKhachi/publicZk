@@ -1,31 +1,32 @@
 # How to Supercharge Your Motivation For Your Goals
 
-To superchage your motivations for a goal you need to write them down.  
+To supercharge your motivations for a goal you need to write them down.  
 
-Break up your motivations as stemming from 3 different parts of your self: your higher-self, day-to-day self, and lower-self [[Types of Motivations](../202402280215)].  
+For each goal, break up your motivations for that goal into 3 different parts: higher-self, day-to-day self, and lower-self motivations [[Types of Motivations](../202402280215)].  
 
-Flesh out what achieving this goal would do for you, who you would become, how you would feel, and how that would put you in an upward spiral/trajectory in life.  
-
-Next, flesh out what pain or suffering you are avoiding, what you would do and who you would become if you couldn't avoid them, how that would make you feel, and how that would put you in a downward spiral/trajectory in life.  
+For each motivation, ask yourself:  
+* What would achieving this goal do for you?
+* How would you feel?
+* How that would put you in an upward spiral/trajectory in life?
+* What pain or suffering are you avoiding by achieving this goal?
+* How would you feel if you couldn't avoid those things?
+* How would that put you in a downward spiral/trajectory in life?
 
 Consider how your mental state, demeanor, and outlook on life would change, and the feedback loops therein.  
 
 ## The Format
-**Goal**  
-* *Higher-Self*
-    * Benefit 1
-        1. What would it do for you / Who would you become?
-            * Emotion  
-            * Upward Spiral  
-        2. What suffering are you avoiding? What if you couldn't avoid it?  
-            * Emotion  
-            * Downward Spiral  
-    * Benefit 2  
+* Goal
+    1. *Higher Motivation*
+        * What would achieving this goal do for you?
+        * Emotions
+        * Upward Spiral
+        * What suffering are you avoiding?  
+        * Emotions  
+        * Downward Spiral
+    2. *Day-to-Day Motivation*  
     ...
-* *Day-to-Day Self*  
-...
-* *Lower-Self*  
-...
+    3. *Lower Motivation*  
+    ...
 
 ## Tags
 #growth
