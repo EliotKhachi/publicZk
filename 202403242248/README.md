@@ -34,7 +34,8 @@ System Use Cases|||c14|c15|c16|c17|c18|
 Operational Use Cases||||c19|c20|c21|c22|
 System Functions|||||c23|c24|c25|
 Interfaces||||||c25|c26|
-Other Model Artifacts|||||||c27|
+Other Model Artifacts|||||||c27|  
+
 
 |**Association**|**Association Description**|**Event Needed**|
 |-|-|-|
