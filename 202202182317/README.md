@@ -1,4 +1,0 @@
-# Control Methods 
-
-## Tags
-#aerospace
