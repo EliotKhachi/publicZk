@@ -31,4 +31,4 @@ Each exam has 100 scored items. The computer exam includes 20 additional unscore
 [INCOSE Certification Program Knowledge Exam Update 2015](https://www.incose.org/docs/default-source/certification/incose-certification-knowledge-exam-update-wright-20150327.pdf?sfvrsn=8c8096c6_0)
 
 ## Tags
-#systems
+#systems #hub
