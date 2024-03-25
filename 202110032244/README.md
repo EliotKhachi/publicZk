@@ -1,6 +1,6 @@
-# Verification and Validation 
+# Verification vs Validation 
 
-Systems need to be verified and validated to ensure the requirements at all levels are being met.
+Systems need to be verified and validated to ensure the requirements at all levels are being met.  
 
 * **Verification** - Ensures you built the system right
 	* Meets subsystem requirements through testing
