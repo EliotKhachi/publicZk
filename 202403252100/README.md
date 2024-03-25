@@ -9,7 +9,7 @@ There is a minimum requirement for both depth and breadth of experience and know
 * System Integration
 * [Value of Systems Engineering](../202403252242)  
 * Validation
-* Verification
+* [Verification](../202403252309)
 * Requirements
 * Stakeholders
 * Agile

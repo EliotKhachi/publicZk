@@ -1,16 +1,6 @@
 # Verification vs Validation 
 
-Systems need to be verified and validated to ensure the requirements at all levels are being met.  
-
-* **Verification** - Ensures you built the system right
-	* Meets subsystem requirements through testing
-	* Determines whether the computational model accurately represents the mathematical model
-	* Scope is on the *elements*
-
-* **Validation** - Ensures you built the right system
-	* Meets system level requirements and stakeholder needs
-	* Determines whether the model is an accurate representation of reality from the perspective of its intended use
-	* Scope is on the *system*
+It is often stated that validation is intended to ensure that “the right artifact or entity will be or was built,” while verification is intended to ensure that “the artifact or entity has been built right.”  
 
 ## Examples
 |Example|Verification or Validation?|
