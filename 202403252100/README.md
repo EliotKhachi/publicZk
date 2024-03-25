@@ -25,7 +25,7 @@ There is a minimum requirement for both depth and breadth of experience and know
 
 Each exam has 100 scored items. The computer exam includes 20 additional unscored items to evaluate them for inclusion in future versions of the exam.  
 
-[Practice Question Set](https://www.incose.org/docs/default-source/certification/sample-questions.pdf?sfvrsn=1db983c6_0)  
+[INCOSE Sample Questions 2015](../202403252153)
 
 ## References
 [INCOSE Certification Program Knowledge Exam Update 2015](https://www.incose.org/docs/default-source/certification/incose-certification-knowledge-exam-update-wright-20150327.pdf?sfvrsn=8c8096c6_0)
