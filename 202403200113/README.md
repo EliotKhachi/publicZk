@@ -5,6 +5,11 @@ The following documents are developed for planning system-level integration test
 1. [Facility Requirements Document](../202403200116) / Statement of Work  
 2. [Test Schematic](../202403200143)
 3. [Test Plan](../202403200147)
+    * Objectives & Success Criteria
+    * Test Article Configuration
+    * Facility Configuration
+    * Instrumentation
+    * Control Logic / Test Sequence
 4. [Facility Wiring Diagram](../202403200153)  
 5. Test Procedures  
 6. Test Facility Readiness Review (TFRR)  
