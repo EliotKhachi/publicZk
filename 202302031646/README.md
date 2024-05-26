@@ -6,6 +6,12 @@ Apt-get won't overwrite the existing java versions.
 
 To switch between installed java versions, use the `update-java-alternatives` command.
 
+Run it interactively: `sudo update-alternatives --config java`  
+*select the version you want*  
+
+Done.
+
+## Alternative Method
 List all java versions:
 
 `update-java-alternatives --list`
