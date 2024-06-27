@@ -18,7 +18,25 @@ My laptop wasn't connecting to Wi-Fi for some reason, when my iPhone and other d
 `sudo systemctl restart NetworkManager`
 
 6. Check the NetworkManager configuration file and ensure the managed=true line is present under the [ifupdown] section.
-`sudo vim /etc/NetworkManager/NetworkManager.conf`
+```
+sudo vim /etc/NetworkManager/NetworkManager.conf
+sudo systemctl restart NetworkManager
+```
+
+## Update
+Lost WiFi connection again. I fixed it again by...  
+`sudo vim /etc/NetworkManager/conf.d/default-wifi-powersave-on.conf`  
+and changing  
+``
+[connection]  
+wifi.powersave = 3  
+```  
+to   
+```  
+[connection]  
+wifi.powersave = 3  
+```  
+and then running `sudo systemctl restart NetworkManager`  
 
 ## Tags
 #ubuntu #networks
