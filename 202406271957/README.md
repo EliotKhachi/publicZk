@@ -23,7 +23,7 @@ sudo vim /etc/NetworkManager/NetworkManager.conf
 sudo systemctl restart NetworkManager
 ```
 
-## Update
+## Update 1
 Lost WiFi connection again. I fixed it again by...  
 `sudo vim /etc/NetworkManager/conf.d/default-wifi-powersave-on.conf`  
 and changing  
@@ -37,6 +37,9 @@ to
 wifi.powersave = 3  
 ```  
 and then running `sudo systemctl restart NetworkManager`  
+
+## Update 2
+List wifi again
 
 ## Tags
 #ubuntu #networks
