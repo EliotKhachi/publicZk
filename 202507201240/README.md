@@ -1,6 +1,6 @@
 # 🌙 End-of-Day Reflection Journal
 
-**Date:** _______________
+**Date:** 2025-07-20  <!-- adjust manually if you’re writing for a past day -->
 
 ---
 
@@ -56,3 +56,6 @@
 - What do I want to carry with me into tomorrow?
 
 ---
+
+## Tags
+#journal
