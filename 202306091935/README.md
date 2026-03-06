@@ -1,10 +1,10 @@
 # Flash STM32 MCUs w/ Open Source Software
 
-1. Download the latest [GNU ARM Toolchain](https://developer.arm.com/downloads/-/gnu-rm) for Linux. [Compression and Extraction - tar, gzip](../202302031659/README.md)
+1. Download the latest [GNU ARM Toolchain](https://developer.arm.com/downloads/-/gnu-rm) for Linux. [Compression and Extraction - tar, gzip](../202302031659)
 
 2. Download open-source stlink debugger from [github.com/stlink-org/stlink](https://github.com/stlink-org/stlink).
 
-3. Configure your paths to the binaries. [Adding Binaries to Path - Linux](../202306091810/README.md)
+3. Configure your paths to the binaries. [Adding Binaries to Path - Linux](../202306091810)
 
 4. Connect your ST-Link to your MCU (3.3V, GND, SWDIO, SWCLK). Find your MCU's datasheet to find out which pins to connect to.
 

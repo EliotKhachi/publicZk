@@ -10,8 +10,8 @@ Try 'wc --help' for more information.
 ```
 
 ## Links
-[Inputs, Outputs, and Errors](../202305212246/README.md)  
-[Redirecting Standard Error](../202305212235/README.md)  
+[Inputs, Outputs, and Errors](../202305212246)  
+[Redirecting Standard Error](../202305212235)  
 
 ## References
 [Linux Pocket Guide](https://linuxpocketguide.com/)

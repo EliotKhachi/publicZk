@@ -15,7 +15,7 @@ if (ret != HAL_OK) return ret;
 ```
 
 ## Links
-[Use STM32 HAL libraries to read and write data via I2C](../202306112223/README.md) 
+[Use STM32 HAL libraries to read and write data via I2C](../202306112223) 
 
 ## Tags
 #STM32

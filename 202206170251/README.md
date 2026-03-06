@@ -4,7 +4,7 @@
 
 A headless configuration is one that doesn't require a separate keyboard or monitor connected to the raspberry pi. You can simply SSH into its shell from yours.  
 
-1. [Install Raspian OS onto Raspberry Pi Using rpi-imager](../202307212120/README.md)
+1. [Install Raspian OS onto Raspberry Pi Using rpi-imager](../202307212120)
 2. Find your raspberry pi's IP address (make sure it's powered on first)  
 Option 1: `ping raspberrypi.local`  
 Option 2: `nmap -sn 192.168.1.*`  

@@ -1,6 +1,6 @@
 # Redirecting Standard Output
 
-First, what even is [Standard Output](../202305212216/README.md)?
+First, what even is [Standard Output](../202305212216)?
 
 Another place you can put the output of a command is in a file. Use the `>` shell operator to *redirect* standard output into a file, overwriting its contents. To append to a file, use the `>>` operator.  
 
@@ -12,7 +12,7 @@ Desktop Documents Downloads Pictures Music
 ```
 
 ## Links
-[Mastering Linux](../202305212246/README.md)  
+[Mastering Linux](../202305212246)  
 
 ## References
 [Linux Pocket Guide](https://linuxpocketguide.com/)  

@@ -20,8 +20,8 @@ Eliot
 `4` *output*  
 
 ## Links
-[Mastering Linux](../202305212246/README.md)  
-[Redirecting Standard Input](../202305212146/README.md)  
+[Mastering Linux](../202305212246)  
+[Redirecting Standard Input](../202305212146)  
 
 ## References
 [Linux Pocket Guide](https://linuxpocketguide.com/)

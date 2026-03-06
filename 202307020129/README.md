@@ -1,7 +1,7 @@
 # Generate and Configure SSL Certificate for Apache on Amazon Linux 2 EC2 Instance Using CertBot
 
 ## Pre-Requisite
-[Install and Configure Apache Web Server on Amazon Linux 2 EC2 Instance](../202307020136/README.md)
+[Install and Configure Apache Web Server on Amazon Linux 2 EC2 Instance](../202307020136)
 
 ## Steps to Configure SSL Certificate
 1. Update package list  

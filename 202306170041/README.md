@@ -22,7 +22,7 @@ Set the output voltage with the following equation:
 ![image](./Fri_Jun_16_05:56:20_PM_PDT_2023.png)
 
 ## Links
-[Voltage Regulators](../202306170030/README.md)
+[Voltage Regulators](../202306170030)
 
 ## References
 [Mouser MAX603/MAX604 Datasheet](https://www.mouser.com/datasheet/2/609/MAX603_MAX604-3113208.pdf)

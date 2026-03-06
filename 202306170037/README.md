@@ -5,6 +5,6 @@
 3. You will gradually experience a voltage drop throughout your circuit. As you use up your battery, *its* supply voltage will drop. Consequently, the voltage after the resistor will drop.
 
 ## Links
-[Voltage Regulators](../202306170030/README.md)
+[Voltage Regulators](../202306170030)
 
 ## Tags
