@@ -12,4 +12,4 @@
 [Linux Support for Intel Wireless Adapters](https://www.intel.com/content/www/us/en/support/articles/000005511/wireless.html)  
 
 ## Tags
-#linux
+#os #linux

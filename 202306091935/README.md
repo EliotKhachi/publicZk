@@ -16,4 +16,4 @@
 [freeelectron Blog - Installing ST-Link V2 to Flash STM32 Targets on Linux](https://freeelectron.ro/installing-st-link-v2-to-flash-stm32-targets-on-linux/)
 
 ## Tags
-#linux #STM32
+#os #linux #embedded

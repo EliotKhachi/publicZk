@@ -8,4 +8,4 @@
 [Communicate with any slave device using I2C on STM32 with HAL](../202306101837)
 
 ## Tags
-#STM32
+#embedded

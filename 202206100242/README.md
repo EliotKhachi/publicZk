@@ -23,4 +23,4 @@ If your local computer OS is Linux or macOS X, you can use the following ways to
 [General prerequisites for connecting to your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connection-prereqs.html)
 
 ## Tags
-#aws #ssh
+#os #aws #linux

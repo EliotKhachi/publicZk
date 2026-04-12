@@ -6,4 +6,4 @@
 [Raspberry Pi Read Only](https://hallard.me/raspberry-pi-read-only/)
 
 ## Tags
-#linux #rpi
+#os #linux #embedded

@@ -11,4 +11,4 @@ SSH stands for *secure shell*. It is a protocol for communication between two co
 [Phoenixnap - What is SSH?](https://phoenixnap.com/kb/what-is-ssh)
 
 ## Tags
-#ssh
+#os #linux

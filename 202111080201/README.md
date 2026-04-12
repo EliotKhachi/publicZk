@@ -45,4 +45,4 @@ If you were to just set the data pins on the microcontroller to represent a byte
 [BuildYourCNC ARM Microntroller Series - How to Interface an LCD](https://www.youtube.com/watch?v=877SPdwuuLA&list=PL6PplMTH29SHgRPDufZhfMRoFwRAIrzOp&index=27)
 
 ## Tags
-#STM32 #embedded
+#embedded

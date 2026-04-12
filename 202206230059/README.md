@@ -12,4 +12,4 @@
 [YouTube - How to protect Linux from Hackers // My server security strategy!](https://www.youtube.com/watch?v=Bx_HkLVBz9M)
 
 ## Tags
-#networks #linux
+#os #networks #linux

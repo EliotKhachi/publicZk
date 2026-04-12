@@ -26,4 +26,4 @@ See next --> [String Commands Together](../202305212305)
 [Linux Pocket Guide](https://linuxpocketguide.com/)
 
 ## Tags
-#linux
+#os #linux

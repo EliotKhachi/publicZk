@@ -5,4 +5,4 @@
 3. Type and enter `xclip -i -selection clipboard`
 
 ## Tags
-#linux
+#os #linux

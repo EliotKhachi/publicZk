@@ -26,4 +26,4 @@ To find out which one my laptop has...
 [WiFi Not Working - Ubuntu](https://www.maketecheasier.com/fix-wi-fi-not-working-ubuntu/)
 
 ## Tags
-#linux
+#os #linux

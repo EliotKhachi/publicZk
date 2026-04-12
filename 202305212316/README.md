@@ -5,4 +5,4 @@ A command is a sequence of computer instructions that get executed when it's inv
 For example, `ls` is the name of the "list directory contents" command. Try it!  
 
 ## Tags
-#linux
+#os #linux

@@ -3,4 +3,4 @@
 `sudo netstat -nlp`
 
 ## Tags
-#linux #networks
+#os #linux #networks

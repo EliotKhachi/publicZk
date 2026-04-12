@@ -16,4 +16,4 @@ Device              Start        End    Sectors   Size Type
 
 
 ## Tags
-#windows
+#os

@@ -8,4 +8,4 @@ Found in the CMSIS system\_\<device\>.c file, the SystemInit function is called 
 
 
 ## Tags
-#embedded #STM32
+#embedded

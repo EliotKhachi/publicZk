@@ -22,4 +22,4 @@ An address byte with a 1 as the LSB tells the slave that the master wishes to re
 [Use STM32 HAL libraries to read and write data via I2C](../202306112223) 
 
 ## Tags
-#STM32
+#embedded

@@ -29,4 +29,4 @@ Example: `1;31;40` --> bold red text on a black background
 
 
 ## Tags
-#linux
+#os #linux

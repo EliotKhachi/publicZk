@@ -13,4 +13,4 @@ ADC signals flow through *channels* on the microcontroller. These channels corre
 [How to use the ADC (analog to Digital Conversion) for ARM Microcontrollers Tutorial and Intro](https://www.youtube.com/watch?v=Nbg0woJMc-Y&list=PL6PplMTH29SHgRPDufZhfMRoFwRAIrzOp&index=33)
 
 ## Tags
-#embedded #STM32
+#embedded

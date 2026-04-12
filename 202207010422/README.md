@@ -14,4 +14,4 @@ Go into `/etc/ssh/sshd_config` and change `X11Forwarding no` to `X11Forwarding y
 [Baeldung Linux - Forward X Over SSH](https://www.baeldung.com/linux/forward-x-over-ssh)
 
 ## Tags
-#ssh
+#os #linux

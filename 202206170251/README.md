@@ -16,4 +16,4 @@ If you can't find a raspberry pi in this list you may need to connect the pi to 
 [How to find a Raspberry Pi on your network](https://kimondo.co.uk/find-raspberry-pi-network/)  
 
 ## Tags
-#ssh #rpi
+#os #linux #embedded

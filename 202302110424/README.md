@@ -13,4 +13,4 @@ Here are two essential regex and sed concepts:
 [Cheatography - Regex Patterns Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
 
 ## Tags
-#linux #bash #commands
+#os #linux #bash #commands

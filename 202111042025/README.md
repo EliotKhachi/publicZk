@@ -38,4 +38,4 @@ The *kernel source* is needed to compile a module by first generating a .config 
 [Makefiles](../202110182235)
 
 ## Tags
-#linux
+#os #linux

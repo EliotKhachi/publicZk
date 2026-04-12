@@ -16,4 +16,4 @@ Where FILENAME is the name of the file, USER is the username on the remote machi
 [How to Use SCP with SSH Key Authenticaton](https://www.techrepublic.com/article/how-to-use-secure-copy-with-ssh-key-authentication/)
 
 ## Tags
-#ssh
+#os #linux

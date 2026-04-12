@@ -9,4 +9,4 @@ exFAT (Extensible File Allocation Table) - primarily designed for removable stor
 [easeus.com - File System Comparison](https://www.easeus.com/diskmanager/file-system.html)
 
 ## Tags
-#linux
+#os #linux

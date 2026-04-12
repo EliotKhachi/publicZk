@@ -16,4 +16,4 @@ Relevant output:
 [Wireless Wifi Driver Chipset Information](https://www.cyberciti.biz/faq/linux-find-wireless-driver-chipset/)
 
 ## Tags
-#linux
+#os #linux

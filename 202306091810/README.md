@@ -13,4 +13,4 @@ In your ~/.bashrc...
 `export PATH="$PATH:~/mypath/to/mybinary"`
 
 ## Tags
-#linux
+#os #linux

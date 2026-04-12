@@ -31,4 +31,4 @@ Launch minicom with a baud rate of 115200 for the ST-LINK/V2 device
 `minicom -b 115200 -D /dev/bus/usb/001/007`
 
 ## Tags
-#linux
+#os #linux

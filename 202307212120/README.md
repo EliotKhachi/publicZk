@@ -18,4 +18,4 @@
 10. Eject microSD card and enter it into the raspberry pi. Connect the raspberry pi to power.
 
 ## Tags
-#rpi
+#embedded

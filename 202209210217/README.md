@@ -20,4 +20,4 @@ Optionally may add `bs=1M` to specify byte writing speed to one million or `stat
 [Ostechnix - How to Create Bootable USB Drive Using DD Command](https://ostechnix.com/how-to-create-bootable-usb-drive-using-dd-command/)
 
 ## Tags
-#linux
+#os #linux

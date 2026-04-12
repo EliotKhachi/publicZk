@@ -8,4 +8,4 @@ A file system is software that structures data and sets rules for the operating 
 [File System Use Cases](../202403052008)  
 
 ## Tags
-#linux
+#os #linux

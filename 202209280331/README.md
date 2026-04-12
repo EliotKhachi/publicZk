@@ -56,4 +56,4 @@ b) sudo mv ./ucm /usr/share/alsa
 , don't change anything, and save and exit. Your speakers should now be working.  
 
 ## Tags
-#linux #debug
+#os #linux #debug

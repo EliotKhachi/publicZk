@@ -42,4 +42,4 @@ and then running `sudo systemctl restart NetworkManager`
 List wifi again
 
 ## Tags
-#ubuntu #networks
+#os #linux #networks

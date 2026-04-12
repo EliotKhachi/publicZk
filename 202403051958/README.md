@@ -6,4 +6,4 @@ $o format a disk for a linux file system, use `mkfs`.
 run `man mkfs`
 
 ## Tags
-#linux
+#os #linux

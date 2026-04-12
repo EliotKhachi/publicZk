@@ -9,4 +9,4 @@ In STM32CubeIDE, you can easily configure your clock (SCL) and data (SDA) lines 
 5. Click File > Save > Generate Code
 
 ## Tags
-#STM32
+#embedded

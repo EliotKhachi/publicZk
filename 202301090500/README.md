@@ -32,4 +32,4 @@ For the following examples, the `sed` command is operating on the `text.txt` fil
 * `sed 11q text.txt` - print the first 11 lines.   
 
 ## Tags
-#linux #commands
+#os #linux #commands
