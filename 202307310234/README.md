@@ -1,8 +1,9 @@
 # Picking Your Crowd
 
-*Prompt: Flesh out how you ideally want to be treated. Then make room for deviations given people's differences in values, beliefs, and personalities. Then, out of those deviations, determine which ones you will and will not tolerate.*  
+*Prompt: Who do you want to spend your time with and surround yourself with? How do you want to be treated? What will you tolerate given given people's differences in values, beliefs, and personalities.  
 
-*Extra Prompt: Apply this to dating. Build expectations. Develope a sense of entitlement. What behaviors will you and won't you tolerate?*
+I want to surround myself with highly ambitious, intelligent, hard-working people who also know how to have a good time during their free time. This could mean getting drinks after work or on the weekend. Social and outgoing.  
+
 
 ## Tags
 #journal #growth
