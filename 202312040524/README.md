@@ -10,4 +10,4 @@ See Chapter 3 of [RPI Pico Getting Started](https://datasheets.raspberrypi.com/p
 [Raspberry Pi Foundation - Raspberry Pi Pico Page](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
 ## Tags
-##embedded
+#embedded
