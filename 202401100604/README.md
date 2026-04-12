@@ -12,6 +12,8 @@ Atleast once a quarter.
 
 Write in great detail. Consider yourself and the people around you. Also write considering at different time scales; in 6 months, what will it cost you? How about a year? 2 years?  
 
+[Fear Setting 4-11-2026](../202604120357)
+
 ## References
 [YouTube - Tim Ferriss - Fear-Setting](https://www.youtube.com/watch?v=o7EVMjgsSME)
 
