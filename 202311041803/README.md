@@ -13,4 +13,4 @@ Basically what's being said here is that you can claim an action is moral only i
 [Stanford Encyclopedia of Philosophy - Kant's Moral Philosophy](https://plato.stanford.edu/entries/kant-moral/)
 
 ## Tags
-#laws
+#principles

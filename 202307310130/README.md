@@ -6,4 +6,4 @@ The golden rule states to treat others how you want to be treated.
 [The Implications of The Golden Rule](../202307310117)
 
 ## Tags
-#growth #laws
+#growth #principles

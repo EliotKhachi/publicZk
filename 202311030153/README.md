@@ -15,4 +15,4 @@ The inverse conclusion is an obvious false one.
 [Wiki - Denying The Antecedent](https://en.wikipedia.org/wiki/Denying_the_antecedent)
 
 ## Tags
-#laws
+#principles
