@@ -14,7 +14,6 @@ I will not tolerate people who:
 - make sleight comments about me
 - deceive others for personal gain
 - waste my time
-- don't acknowledge my feelings
 
 ## Tags
 #journal #growth
