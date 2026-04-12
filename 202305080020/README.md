@@ -1,9 +1,9 @@
-# Schematics Basics 
+# Schematics Basics
 
 ## What are they
 Schematics are *on-paper* representations of circuits. Typically schematics are drawn out before building the actual circuit. Schematics are to circuits what blueprints are to buildings.  
 
-## Must-Know Symbols 
+## Must-Know Symbols
 1. Power Source (DC and AC)  
 2. Resistor  
 3. LED  

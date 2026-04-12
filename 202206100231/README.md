@@ -1,4 +1,4 @@
-# What is AWS? 
+# What is AWS?
 
 AWS is a *cloud* that includes infrastructure as a service (IaaS) and platform as a service (PaaS), with pay-as-you go pricing, allowing you to build, deploy, and scale your applications without up-front costs or on-going commitments. IaaS and PaaS are appealing to developers because they can leverage them to spend less time on the backbone of their application, and more time on the meat, so to speak...  
 

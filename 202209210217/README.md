@@ -1,4 +1,4 @@
-# Writing Disk ISO Images to Disks on Linux 
+# Writing Disk ISO Images to Disks on Linux
 
 1. Plug in disk 
 

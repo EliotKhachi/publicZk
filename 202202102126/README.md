@@ -1,8 +1,8 @@
-# Linker Script 
+# Linker Script
 
 A *linker script* is a text file written in the *ld* command language [\[Linker Command Language: ld\]](../202202120015) made up of a series of *directives* [\[Linker Directives\]](../202202120014).   
 
-## Example Linker Script for STM32F030x8  
+## Example Linker Script for STM32F030x8
 
 ```c
 MEMORY
@@ -34,4 +34,4 @@ SECTIONS
 1. [OS Dev Wiki - Linker Scripts](https://wiki.osdev.org/Linker_Scripts)
 
 ## Tags
-#embeddedSystems
+#embedded

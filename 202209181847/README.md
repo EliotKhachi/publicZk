@@ -1,8 +1,8 @@
-# Deserialization 
+# Deserialization
 *Deserialization* is the process of converting a delimited string or byte sequence 
 into an object type.  
 
-## Example 
+## Example
 ```java
 private Object lineToObject(String line) {
     String[] fields = line.split(delimiter);

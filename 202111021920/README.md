@@ -1,4 +1,4 @@
-# Serial Communication  
+# Serial Communication
 
 Serial communication is the process of sending data one bit at a time, sequentially, over one communication channel or computer bus. This is in contrast to parallel communication.  
 **Recall: A wire can only send data by pulling that line high or low**

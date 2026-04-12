@@ -1,4 +1,4 @@
-# Guide to Git 
+# Guide to Git
 
 0. To start a git project, you first need to install git  
 	```bash
@@ -11,4 +11,4 @@ Congratulations! You now have the ultimate power of being able to track changes 
 
 2. Now
 ## Tags
-#programming
+#software

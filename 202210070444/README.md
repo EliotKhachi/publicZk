@@ -1,4 +1,4 @@
-# What is A File 
+# What is A File
 
 A **computer file** is a computer *resource* for recording data in a computer *storage device*, primarily identified by its *file name*.  
 
@@ -15,4 +15,4 @@ Most *operating systems* organize their files into one-dimensional arrays of byt
 [Wikipedia - Computer File](https://en.wikipedia.org/wiki/Computer_file)
 
 ## Tags
-#computers
+#technology

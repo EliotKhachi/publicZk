@@ -17,7 +17,7 @@
     * Do a [lightweight tutorial project](https://www.youtube.com/watch?v=C4blK6X-D_4) that covers smart contracts with solidity and how the front-end interacts with it.  
     * Tackle a big project with no guidance. Add features little by little.  
 
-## References 
+## References
 [YouTube - How to become a highly paid blockchain developer in 2024 (step-by-step) ](https://www.youtube.com/watch?v=RncXNlEsv5A)  
 
 ## Tags

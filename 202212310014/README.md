@@ -1,11 +1,11 @@
-# React Library for JavaScript 
+# React Library for JavaScript
 
 ## What is it
 React is a JavaScript library for building UIs (user interfaces) in an intuitive and easier way. A React application is structured into pieces of code called *components*.
 
 Intead of separating *technologies* by putting markup (HTML and CSS) and logic (JavaScript) in separate files, React separates *concerns* with loosely coupled units called *components* that contain both. Components could be thought of as "sections" of the UI. [Wikipedia - Separation of Concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 
-## Why React? 
+## Why React?
 **1. Intuitive Development:** 
 Before the days of React, separate HTML, CSS, and JS files worked together by setting HTML element properties through the DOM (Document Object Model) by use of class names and ids.
 

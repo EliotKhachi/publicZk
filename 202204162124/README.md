@@ -1,9 +1,9 @@
-# Tube/Pipe Bending 
+# Tube/Pipe Bending
 
 ## Introduction
 Tube or pipe bending is a common manufacturing process used to construct anything from structures in the automotive industry such as strut tower braces, bash bars, roll cages, and roll bars, to plumbing fluid for aerospace applications or chemical plants.   
 
-## Terminology  
+## Terminology
 * **Pipe** - a hollowed-out cylinder of a pre-determined diameter and wall thickness.  
 * **Tube** - a hollowed-out cylinder of a pre-determined diameter and wall thickness.   
 * **Bending die** - Generally a die in the shape of a semi-circle with a groove of a various size wherein the pipe/tube sits inside to be bent.  

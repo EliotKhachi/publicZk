@@ -2,7 +2,7 @@
 
 Class B missions are critical operational, exploration, or technical demonstrators where only minor compromises are made to achieve a **low risk profile**.  
 
-## Characteristics 
+## Characteristics
 * High cost  
 * High / medium complexity  
 * Long mission life  
@@ -20,7 +20,7 @@ Class B missions are critical operational, exploration, or technical demonstrato
 **Software Assurance**  
 * Same as [Class A ](../202403210455)
 
-## Examples  
+## Examples
 * Mars Exploration Rover (MER)  
 * Mars Reconnaissance Orbiter (MRO)  
 * ISS payloads  

@@ -1,4 +1,4 @@
-# Proxy vs Reverse Proxy  
+# Proxy vs Reverse Proxy
 
 ## What is a Proxy?
 A *proxy* is simply a software that makes requests on behalf of a *client*. All requests have to go through the proxy first. As far as the server is considered, the proxy *is* the client (the server doesn't know the final destination).  
@@ -27,4 +27,4 @@ A *reverse proxy* is a software that directs the client's request to the actual 
 [Proxy vs Reverse Proxy](https://www.youtube.com/watch?v=SqqrOspasag)  
 
 ## Tags
-#dev
+#software

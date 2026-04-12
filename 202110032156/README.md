@@ -1,4 +1,4 @@
-# What is a System 
+# What is a System
 
 * "A part of a system is *anything* that costs the Program Manager money and the whole system is *everything* it takes to enable the mission to be performed." (Steven Dobbs)  
 * A system is an "integrated set of elements, subsystems or assemblies that accomplish a defined objective" (INCOSE).  

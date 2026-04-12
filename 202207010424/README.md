@@ -1,4 +1,4 @@
-# What is SSH? 
+# What is SSH?
 
 SSH stands for *secure shell*. It is a protocol for communication between two computer through a secure channel (network port 22).   
 

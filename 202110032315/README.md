@@ -1,4 +1,4 @@
-# What is SysML? 
+# What is SysML?
 
 * SysML stands for Systems Modeling Language.  
 * It's a graphical modeling language that supports systems engineering.  
@@ -15,4 +15,4 @@
 *SysML Distilled* by Lenny Delligatti
 
 ## Tags
-#systems #MBSE
+#MBSE

@@ -1,4 +1,4 @@
-# Logic Operators 
+# Logic Operators
 
 Logic operators in programming and circuitry take in inputs and have corresponding outputs.   
 
@@ -17,4 +17,4 @@ Logic operators in programming and circuitry take in inputs and have correspondi
 [Logic Gates Depiction - PNG](https://instrumentationtools.com/wp-content/uploads/2017/07/instrumentationtools.com_digital-logic-gates-truthtables.png)
 
 ## Tags
-#electronics #programming
+#electronics #software

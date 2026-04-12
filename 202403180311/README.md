@@ -1,6 +1,6 @@
 # Security Filter Chain
 
-## Filter Chain Structure 
+## Filter Chain Structure
 The HTTP response and request pass through these filters, being passed between them by `HttpServletResponse` and `HttpServletRequest`.   
 ![image](https://www.eliotkhachi.dev/resources/zettel-images/Sun_Mar_17_08:11:26_PM_PDT_2024.png)
 

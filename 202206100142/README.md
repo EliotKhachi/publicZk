@@ -1,4 +1,4 @@
-# Git Ignore File 
+# Git Ignore File
 
 Before explaining the *.gitignore* file, it's imperative that you understand git sees every file in your working copy as one of three things.  
 1. tracked - a file which as been previously staged or committed.  
@@ -35,4 +35,4 @@ Before explaining the *.gitignore* file, it's imperative that you understand git
 [Atlassian .gitignore Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)  
 
 ## Tags
-#git #programming
+#git #software

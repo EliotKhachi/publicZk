@@ -1,4 +1,4 @@
-# Leetcode - Bubble Sort 
+# Leetcode - Bubble Sort
 
 ## Algorithm
 ```java
@@ -36,4 +36,4 @@ Each pass has a time complexity of *n*, where *n* is the number of elements in t
 [Big O Notation for Sorting Algorithms](https://www.educative.io/blog/big-o-notation-cheat-sheet)   
 
 ## Tags
-#programming
+#software

@@ -1,4 +1,4 @@
-# Logic Gates 
+# Logic Gates
 
 A logic gate is a circuit that takes input signals as HIGH or LOW and generates HIGH or LOW output. [HIGH and LOW Voltages](../202305121857)  
 
@@ -10,4 +10,4 @@ Note that when an input of a logic gate is not connected to HIGH or LOW, then th
 [Logic Gates Depiction - PNG](https://instrumentationtools.com/wp-content/uploads/2017/07/instrumentationtools.com_digital-logic-gates-truthtables.png)
 
 ## Tags
-#electronics #programming
+#electronics #software

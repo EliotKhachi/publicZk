@@ -4,7 +4,7 @@
 
 ## Example
 ```
-who | sort  # sends the output of who into the sort program, printing an alphabetically sorted listed of logged-in users.  
+who | sort # sends the output of who into the sort program, printing an alphabetically sorted listed of logged-in users.
 ```
 
 ## Tags

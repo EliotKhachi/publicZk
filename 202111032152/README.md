@@ -1,4 +1,4 @@
-# C Data Types and Format Specifier Examples 
+# C Data Types and Format Specifier Examples
 
 See Reference for definitions of basic types, their minimum size in bits, and their respective format specifiers.
 
@@ -11,4 +11,4 @@ See Reference for definitions of basic types, their minimum size in bits, and th
 
 
 ## Tags
-#programming
+#software

@@ -1,4 +1,4 @@
-# Components of a URL 
+# Components of a URL
 
 Take the following URL: 
 `https://www.example.co.uk:443/blog/article/search?docid=720&hl=en#dayone`
@@ -25,4 +25,4 @@ Take the following URL:
 [GeeksforGeeks - Components of a URL](https://spring.io/quickstart)
 
 ## Tags
-#dev
+#software

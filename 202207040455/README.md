@@ -1,14 +1,14 @@
-# VirtualBox 
+# VirtualBox
 
 *VirtualBox* is a free and open source software used to run any OS (operating system) on top of your OS, without restarting your computer.  
 
 ## Steps
-1. `sudo apt update # update packages ` 
+1. `sudo apt update # update packages `
 2. `sudo apt install virtualbox # install virtual box`
-3. `virtualbox # executes the application, VirtualBox` (run in console, Alt+F2)  
+3. `virtualbox # executes the application, VirtualBox` (run in console, Alt+F2)
 
-4. `wget https://download.virtualbox.org/virtualbox/6.1.32/Oracle_VM_VirtualBox_Extension_Pack-6.1.32.vbox-extpack # download extension packs for VirtualBox (USB support, disk encryption, and more)`   
-5. `sudo VBoxManage extpack install Oracle_VM_VirtualBox_Extension_Pack-6.1.32.vbox-extpack # install the extension packs` 
+4. `wget https://download.virtualbox.org/virtualbox/6.1.32/Oracle_VM_VirtualBox_Extension_Pack-6.1.32.vbox-extpack # download extension packs for VirtualBox (USB support, disk encryption, and more)`
+5. `sudo VBoxManage extpack install Oracle_VM_VirtualBox_Extension_Pack-6.1.32.vbox-extpack # install the extension packs`
 ---
 6. Inside the *VirtualBox* application, go to File > Preferences > Extensions. Select the extension pack you just installed (Oracle...) an click OK.  
 7. Click "New", and then select and name an OS.  

@@ -1,4 +1,4 @@
-# Verification vs Validation 
+# Verification vs Validation
 
 It is often stated that [Validation](../202403252320) is intended to ensure that “the right artifact or entity will be or was built,” while [Verification](../202403252309) is intended to ensure that “the artifact or entity has been built right.”  
 

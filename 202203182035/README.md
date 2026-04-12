@@ -1,4 +1,4 @@
-# Software Design vs Architecture 
+# Software Design vs Architecture
 
 ## Design
 * Implementation  
@@ -9,7 +9,7 @@
 * Avoids uncertainty  
 * One initial phase of the Software Development Cycle (SSDLC)  
 
-## Architecture  
+## Architecture
 * Structure  
 * What we are building  
 * Complete architecture of the overall system  
@@ -22,4 +22,4 @@
 1. [Difference between Software Design and Software Architecture](https://www.geeksforgeeks.org/difference-between-software-design-and-software-architecture/)   
 
 ## Tags
-#programming
+#software

@@ -6,8 +6,8 @@ The purpose of [this](https://apps.dtic.mil/sti/pdfs/AD1168439.pdf) paper is to 
 ## How To Use This Document
 1. Review definitions.  
 2. Decide which lifecycle events you want your models to support.  
-3. Describe the [essential information needed for each requirement](https://apps.dtic.mil/sti/pdfs/AD1168439.pdf#page=29)  
-4. See suggestions for how to [model each requirement](https://apps.dtic.mil/sti/pdfs/AD1168439.pdf#page=31)  
+3. Describe the [essential information needed for each requirement](https://apps.dtic.mil/sti/pdfs/AD1168439.pdf#page=29)
+4. See suggestions for how to [model each requirement](https://apps.dtic.mil/sti/pdfs/AD1168439.pdf#page=31)
 
 ## Definitions
 
@@ -57,4 +57,4 @@ Other Model Artifacts|||||||c27|
 [Modeling to Support DoD Acquisition Lifecycle Events](https://apps.dtic.mil/sti/pdfs/AD1168439.pdf)  
 
 ## Tags
-#systems #MBSE #research
+#MBSE #research

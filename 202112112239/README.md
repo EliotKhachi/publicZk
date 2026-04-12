@@ -1,4 +1,4 @@
-# Logic Analyzer Fundamentals  
+# Logic Analyzer Fundamentals
 
 A logic analyzer is a tool used to debug a digital circuit by reading the logic levels of a signal(s) at a specified sample rate for a specified sample duration.
 
@@ -25,4 +25,4 @@ A logic analyzer is a tool used to debug a digital circuit by reading the logic 
 [DSView User Guide v1.00 by DreamSourceLab](https://www.dreamsourcelab.com/doc/DSView_User_Guide.pdf) --> Caution: This is a download.
 
 ## Tags
-#embeddedSystems
+#embedded

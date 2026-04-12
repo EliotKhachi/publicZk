@@ -1,6 +1,6 @@
-# Wake On Lan Using Raspberry Pi 
+# Wake On Lan Using Raspberry Pi
 
-## Prerequisites  
+## Prerequisites
 1. Your computer's motherboard must be capable of WOL.  
 *Go to your motherboard manufacturer's website and check its capabilities. Then go into your computer's BIOS and make sure WOL is enabled.* [Asus Motherboard How to set and enable WOL function in BIOS](https://www.asus.com/global/support/FAQ/1045950/)  
 

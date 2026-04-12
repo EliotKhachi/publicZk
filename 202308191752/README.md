@@ -12,4 +12,4 @@ The `<Router>` component is the outermost wrapper of your application. It manage
 React Router by default directs the client to the 'Home' page if it can't find the Route. To direct the client to a '404' page, first set up a `<Route>` that contains your '404' page content, where the `path` property isn't set to anything. Without a path defined, this is the default page of your app. Next, you have to modify your 'Home' page's route declaration to `<Route exact path="/">` 
 
 ## Tags
-#dev #react
+#software #react

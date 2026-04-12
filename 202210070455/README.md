@@ -1,4 +1,4 @@
-# Directory - Computing 
+# Directory - Computing
 
 In computing, a **directory** is a file-system cataloging-structure which contains references to other computer files, and possibly other directories.  
 [202210070444](../202210070444) - What is A File
@@ -19,4 +19,4 @@ The top-most directory in such a file system is called the *root* directory, lik
 [Wikipedia - Directory](https://en.wikipedia.org/wiki/Directory_(computing))
 
 ## Tags
-#computers
+#technology

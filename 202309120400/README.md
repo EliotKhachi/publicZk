@@ -4,7 +4,7 @@ Each Region is a separate geographic area that contains multiple [Availability Z
 
 Each Region is designed to be isolated from the other Regions. This achieves the greatest possible fault tolerance and stability.
 
-## References 
+## References
 [AWS Docs - Regions & Zones](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html#concepts-regions)
 
 ## Tags

@@ -1,4 +1,4 @@
-# What is Systems Engineering?  
+# What is Systems Engineering?
 
 Systems Engineering is a customer-focused approach to engineering.  
 

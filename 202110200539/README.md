@@ -1,4 +1,4 @@
-# Bitwise Operators in C  
+# Bitwise Operators in C
 
 Bitwise operators in C change the bits of a primitive type, thereby changing its value.  
 The rules used to change the bits depend on which operator is used. See [Logic Gates](../202305122120).  
@@ -25,9 +25,9 @@ For the sake of examples, let A = 60 and B = 13.
 
 	* A >> 2 = 15, i.e. (0011 1100) >> 2 = (0000 1111) 
 
-## Vocabulary 
+## Vocabulary
 **left operand** - The variable to the left of the operator.
 **right operand** - The variable to the right of the operator.
 
 ## Tags
-#programming
+#software

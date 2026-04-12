@@ -22,4 +22,4 @@ The SDA and SCL wires work together to define the *start* and *stop* conditions,
 [2] [Wikipedia - I2C](https://en.wikipedia.org/wiki/I%C2%B2C)  
 
 ## Tags
-#electronics #embeddedSystems
+#electronics #embedded

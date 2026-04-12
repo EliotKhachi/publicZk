@@ -1,4 +1,4 @@
-# AND Logic Gate 
+# AND Logic Gate
 
 Logic operators in programming and circuitry take in inputs and have corresponding outp    uts.
 
@@ -14,4 +14,4 @@ Logic operators in programming and circuitry take in inputs and have correspondi
 [Logic Operators](../202305122125)
 
 ## Tags
-#electronics #programming
+#electronics #software

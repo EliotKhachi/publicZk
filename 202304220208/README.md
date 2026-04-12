@@ -1,4 +1,4 @@
-# HASEL Actuators 
+# HASEL Actuators
 
 ## What are they?
 Hasel actuators are devices that expand or contract to produce force. They have applications in soft robotics.  

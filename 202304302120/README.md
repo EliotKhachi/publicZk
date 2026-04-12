@@ -1,4 +1,4 @@
-# 5 Step Roadmap to Embedded Software Engineering 
+# 5 Step Roadmap to Embedded Software Engineering
 
 ## What is Embedded Software Engineering
 Embedded software engineering is the practice of developing embedded systems.   
@@ -6,7 +6,7 @@ Embedded systems have a general definition: computational units that are electri
 * The embedded system in your coffee machine receives user input (via buttons on the machine) and controls various motors and/or actuators to brew and dispense your coffee.  
 * One of the many control units in your car is an embedded systems that senses collisions and deploys your airbags.  
 
-## 1. Learn to Program in C  
+## 1. Learn to Program in C
 Why?
 1. It is the first low-level language used in computer design.  
 2. It is extremely versatile.  
@@ -28,7 +28,7 @@ Go to the next level and use a more low-level microcontroller. Less libraries, m
 [Amazon - STM32 Nucleo Board](https://www.amazon.com/NUCLEO-F401RE-Nucleo-64-Development-STM32F401RE-connectivity/dp/B07JYBPWN4?crid=2O2ZJHC8S886V&keywords=STM32+Nucleo&qid=1648470687&sprefix=stm32+nucleo,aps,202&sr=8-1&linkCode=sl1&tag=flf21-20&linkId=a21237b83b00395c41838c89cb0e2345&language=en_US&ref_=as_li_ss_tl)  
 [STM32 Nucleo Hub](../202305122222)
 
-## 5. Never Stop Learning 
+## 5. Never Stop Learning
 
 ## References
 [YouTube - Prof. Dr. Florian Leitner-Fischer - How to become an Embedded Software Engineer - 5 STEP ROADMAP to learn Embedded Software Engineering](https://www.youtube.com/watch?v=IOs6QDI-2MY) 

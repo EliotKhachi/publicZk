@@ -1,4 +1,4 @@
-# The Waterfall Model 
+# The Waterfall Model
 
 The Waterfall Model is a method of project management for developing complex systems. Pure waterfall models are project phases in a linear and sequential fashion.  
 1. Requirement Definition   
@@ -24,4 +24,4 @@ See [Agile Software Development ](../202402040346) for another project managemen
 [Wikipedia - Waterfall Model](https://en.wikipedia.org/wiki/Waterfall_model)
 
 ## Tags
-#systems 
+#systems

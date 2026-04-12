@@ -1,9 +1,9 @@
-# Atomic Habits  
+# Atomic Habits
 
 ## Key Questions
 How do we start good habits or end bad ones?
 
-## Understanding Habits  
+## Understanding Habits
 Automatic responses to our everyday stimuli is absolutely necessary to function properly. Otherwise, the most mundane tasks would take up our brain capacity. This is why all habits serve you in some way. The habits you repeat (or don't repeat) largely determine your health, wealth, and happiness (Clear).
 
 ---
@@ -13,7 +13,7 @@ Automatic responses to our everyday stimuli is absolutely necessary to function 
 3. **Response** - The action of carrying out the habit.
 4. **Reward** - The pleasure received as a result of carrying out the action.
 
-## Replacing Habits  
+## Replacing Habits
 It is very difficult to stop doing a "bad" habit without replacing it with a "good" one. I say "bad" in air-quotes because, again, all habits serve you in some way. So when choosing a replacement, ask yourself the following: How strongly do you really want to break the habit? How established is the problem habit? What are the consequences of not breaking the habit?
 
 ---

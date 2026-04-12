@@ -1,4 +1,4 @@
-# Dynamic Programming 
+# Dynamic Programming
 
 When solving a complicated algorithm-based problem or leetcode problem, these are the steps you need to follow:
 
@@ -15,4 +15,4 @@ Also, draw a visual representation of the problem such as a tree to better grasp
 3. Optimize (if necessary)  
 
 ## Tags
-#programming
+#software

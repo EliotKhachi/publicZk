@@ -12,4 +12,4 @@
 [MBSE2023 Lightning Round - Proposing an MBSE MVP for Missions Based on Risk Levels](https://youtu.be/BdnARG9ZBlg?t=4994)  
 
 ## Tags
-#aerospace #systems #MBSE
+#aerospace #MBSE

@@ -13,7 +13,7 @@
 * “What matters is not the meaning of life in general but rather the specific meaning of a person’s life at a given moment.”
 * “Live as if you were living already for the second time and as if you had acted the first time as wrongly as you are about to act now!”
 
-## Story of Death in Tehran:  
+## Story of Death in Tehran:
 A rich and mighty Persian once walked in his garden with one of his servants. The servant cried that he had just encounted Death, who had threatened him. He begged his master to give him his fastest horse so that he could make haste and flee to Tehran, which he could reach that same evening. The master consented and the servant galloped off on the horse. On returning to his house the master himself met Death, and questioned him, "Why did you terrify and threaten my servant?" "I did not threaten him; I only showed surprise in still finding him here when I planned to meet him tonight in Tehran," said Death.  
 
 ## 3 Ways to Experience Meaning:

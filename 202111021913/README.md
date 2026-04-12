@@ -1,4 +1,4 @@
-# UART  
+# UART
 
 UART stands for Universal Asynchronous Receiver/Transmitter and refers to an internal hardware module that is used for *serial communication*.
 
@@ -22,4 +22,4 @@ UART stands for Universal Asynchronous Receiver/Transmitter and refers to an int
 [Baud Rate]()
 
 ## Tags
-#electronics #embeddedSystems
+#electronics #embedded

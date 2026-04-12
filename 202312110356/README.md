@@ -26,4 +26,4 @@ will be the labor required to generate the model. and submit pull requests to me
 [4] Gentry Lee's talk captured this perfectly at 10:30 in this talk in 2016 [YouTube - So You Want To Be a Systems Engineer?](https://www.youtube.com/watch?v=E6U_Ap2bDaE)  
 
 ## Tags
-#systems #MBSE
+#MBSE

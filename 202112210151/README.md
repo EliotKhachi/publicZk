@@ -1,4 +1,4 @@
-# Setting Up WSL for Embedded Development  
+# Setting Up WSL for Embedded Development
 1. Make sure WSL kernel version is 5.10.60.1 or later and you are usiing a WSL 2 distro. Run this:
 
 	uname -a
@@ -46,4 +46,4 @@ to attach a "fake driver" to the device so windows can recognize it. gsudo is us
 9. Congratulations! You can now use stflash in WSL to flash your microcontroller.
 
 ## Tags
-#embeddedSystems
+#embedded

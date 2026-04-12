@@ -1,4 +1,4 @@
-# Hosting a Server - DNS Using Cloudflare API 
+# Hosting a Server - DNS Using Cloudflare API
 
 See --> [202206170404](../202206170404) - Configure Raspberry Pi to Host a Server <-- to get started on hosting a server  
 ---
@@ -14,4 +14,4 @@ Now the DNS Content (IP address) of the specified `record_name` in the `cloudfla
 1. [Raspberry Pi versus AWS](https://www.youtube.com/watch?v=QdHvS0D1zAI&t=69s)  
 
 ## Tags
-#networks 
+#networks

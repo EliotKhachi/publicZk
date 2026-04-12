@@ -1,4 +1,4 @@
-# What is Model-Based Systems Engineering? 
+# What is Model-Based Systems Engineering?
 
 ## What
 Model-Based Systems Engineering (MBSE) is an approach to systems engineering [[What is Systems Engineering?](../202201080221)] that is *model-based* as opposed to *document-based*.  
@@ -21,4 +21,4 @@ MBSE supports quick iteration and delivers return-on-investment when change happ
 1.[MBSE Abbreviations and Definitions](../202110051904) 
 
 ## Tags
-#systems #MBSE
+#MBSE

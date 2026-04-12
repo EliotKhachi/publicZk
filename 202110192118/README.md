@@ -1,4 +1,4 @@
-# Types of GPIO Registers And Their Bit Configurations 
+# Types of GPIO Registers And Their Bit Configurations
 
 ## Used to Configure a Pin
 1. **Mode R** - Mode Register - This register allows you to set any GPIO port and pin to a particular mode. There are 4 modes denoted by 2 bits XX (The first X is *called* bit 1 and the second X is *called* bit 0. This is to be distinguished from what *value* (0 or 1) the bits actually hold.
@@ -26,7 +26,7 @@
 ## Used to Actually Output to a Pin
 1. **BSRR** - Bit Set Reset Register - 32 total bits. 
 
-	15 14 13 12 11 10 9  8  7  6  5  4  3  2  1  0 -> pin #
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 -> pin #
 
 	0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -> reset bits
 
@@ -48,4 +48,4 @@ To turn off any given pin, set the *reset* bit to 1 for that pin.
 
 
 ## Tags
-#embeddedSystems
+#embedded

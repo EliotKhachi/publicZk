@@ -1,8 +1,8 @@
-# Flow + Resistance 
+# Flow + Resistance
 
 Electricity is the flow of electrons.  
 
-## The Water Analogy   
+## The Water Analogy
 Imagine a tank full of water with an open pipe connected to it and the water is draining out.  
 
 This is analogous to connecting a battery's terminals together with a resistor/load in between.  

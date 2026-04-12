@@ -1,4 +1,4 @@
-# Spring Web MVC 
+# Spring Web MVC
 
 *Spring Web MVC* is a web framework built on the Servlet API.  
 
@@ -9,4 +9,4 @@ A central `Servlet`, the `DispatcherServlet`, provides a shared algorithm for re
 The Spring MVC is flexible and supports diverse workflows.  
 
 ## Tags
-#spring #dev
+#spring #software

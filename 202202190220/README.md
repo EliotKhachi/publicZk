@@ -1,4 +1,4 @@
-# Rocket Engine Test Cell 
+# Rocket Engine Test Cell
 
 The Rocket Engine Test Cell building is composed of:  
 1. [\[RETF Test Cell\]](../202202190235)  
@@ -13,7 +13,7 @@ The Rocket Engine Test Cell building is composed of:
 	* bay with boiler and electrical distribution cabinet  
 
 ## References
-1. [\[NASA - RETF Buildings and Systems\]](https://www1.grc.nasa.gov/historic-facilities/rocket-engine-test-facility/retf-buildings-and-systems/#rocket-engine-test-cell-)  
+1. [\[NASA - RETF Buildings and Systems\]](https://www1.grc.nasa.gov/historic-facilities/rocket-engine-test-facility/retf-buildings-and-systems/#rocket-engine-test-cell-)
 
 ## Other Links
 1. [\[NASA Glenn Research Center's Rocket Engine Test Facility (RETF)\]](../202202190215)  

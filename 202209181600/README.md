@@ -1,8 +1,8 @@
-# Try...Catch 
+# Try...Catch
 
 The life of a progammer is full of bugs and errors. Debugging is a beast of its own ([]../[]), but errors due to wrong input or other unforeseable things can be handled by throwing an **exception**.  
 
-## Java Try and Catch 
+## Java Try and Catch
 The `try` statement allows you to define a block of code to be tested for errors while it is being executed.
 
 The `catch` statement allows you to define a block of code to be executed, if an error occurs in the try block.
@@ -33,4 +33,4 @@ finally {
 [W3Schools Java Exceptions](https://www.w3schools.com/java/java_try_catch.asp)
 
 ## Tags
-#java #software #programming
+#java #software

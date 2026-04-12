@@ -1,4 +1,4 @@
-# Interfaces - Java 
+# Interfaces - Java
 ## What is an Interface?
 Interfaces define a contract without implementation.  
 ```java
@@ -20,11 +20,11 @@ An interface can be thought of as a rigid outline, or, a *contract*, for a type 
 	}
 ```
 ## When To Use An Interface
-**Rule #1**  
+**Rule #1**
 * Use an interface when you can solve a problem in two or more ways  
-**Rule #2**  
+**Rule #2**
 * Use an interface even when there's one solution to a problem but in the future they may arise different implementations.  
-**Rule #3**  
+**Rule #3**
 * Use an interface to control testing
 
 ## Examples & Questions
@@ -47,4 +47,4 @@ An interface can be thought of as a rigid outline, or, a *contract*, for a type 
 	4. interact();
 
 ## Tags
-#programming #java
+#software #java

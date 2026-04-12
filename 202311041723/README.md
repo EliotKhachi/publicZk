@@ -6,4 +6,4 @@ A hypervisor is a piece of software that is used to create and manage [Virtual M
 * Hypervisors can only create virtual machines of the same OS as the host OS of the physical computer it's running on.  
 
 ## Tags
-#computers
+#technology

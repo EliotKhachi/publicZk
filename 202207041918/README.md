@@ -1,4 +1,4 @@
-# List Running Processes in Linux 
+# List Running Processes in Linux
 
 To list currently running processes, use the `ps`, `top`, `htop`, and `atop`, Linux commands.  
 ---
@@ -9,7 +9,7 @@ Common Options:
 * T - List all processes associated with this terminal  
 * x - Lists all processes including those without a TTY  
 Outputs:
-*PID* - Process ID #  
+*PID* - Process ID #
 *TTY* - The type of terminal the process is running on  
 *TIME* - Total amount of CPU usage  
 *CMD* - Name of the command that started the process  

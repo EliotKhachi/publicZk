@@ -9,4 +9,4 @@ You treat yourself how you treat others. How you treat yourself is a matter of h
 You surround yourself with people that treat you how you want to be treated. People have different values, beliefs, and personalities; so, not everyone will treat you in such a way. Therefore, you ought to determine what treatments you can tolerate and what you cannot. [Picking Your Crowd](../202307310234)  
 
 ## Tags
-#journal #growth 
+#journal #growth

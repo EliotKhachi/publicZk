@@ -1,11 +1,11 @@
-# Linux Kernal Interals & Debugging  
+# Linux Kernal Interals & Debugging
 
 The Linux terminal uses kernel modules for device drivers, network protocols, file system management, and for many, many more other uses. Modules are basically pieces of code that the kernel runs when needed or *commanded* (hence commands in the terminal), and don't run when unneeded. Many modules when ran display text to the terminal.
 ---
 **Typical Example of Code for a Module**
 
-	#include <linux/module.h>
-	#include <linux/init/h>
+#include <linux/module.h>
+#include <linux/init/h>
 
 	static int __init my_init(void)
 	{

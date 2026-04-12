@@ -2,7 +2,7 @@
 
 Spring Boot Security is how a Java Spring Boot project handles the security of the application.  
 
-## Architecture  
+## Architecture
 ![image](https://www.eliotkhachi.dev/resources/zettel-images/Sun_Mar_17_08:03:39_PM_PDT_2024.png)
 
 ## Deep Dive

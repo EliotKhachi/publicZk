@@ -1,4 +1,4 @@
-# The Three Testing A's 
+# The Three Testing A's
 
 The three testing A's are:
 
@@ -35,4 +35,4 @@ void add() throws DataAccessException {
 **Assert:** The newly added memory instance is verified to have the correct fields, including `Id`, `From`, and `Content`. The `size()` of the memories repository is also verified to have been incremented.
 
 ## Tags
-#java #software 
+#java #software

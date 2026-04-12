@@ -8,4 +8,4 @@ While [Software Architecture Layers ](../202209172045), are merely a way of orga
 [Should all apps be n-tier?](https://web.archive.org/web/20200802111420/http://www.lhotka.net:80/weblog/ShouldAllAppsBeNtier.aspx)
 
 ## Tags
-#dev
+#software

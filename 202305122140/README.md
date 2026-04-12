@@ -1,4 +1,4 @@
-# XOR Logic Gate 
+# XOR Logic Gate
 
 Logic operators in programming and circuitry take in inputs and have corresponding outputs.
 
@@ -14,4 +14,4 @@ Logic operators in programming and circuitry take in inputs and have correspondi
 [Logic Operators](../202305122125)
 
 ## Tags
-#electronics #programming
+#electronics #software

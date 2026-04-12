@@ -1,4 +1,4 @@
-# S3 Bucket Permissions 
+# S3 Bucket Permissions
 
 Permissions to read, update, and delete objects in an [Amazon S3](../202309110516) bucket can be set in a few ways:
 

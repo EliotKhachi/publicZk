@@ -1,4 +1,4 @@
-# Enabling Wake-On-LAN 
+# Enabling Wake-On-LAN
 
 ## What is it
 Wake-On-LAN (WoL) enables you to turn on your computer remotely whether it's hibernating, sleeping, or completely turned off by sending *magic packets* from another computer to the target machine's network device (Network Interface Controller [NIC]). 
@@ -14,11 +14,11 @@ Next, boot into the BIOS of the computer that you'd like to WoL, and start searc
 3. **Enable WoL in the NIC.**
 **For Ubuntu (Linux)**
 ```
-	sudo apt install hardinfo # install a tool that gives you info about your hardware  
-	sudo apt-get install ethtool # install a tool that that gives you info about your network interfaces  
-	hardinfo # run in a separate terminal instance or in a ALT-F2 command prompt. Navigate to Network Interfaces.
-	sudo ethtool <interface_name> # print information about your network interfaces; you get these names from the hardinfo GUI. Look for the line "Supports Wake-on: ____". As long as one of the letters listed after the ':' is 'g', you can use magic packets for WoL.
-	sudo ethtool -s <interface_name> wol g # enable WoL  
+sudo apt install hardinfo # install a tool that gives you info about your hardware
+sudo apt-get install ethtool # install a tool that that gives you info about your network interfaces
+hardinfo # run in a separate terminal instance or in a ALT-F2 command prompt. Navigate to Network Interfaces.
+sudo ethtool <interface_name> # print information about your network interfaces; you get these names from the hardinfo GUI. Look for the line "Supports Wake-on: ____". As long as one of the letters listed after the ':' is 'g', you can use magic packets for WoL.
+sudo ethtool -s <interface_name> wol g # enable WoL
 ```
 
 ## How to Send WoL Magic Packets

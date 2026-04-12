@@ -1,4 +1,4 @@
-# The Purpose & Benefits of a Technical Data Pack (TDP) 
+# The Purpose & Benefits of a Technical Data Pack (TDP)
 
 **Purpose:** To effectively communicate the annotated product model to all levels of the supply chain.
 
@@ -11,4 +11,4 @@
 Frechette, Huange, and Carlisle. "Model Based Enterprise Technical Data Package Requirements". NIST. 2009.
 
 ## Tags
-#systems #MBSE
+#MBSE

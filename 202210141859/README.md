@@ -1,4 +1,4 @@
-# Type Inference 
+# Type Inference
 
 Type inference refers to the automatic detection of the *type* of an expression in a formal language.  
 
@@ -15,7 +15,7 @@ Converted to
 ```java
 add_one(x) {
     var result;  /* inferred-type variable result */
-    var result2; /* inferred-type variable result #2 */
+var result2; /* inferred-type variable result #2 */
 
     result = x + 1;
     result2 = x + 1.0;  /* this line won't work (in the C language) */
@@ -43,4 +43,4 @@ For these reasons, an error message may be preferred to type-inference algorithm
 [Wikipedia - Type Inference](https://en.wikipedia.org/wiki/Type_inference)  
 
 ## Tags
-#programming
+#software

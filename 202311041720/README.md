@@ -8,4 +8,4 @@ Virtual machines use a [Hypervisor](../202311041723) to compartmentalize a physi
 * Each virtual machine needs a full blown OS, which is slow to boot-up and resource intensive. For a lightweight alternative, see [Docker Containers](../202311041731).  
 
 ## Tags
-#computers
+#technology

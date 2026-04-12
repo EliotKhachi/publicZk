@@ -1,4 +1,4 @@
-# Manufacturing Process 
+# Manufacturing Process
 
 ## What
 A manufacturing process refers to a series of steps for making something, like a pencil. There are manufacturing processes for making chemicals, solid materials, and assemblies containing multiple different materials.  

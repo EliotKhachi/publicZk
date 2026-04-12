@@ -1,4 +1,4 @@
-# How Web Servers Work - Deep Dive 
+# How Web Servers Work - Deep Dive
 
 ## Overview
 To fetch a webpage, your browser sends a request to the web server, which searches for the requested file in its own storage space. Upon finding the file, the server reads it, processes it as-needed, and sends it to the browser. Let's look at those steps in more detail.  
@@ -16,4 +16,4 @@ In reality, the client probably isn't speaking directly to the server. Instead, 
 [What is a Web Server - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)  
 
 ## Tags
-#dev
+#software

@@ -1,4 +1,4 @@
-# What is HTTP? 
+# What is HTTP?
 
 *HTTP* stands for *HyperText Transfer Protocol* and is the underlying network protocol that enables transfer of hypermedia documents on the web, typically between a browser (client) and a server. Clients make the HTTP requests to the server, and the server *must* answer with a response.  
 
@@ -20,4 +20,4 @@ The *http* within a *URL* is called a "scheme". *http* indicates that a resource
 [HTTP - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Glossary/HTTP)  
 
 ## Tags
-#dev #networks
+#software #networks

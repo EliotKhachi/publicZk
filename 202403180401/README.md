@@ -2,7 +2,7 @@
 
 A many-to-many relationship in an SQL-based database is used to map many objects of one type, to many objects of another type. 
 
-## Example 
+## Example
 Let's say you are configuring users and roles for the security of an application. Usually, a user can have many roles, and a role can be attributed to many users. To create this relationship, you will need, 3 tables:  
 
 ```sql

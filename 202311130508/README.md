@@ -25,7 +25,7 @@ s consists of only uppercase English letters.
 ## Solution
 Let's call the operation of choosing any character and changing it to any other uppercase English character the "character match operation", or CMO for short. 
 
-Imagine a sliding window traversing over the string `s`. The window starts at index 0 and keeps expanding to the right while the number of CMOs required does not exceed the allowable `k`. Otherwise, if the # of required CMOs does exceed `k`, then contract the window from the left. 
+Imagine a sliding window traversing over the string `s`. The window starts at index 0 and keeps expanding to the right while the number of CMOs required does not exceed the allowable `k`. Otherwise, if the # of required CMOs does exceed `k`, then contract the window from the left.
 
 **Edge Cases:**
 * if `k` is the same as the length of the string `s`, then simply return `k`.  

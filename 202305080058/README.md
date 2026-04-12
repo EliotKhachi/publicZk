@@ -1,4 +1,4 @@
-# Using a Multimeter 
+# Using a Multimeter
 
 ## Measuring Voltage
 To measure voltage, the multimeter's probes must be placed in parallel with the circuit.  

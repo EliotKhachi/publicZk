@@ -58,9 +58,9 @@ class Solution {
             }
             string key = "";
             for (int n : count) {
-                key+=to_string(n)+'#';
+key+=to_string(n)+'#';
             }
-            return key; // Returns a string of numbers separated by #s. Each number between two #s represents the count of the occurrence of a lowercase character, i.e. 0#0#0#4#0#0#6#0#0#0#0#0... represents a combination of 'ddddgggggg'
+return key; // Returns a string of numbers separated by #s. Each number between two #s represents the count of the occurrence of a lowercase character, i.e. 0#0#0#4#0#0#6#0#0#0#0#0... represents a combination of 'ddddgggggg'
         }
 };
 ```

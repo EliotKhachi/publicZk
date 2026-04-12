@@ -1,4 +1,4 @@
-# Model View Controller 
+# Model View Controller
 
 
 The **Model-view-controller (MVC)** is a software architectural pattern commonly used for developing web, desktop, mobile, and console-based applications.  
@@ -18,4 +18,4 @@ The **Model-view-controller (MVC)** is a software architectural pattern commonly
 The *service* [202210100444](../202210100444) handles the model. The controller executes methods in the view and service to coordinate between them. The view doesn't know about the controller or the service. All components know about the model.  
 
 ## Tags
-#dev #software
+#software

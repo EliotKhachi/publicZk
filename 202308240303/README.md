@@ -7,4 +7,4 @@ When interacting with someone who assumes bad intentions, it's up to you whether
 To give them credit, one should [Be Wary Of The Stranger](../202308240321) to some degree.  
 
 ## Tags
-#growth 
+#growth

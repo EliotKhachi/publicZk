@@ -5,8 +5,8 @@ First, what is [Standard Error](../202305212230)?
 Another place we can put the error of a command is in a file. Similar to [Redirecting Standard Output](../202305212218), we use the `2>` operator to *redirect* standard output into a file, overwriting its contents, and `2>>` to append to the file.  
 ## Example
 ```bash
-$ wc -s 2> errorfile  # redirect error to a file
-$ cat errorfile  # print the file's contents
+$ wc -s 2> errorfile # redirect error to a file
+$ cat errorfile # print the file's contents
 wc: invalid option -- 's'
 Try 'wc --help' for more information.
 ```

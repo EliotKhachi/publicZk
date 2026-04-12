@@ -1,4 +1,4 @@
-# Rule #1: Work Deeply - A General Guide 
+# Rule #1: Work Deeply - A General Guide
 
 ## Definitions
 * Deep Work - Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limi. These efforts create new value, improve your skill, and are hard to replicate.
@@ -31,7 +31,7 @@ Idleness is not just a vacation, it's necessary because...
 3. The work that evening downtime replaces is usually not that important
 	* Experts can squeeze in 4 hours of deep work daily, while novices only have 1 hour
 ---
-## Shutdown Ritual 
+## Shutdown Ritual
 A shutdown ritual fulfills the responsibility of keeping track of work not yet completed & notifications (email & text) not yet seen. These concerns are addressed once or twice everyday instead of constantly distracting the mind. For example...
 1. Check emails
 2. Review every task. Update as needed, add subtasks as needed.

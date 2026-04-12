@@ -1,8 +1,8 @@
-# Introduction to the Zettelkasten Method 
+# Introduction to the Zettelkasten Method
 
 The Zettelkasten Method is a personal tool for thinking and writing, invented by Niklas Luhmann, a German sociologist.
 
-## What's the problem? 
+## What's the problem?
 Standard note-taking makes it difficult to revisit, interact with, and add onto your notes.   
 
 I'm sure we've all been here before: over time, your collection of notes becomes a bloated mess of notebooks and folders. It's hard to find what you're looking for.  

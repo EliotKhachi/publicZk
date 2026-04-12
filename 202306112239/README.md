@@ -1,4 +1,4 @@
-# MOSFET Transistor 
+# MOSFET Transistor
 
 A MOSFET transistor has several unique properties:  
 

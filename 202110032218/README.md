@@ -1,4 +1,4 @@
-# The Vee Model 
+# The Vee Model
 
 The Vee Model is a model for planning out a system's lifecycle as it progress from the customer's need to the concept, development, production, use, maintenance, and disposal. It is a [waterfall approach](../202402040430) to project management.   
 

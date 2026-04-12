@@ -1,4 +1,4 @@
-# HTML Basics 
+# HTML Basics
 
 HTML stands for **HyperText Markup Language**. It allows web developers to create and structure sections, paragraphs, and links on a website using *elements*, *tags*, and *attributes*.  
 
@@ -14,4 +14,4 @@ HTML is *NOT* a programming language since it doesn't introduce any dynamic func
 [What is HTML?](200~https://www.hostinger.com/tutorials/what-is-html)
 
 ## Tags
-#dev #programming
+#software

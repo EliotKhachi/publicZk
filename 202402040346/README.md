@@ -1,4 +1,4 @@
-# Agile Software Development 
+# Agile Software Development
 
 Agile software development is a project management approach that emphasizes small, fast product improvements and ultimately satisfying the customer rather than strictly following a plan or meeting requirements.  
 
