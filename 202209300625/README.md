@@ -14,4 +14,4 @@ Alice then has an authentication of Bob, and Bob has authentication of Alice. Ta
 ## References
 [Wiki - Salted Challenge Response Authentication Mechanism](https://en.wikipedia.org/wiki/Salted_Challenge_Response_Authentication_Mechanism)  
 ## Tags
-#security #cryptography
+#security

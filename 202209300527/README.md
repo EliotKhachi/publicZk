@@ -16,4 +16,4 @@ SCRAM is a secure password authentication protocol that can authenticate a user 
 
 [Wikipedia - Salted Challenge Response Authentication Mechanism](https://en.wikipedia.org/wiki/Salted_Challenge_Response_Authentication_Mechanism)  
 ## Tags
-#cryptography #security
+#security

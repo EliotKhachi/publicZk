@@ -17,4 +17,4 @@
 `sudo zpool export backup-pool-new` 
 
 ## Tags
-#os #drives
+#os

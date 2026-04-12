@@ -5,4 +5,4 @@
 [3] [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html)  
 
 ## Tags
-#software #bash
+#os #software #linux

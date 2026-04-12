@@ -15,4 +15,4 @@ At this point, `gpg` should recognize the key (whether it was generated or impor
 [Go Linux Cloud - https://www.golinuxcloud.com/tutorial-encrypt-decrypt-sign-file-gpg-key-linux/](https://www.golinuxcloud.com/tutorial-encrypt-decrypt-sign-file-gpg-key-linux/)
 
 ## Tags
-#cryptography
+#security
