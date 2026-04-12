@@ -8,4 +8,4 @@
 ![image](https://www.eliotkhachi.dev/resources/zettel-images/Sun_Dec_10_11:47:55_AM_PST_2023.png) 
 
 ## Tags
-#MBSE
+#systems

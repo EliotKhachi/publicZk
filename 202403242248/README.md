@@ -57,4 +57,4 @@ Other Model Artifacts|||||||c27|
 [Modeling to Support DoD Acquisition Lifecycle Events](https://apps.dtic.mil/sti/pdfs/AD1168439.pdf)  
 
 ## Tags
-#MBSE #research
+#systems #research

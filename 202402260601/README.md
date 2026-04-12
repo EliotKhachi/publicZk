@@ -8,4 +8,4 @@ Each hardware iteration can cost thousands or millions of dollars. For this reas
 For this reason, hardware development is typically done with a more "waterfall" project management approach. Since more is at stake if a mistake is made (or a requirement changes), more resources are devoted to communicating with the customer, budget, schedule, design, analysis, test, risk identification/mitigation, etc.  
 
 ## Tags
-#MBSE
+#systems
