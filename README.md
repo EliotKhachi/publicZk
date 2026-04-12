@@ -1,17 +1,19 @@
 # My Zettelkasten
 
-Welcome to Eliot's Zettelkasten: A Garden of Ideas
+In essence, a Zettelkasten is a living and breathing network of notes.
 
-In the tranquil expanse of my digital garden, you'll find the blossoming fruits of my intellectual journeys, carefully nurtured and tended to over time. This Zettelkasten is not just a collection of notes; it's a living testament to the evolution of my thoughts, a reflection of my curiosity, and a testament to the relentless pursuit of knowledge and wisdom.
+The problem with traditional note-taking is that it leads to fragmented and cluttered information. You box in ideas (folders) and eventually acquire more boxes than you can handle! The reality is that concepts aren't easily categorized in just one way and don't easily overlap. In fact, our brains don't comprehend information that way; rather, our brains learn concepts by forming meaningful connections. Niklas Luhmann believed that to truly understand complex subjects, you needed a system that encouraged an interplay of ideas-- Introducing, the Zettelkasten Method:
 
-Just as a garden flourishes with diverse species, my Zettelkasten is a tapestry of ideas spanning across various domains - from philosophy and science to creativity and personal growth. Each note represents a seed of insight, carefully sown and cultivated to foster growth and deeper understanding.
+Each note can be linked to others, allowing for the emergence of unexpected connections, patterns, and insights. This makes it invaluable for research, writing, and personal growth. You can take notes however you want, but ideally, each note is atomic-- meaning there is one idea being expressed per note; the note can't be broken down any further, like an atom. This makes each note complete in and of itself, and easy to understand without context. Such notes then serve as the foundation for complex ideas. The beauty is that this system of note-taking grows organically because:
 
-As you wander through these interconnected pathways, you'll notice the threads that link disparate ideas, forming a web of understanding that transcends the boundaries of individual thoughts. Feel free to pluck a concept or two, nurturing them further in your own mental garden, and perhaps even cross-pollinating them with your unique perspectives.
+- Each note exists on its own without a need for an over-arching context.
+- Notes that are linked often will continue to come up. Those are worth remembering.
+- Notes that are linked infrequently are lost in the Zettelkasten. Those are worth forgetting.
 
-Remember, my Zettelkasten is a work in progress, ever-evolving, just like the thoughts it contains. So, as you explore, please share your thoughts, engage in discourse, and let's cultivate a community of curious minds, collectively tending to the garden of ideas that lies within us all.
+If you've never heard of a Zettelkasten before, I hope you now understand its power and are amped to try it. Check out [Obsidian](https://obsidian.md).
 
-Thank you for joining me on this intellectual journey. Together, we'll explore the vast landscape of human knowledge and understanding, one note at a time.
+Feel free to traverse my second brain up above by searching a tag :).
 
-With curiosity and gratitude,
+With curiosity,
 
 Eliot
