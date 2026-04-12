@@ -16,4 +16,4 @@ Using electronic cash and online payments as an example, what problems does it s
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto  
 
 ## Tags
-#blockchain
+#finance

@@ -21,4 +21,4 @@
 [YouTube - How to become a highly paid blockchain developer in 2024 (step-by-step) ](https://www.youtube.com/watch?v=RncXNlEsv5A)  
 
 ## Tags
-#blockchain
+#finance

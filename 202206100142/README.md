@@ -35,4 +35,4 @@ Before explaining the *.gitignore* file, it's imperative that you understand git
 [Atlassian .gitignore Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)  
 
 ## Tags
-#git #software
+#software

@@ -10,4 +10,4 @@
 [AWS Security Blog - Use IAM roles to connect Github Actions to actions in AWS](https://aws.amazon.com/blogs/security/use-iam-roles-to-connect-github-actions-to-actions-in-aws/)
 
 ## Tags
-#git #aws
+#software #aws
