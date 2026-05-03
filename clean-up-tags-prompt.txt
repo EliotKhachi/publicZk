@@ -1,0 +1,46 @@
+Review my zettelkasten tags and clean up low-value, redundant, or overly narrow tags using a practical taxonomy approach.
+
+Use this process:
+
+1. Start from the actual notes, not just the topic list.
+Count how many notes use each tag and inspect representative tagged notes before deciding to merge anything.
+
+2. Use note-count and note-content together.
+Tags with very few notes are candidates for consolidation, but low count alone is not enough reason to merge a tag.
+
+3. Prefer tags that improve retrieval.
+Keep a tag when it represents a real search dimension such as a domain, technology, concept family, or note type that I am likely to search directly.
+
+4. Merge tags that add little distinction.
+If a tag is just a narrower, weaker, or redundant version of another useful tag, merge it into the broader or clearer tag.
+
+5. Prefer canonical names.
+When multiple tags overlap, choose one canonical destination tag and normalize the others into it.
+Examples:
+- merge a niche tool-specific tag into a broader platform tag
+- merge a sparse subtype tag into a stronger umbrella tag
+- merge synonyms into the clearest name
+
+6. Avoid over-collapsing strong categories.
+Do not merge a tag just because it has a small number of notes if it is still a precise, high-value category.
+
+7. Preserve useful hierarchy when needed.
+If a note benefits from both a broad and narrow tag, it is acceptable to keep both rather than forcing everything into one bucket.
+
+8. Ignore generated artifacts unless explicitly asked.
+Only update actual note sources. Do not rely on registries, indexes, or generated HTML as the source of truth.
+
+9. After proposing changes, separate the result into:
+- tags worth keeping as-is
+- tags worth merging now
+- canonical destination tag for each proposed merge
+- tags that need manual review because the meaning is ambiguous
+
+10. If I ask you to apply the cleanup:
+- edit the note sources directly
+- dedupe tags after replacement
+- verify the resulting topic list
+- confirm the removed tags are gone
+- commit only the intended tag changes
+
+Optimize for a tag system that is simpler, more consistent, and better for search, without flattening away distinctions that still matter.
